@@ -1,0 +1,70 @@
+{
+  "name": "micro-yff-programomrader",
+  "description": "Main logs",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "author": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.7.0"
+  },
+  "scripts": {
+    "test": "standard && nsp check && ava",
+    "test-offline": "standard && ava",
+    "coverage": "nyc ava",
+    "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
+    "standard-fix": "standard --fix",
+    "start": "micro",
+    "dev": "micro-dev",
+    "update": "node utils/yff-generate-programomraader.js",
+    "deploy": "npm test && now --npm && now alias"
+  },
+  "keywords": [
+    "microservice",
+    "micro",
+    "yff",
+    "minelev",
+    "louie",
+    "Telemark fylkeskommune"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telemark/micro-yff-programomrader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/telemark/micro-yff-programomrader/issues"
+  },
+  "homepage": "https://github.com/telemark/micro-yff-programomrader",
+  "now": {
+    "alias": [
+      "yff.minelev.no"
+    ],
+    "type": "npm",
+    "dotenv": "production.env"
+  },
+  "devDependencies": {
+    "ava": "0.22.0",
+    "axios": "0.16.2",
+    "cheerio": "1.0.0-rc.2",
+    "coveralls": "2.13.2",
+    "micro-dev": "1.2.3",
+    "nsp": "2.8.1",
+    "nyc": "11.2.1",
+    "standard": "10.0.3",
+    "test-listen": "1.0.2"
+  },
+  "dependencies": {
+    "cors": "2.8.4",
+    "finalhandler": "1.1.0",
+    "markdown-it": "8.4.0",
+    "micro": "9.0.0",
+    "router": "1.3.2",
+    "winston": "2.3.1",
+    "winston-papertrail": "1.0.5"
+  }
+}
