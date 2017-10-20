@@ -19,7 +19,7 @@ $ npm run update
 Get a list of all utdanningsprogrammer for yff
 
 ```bash
-$ curl -v https://yff.minelev.no/utdanningsprogrammer
+$ curl -v https://yff.service.minelev.no/utdanningsprogrammer
 ```
 
 ### ```GET /yff/utdanningsprogrammer/:id```
@@ -27,12 +27,12 @@ $ curl -v https://yff.minelev.no/utdanningsprogrammer
 Get a spesific utdanningsprogram
 
 ```bash
-$ curl -v https://yff.minelev.no/utdanningsprogrammer/ba
+$ curl -v https://yff.service.minelev.no/utdanningsprogrammer/ba
 ```
 
 ## Deployment - ZEIT/Now
 
-Change content of [production.env](production.env) and [rules.json](rules.json) to match your environment.
+Change content of [production.env](production.env) to match your environment.
 
 Change content of now:alias in [package.json](package.json) to match your domains.
 
