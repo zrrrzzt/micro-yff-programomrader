@@ -17,8 +17,8 @@ router.use(cors())
 
 // ROUTES
 router.get('/', handlers.frontpage)
-router.get('/yff/utdanningsprogrammer', handleUtdanningsprogrammer.utdanningsprogrammer)
-router.get('/yff/utdanningsprogrammer/:id', handleUtdanningsprogrammer.utdanningsprogram)
+router.get('/utdanningsprogrammer', handleUtdanningsprogrammer.utdanningsprogrammer)
+router.get('/utdanningsprogrammer/:id', handleUtdanningsprogrammer.utdanningsprogram)
 
 module.exports = (request, response) => {
   router(request, response, finalhandler(request, response))

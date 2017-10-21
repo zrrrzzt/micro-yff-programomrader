@@ -1,7 +1,7 @@
 {
   "name": "micro-yff-programomrader",
-  "description": "Main logs",
-  "version": "1.0.1",
+  "description": "microservice for yff programomrader",
+  "version": "2.0.0",
   "license": "MIT",
   "private": true,
   "author": {
