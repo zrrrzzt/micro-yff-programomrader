@@ -35,7 +35,7 @@ $ curl -v https://yff.service.minelev.no/utdanningsprogrammer
 Get a spesific utdanningsprogram
 
 ```bash
-$ curl -v https://yff.service.minelev.no/utdanningsprogrammer/ba
+$ curl -v https://yff.service.minelev.no/utdanningsprogrammer/ba-vg3
 ```
 
 ## Deployment - ZEIT/Now
