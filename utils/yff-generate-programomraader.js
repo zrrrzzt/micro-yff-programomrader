@@ -39,14 +39,18 @@ async function parsePage (options) {
   const $ = cheerio.load(data)
   const omrader = $(options.selector)
   let omradeIds = []
+  let omradeContent = []
 
   omrader.each((i, element) => {
     const programId = element.attribs['data-programid']
     const programUrl = `${baseUrl}/${programId}`
-    omradeIds.push({programId: programId, programUrl: programUrl})
+    if (!omradeIds.includes(programId)) {
+      omradeIds.push(programId)
+      omradeContent.push({programId: programId, programUrl: programUrl})
+    }
   })
 
-  const jobs = omradeIds.map(getData)
+  const jobs = omradeContent.map(getData)
 
   const results = await Promise.all(jobs)
 
