@@ -7,7 +7,13 @@ const getLareplan = require('./yff-get-lareplan')
 const getKompetansemal = require('./yff-get-kompetansemal')
 const baseUrl = 'https://www.udir.no/kl06'
 const basePath = 'data'
-const omrader = require('../data/utdanningsprogrammer.json')
+const programmer = require('../data/utdanningsprogrammer.json')
+const query = process.argv[2]
+const selectors = {
+  'vg3': '.fromThirdYear',
+  'vg2': '.programArea',
+  'vg1': '.programTitle'
+}
 
 async function getPage (url) {
   const { data } = await axios.get(url)
@@ -28,10 +34,10 @@ async function getData (options) {
   }
 }
 
-async function parsePage (url) {
-  const data = await getPage(url)
+async function parsePage (options) {
+  const data = await getPage(options.url)
   const $ = cheerio.load(data)
-  const omrader = $('.fromThirdYear')
+  const omrader = $(options.selector)
   let omradeIds = []
 
   omrader.each((i, element) => {
@@ -48,17 +54,19 @@ async function parsePage (url) {
 }
 
 async function generateOmrade (options) {
-  const data = await parsePage(options.url)
-  const fileName = `${basePath}/${options.id.toLocaleLowerCase()}.json`
+  const selector = selectors[options.level]
+  const data = await parsePage({url: options.url, selector: selector})
+  const fileName = `${basePath}/${options.id.toLocaleLowerCase()}-${options.level}.json`
   fs.writeFileSync(fileName, data, 'utf-8')
   console.log(`written ${fileName}`)
 }
 
-async function generateOmrader () {
+async function generateOmrader (level) {
+  const omrader = programmer.map(line => Object.assign(line, {level: level}))
   const jobs = omrader.map(generateOmrade)
   await Promise.all(jobs)
   console.log('finished')
   process.exit(0)
 }
 
-generateOmrader()
+generateOmrader(query)

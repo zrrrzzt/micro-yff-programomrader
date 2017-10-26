@@ -1,0 +1,4286 @@
+[
+  {
+    "id": "BAANL2----",
+    "name": "Anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BAANL2----",
+    "lareplanUrl": "https://data.udir.no/kl06/ANL2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K853",
+        "uri": "http://psi.udir.no/kl06/K853",
+        "url-data": "http://data.udir.no/kl06/K853",
+        "tittel": "utføre arbeid i henhold til lover, forskrifter og preaksepterte løsninger"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K832",
+        "uri": "http://psi.udir.no/kl06/K832",
+        "url-data": "http://data.udir.no/kl06/K832",
+        "tittel": "planlegge, utføre, dokumentere og vurdere eget arbeid"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K834",
+        "uri": "http://psi.udir.no/kl06/K834",
+        "url-data": "http://data.udir.no/kl06/K834",
+        "tittel": "bruke gravemaskin og minst én annen anleggsmaskin til graving og flytting av løsmasser"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K835",
+        "uri": "http://psi.udir.no/kl06/K835",
+        "url-data": "http://data.udir.no/kl06/K835",
+        "tittel": "utføre daglig kontroll og periodisk vedlikehold av maskiner og utstyr i henhold til service- og brukermanualer"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K836",
+        "uri": "http://psi.udir.no/kl06/K836",
+        "url-data": "http://data.udir.no/kl06/K836",
+        "tittel": "velge ut og bruke riktig verktøy, utstyr og maskiner"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K837",
+        "uri": "http://psi.udir.no/kl06/K837",
+        "url-data": "http://data.udir.no/kl06/K837",
+        "tittel": "beregne fall og vinkler og foreta nødvendige masseberegninger"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K838",
+        "uri": "http://psi.udir.no/kl06/K838",
+        "url-data": "http://data.udir.no/kl06/K838",
+        "tittel": "utføre grunnleggende veg- og baneoppbygging etter tegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K839",
+        "uri": "http://psi.udir.no/kl06/K839",
+        "url-data": "http://data.udir.no/kl06/K839",
+        "tittel": "utføre grunnleggende arbeider med grøfter og ledningsanlegg etter tegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K840",
+        "uri": "http://psi.udir.no/kl06/K840",
+        "url-data": "http://data.udir.no/kl06/K840",
+        "tittel": "utarbeide sprengnings- og salveplan"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K841",
+        "uri": "http://psi.udir.no/kl06/K841",
+        "url-data": "http://data.udir.no/kl06/K841",
+        "tittel": "utføre borearbeid og sprengning etter utarbeidet plan og i samsvar med gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K842",
+        "uri": "http://psi.udir.no/kl06/K842",
+        "url-data": "http://data.udir.no/kl06/K842",
+        "tittel": "utføre enkle grunnundersøkelser og gjøre rede for egenskapene til forskjellige jordtyper og bergarter"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K843",
+        "uri": "http://psi.udir.no/kl06/K843",
+        "url-data": "http://data.udir.no/kl06/K843",
+        "tittel": "bruke verne- og sikkerhetsutstyr"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K844",
+        "uri": "http://psi.udir.no/kl06/K844",
+        "url-data": "http://data.udir.no/kl06/K844",
+        "tittel": "følge krav til helse, miljø og sikkerhet og kvalitetssikre eget arbeid"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K854",
+        "uri": "http://psi.udir.no/kl06/K854",
+        "url-data": "http://data.udir.no/kl06/K854",
+        "tittel": "håndtere avfall og materialer i samsvar med krav til sikkerhet, miljø og ressursbruk"
+      }
+    ]
+  },
+  {
+    "id": "BAANL2----",
+    "name": "Anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BAANL2----",
+    "lareplanUrl": "https://data.udir.no/kl06/ANL2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K853",
+        "uri": "http://psi.udir.no/kl06/K853",
+        "url-data": "http://data.udir.no/kl06/K853",
+        "tittel": "utføre arbeid i henhold til lover, forskrifter og preaksepterte løsninger"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K832",
+        "uri": "http://psi.udir.no/kl06/K832",
+        "url-data": "http://data.udir.no/kl06/K832",
+        "tittel": "planlegge, utføre, dokumentere og vurdere eget arbeid"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K834",
+        "uri": "http://psi.udir.no/kl06/K834",
+        "url-data": "http://data.udir.no/kl06/K834",
+        "tittel": "bruke gravemaskin og minst én annen anleggsmaskin til graving og flytting av løsmasser"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K835",
+        "uri": "http://psi.udir.no/kl06/K835",
+        "url-data": "http://data.udir.no/kl06/K835",
+        "tittel": "utføre daglig kontroll og periodisk vedlikehold av maskiner og utstyr i henhold til service- og brukermanualer"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K836",
+        "uri": "http://psi.udir.no/kl06/K836",
+        "url-data": "http://data.udir.no/kl06/K836",
+        "tittel": "velge ut og bruke riktig verktøy, utstyr og maskiner"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K837",
+        "uri": "http://psi.udir.no/kl06/K837",
+        "url-data": "http://data.udir.no/kl06/K837",
+        "tittel": "beregne fall og vinkler og foreta nødvendige masseberegninger"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K838",
+        "uri": "http://psi.udir.no/kl06/K838",
+        "url-data": "http://data.udir.no/kl06/K838",
+        "tittel": "utføre grunnleggende veg- og baneoppbygging etter tegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K839",
+        "uri": "http://psi.udir.no/kl06/K839",
+        "url-data": "http://data.udir.no/kl06/K839",
+        "tittel": "utføre grunnleggende arbeider med grøfter og ledningsanlegg etter tegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K840",
+        "uri": "http://psi.udir.no/kl06/K840",
+        "url-data": "http://data.udir.no/kl06/K840",
+        "tittel": "utarbeide sprengnings- og salveplan"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K841",
+        "uri": "http://psi.udir.no/kl06/K841",
+        "url-data": "http://data.udir.no/kl06/K841",
+        "tittel": "utføre borearbeid og sprengning etter utarbeidet plan og i samsvar med gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K842",
+        "uri": "http://psi.udir.no/kl06/K842",
+        "url-data": "http://data.udir.no/kl06/K842",
+        "tittel": "utføre enkle grunnundersøkelser og gjøre rede for egenskapene til forskjellige jordtyper og bergarter"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K843",
+        "uri": "http://psi.udir.no/kl06/K843",
+        "url-data": "http://data.udir.no/kl06/K843",
+        "tittel": "bruke verne- og sikkerhetsutstyr"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K844",
+        "uri": "http://psi.udir.no/kl06/K844",
+        "url-data": "http://data.udir.no/kl06/K844",
+        "tittel": "følge krav til helse, miljø og sikkerhet og kvalitetssikre eget arbeid"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K854",
+        "uri": "http://psi.udir.no/kl06/K854",
+        "url-data": "http://data.udir.no/kl06/K854",
+        "tittel": "håndtere avfall og materialer i samsvar med krav til sikkerhet, miljø og ressursbruk"
+      }
+    ]
+  },
+  {
+    "id": "BAANL2----",
+    "name": "Anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BAANL2----",
+    "lareplanUrl": "https://data.udir.no/kl06/ANL2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K853",
+        "uri": "http://psi.udir.no/kl06/K853",
+        "url-data": "http://data.udir.no/kl06/K853",
+        "tittel": "utføre arbeid i henhold til lover, forskrifter og preaksepterte løsninger"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K832",
+        "uri": "http://psi.udir.no/kl06/K832",
+        "url-data": "http://data.udir.no/kl06/K832",
+        "tittel": "planlegge, utføre, dokumentere og vurdere eget arbeid"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K834",
+        "uri": "http://psi.udir.no/kl06/K834",
+        "url-data": "http://data.udir.no/kl06/K834",
+        "tittel": "bruke gravemaskin og minst én annen anleggsmaskin til graving og flytting av løsmasser"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K835",
+        "uri": "http://psi.udir.no/kl06/K835",
+        "url-data": "http://data.udir.no/kl06/K835",
+        "tittel": "utføre daglig kontroll og periodisk vedlikehold av maskiner og utstyr i henhold til service- og brukermanualer"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K836",
+        "uri": "http://psi.udir.no/kl06/K836",
+        "url-data": "http://data.udir.no/kl06/K836",
+        "tittel": "velge ut og bruke riktig verktøy, utstyr og maskiner"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K837",
+        "uri": "http://psi.udir.no/kl06/K837",
+        "url-data": "http://data.udir.no/kl06/K837",
+        "tittel": "beregne fall og vinkler og foreta nødvendige masseberegninger"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K838",
+        "uri": "http://psi.udir.no/kl06/K838",
+        "url-data": "http://data.udir.no/kl06/K838",
+        "tittel": "utføre grunnleggende veg- og baneoppbygging etter tegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K839",
+        "uri": "http://psi.udir.no/kl06/K839",
+        "url-data": "http://data.udir.no/kl06/K839",
+        "tittel": "utføre grunnleggende arbeider med grøfter og ledningsanlegg etter tegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K840",
+        "uri": "http://psi.udir.no/kl06/K840",
+        "url-data": "http://data.udir.no/kl06/K840",
+        "tittel": "utarbeide sprengnings- og salveplan"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K841",
+        "uri": "http://psi.udir.no/kl06/K841",
+        "url-data": "http://data.udir.no/kl06/K841",
+        "tittel": "utføre borearbeid og sprengning etter utarbeidet plan og i samsvar med gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K842",
+        "uri": "http://psi.udir.no/kl06/K842",
+        "url-data": "http://data.udir.no/kl06/K842",
+        "tittel": "utføre enkle grunnundersøkelser og gjøre rede for egenskapene til forskjellige jordtyper og bergarter"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K843",
+        "uri": "http://psi.udir.no/kl06/K843",
+        "url-data": "http://data.udir.no/kl06/K843",
+        "tittel": "bruke verne- og sikkerhetsutstyr"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K844",
+        "uri": "http://psi.udir.no/kl06/K844",
+        "url-data": "http://data.udir.no/kl06/K844",
+        "tittel": "følge krav til helse, miljø og sikkerhet og kvalitetssikre eget arbeid"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K854",
+        "uri": "http://psi.udir.no/kl06/K854",
+        "url-data": "http://data.udir.no/kl06/K854",
+        "tittel": "håndtere avfall og materialer i samsvar med krav til sikkerhet, miljø og ressursbruk"
+      }
+    ]
+  },
+  {
+    "id": "BAANL2----",
+    "name": "Anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BAANL2----",
+    "lareplanUrl": "https://data.udir.no/kl06/ANL2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K853",
+        "uri": "http://psi.udir.no/kl06/K853",
+        "url-data": "http://data.udir.no/kl06/K853",
+        "tittel": "utføre arbeid i henhold til lover, forskrifter og preaksepterte løsninger"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K832",
+        "uri": "http://psi.udir.no/kl06/K832",
+        "url-data": "http://data.udir.no/kl06/K832",
+        "tittel": "planlegge, utføre, dokumentere og vurdere eget arbeid"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K834",
+        "uri": "http://psi.udir.no/kl06/K834",
+        "url-data": "http://data.udir.no/kl06/K834",
+        "tittel": "bruke gravemaskin og minst én annen anleggsmaskin til graving og flytting av løsmasser"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K835",
+        "uri": "http://psi.udir.no/kl06/K835",
+        "url-data": "http://data.udir.no/kl06/K835",
+        "tittel": "utføre daglig kontroll og periodisk vedlikehold av maskiner og utstyr i henhold til service- og brukermanualer"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K836",
+        "uri": "http://psi.udir.no/kl06/K836",
+        "url-data": "http://data.udir.no/kl06/K836",
+        "tittel": "velge ut og bruke riktig verktøy, utstyr og maskiner"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K837",
+        "uri": "http://psi.udir.no/kl06/K837",
+        "url-data": "http://data.udir.no/kl06/K837",
+        "tittel": "beregne fall og vinkler og foreta nødvendige masseberegninger"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K838",
+        "uri": "http://psi.udir.no/kl06/K838",
+        "url-data": "http://data.udir.no/kl06/K838",
+        "tittel": "utføre grunnleggende veg- og baneoppbygging etter tegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K839",
+        "uri": "http://psi.udir.no/kl06/K839",
+        "url-data": "http://data.udir.no/kl06/K839",
+        "tittel": "utføre grunnleggende arbeider med grøfter og ledningsanlegg etter tegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K840",
+        "uri": "http://psi.udir.no/kl06/K840",
+        "url-data": "http://data.udir.no/kl06/K840",
+        "tittel": "utarbeide sprengnings- og salveplan"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K841",
+        "uri": "http://psi.udir.no/kl06/K841",
+        "url-data": "http://data.udir.no/kl06/K841",
+        "tittel": "utføre borearbeid og sprengning etter utarbeidet plan og i samsvar med gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K842",
+        "uri": "http://psi.udir.no/kl06/K842",
+        "url-data": "http://data.udir.no/kl06/K842",
+        "tittel": "utføre enkle grunnundersøkelser og gjøre rede for egenskapene til forskjellige jordtyper og bergarter"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K843",
+        "uri": "http://psi.udir.no/kl06/K843",
+        "url-data": "http://data.udir.no/kl06/K843",
+        "tittel": "bruke verne- og sikkerhetsutstyr"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K844",
+        "uri": "http://psi.udir.no/kl06/K844",
+        "url-data": "http://data.udir.no/kl06/K844",
+        "tittel": "følge krav til helse, miljø og sikkerhet og kvalitetssikre eget arbeid"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K854",
+        "uri": "http://psi.udir.no/kl06/K854",
+        "url-data": "http://data.udir.no/kl06/K854",
+        "tittel": "håndtere avfall og materialer i samsvar med krav til sikkerhet, miljø og ressursbruk"
+      }
+    ]
+  },
+  {
+    "id": "BAANL2----",
+    "name": "Anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BAANL2----",
+    "lareplanUrl": "https://data.udir.no/kl06/ANL2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K853",
+        "uri": "http://psi.udir.no/kl06/K853",
+        "url-data": "http://data.udir.no/kl06/K853",
+        "tittel": "utføre arbeid i henhold til lover, forskrifter og preaksepterte løsninger"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K832",
+        "uri": "http://psi.udir.no/kl06/K832",
+        "url-data": "http://data.udir.no/kl06/K832",
+        "tittel": "planlegge, utføre, dokumentere og vurdere eget arbeid"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K834",
+        "uri": "http://psi.udir.no/kl06/K834",
+        "url-data": "http://data.udir.no/kl06/K834",
+        "tittel": "bruke gravemaskin og minst én annen anleggsmaskin til graving og flytting av løsmasser"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K835",
+        "uri": "http://psi.udir.no/kl06/K835",
+        "url-data": "http://data.udir.no/kl06/K835",
+        "tittel": "utføre daglig kontroll og periodisk vedlikehold av maskiner og utstyr i henhold til service- og brukermanualer"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K836",
+        "uri": "http://psi.udir.no/kl06/K836",
+        "url-data": "http://data.udir.no/kl06/K836",
+        "tittel": "velge ut og bruke riktig verktøy, utstyr og maskiner"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K837",
+        "uri": "http://psi.udir.no/kl06/K837",
+        "url-data": "http://data.udir.no/kl06/K837",
+        "tittel": "beregne fall og vinkler og foreta nødvendige masseberegninger"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K838",
+        "uri": "http://psi.udir.no/kl06/K838",
+        "url-data": "http://data.udir.no/kl06/K838",
+        "tittel": "utføre grunnleggende veg- og baneoppbygging etter tegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K839",
+        "uri": "http://psi.udir.no/kl06/K839",
+        "url-data": "http://data.udir.no/kl06/K839",
+        "tittel": "utføre grunnleggende arbeider med grøfter og ledningsanlegg etter tegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K840",
+        "uri": "http://psi.udir.no/kl06/K840",
+        "url-data": "http://data.udir.no/kl06/K840",
+        "tittel": "utarbeide sprengnings- og salveplan"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K841",
+        "uri": "http://psi.udir.no/kl06/K841",
+        "url-data": "http://data.udir.no/kl06/K841",
+        "tittel": "utføre borearbeid og sprengning etter utarbeidet plan og i samsvar med gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K842",
+        "uri": "http://psi.udir.no/kl06/K842",
+        "url-data": "http://data.udir.no/kl06/K842",
+        "tittel": "utføre enkle grunnundersøkelser og gjøre rede for egenskapene til forskjellige jordtyper og bergarter"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K843",
+        "uri": "http://psi.udir.no/kl06/K843",
+        "url-data": "http://data.udir.no/kl06/K843",
+        "tittel": "bruke verne- og sikkerhetsutstyr"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K844",
+        "uri": "http://psi.udir.no/kl06/K844",
+        "url-data": "http://data.udir.no/kl06/K844",
+        "tittel": "følge krav til helse, miljø og sikkerhet og kvalitetssikre eget arbeid"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K854",
+        "uri": "http://psi.udir.no/kl06/K854",
+        "url-data": "http://data.udir.no/kl06/K854",
+        "tittel": "håndtere avfall og materialer i samsvar med krav til sikkerhet, miljø og ressursbruk"
+      }
+    ]
+  },
+  {
+    "id": "BABYG2----",
+    "name": "Byggteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABYG2----",
+    "lareplanUrl": "https://data.udir.no/kl06/BYG2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K684",
+        "uri": "http://psi.udir.no/kl06/K684",
+        "url-data": "http://data.udir.no/kl06/K684",
+        "tittel": "utføre arbeid i henhold til gjeldende regelverk og preaksepterte løsninger"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K685",
+        "uri": "http://psi.udir.no/kl06/K685",
+        "url-data": "http://data.udir.no/kl06/K685",
+        "tittel": "planlegge, utføre, dokumentere og vurdere eget arbeid"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K686",
+        "uri": "http://psi.udir.no/kl06/K686",
+        "url-data": "http://data.udir.no/kl06/K686",
+        "tittel": "velge ut, bruke og bearbeide materialer tilpasset arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K687",
+        "uri": "http://psi.udir.no/kl06/K687",
+        "url-data": "http://data.udir.no/kl06/K687",
+        "tittel": "lese og bruke tegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K688",
+        "uri": "http://psi.udir.no/kl06/K688",
+        "url-data": "http://data.udir.no/kl06/K688",
+        "tittel": "bygge komplett, bærende yttervegg"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K689",
+        "uri": "http://psi.udir.no/kl06/K689",
+        "url-data": "http://data.udir.no/kl06/K689",
+        "tittel": "bygge og montere et bjelkelag"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K690",
+        "uri": "http://psi.udir.no/kl06/K690",
+        "url-data": "http://data.udir.no/kl06/K690",
+        "tittel": "utføre innvendig kledning med plater eller panel"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K691",
+        "uri": "http://psi.udir.no/kl06/K691",
+        "url-data": "http://data.udir.no/kl06/K691",
+        "tittel": "utføre tradisjonell veggforskaling"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K692",
+        "uri": "http://psi.udir.no/kl06/K692",
+        "url-data": "http://data.udir.no/kl06/K692",
+        "tittel": "kappe, bøye og montere armeringsjern etter bøyeliste og tegning"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K693",
+        "uri": "http://psi.udir.no/kl06/K693",
+        "url-data": "http://data.udir.no/kl06/K693",
+        "tittel": "utføre teglsteinsmuring med ulike forbandløsninger til spekking"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K694",
+        "uri": "http://psi.udir.no/kl06/K694",
+        "url-data": "http://data.udir.no/kl06/K694",
+        "tittel": "utføre fliselegging på vegg"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K695",
+        "uri": "http://psi.udir.no/kl06/K695",
+        "url-data": "http://data.udir.no/kl06/K695",
+        "tittel": "montere forskjellige typer stillas og utføre sikring"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K696",
+        "uri": "http://psi.udir.no/kl06/K696",
+        "url-data": "http://data.udir.no/kl06/K696",
+        "tittel": "utføre stropping, anhuking, signalgiving og rigging"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K697",
+        "uri": "http://psi.udir.no/kl06/K697",
+        "url-data": "http://data.udir.no/kl06/K697",
+        "tittel": "utføre enkle bygningsarbeider i våtrom"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K698",
+        "uri": "http://psi.udir.no/kl06/K698",
+        "url-data": "http://data.udir.no/kl06/K698",
+        "tittel": "velge ut, bruke og vedlikeholde verktøy og utstyr"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K699",
+        "uri": "http://psi.udir.no/kl06/K699",
+        "url-data": "http://data.udir.no/kl06/K699",
+        "tittel": "velge ut og bruke måleverktøy til å sette ut høyder og vinkler"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K700",
+        "uri": "http://psi.udir.no/kl06/K700",
+        "url-data": "http://data.udir.no/kl06/K700",
+        "tittel": "foreta målinger og beregninger i forbindelse med konstruksjoner"
+      },
+      {
+        "rekkefoelge": 18,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K701",
+        "uri": "http://psi.udir.no/kl06/K701",
+        "url-data": "http://data.udir.no/kl06/K701",
+        "tittel": "følge krav til helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 19,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K702",
+        "uri": "http://psi.udir.no/kl06/K702",
+        "url-data": "http://data.udir.no/kl06/K702",
+        "tittel": "dokumentere gjennomført kurs i varmearbeid"
+      },
+      {
+        "rekkefoelge": 20,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K703",
+        "uri": "http://psi.udir.no/kl06/K703",
+        "url-data": "http://data.udir.no/kl06/K703",
+        "tittel": "bruke verne- og sikkerhetsutstyr"
+      },
+      {
+        "rekkefoelge": 21,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K704",
+        "uri": "http://psi.udir.no/kl06/K704",
+        "url-data": "http://data.udir.no/kl06/K704",
+        "tittel": "håndtere avfall og materialer i samsvar med krav til sikkerhet, miljø og ressursbruk"
+      }
+    ]
+  },
+  {
+    "id": "BABYG2----",
+    "name": "Byggteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABYG2----",
+    "lareplanUrl": "https://data.udir.no/kl06/BYG2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K684",
+        "uri": "http://psi.udir.no/kl06/K684",
+        "url-data": "http://data.udir.no/kl06/K684",
+        "tittel": "utføre arbeid i henhold til gjeldende regelverk og preaksepterte løsninger"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K685",
+        "uri": "http://psi.udir.no/kl06/K685",
+        "url-data": "http://data.udir.no/kl06/K685",
+        "tittel": "planlegge, utføre, dokumentere og vurdere eget arbeid"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K686",
+        "uri": "http://psi.udir.no/kl06/K686",
+        "url-data": "http://data.udir.no/kl06/K686",
+        "tittel": "velge ut, bruke og bearbeide materialer tilpasset arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K687",
+        "uri": "http://psi.udir.no/kl06/K687",
+        "url-data": "http://data.udir.no/kl06/K687",
+        "tittel": "lese og bruke tegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K688",
+        "uri": "http://psi.udir.no/kl06/K688",
+        "url-data": "http://data.udir.no/kl06/K688",
+        "tittel": "bygge komplett, bærende yttervegg"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K689",
+        "uri": "http://psi.udir.no/kl06/K689",
+        "url-data": "http://data.udir.no/kl06/K689",
+        "tittel": "bygge og montere et bjelkelag"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K690",
+        "uri": "http://psi.udir.no/kl06/K690",
+        "url-data": "http://data.udir.no/kl06/K690",
+        "tittel": "utføre innvendig kledning med plater eller panel"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K691",
+        "uri": "http://psi.udir.no/kl06/K691",
+        "url-data": "http://data.udir.no/kl06/K691",
+        "tittel": "utføre tradisjonell veggforskaling"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K692",
+        "uri": "http://psi.udir.no/kl06/K692",
+        "url-data": "http://data.udir.no/kl06/K692",
+        "tittel": "kappe, bøye og montere armeringsjern etter bøyeliste og tegning"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K693",
+        "uri": "http://psi.udir.no/kl06/K693",
+        "url-data": "http://data.udir.no/kl06/K693",
+        "tittel": "utføre teglsteinsmuring med ulike forbandløsninger til spekking"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K694",
+        "uri": "http://psi.udir.no/kl06/K694",
+        "url-data": "http://data.udir.no/kl06/K694",
+        "tittel": "utføre fliselegging på vegg"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K695",
+        "uri": "http://psi.udir.no/kl06/K695",
+        "url-data": "http://data.udir.no/kl06/K695",
+        "tittel": "montere forskjellige typer stillas og utføre sikring"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K696",
+        "uri": "http://psi.udir.no/kl06/K696",
+        "url-data": "http://data.udir.no/kl06/K696",
+        "tittel": "utføre stropping, anhuking, signalgiving og rigging"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K697",
+        "uri": "http://psi.udir.no/kl06/K697",
+        "url-data": "http://data.udir.no/kl06/K697",
+        "tittel": "utføre enkle bygningsarbeider i våtrom"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K698",
+        "uri": "http://psi.udir.no/kl06/K698",
+        "url-data": "http://data.udir.no/kl06/K698",
+        "tittel": "velge ut, bruke og vedlikeholde verktøy og utstyr"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K699",
+        "uri": "http://psi.udir.no/kl06/K699",
+        "url-data": "http://data.udir.no/kl06/K699",
+        "tittel": "velge ut og bruke måleverktøy til å sette ut høyder og vinkler"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K700",
+        "uri": "http://psi.udir.no/kl06/K700",
+        "url-data": "http://data.udir.no/kl06/K700",
+        "tittel": "foreta målinger og beregninger i forbindelse med konstruksjoner"
+      },
+      {
+        "rekkefoelge": 18,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K701",
+        "uri": "http://psi.udir.no/kl06/K701",
+        "url-data": "http://data.udir.no/kl06/K701",
+        "tittel": "følge krav til helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 19,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K702",
+        "uri": "http://psi.udir.no/kl06/K702",
+        "url-data": "http://data.udir.no/kl06/K702",
+        "tittel": "dokumentere gjennomført kurs i varmearbeid"
+      },
+      {
+        "rekkefoelge": 20,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K703",
+        "uri": "http://psi.udir.no/kl06/K703",
+        "url-data": "http://data.udir.no/kl06/K703",
+        "tittel": "bruke verne- og sikkerhetsutstyr"
+      },
+      {
+        "rekkefoelge": 21,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K704",
+        "uri": "http://psi.udir.no/kl06/K704",
+        "url-data": "http://data.udir.no/kl06/K704",
+        "tittel": "håndtere avfall og materialer i samsvar med krav til sikkerhet, miljø og ressursbruk"
+      }
+    ]
+  },
+  {
+    "id": "BABYG2----",
+    "name": "Byggteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABYG2----",
+    "lareplanUrl": "https://data.udir.no/kl06/BYG2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K684",
+        "uri": "http://psi.udir.no/kl06/K684",
+        "url-data": "http://data.udir.no/kl06/K684",
+        "tittel": "utføre arbeid i henhold til gjeldende regelverk og preaksepterte løsninger"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K685",
+        "uri": "http://psi.udir.no/kl06/K685",
+        "url-data": "http://data.udir.no/kl06/K685",
+        "tittel": "planlegge, utføre, dokumentere og vurdere eget arbeid"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K686",
+        "uri": "http://psi.udir.no/kl06/K686",
+        "url-data": "http://data.udir.no/kl06/K686",
+        "tittel": "velge ut, bruke og bearbeide materialer tilpasset arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K687",
+        "uri": "http://psi.udir.no/kl06/K687",
+        "url-data": "http://data.udir.no/kl06/K687",
+        "tittel": "lese og bruke tegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K688",
+        "uri": "http://psi.udir.no/kl06/K688",
+        "url-data": "http://data.udir.no/kl06/K688",
+        "tittel": "bygge komplett, bærende yttervegg"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K689",
+        "uri": "http://psi.udir.no/kl06/K689",
+        "url-data": "http://data.udir.no/kl06/K689",
+        "tittel": "bygge og montere et bjelkelag"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K690",
+        "uri": "http://psi.udir.no/kl06/K690",
+        "url-data": "http://data.udir.no/kl06/K690",
+        "tittel": "utføre innvendig kledning med plater eller panel"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K691",
+        "uri": "http://psi.udir.no/kl06/K691",
+        "url-data": "http://data.udir.no/kl06/K691",
+        "tittel": "utføre tradisjonell veggforskaling"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K692",
+        "uri": "http://psi.udir.no/kl06/K692",
+        "url-data": "http://data.udir.no/kl06/K692",
+        "tittel": "kappe, bøye og montere armeringsjern etter bøyeliste og tegning"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K693",
+        "uri": "http://psi.udir.no/kl06/K693",
+        "url-data": "http://data.udir.no/kl06/K693",
+        "tittel": "utføre teglsteinsmuring med ulike forbandløsninger til spekking"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K694",
+        "uri": "http://psi.udir.no/kl06/K694",
+        "url-data": "http://data.udir.no/kl06/K694",
+        "tittel": "utføre fliselegging på vegg"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K695",
+        "uri": "http://psi.udir.no/kl06/K695",
+        "url-data": "http://data.udir.no/kl06/K695",
+        "tittel": "montere forskjellige typer stillas og utføre sikring"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K696",
+        "uri": "http://psi.udir.no/kl06/K696",
+        "url-data": "http://data.udir.no/kl06/K696",
+        "tittel": "utføre stropping, anhuking, signalgiving og rigging"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K697",
+        "uri": "http://psi.udir.no/kl06/K697",
+        "url-data": "http://data.udir.no/kl06/K697",
+        "tittel": "utføre enkle bygningsarbeider i våtrom"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K698",
+        "uri": "http://psi.udir.no/kl06/K698",
+        "url-data": "http://data.udir.no/kl06/K698",
+        "tittel": "velge ut, bruke og vedlikeholde verktøy og utstyr"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K699",
+        "uri": "http://psi.udir.no/kl06/K699",
+        "url-data": "http://data.udir.no/kl06/K699",
+        "tittel": "velge ut og bruke måleverktøy til å sette ut høyder og vinkler"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K700",
+        "uri": "http://psi.udir.no/kl06/K700",
+        "url-data": "http://data.udir.no/kl06/K700",
+        "tittel": "foreta målinger og beregninger i forbindelse med konstruksjoner"
+      },
+      {
+        "rekkefoelge": 18,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K701",
+        "uri": "http://psi.udir.no/kl06/K701",
+        "url-data": "http://data.udir.no/kl06/K701",
+        "tittel": "følge krav til helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 19,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K702",
+        "uri": "http://psi.udir.no/kl06/K702",
+        "url-data": "http://data.udir.no/kl06/K702",
+        "tittel": "dokumentere gjennomført kurs i varmearbeid"
+      },
+      {
+        "rekkefoelge": 20,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K703",
+        "uri": "http://psi.udir.no/kl06/K703",
+        "url-data": "http://data.udir.no/kl06/K703",
+        "tittel": "bruke verne- og sikkerhetsutstyr"
+      },
+      {
+        "rekkefoelge": 21,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K704",
+        "uri": "http://psi.udir.no/kl06/K704",
+        "url-data": "http://data.udir.no/kl06/K704",
+        "tittel": "håndtere avfall og materialer i samsvar med krav til sikkerhet, miljø og ressursbruk"
+      }
+    ]
+  },
+  {
+    "id": "BABYG2----",
+    "name": "Byggteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABYG2----",
+    "lareplanUrl": "https://data.udir.no/kl06/BYG2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K684",
+        "uri": "http://psi.udir.no/kl06/K684",
+        "url-data": "http://data.udir.no/kl06/K684",
+        "tittel": "utføre arbeid i henhold til gjeldende regelverk og preaksepterte løsninger"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K685",
+        "uri": "http://psi.udir.no/kl06/K685",
+        "url-data": "http://data.udir.no/kl06/K685",
+        "tittel": "planlegge, utføre, dokumentere og vurdere eget arbeid"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K686",
+        "uri": "http://psi.udir.no/kl06/K686",
+        "url-data": "http://data.udir.no/kl06/K686",
+        "tittel": "velge ut, bruke og bearbeide materialer tilpasset arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K687",
+        "uri": "http://psi.udir.no/kl06/K687",
+        "url-data": "http://data.udir.no/kl06/K687",
+        "tittel": "lese og bruke tegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K688",
+        "uri": "http://psi.udir.no/kl06/K688",
+        "url-data": "http://data.udir.no/kl06/K688",
+        "tittel": "bygge komplett, bærende yttervegg"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K689",
+        "uri": "http://psi.udir.no/kl06/K689",
+        "url-data": "http://data.udir.no/kl06/K689",
+        "tittel": "bygge og montere et bjelkelag"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K690",
+        "uri": "http://psi.udir.no/kl06/K690",
+        "url-data": "http://data.udir.no/kl06/K690",
+        "tittel": "utføre innvendig kledning med plater eller panel"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K691",
+        "uri": "http://psi.udir.no/kl06/K691",
+        "url-data": "http://data.udir.no/kl06/K691",
+        "tittel": "utføre tradisjonell veggforskaling"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K692",
+        "uri": "http://psi.udir.no/kl06/K692",
+        "url-data": "http://data.udir.no/kl06/K692",
+        "tittel": "kappe, bøye og montere armeringsjern etter bøyeliste og tegning"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K693",
+        "uri": "http://psi.udir.no/kl06/K693",
+        "url-data": "http://data.udir.no/kl06/K693",
+        "tittel": "utføre teglsteinsmuring med ulike forbandløsninger til spekking"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K694",
+        "uri": "http://psi.udir.no/kl06/K694",
+        "url-data": "http://data.udir.no/kl06/K694",
+        "tittel": "utføre fliselegging på vegg"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K695",
+        "uri": "http://psi.udir.no/kl06/K695",
+        "url-data": "http://data.udir.no/kl06/K695",
+        "tittel": "montere forskjellige typer stillas og utføre sikring"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K696",
+        "uri": "http://psi.udir.no/kl06/K696",
+        "url-data": "http://data.udir.no/kl06/K696",
+        "tittel": "utføre stropping, anhuking, signalgiving og rigging"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K697",
+        "uri": "http://psi.udir.no/kl06/K697",
+        "url-data": "http://data.udir.no/kl06/K697",
+        "tittel": "utføre enkle bygningsarbeider i våtrom"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K698",
+        "uri": "http://psi.udir.no/kl06/K698",
+        "url-data": "http://data.udir.no/kl06/K698",
+        "tittel": "velge ut, bruke og vedlikeholde verktøy og utstyr"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K699",
+        "uri": "http://psi.udir.no/kl06/K699",
+        "url-data": "http://data.udir.no/kl06/K699",
+        "tittel": "velge ut og bruke måleverktøy til å sette ut høyder og vinkler"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K700",
+        "uri": "http://psi.udir.no/kl06/K700",
+        "url-data": "http://data.udir.no/kl06/K700",
+        "tittel": "foreta målinger og beregninger i forbindelse med konstruksjoner"
+      },
+      {
+        "rekkefoelge": 18,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K701",
+        "uri": "http://psi.udir.no/kl06/K701",
+        "url-data": "http://data.udir.no/kl06/K701",
+        "tittel": "følge krav til helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 19,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K702",
+        "uri": "http://psi.udir.no/kl06/K702",
+        "url-data": "http://data.udir.no/kl06/K702",
+        "tittel": "dokumentere gjennomført kurs i varmearbeid"
+      },
+      {
+        "rekkefoelge": 20,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K703",
+        "uri": "http://psi.udir.no/kl06/K703",
+        "url-data": "http://data.udir.no/kl06/K703",
+        "tittel": "bruke verne- og sikkerhetsutstyr"
+      },
+      {
+        "rekkefoelge": 21,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K704",
+        "uri": "http://psi.udir.no/kl06/K704",
+        "url-data": "http://data.udir.no/kl06/K704",
+        "tittel": "håndtere avfall og materialer i samsvar med krav til sikkerhet, miljø og ressursbruk"
+      }
+    ]
+  },
+  {
+    "id": "BAKEM2----",
+    "name": "Klima-, energi- og miljøteknikk",
+    "programUrl": "https://www.udir.no/kl06/BAKEM2----",
+    "lareplanUrl": "https://data.udir.no/kl06/KEM2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5913",
+        "uri": "http://psi.udir.no/kl06/K5913",
+        "url-data": "http://data.udir.no/kl06/K5913",
+        "tittel": "utføre arbeid i henhold til regelverk og preaksepterte løsninger"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5914",
+        "uri": "http://psi.udir.no/kl06/K5914",
+        "url-data": "http://data.udir.no/kl06/K5914",
+        "tittel": "bruke og vedlikeholde verktøy og maskiner"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5915",
+        "uri": "http://psi.udir.no/kl06/K5915",
+        "url-data": "http://data.udir.no/kl06/K5915",
+        "tittel": "følge retningslinjer for bruk av farlig arbeidsutstyr, verktøy og maskiner"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5916",
+        "uri": "http://psi.udir.no/kl06/K5916",
+        "url-data": "http://data.udir.no/kl06/K5916",
+        "tittel": "bearbeide og bruke metaller, plast, isolasjon, tekkematerialer og kjemiske stoffer"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5917",
+        "uri": "http://psi.udir.no/kl06/K5917",
+        "url-data": "http://data.udir.no/kl06/K5917",
+        "tittel": "utføre lodding, sveising og andre sammenføyninger med ulike metoder"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5918",
+        "uri": "http://psi.udir.no/kl06/K5918",
+        "url-data": "http://data.udir.no/kl06/K5918",
+        "tittel": "utføre enkel isolering og brannsikring og gjøre rede for betydningen av dette"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5919",
+        "uri": "http://psi.udir.no/kl06/K5919",
+        "url-data": "http://data.udir.no/kl06/K5919",
+        "tittel": "feste ulike materialer i tre, gips, metall, lettbetong og betong"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5920",
+        "uri": "http://psi.udir.no/kl06/K5920",
+        "url-data": "http://data.udir.no/kl06/K5920",
+        "tittel": "tegne, utfolde, lage og montere ventilasjonsdeler"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5921",
+        "uri": "http://psi.udir.no/kl06/K5921",
+        "url-data": "http://data.udir.no/kl06/K5921",
+        "tittel": "montere enkelt varme- og sanitæranlegg"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5922",
+        "uri": "http://psi.udir.no/kl06/K5922",
+        "url-data": "http://data.udir.no/kl06/K5922",
+        "tittel": "ta mål av, tegne skisse for, produsere og montere beslagløsninger"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5923",
+        "uri": "http://psi.udir.no/kl06/K5923",
+        "url-data": "http://data.udir.no/kl06/K5923",
+        "tittel": "utføre tak- og membrantekking med aktuelle materialtyper"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5924",
+        "uri": "http://psi.udir.no/kl06/K5924",
+        "url-data": "http://data.udir.no/kl06/K5924",
+        "tittel": "velge ut relevante materialer og verktøy ut fra arbeidstegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5925",
+        "uri": "http://psi.udir.no/kl06/K5925",
+        "url-data": "http://data.udir.no/kl06/K5925",
+        "tittel": "planlegge, gjennomføre og vurdere eget arbeid"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5926",
+        "uri": "http://psi.udir.no/kl06/K5926",
+        "url-data": "http://data.udir.no/kl06/K5926",
+        "tittel": "utføre arbeid i henhold til kvalitetssikringssystem"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5927",
+        "uri": "http://psi.udir.no/kl06/K5927",
+        "url-data": "http://data.udir.no/kl06/K5927",
+        "tittel": "utføre arbeid på økonomisk og rasjonell måte og i henhold til yrkesetiske normer og regler"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5928",
+        "uri": "http://psi.udir.no/kl06/K5928",
+        "url-data": "http://data.udir.no/kl06/K5928",
+        "tittel": "finne fram til og bruke relevant produktinformasjon"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5929",
+        "uri": "http://psi.udir.no/kl06/K5929",
+        "url-data": "http://data.udir.no/kl06/K5929",
+        "tittel": "bruke verne- og sikkerhetsutstyr"
+      },
+      {
+        "rekkefoelge": 18,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5930",
+        "uri": "http://psi.udir.no/kl06/K5930",
+        "url-data": "http://data.udir.no/kl06/K5930",
+        "tittel": "bruke arbeidsplattformer og stiger"
+      },
+      {
+        "rekkefoelge": 19,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5931",
+        "uri": "http://psi.udir.no/kl06/K5931",
+        "url-data": "http://data.udir.no/kl06/K5931",
+        "tittel": "vurdere risiko og utføre arbeid etter regler for helse, miljø og sikkerhet"
+      }
+    ]
+  },
+  {
+    "id": "BAKEM2----",
+    "name": "Klima-, energi- og miljøteknikk",
+    "programUrl": "https://www.udir.no/kl06/BAKEM2----",
+    "lareplanUrl": "https://data.udir.no/kl06/KEM2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5913",
+        "uri": "http://psi.udir.no/kl06/K5913",
+        "url-data": "http://data.udir.no/kl06/K5913",
+        "tittel": "utføre arbeid i henhold til regelverk og preaksepterte løsninger"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5914",
+        "uri": "http://psi.udir.no/kl06/K5914",
+        "url-data": "http://data.udir.no/kl06/K5914",
+        "tittel": "bruke og vedlikeholde verktøy og maskiner"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5915",
+        "uri": "http://psi.udir.no/kl06/K5915",
+        "url-data": "http://data.udir.no/kl06/K5915",
+        "tittel": "følge retningslinjer for bruk av farlig arbeidsutstyr, verktøy og maskiner"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5916",
+        "uri": "http://psi.udir.no/kl06/K5916",
+        "url-data": "http://data.udir.no/kl06/K5916",
+        "tittel": "bearbeide og bruke metaller, plast, isolasjon, tekkematerialer og kjemiske stoffer"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5917",
+        "uri": "http://psi.udir.no/kl06/K5917",
+        "url-data": "http://data.udir.no/kl06/K5917",
+        "tittel": "utføre lodding, sveising og andre sammenføyninger med ulike metoder"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5918",
+        "uri": "http://psi.udir.no/kl06/K5918",
+        "url-data": "http://data.udir.no/kl06/K5918",
+        "tittel": "utføre enkel isolering og brannsikring og gjøre rede for betydningen av dette"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5919",
+        "uri": "http://psi.udir.no/kl06/K5919",
+        "url-data": "http://data.udir.no/kl06/K5919",
+        "tittel": "feste ulike materialer i tre, gips, metall, lettbetong og betong"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5920",
+        "uri": "http://psi.udir.no/kl06/K5920",
+        "url-data": "http://data.udir.no/kl06/K5920",
+        "tittel": "tegne, utfolde, lage og montere ventilasjonsdeler"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5921",
+        "uri": "http://psi.udir.no/kl06/K5921",
+        "url-data": "http://data.udir.no/kl06/K5921",
+        "tittel": "montere enkelt varme- og sanitæranlegg"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5922",
+        "uri": "http://psi.udir.no/kl06/K5922",
+        "url-data": "http://data.udir.no/kl06/K5922",
+        "tittel": "ta mål av, tegne skisse for, produsere og montere beslagløsninger"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5923",
+        "uri": "http://psi.udir.no/kl06/K5923",
+        "url-data": "http://data.udir.no/kl06/K5923",
+        "tittel": "utføre tak- og membrantekking med aktuelle materialtyper"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5924",
+        "uri": "http://psi.udir.no/kl06/K5924",
+        "url-data": "http://data.udir.no/kl06/K5924",
+        "tittel": "velge ut relevante materialer og verktøy ut fra arbeidstegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5925",
+        "uri": "http://psi.udir.no/kl06/K5925",
+        "url-data": "http://data.udir.no/kl06/K5925",
+        "tittel": "planlegge, gjennomføre og vurdere eget arbeid"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5926",
+        "uri": "http://psi.udir.no/kl06/K5926",
+        "url-data": "http://data.udir.no/kl06/K5926",
+        "tittel": "utføre arbeid i henhold til kvalitetssikringssystem"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5927",
+        "uri": "http://psi.udir.no/kl06/K5927",
+        "url-data": "http://data.udir.no/kl06/K5927",
+        "tittel": "utføre arbeid på økonomisk og rasjonell måte og i henhold til yrkesetiske normer og regler"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5928",
+        "uri": "http://psi.udir.no/kl06/K5928",
+        "url-data": "http://data.udir.no/kl06/K5928",
+        "tittel": "finne fram til og bruke relevant produktinformasjon"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5929",
+        "uri": "http://psi.udir.no/kl06/K5929",
+        "url-data": "http://data.udir.no/kl06/K5929",
+        "tittel": "bruke verne- og sikkerhetsutstyr"
+      },
+      {
+        "rekkefoelge": 18,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5930",
+        "uri": "http://psi.udir.no/kl06/K5930",
+        "url-data": "http://data.udir.no/kl06/K5930",
+        "tittel": "bruke arbeidsplattformer og stiger"
+      },
+      {
+        "rekkefoelge": 19,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5931",
+        "uri": "http://psi.udir.no/kl06/K5931",
+        "url-data": "http://data.udir.no/kl06/K5931",
+        "tittel": "vurdere risiko og utføre arbeid etter regler for helse, miljø og sikkerhet"
+      }
+    ]
+  },
+  {
+    "id": "BAKEM2----",
+    "name": "Klima-, energi- og miljøteknikk",
+    "programUrl": "https://www.udir.no/kl06/BAKEM2----",
+    "lareplanUrl": "https://data.udir.no/kl06/KEM2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5913",
+        "uri": "http://psi.udir.no/kl06/K5913",
+        "url-data": "http://data.udir.no/kl06/K5913",
+        "tittel": "utføre arbeid i henhold til regelverk og preaksepterte løsninger"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5914",
+        "uri": "http://psi.udir.no/kl06/K5914",
+        "url-data": "http://data.udir.no/kl06/K5914",
+        "tittel": "bruke og vedlikeholde verktøy og maskiner"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5915",
+        "uri": "http://psi.udir.no/kl06/K5915",
+        "url-data": "http://data.udir.no/kl06/K5915",
+        "tittel": "følge retningslinjer for bruk av farlig arbeidsutstyr, verktøy og maskiner"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5916",
+        "uri": "http://psi.udir.no/kl06/K5916",
+        "url-data": "http://data.udir.no/kl06/K5916",
+        "tittel": "bearbeide og bruke metaller, plast, isolasjon, tekkematerialer og kjemiske stoffer"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5917",
+        "uri": "http://psi.udir.no/kl06/K5917",
+        "url-data": "http://data.udir.no/kl06/K5917",
+        "tittel": "utføre lodding, sveising og andre sammenføyninger med ulike metoder"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5918",
+        "uri": "http://psi.udir.no/kl06/K5918",
+        "url-data": "http://data.udir.no/kl06/K5918",
+        "tittel": "utføre enkel isolering og brannsikring og gjøre rede for betydningen av dette"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5919",
+        "uri": "http://psi.udir.no/kl06/K5919",
+        "url-data": "http://data.udir.no/kl06/K5919",
+        "tittel": "feste ulike materialer i tre, gips, metall, lettbetong og betong"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5920",
+        "uri": "http://psi.udir.no/kl06/K5920",
+        "url-data": "http://data.udir.no/kl06/K5920",
+        "tittel": "tegne, utfolde, lage og montere ventilasjonsdeler"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5921",
+        "uri": "http://psi.udir.no/kl06/K5921",
+        "url-data": "http://data.udir.no/kl06/K5921",
+        "tittel": "montere enkelt varme- og sanitæranlegg"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5922",
+        "uri": "http://psi.udir.no/kl06/K5922",
+        "url-data": "http://data.udir.no/kl06/K5922",
+        "tittel": "ta mål av, tegne skisse for, produsere og montere beslagløsninger"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5923",
+        "uri": "http://psi.udir.no/kl06/K5923",
+        "url-data": "http://data.udir.no/kl06/K5923",
+        "tittel": "utføre tak- og membrantekking med aktuelle materialtyper"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5924",
+        "uri": "http://psi.udir.no/kl06/K5924",
+        "url-data": "http://data.udir.no/kl06/K5924",
+        "tittel": "velge ut relevante materialer og verktøy ut fra arbeidstegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5925",
+        "uri": "http://psi.udir.no/kl06/K5925",
+        "url-data": "http://data.udir.no/kl06/K5925",
+        "tittel": "planlegge, gjennomføre og vurdere eget arbeid"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5926",
+        "uri": "http://psi.udir.no/kl06/K5926",
+        "url-data": "http://data.udir.no/kl06/K5926",
+        "tittel": "utføre arbeid i henhold til kvalitetssikringssystem"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5927",
+        "uri": "http://psi.udir.no/kl06/K5927",
+        "url-data": "http://data.udir.no/kl06/K5927",
+        "tittel": "utføre arbeid på økonomisk og rasjonell måte og i henhold til yrkesetiske normer og regler"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5928",
+        "uri": "http://psi.udir.no/kl06/K5928",
+        "url-data": "http://data.udir.no/kl06/K5928",
+        "tittel": "finne fram til og bruke relevant produktinformasjon"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5929",
+        "uri": "http://psi.udir.no/kl06/K5929",
+        "url-data": "http://data.udir.no/kl06/K5929",
+        "tittel": "bruke verne- og sikkerhetsutstyr"
+      },
+      {
+        "rekkefoelge": 18,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5930",
+        "uri": "http://psi.udir.no/kl06/K5930",
+        "url-data": "http://data.udir.no/kl06/K5930",
+        "tittel": "bruke arbeidsplattformer og stiger"
+      },
+      {
+        "rekkefoelge": 19,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5931",
+        "uri": "http://psi.udir.no/kl06/K5931",
+        "url-data": "http://data.udir.no/kl06/K5931",
+        "tittel": "vurdere risiko og utføre arbeid etter regler for helse, miljø og sikkerhet"
+      }
+    ]
+  },
+  {
+    "id": "BAOFT2----",
+    "name": "Overflateteknikk",
+    "programUrl": "https://www.udir.no/kl06/BAOFT2----",
+    "lareplanUrl": "https://data.udir.no/kl06/OFT2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8042",
+        "uri": "http://psi.udir.no/kl06/K8042",
+        "url-data": "http://data.udir.no/kl06/K8042",
+        "tittel": "gjere greie for og utføre arbeid i samsvar med lover, forskrifter og standardar"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8043",
+        "uri": "http://psi.udir.no/kl06/K8043",
+        "url-data": "http://data.udir.no/kl06/K8043",
+        "tittel": "planleggje, utføre, dokumentere og vurdere eige arbeid"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8044",
+        "uri": "http://psi.udir.no/kl06/K8044",
+        "url-data": "http://data.udir.no/kl06/K8044",
+        "tittel": "kontrollere og vurdere underlaget og påvise synlege feil eller manglar"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8045",
+        "uri": "http://psi.udir.no/kl06/K8045",
+        "url-data": "http://data.udir.no/kl06/K8045",
+        "tittel": "rapportere avvik og utbetre feil og manglar"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8046",
+        "uri": "http://psi.udir.no/kl06/K8046",
+        "url-data": "http://data.udir.no/kl06/K8046",
+        "tittel": "vurdere behov for og utføre overflatebehandling på organiske, mineralske og metalliske underlag"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8047",
+        "uri": "http://psi.udir.no/kl06/K8047",
+        "url-data": "http://data.udir.no/kl06/K8047",
+        "tittel": "vurdere behov for og utføre regelmessig og periodisk vedlikehald ut frå eigenskapane, tilstanden, og bruksområdet til overflata"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8048",
+        "uri": "http://psi.udir.no/kl06/K8048",
+        "url-data": "http://data.udir.no/kl06/K8048",
+        "tittel": "velje ut, handtere og oppbevare materiale"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8049",
+        "uri": "http://psi.udir.no/kl06/K8049",
+        "url-data": "http://data.udir.no/kl06/K8049",
+        "tittel": "velje ut, bruke og halde ved like verktøy, maskiner og utstyr"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8050",
+        "uri": "http://psi.udir.no/kl06/K8050",
+        "url-data": "http://data.udir.no/kl06/K8050",
+        "tittel": "bruke fargesystem i samband med fargesetjing av overflater"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8051",
+        "uri": "http://psi.udir.no/kl06/K8051",
+        "url-data": "http://data.udir.no/kl06/K8051",
+        "tittel": "gjere berekningar omkring behandling av overflater"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8052",
+        "uri": "http://psi.udir.no/kl06/K8052",
+        "url-data": "http://data.udir.no/kl06/K8052",
+        "tittel": "arbeide på ein økonomisk og rasjonell måte"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8053",
+        "uri": "http://psi.udir.no/kl06/K8053",
+        "url-data": "http://data.udir.no/kl06/K8053",
+        "tittel": "utføre arbeid i samsvar med krav til helse, miljø og tryggleik"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8054",
+        "uri": "http://psi.udir.no/kl06/K8054",
+        "url-data": "http://data.udir.no/kl06/K8054",
+        "tittel": "bruke verne- og tryggleiksutstyr"
+      }
+    ]
+  },
+  {
+    "id": "BAOFT2----",
+    "name": "Overflateteknikk",
+    "programUrl": "https://www.udir.no/kl06/BAOFT2----",
+    "lareplanUrl": "https://data.udir.no/kl06/OFT2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8042",
+        "uri": "http://psi.udir.no/kl06/K8042",
+        "url-data": "http://data.udir.no/kl06/K8042",
+        "tittel": "gjere greie for og utføre arbeid i samsvar med lover, forskrifter og standardar"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8043",
+        "uri": "http://psi.udir.no/kl06/K8043",
+        "url-data": "http://data.udir.no/kl06/K8043",
+        "tittel": "planleggje, utføre, dokumentere og vurdere eige arbeid"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8044",
+        "uri": "http://psi.udir.no/kl06/K8044",
+        "url-data": "http://data.udir.no/kl06/K8044",
+        "tittel": "kontrollere og vurdere underlaget og påvise synlege feil eller manglar"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8045",
+        "uri": "http://psi.udir.no/kl06/K8045",
+        "url-data": "http://data.udir.no/kl06/K8045",
+        "tittel": "rapportere avvik og utbetre feil og manglar"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8046",
+        "uri": "http://psi.udir.no/kl06/K8046",
+        "url-data": "http://data.udir.no/kl06/K8046",
+        "tittel": "vurdere behov for og utføre overflatebehandling på organiske, mineralske og metalliske underlag"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8047",
+        "uri": "http://psi.udir.no/kl06/K8047",
+        "url-data": "http://data.udir.no/kl06/K8047",
+        "tittel": "vurdere behov for og utføre regelmessig og periodisk vedlikehald ut frå eigenskapane, tilstanden, og bruksområdet til overflata"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8048",
+        "uri": "http://psi.udir.no/kl06/K8048",
+        "url-data": "http://data.udir.no/kl06/K8048",
+        "tittel": "velje ut, handtere og oppbevare materiale"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8049",
+        "uri": "http://psi.udir.no/kl06/K8049",
+        "url-data": "http://data.udir.no/kl06/K8049",
+        "tittel": "velje ut, bruke og halde ved like verktøy, maskiner og utstyr"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8050",
+        "uri": "http://psi.udir.no/kl06/K8050",
+        "url-data": "http://data.udir.no/kl06/K8050",
+        "tittel": "bruke fargesystem i samband med fargesetjing av overflater"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8051",
+        "uri": "http://psi.udir.no/kl06/K8051",
+        "url-data": "http://data.udir.no/kl06/K8051",
+        "tittel": "gjere berekningar omkring behandling av overflater"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8052",
+        "uri": "http://psi.udir.no/kl06/K8052",
+        "url-data": "http://data.udir.no/kl06/K8052",
+        "tittel": "arbeide på ein økonomisk og rasjonell måte"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8053",
+        "uri": "http://psi.udir.no/kl06/K8053",
+        "url-data": "http://data.udir.no/kl06/K8053",
+        "tittel": "utføre arbeid i samsvar med krav til helse, miljø og tryggleik"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8054",
+        "uri": "http://psi.udir.no/kl06/K8054",
+        "url-data": "http://data.udir.no/kl06/K8054",
+        "tittel": "bruke verne- og tryggleiksutstyr"
+      }
+    ]
+  },
+  {
+    "id": "BAOFT2----",
+    "name": "Overflateteknikk",
+    "programUrl": "https://www.udir.no/kl06/BAOFT2----",
+    "lareplanUrl": "https://data.udir.no/kl06/OFT2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8042",
+        "uri": "http://psi.udir.no/kl06/K8042",
+        "url-data": "http://data.udir.no/kl06/K8042",
+        "tittel": "gjere greie for og utføre arbeid i samsvar med lover, forskrifter og standardar"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8043",
+        "uri": "http://psi.udir.no/kl06/K8043",
+        "url-data": "http://data.udir.no/kl06/K8043",
+        "tittel": "planleggje, utføre, dokumentere og vurdere eige arbeid"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8044",
+        "uri": "http://psi.udir.no/kl06/K8044",
+        "url-data": "http://data.udir.no/kl06/K8044",
+        "tittel": "kontrollere og vurdere underlaget og påvise synlege feil eller manglar"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8045",
+        "uri": "http://psi.udir.no/kl06/K8045",
+        "url-data": "http://data.udir.no/kl06/K8045",
+        "tittel": "rapportere avvik og utbetre feil og manglar"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8046",
+        "uri": "http://psi.udir.no/kl06/K8046",
+        "url-data": "http://data.udir.no/kl06/K8046",
+        "tittel": "vurdere behov for og utføre overflatebehandling på organiske, mineralske og metalliske underlag"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8047",
+        "uri": "http://psi.udir.no/kl06/K8047",
+        "url-data": "http://data.udir.no/kl06/K8047",
+        "tittel": "vurdere behov for og utføre regelmessig og periodisk vedlikehald ut frå eigenskapane, tilstanden, og bruksområdet til overflata"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8048",
+        "uri": "http://psi.udir.no/kl06/K8048",
+        "url-data": "http://data.udir.no/kl06/K8048",
+        "tittel": "velje ut, handtere og oppbevare materiale"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8049",
+        "uri": "http://psi.udir.no/kl06/K8049",
+        "url-data": "http://data.udir.no/kl06/K8049",
+        "tittel": "velje ut, bruke og halde ved like verktøy, maskiner og utstyr"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8050",
+        "uri": "http://psi.udir.no/kl06/K8050",
+        "url-data": "http://data.udir.no/kl06/K8050",
+        "tittel": "bruke fargesystem i samband med fargesetjing av overflater"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8051",
+        "uri": "http://psi.udir.no/kl06/K8051",
+        "url-data": "http://data.udir.no/kl06/K8051",
+        "tittel": "gjere berekningar omkring behandling av overflater"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8052",
+        "uri": "http://psi.udir.no/kl06/K8052",
+        "url-data": "http://data.udir.no/kl06/K8052",
+        "tittel": "arbeide på ein økonomisk og rasjonell måte"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8053",
+        "uri": "http://psi.udir.no/kl06/K8053",
+        "url-data": "http://data.udir.no/kl06/K8053",
+        "tittel": "utføre arbeid i samsvar med krav til helse, miljø og tryggleik"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8054",
+        "uri": "http://psi.udir.no/kl06/K8054",
+        "url-data": "http://data.udir.no/kl06/K8054",
+        "tittel": "bruke verne- og tryggleiksutstyr"
+      }
+    ]
+  },
+  {
+    "id": "BATRT2----",
+    "name": "Treteknikk",
+    "programUrl": "https://www.udir.no/kl06/BATRT2----",
+    "lareplanUrl": "https://data.udir.no/kl06/TRT2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K960",
+        "uri": "http://psi.udir.no/kl06/K960",
+        "url-data": "http://data.udir.no/kl06/K960",
+        "tittel": "gjøre rede for fagenes historiske utvikling og diskutere deres betydning i samfunnsperspektiv"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K961",
+        "uri": "http://psi.udir.no/kl06/K961",
+        "url-data": "http://data.udir.no/kl06/K961",
+        "tittel": "diskutere hva skogen betyr som ressurs og råstoffkilde"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K962",
+        "uri": "http://psi.udir.no/kl06/K962",
+        "url-data": "http://data.udir.no/kl06/K962",
+        "tittel": "gjøre rede for egenskaper ved og bruksområder for trematerialer og andre relevante materialer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K963",
+        "uri": "http://psi.udir.no/kl06/K963",
+        "url-data": "http://data.udir.no/kl06/K963",
+        "tittel": "måle og beregne trefuktighet og gjøre rede for hvordan tørkeprosessen påvirker materialenes egenskaper"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K964",
+        "uri": "http://psi.udir.no/kl06/K964",
+        "url-data": "http://data.udir.no/kl06/K964",
+        "tittel": "gjøre rede for egenskaper, bruksområder og påføringsmetoder for aktuelle limtyper"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K965",
+        "uri": "http://psi.udir.no/kl06/K965",
+        "url-data": "http://data.udir.no/kl06/K965",
+        "tittel": "drøfte sammenhenger mellom idé, design og produksjonsteknikk"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K966",
+        "uri": "http://psi.udir.no/kl06/K966",
+        "url-data": "http://data.udir.no/kl06/K966",
+        "tittel": "bruke tegninger i planlegging og produksjon"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K967",
+        "uri": "http://psi.udir.no/kl06/K967",
+        "url-data": "http://data.udir.no/kl06/K967",
+        "tittel": "bruke dataassisterte tegneprogrammer til å lage skjemategninger, enkle arbeidstegninger og arbeidsbeskrivelser og overføre disse til en datastyrt maskin"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K968",
+        "uri": "http://psi.udir.no/kl06/K968",
+        "url-data": "http://data.udir.no/kl06/K968",
+        "tittel": "gjøre rede for sentrale miljø- og kvalitetsstandarder innen treteknikk"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K969",
+        "uri": "http://psi.udir.no/kl06/K969",
+        "url-data": "http://data.udir.no/kl06/K969",
+        "tittel": "gi eksempler på hvordan avtaleverket regulerer forholdet mellom arbeidstaker og arbeidsgiver"
+      }
+    ]
+  },
+  {
+    "id": "BATRT2----",
+    "name": "Treteknikk",
+    "programUrl": "https://www.udir.no/kl06/BATRT2----",
+    "lareplanUrl": "https://data.udir.no/kl06/TRT2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K960",
+        "uri": "http://psi.udir.no/kl06/K960",
+        "url-data": "http://data.udir.no/kl06/K960",
+        "tittel": "gjøre rede for fagenes historiske utvikling og diskutere deres betydning i samfunnsperspektiv"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K961",
+        "uri": "http://psi.udir.no/kl06/K961",
+        "url-data": "http://data.udir.no/kl06/K961",
+        "tittel": "diskutere hva skogen betyr som ressurs og råstoffkilde"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K962",
+        "uri": "http://psi.udir.no/kl06/K962",
+        "url-data": "http://data.udir.no/kl06/K962",
+        "tittel": "gjøre rede for egenskaper ved og bruksområder for trematerialer og andre relevante materialer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K963",
+        "uri": "http://psi.udir.no/kl06/K963",
+        "url-data": "http://data.udir.no/kl06/K963",
+        "tittel": "måle og beregne trefuktighet og gjøre rede for hvordan tørkeprosessen påvirker materialenes egenskaper"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K964",
+        "uri": "http://psi.udir.no/kl06/K964",
+        "url-data": "http://data.udir.no/kl06/K964",
+        "tittel": "gjøre rede for egenskaper, bruksområder og påføringsmetoder for aktuelle limtyper"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K965",
+        "uri": "http://psi.udir.no/kl06/K965",
+        "url-data": "http://data.udir.no/kl06/K965",
+        "tittel": "drøfte sammenhenger mellom idé, design og produksjonsteknikk"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K966",
+        "uri": "http://psi.udir.no/kl06/K966",
+        "url-data": "http://data.udir.no/kl06/K966",
+        "tittel": "bruke tegninger i planlegging og produksjon"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K967",
+        "uri": "http://psi.udir.no/kl06/K967",
+        "url-data": "http://data.udir.no/kl06/K967",
+        "tittel": "bruke dataassisterte tegneprogrammer til å lage skjemategninger, enkle arbeidstegninger og arbeidsbeskrivelser og overføre disse til en datastyrt maskin"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K968",
+        "uri": "http://psi.udir.no/kl06/K968",
+        "url-data": "http://data.udir.no/kl06/K968",
+        "tittel": "gjøre rede for sentrale miljø- og kvalitetsstandarder innen treteknikk"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K969",
+        "uri": "http://psi.udir.no/kl06/K969",
+        "url-data": "http://data.udir.no/kl06/K969",
+        "tittel": "gi eksempler på hvordan avtaleverket regulerer forholdet mellom arbeidstaker og arbeidsgiver"
+      }
+    ]
+  },
+  {
+    "id": "BATRT2----",
+    "name": "Treteknikk",
+    "programUrl": "https://www.udir.no/kl06/BATRT2----",
+    "lareplanUrl": "https://data.udir.no/kl06/TRT2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K960",
+        "uri": "http://psi.udir.no/kl06/K960",
+        "url-data": "http://data.udir.no/kl06/K960",
+        "tittel": "gjøre rede for fagenes historiske utvikling og diskutere deres betydning i samfunnsperspektiv"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K961",
+        "uri": "http://psi.udir.no/kl06/K961",
+        "url-data": "http://data.udir.no/kl06/K961",
+        "tittel": "diskutere hva skogen betyr som ressurs og råstoffkilde"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K962",
+        "uri": "http://psi.udir.no/kl06/K962",
+        "url-data": "http://data.udir.no/kl06/K962",
+        "tittel": "gjøre rede for egenskaper ved og bruksområder for trematerialer og andre relevante materialer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K963",
+        "uri": "http://psi.udir.no/kl06/K963",
+        "url-data": "http://data.udir.no/kl06/K963",
+        "tittel": "måle og beregne trefuktighet og gjøre rede for hvordan tørkeprosessen påvirker materialenes egenskaper"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K964",
+        "uri": "http://psi.udir.no/kl06/K964",
+        "url-data": "http://data.udir.no/kl06/K964",
+        "tittel": "gjøre rede for egenskaper, bruksområder og påføringsmetoder for aktuelle limtyper"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K965",
+        "uri": "http://psi.udir.no/kl06/K965",
+        "url-data": "http://data.udir.no/kl06/K965",
+        "tittel": "drøfte sammenhenger mellom idé, design og produksjonsteknikk"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K966",
+        "uri": "http://psi.udir.no/kl06/K966",
+        "url-data": "http://data.udir.no/kl06/K966",
+        "tittel": "bruke tegninger i planlegging og produksjon"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K967",
+        "uri": "http://psi.udir.no/kl06/K967",
+        "url-data": "http://data.udir.no/kl06/K967",
+        "tittel": "bruke dataassisterte tegneprogrammer til å lage skjemategninger, enkle arbeidstegninger og arbeidsbeskrivelser og overføre disse til en datastyrt maskin"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K968",
+        "uri": "http://psi.udir.no/kl06/K968",
+        "url-data": "http://data.udir.no/kl06/K968",
+        "tittel": "gjøre rede for sentrale miljø- og kvalitetsstandarder innen treteknikk"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K969",
+        "uri": "http://psi.udir.no/kl06/K969",
+        "url-data": "http://data.udir.no/kl06/K969",
+        "tittel": "gi eksempler på hvordan avtaleverket regulerer forholdet mellom arbeidstaker og arbeidsgiver"
+      }
+    ]
+  },
+  {
+    "id": "BABDR3----",
+    "name": "Byggdrifterfaget",
+    "programUrl": "https://www.udir.no/kl06/BABDR3----",
+    "lareplanUrl": "https://data.udir.no/kl06/BDR3-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16601",
+        "uri": "http://psi.udir.no/kl06/K16601",
+        "url-data": "http://data.udir.no/kl06/K16601",
+        "tittel": "planlegge, gjennomføre, dokumentere og vurdere eget arbeid"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16602",
+        "uri": "http://psi.udir.no/kl06/K16602",
+        "url-data": "http://data.udir.no/kl06/K16602",
+        "tittel": "utføre enkle reparasjoner og vedlikehold som ikke krever annen fagkompetanse "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16603",
+        "uri": "http://psi.udir.no/kl06/K16603",
+        "url-data": "http://data.udir.no/kl06/K16603",
+        "tittel": "kartlegge drifts- og vedlikeholdsbehov og foreta daglig ettersyn av bygg og uteanlegg etter gjeldende regelverk  "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16604",
+        "uri": "http://psi.udir.no/kl06/K16604",
+        "url-data": "http://data.udir.no/kl06/K16604",
+        "tittel": "kontrollere og rengjøre pumpeanlegg for grunnvann og avløp"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16605",
+        "uri": "http://psi.udir.no/kl06/K16605",
+        "url-data": "http://data.udir.no/kl06/K16605",
+        "tittel": "forebygge vannskader fra vann- og avløpsinstallasjoner "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16606",
+        "uri": "http://psi.udir.no/kl06/K16606",
+        "url-data": "http://data.udir.no/kl06/K16606",
+        "tittel": "utføre ettersyn, oppstart og nedstenging av varme- og kjøleanlegg "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16607",
+        "uri": "http://psi.udir.no/kl06/K16607",
+        "url-data": "http://data.udir.no/kl06/K16607",
+        "tittel": "drifte og etterse ventilasjonsanlegg "
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16608",
+        "uri": "http://psi.udir.no/kl06/K16608",
+        "url-data": "http://data.udir.no/kl06/K16608",
+        "tittel": "utføre korrekt bytte av lyskilder på forskjellige typer armaturer og kunne beskrive de vanligste lysfarger og valg av lyskilder "
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16609",
+        "uri": "http://psi.udir.no/kl06/K16609",
+        "url-data": "http://data.udir.no/kl06/K16609",
+        "tittel": "forklare prinsipper for energiøkonomisering og energiovervåking og konsekvenser av driftsvalg på det ytre miljøet   "
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16610",
+        "uri": "http://psi.udir.no/kl06/K16610",
+        "url-data": "http://data.udir.no/kl06/K16610",
+        "tittel": "beskrive hvordan installasjonene og bruken av bygget påvirker energiforbruk og utslipp"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16611",
+        "uri": "http://psi.udir.no/kl06/K16611",
+        "url-data": "http://data.udir.no/kl06/K16611",
+        "tittel": "beskrive prinsipper for kildesortering og kostnader for ulike typer avfall (avfallsfraksjoner) og kunne betjene avfallssystemer"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16612",
+        "uri": "http://psi.udir.no/kl06/K16612",
+        "url-data": "http://data.udir.no/kl06/K16612",
+        "tittel": "foreta primærhjelp ved heisstans og utføre en elementær driftskontroll for heiser i tråd med forskrifter "
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16613",
+        "uri": "http://psi.udir.no/kl06/K16613",
+        "url-data": "http://data.udir.no/kl06/K16613",
+        "tittel": "gjennomføre egenkontroll av sprinkleranlegg, brannsikringstiltak, rømningsveier og elektroinstallasjoner og kunne betjene brannvarslingsanlegg "
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16614",
+        "uri": "http://psi.udir.no/kl06/K16614",
+        "url-data": "http://data.udir.no/kl06/K16614",
+        "tittel": "forstå prinsipper for nødstrømsforsyning og kunne gjennomføre testkjøring uten last"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16615",
+        "uri": "http://psi.udir.no/kl06/K16615",
+        "url-data": "http://data.udir.no/kl06/K16615",
+        "tittel": "lese systembilder fra SD-anlegg og redegjøre for alarmer og betydningen av avlesningsverdi"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16616",
+        "uri": "http://psi.udir.no/kl06/K16616",
+        "url-data": "http://data.udir.no/kl06/K16616",
+        "tittel": "bruke verne- og sikkerhetsutstyr"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16617",
+        "uri": "http://psi.udir.no/kl06/K16617",
+        "url-data": "http://data.udir.no/kl06/K16617",
+        "tittel": "utføre sikring mot fall og andre ulykker under arbeid i høyden"
+      },
+      {
+        "rekkefoelge": 18,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16618",
+        "uri": "http://psi.udir.no/kl06/K16618",
+        "url-data": "http://data.udir.no/kl06/K16618",
+        "tittel": "utføre arbeid på en ergonomisk riktig måte"
+      },
+      {
+        "rekkefoelge": 19,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16619",
+        "uri": "http://psi.udir.no/kl06/K16619",
+        "url-data": "http://data.udir.no/kl06/K16619",
+        "tittel": "utføre enkel førstehjelp"
+      },
+      {
+        "rekkefoelge": 20,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16620",
+        "uri": "http://psi.udir.no/kl06/K16620",
+        "url-data": "http://data.udir.no/kl06/K16620",
+        "tittel": "samarbeide og kommunisere med kolleger, kunder og/eller brukere i utførelsen av arbeid"
+      },
+      {
+        "rekkefoelge": 21,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1509",
+          "uri": "http://psi.udir.no/kl06/HO1509",
+          "url-data": "http://data.udir.no/kl06/HO1509"
+        },
+        "kode": "K16621",
+        "uri": "http://psi.udir.no/kl06/K16621",
+        "url-data": "http://data.udir.no/kl06/K16621",
+        "tittel": "utføre arbeid i tråd med relevante lover, forskrifter og standarder"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1510",
+          "uri": "http://psi.udir.no/kl06/HO1510",
+          "url-data": "http://data.udir.no/kl06/HO1510"
+        },
+        "kode": "K16622",
+        "uri": "http://psi.udir.no/kl06/K16622",
+        "url-data": "http://data.udir.no/kl06/K16622",
+        "tittel": "gjøre rede for yrkets historie, utvikling og plass i samfunnet"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1510",
+          "uri": "http://psi.udir.no/kl06/HO1510",
+          "url-data": "http://data.udir.no/kl06/HO1510"
+        },
+        "kode": "K16623",
+        "uri": "http://psi.udir.no/kl06/K16623",
+        "url-data": "http://data.udir.no/kl06/K16623",
+        "tittel": "beskrive prinsippene i et kvalitetssikringssystem"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1510",
+          "uri": "http://psi.udir.no/kl06/HO1510",
+          "url-data": "http://data.udir.no/kl06/HO1510"
+        },
+        "kode": "K16624",
+        "uri": "http://psi.udir.no/kl06/K16624",
+        "url-data": "http://data.udir.no/kl06/K16624",
+        "tittel": "arbeide ut fra estetiske hensyn"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1510",
+          "uri": "http://psi.udir.no/kl06/HO1510",
+          "url-data": "http://data.udir.no/kl06/HO1510"
+        },
+        "kode": "K16625",
+        "uri": "http://psi.udir.no/kl06/K16625",
+        "url-data": "http://data.udir.no/kl06/K16625",
+        "tittel": "forklare vannkjemi, prøvetaking og kjemikaliehåndtering ved drift av basseng- og fonteneanlegg og foreta legionella-kontroll"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1510",
+          "uri": "http://psi.udir.no/kl06/HO1510",
+          "url-data": "http://data.udir.no/kl06/HO1510"
+        },
+        "kode": "K16626",
+        "uri": "http://psi.udir.no/kl06/K16626",
+        "url-data": "http://data.udir.no/kl06/K16626",
+        "tittel": "kjenne til forskriftskrav og rutiner for adgangskontroll og kameraovervåking "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1510",
+          "uri": "http://psi.udir.no/kl06/HO1510",
+          "url-data": "http://data.udir.no/kl06/HO1510"
+        },
+        "kode": "K16627",
+        "uri": "http://psi.udir.no/kl06/K16627",
+        "url-data": "http://data.udir.no/kl06/K16627",
+        "tittel": "beskrive rutiner for håndtering og lagring av farlige stoffer og farlig avfall etter gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1510",
+          "uri": "http://psi.udir.no/kl06/HO1510",
+          "url-data": "http://data.udir.no/kl06/HO1510"
+        },
+        "kode": "K16628",
+        "uri": "http://psi.udir.no/kl06/K16628",
+        "url-data": "http://data.udir.no/kl06/K16628",
+        "tittel": "rapportere og kommunisere med fagekspertise og eiere om avvik på funksjoner"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1510",
+          "uri": "http://psi.udir.no/kl06/HO1510",
+          "url-data": "http://data.udir.no/kl06/HO1510"
+        },
+        "kode": "K16629",
+        "uri": "http://psi.udir.no/kl06/K16629",
+        "url-data": "http://data.udir.no/kl06/K16629",
+        "tittel": "drøfte betydningen av samhandling på arbeidsplassen"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1510",
+          "uri": "http://psi.udir.no/kl06/HO1510",
+          "url-data": "http://data.udir.no/kl06/HO1510"
+        },
+        "kode": "K16630",
+        "uri": "http://psi.udir.no/kl06/K16630",
+        "url-data": "http://data.udir.no/kl06/K16630",
+        "tittel": "gjøre rede for ulike ansvarsforhold mellom leietaker og byggeier"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1510",
+          "uri": "http://psi.udir.no/kl06/HO1510",
+          "url-data": "http://data.udir.no/kl06/HO1510"
+        },
+        "kode": "K16631",
+        "uri": "http://psi.udir.no/kl06/K16631",
+        "url-data": "http://data.udir.no/kl06/K16631",
+        "tittel": "forklare sentrale ord og uttrykk innen eiendomsforvaltning"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1510",
+          "uri": "http://psi.udir.no/kl06/HO1510",
+          "url-data": "http://data.udir.no/kl06/HO1510"
+        },
+        "kode": "K16632",
+        "uri": "http://psi.udir.no/kl06/K16632",
+        "url-data": "http://data.udir.no/kl06/K16632",
+        "tittel": "kunne regne ut forbruk av strøm og andre energibærere og kunne regne med enkle formler innenfor berørte fagfelt"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1510",
+          "uri": "http://psi.udir.no/kl06/HO1510",
+          "url-data": "http://data.udir.no/kl06/HO1510"
+        },
+        "kode": "K16633",
+        "uri": "http://psi.udir.no/kl06/K16633",
+        "url-data": "http://data.udir.no/kl06/K16633",
+        "tittel": "forklare sammenhengen mellom valg av løsninger og konsekvenser i forhold til livssykluskostnader "
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1510",
+          "uri": "http://psi.udir.no/kl06/HO1510",
+          "url-data": "http://data.udir.no/kl06/HO1510"
+        },
+        "kode": "K16634",
+        "uri": "http://psi.udir.no/kl06/K16634",
+        "url-data": "http://data.udir.no/kl06/K16634",
+        "tittel": "gjøre rede for energioppfølgingssystem (EOS), loggføringssystemer og FDV-systemer"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1510",
+          "uri": "http://psi.udir.no/kl06/HO1510",
+          "url-data": "http://data.udir.no/kl06/HO1510"
+        },
+        "kode": "K16635",
+        "uri": "http://psi.udir.no/kl06/K16635",
+        "url-data": "http://data.udir.no/kl06/K16635",
+        "tittel": "bruke og forstå bygg- og installasjonstegninger og FDV-dokumentasjon "
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1510",
+          "uri": "http://psi.udir.no/kl06/HO1510",
+          "url-data": "http://data.udir.no/kl06/HO1510"
+        },
+        "kode": "K16636",
+        "uri": "http://psi.udir.no/kl06/K16636",
+        "url-data": "http://data.udir.no/kl06/K16636",
+        "tittel": "forklare funksjonen til de vanligste tekniske anleggene og samspillet mellom bygget og disse anleggene "
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1510",
+          "uri": "http://psi.udir.no/kl06/HO1510",
+          "url-data": "http://data.udir.no/kl06/HO1510"
+        },
+        "kode": "K16637",
+        "uri": "http://psi.udir.no/kl06/K16637",
+        "url-data": "http://data.udir.no/kl06/K16637",
+        "tittel": "forklare bygningers eventuelle vernestatus og ulike tidsepokers bruk av byggemetoder og materialer med hensyn til konsekvenser for drift og vedlikehold "
+      }
+    ]
+  },
+  {
+    "id": "BAFEI3----",
+    "name": "Feierfaget",
+    "programUrl": "https://www.udir.no/kl06/BAFEI3----",
+    "lareplanUrl": "https://data.udir.no/kl06/FEI3-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6595",
+        "uri": "http://psi.udir.no/kl06/K6595",
+        "url-data": "http://data.udir.no/kl06/K6595",
+        "tittel": "planlegge, utføre, dokumentere og vurdere eget arbeid i forbindelse med forebyggende brannvern"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6596",
+        "uri": "http://psi.udir.no/kl06/K6596",
+        "url-data": "http://data.udir.no/kl06/K6596",
+        "tittel": "utføre brannforebyggende tilsyn i henhold til gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6597",
+        "uri": "http://psi.udir.no/kl06/K6597",
+        "url-data": "http://data.udir.no/kl06/K6597",
+        "tittel": "utarbeide og presentere informasjon om forebyggende brannvern"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6598",
+        "uri": "http://psi.udir.no/kl06/K6598",
+        "url-data": "http://data.udir.no/kl06/K6598",
+        "tittel": "kontrollere og feie ulike typer fyringsanlegg etter gjeldende regelverk, krav til brannsikkerhet og kvalitet"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6599",
+        "uri": "http://psi.udir.no/kl06/K6599",
+        "url-data": "http://data.udir.no/kl06/K6599",
+        "tittel": "informere om utslipp av forbrenningsgasser, foreslå og iverksette tiltak som begrenser miljøutslipp"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6600",
+        "uri": "http://psi.udir.no/kl06/K6600",
+        "url-data": "http://data.udir.no/kl06/K6600",
+        "tittel": "veilede om montering og bruk av fyringsanlegg"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6601",
+        "uri": "http://psi.udir.no/kl06/K6601",
+        "url-data": "http://data.udir.no/kl06/K6601",
+        "tittel": "bruke digitale verktøy og utarbeide rapporter i forbindelse med tilsyn og feiing"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6602",
+        "uri": "http://psi.udir.no/kl06/K6602",
+        "url-data": "http://data.udir.no/kl06/K6602",
+        "tittel": "vurdere branntekniske løsninger i bygninger, påpeke avvik og gi anmerkninger"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6603",
+        "uri": "http://psi.udir.no/kl06/K6603",
+        "url-data": "http://data.udir.no/kl06/K6603",
+        "tittel": "utføre røykgassanalyse i fyringsanlegg, vurdere fyringsteknisk tap, stråletap og stillstandstap, og foreslå forbedringstiltak"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6604",
+        "uri": "http://psi.udir.no/kl06/K6604",
+        "url-data": "http://data.udir.no/kl06/K6604",
+        "tittel": "lage og tilpasse nødvendige verktøy for feiing og bruke teknisk utstyr for kontroll av fyringsanlegg"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6605",
+        "uri": "http://psi.udir.no/kl06/K6605",
+        "url-data": "http://data.udir.no/kl06/K6605",
+        "tittel": "bruke egnet verktøy og feie alle typer skorsteiner, røykkanaler og ildsteder"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6606",
+        "uri": "http://psi.udir.no/kl06/K6606",
+        "url-data": "http://data.udir.no/kl06/K6606",
+        "tittel": "justere ildsteder for å forebygge brann, forurensning og beksotdannelse, og veilede om riktig fyring"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6607",
+        "uri": "http://psi.udir.no/kl06/K6607",
+        "url-data": "http://data.udir.no/kl06/K6607",
+        "tittel": "veilede om alternative oppvarmingssystemer og foreslå egnede løsninger"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6608",
+        "uri": "http://psi.udir.no/kl06/K6608",
+        "url-data": "http://data.udir.no/kl06/K6608",
+        "tittel": "vurdere hvordan skorstein, ildsted og ventilasjon fungerer sammen, og foreta beregninger i forbindelse med dette"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6609",
+        "uri": "http://psi.udir.no/kl06/K6609",
+        "url-data": "http://data.udir.no/kl06/K6609",
+        "tittel": "vurdere behov for rehabilitering ut fra skorsteinens tilstand, og foreslå metoder og materialer for utbedring"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6610",
+        "uri": "http://psi.udir.no/kl06/K6610",
+        "url-data": "http://data.udir.no/kl06/K6610",
+        "tittel": "velge og bruke ulike typer slokkemidler og slokkemetoder, og veilede om dem"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6611",
+        "uri": "http://psi.udir.no/kl06/K6611",
+        "url-data": "http://data.udir.no/kl06/K6611",
+        "tittel": "bruke sikkerhets- og verneutstyr i henhold til gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 18,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6612",
+        "uri": "http://psi.udir.no/kl06/K6612",
+        "url-data": "http://data.udir.no/kl06/K6612",
+        "tittel": "følge etiske retningslinjer som gjelder for faget"
+      },
+      {
+        "rekkefoelge": 19,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1115",
+          "uri": "http://psi.udir.no/kl06/HO1115",
+          "url-data": "http://data.udir.no/kl06/HO1115"
+        },
+        "kode": "K6613",
+        "uri": "http://psi.udir.no/kl06/K6613",
+        "url-data": "http://data.udir.no/kl06/K6613",
+        "tittel": "arbeide i samsvar med kravene til helse-, miljø- og sikkerhetstiltak"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1116",
+          "uri": "http://psi.udir.no/kl06/HO1116",
+          "url-data": "http://data.udir.no/kl06/HO1116"
+        },
+        "kode": "K6614",
+        "uri": "http://psi.udir.no/kl06/K6614",
+        "url-data": "http://data.udir.no/kl06/K6614",
+        "tittel": "gjøre rede for fagets opprinnelse, utvikling, organisering og plass i samfunnet"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1116",
+          "uri": "http://psi.udir.no/kl06/HO1116",
+          "url-data": "http://data.udir.no/kl06/HO1116"
+        },
+        "kode": "K6615",
+        "uri": "http://psi.udir.no/kl06/K6615",
+        "url-data": "http://data.udir.no/kl06/K6615",
+        "tittel": "veilede om termiske, mekaniske og branntekniske egenskaper ved ulike bygningsmaterialer"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1116",
+          "uri": "http://psi.udir.no/kl06/HO1116",
+          "url-data": "http://data.udir.no/kl06/HO1116"
+        },
+        "kode": "K6616",
+        "uri": "http://psi.udir.no/kl06/K6616",
+        "url-data": "http://data.udir.no/kl06/K6616",
+        "tittel": "veilede om branntekniske klasseinndelinger av bygningskonstruksjoner og bygningsmaterialer, og skille mellom dem"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1116",
+          "uri": "http://psi.udir.no/kl06/HO1116",
+          "url-data": "http://data.udir.no/kl06/HO1116"
+        },
+        "kode": "K6617",
+        "uri": "http://psi.udir.no/kl06/K6617",
+        "url-data": "http://data.udir.no/kl06/K6617",
+        "tittel": "gjøre rede for gjeldende regelverk for lagring og oppbevaring av brannfarlige varer"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1116",
+          "uri": "http://psi.udir.no/kl06/HO1116",
+          "url-data": "http://data.udir.no/kl06/HO1116"
+        },
+        "kode": "K6618",
+        "uri": "http://psi.udir.no/kl06/K6618",
+        "url-data": "http://data.udir.no/kl06/K6618",
+        "tittel": "gjøre rede for hvordan varslings- og sprinkleranlegg er bygd opp og fungerer"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1116",
+          "uri": "http://psi.udir.no/kl06/HO1116",
+          "url-data": "http://data.udir.no/kl06/HO1116"
+        },
+        "kode": "K6619",
+        "uri": "http://psi.udir.no/kl06/K6619",
+        "url-data": "http://data.udir.no/kl06/K6619",
+        "tittel": "oppfylle bedriftens krav til kundebehandling og samarbeide med kolleger og andre yrkesgrupper"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1116",
+          "uri": "http://psi.udir.no/kl06/HO1116",
+          "url-data": "http://data.udir.no/kl06/HO1116"
+        },
+        "kode": "K6620",
+        "uri": "http://psi.udir.no/kl06/K6620",
+        "url-data": "http://data.udir.no/kl06/K6620",
+        "tittel": "bruke digitale verktøy og finne fram i lover og forskrifter som gjelder for faget"
+      }
+    ]
+  },
+  {
+    "id": "BAGLA3----",
+    "name": "Glassfaget",
+    "programUrl": "https://www.udir.no/kl06/BAGLA3----",
+    "lareplanUrl": "https://data.udir.no/kl06/GLA3-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1110",
+          "uri": "http://psi.udir.no/kl06/HO1110",
+          "url-data": "http://data.udir.no/kl06/HO1110"
+        },
+        "kode": "K855",
+        "uri": "http://psi.udir.no/kl06/K855",
+        "url-data": "http://data.udir.no/kl06/K855",
+        "tittel": "utføre arbeid i henhold til gjeldende regelverk og preaksepterte løsninger"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1110",
+          "uri": "http://psi.udir.no/kl06/HO1110",
+          "url-data": "http://data.udir.no/kl06/HO1110"
+        },
+        "kode": "K856",
+        "uri": "http://psi.udir.no/kl06/K856",
+        "url-data": "http://data.udir.no/kl06/K856",
+        "tittel": "skjære og bearbeide glass, plast, kartong og metaller ved å bruke ulike metoder"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1110",
+          "uri": "http://psi.udir.no/kl06/HO1110",
+          "url-data": "http://data.udir.no/kl06/HO1110"
+        },
+        "kode": "K857",
+        "uri": "http://psi.udir.no/kl06/K857",
+        "url-data": "http://data.udir.no/kl06/K857",
+        "tittel": "kappe til og sette sammen rammer av ulike materialer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1110",
+          "uri": "http://psi.udir.no/kl06/HO1110",
+          "url-data": "http://data.udir.no/kl06/HO1110"
+        },
+        "kode": "K858",
+        "uri": "http://psi.udir.no/kl06/K858",
+        "url-data": "http://data.udir.no/kl06/K858",
+        "tittel": "utføre liming på glass og sette sammen deler til forskjellige typer glassprodukter"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1110",
+          "uri": "http://psi.udir.no/kl06/HO1110",
+          "url-data": "http://data.udir.no/kl06/HO1110"
+        },
+        "kode": "K859",
+        "uri": "http://psi.udir.no/kl06/K859",
+        "url-data": "http://data.udir.no/kl06/K859",
+        "tittel": "kappe og sette sammen fasadekonstruksjoner og skråstilte konstruksjoner i aluminium"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1110",
+          "uri": "http://psi.udir.no/kl06/HO1110",
+          "url-data": "http://data.udir.no/kl06/HO1110"
+        },
+        "kode": "K860",
+        "uri": "http://psi.udir.no/kl06/K860",
+        "url-data": "http://data.udir.no/kl06/K860",
+        "tittel": "produsere isolerruter i ulike dimensjoner og fasonger"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1110",
+          "uri": "http://psi.udir.no/kl06/HO1110",
+          "url-data": "http://data.udir.no/kl06/HO1110"
+        },
+        "kode": "K861",
+        "uri": "http://psi.udir.no/kl06/K861",
+        "url-data": "http://data.udir.no/kl06/K861",
+        "tittel": "utføre sammenføying, innfesting og fuging i ulike typer bygningsmaterialer"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1110",
+          "uri": "http://psi.udir.no/kl06/HO1110",
+          "url-data": "http://data.udir.no/kl06/HO1110"
+        },
+        "kode": "K862",
+        "uri": "http://psi.udir.no/kl06/K862",
+        "url-data": "http://data.udir.no/kl06/K862",
+        "tittel": "transportere, lagre, oppbevare og emballere ulike typer produkter"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1110",
+          "uri": "http://psi.udir.no/kl06/HO1110",
+          "url-data": "http://data.udir.no/kl06/HO1110"
+        },
+        "kode": "K863",
+        "uri": "http://psi.udir.no/kl06/K863",
+        "url-data": "http://data.udir.no/kl06/K863",
+        "tittel": "velge ut, bruke og vedlikeholde maskiner, redskaper og utstyr"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1110",
+          "uri": "http://psi.udir.no/kl06/HO1110",
+          "url-data": "http://data.udir.no/kl06/HO1110"
+        },
+        "kode": "K864",
+        "uri": "http://psi.udir.no/kl06/K864",
+        "url-data": "http://data.udir.no/kl06/K864",
+        "tittel": "vurdere risiko og utføre arbeidet i samsvar med kravene til helse-, miljø- og sikkerhetstiltak og bedriftens kvalitetssikringssystem"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1110",
+          "uri": "http://psi.udir.no/kl06/HO1110",
+          "url-data": "http://data.udir.no/kl06/HO1110"
+        },
+        "kode": "K865",
+        "uri": "http://psi.udir.no/kl06/K865",
+        "url-data": "http://data.udir.no/kl06/K865",
+        "tittel": "bruke digitale kalkulasjons- og regneprogrammer for energibesparelse og dimensjonering av glass"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1110",
+          "uri": "http://psi.udir.no/kl06/HO1110",
+          "url-data": "http://data.udir.no/kl06/HO1110"
+        },
+        "kode": "K866",
+        "uri": "http://psi.udir.no/kl06/K866",
+        "url-data": "http://data.udir.no/kl06/K866",
+        "tittel": "bruke digitale verktøy i kommunikasjon med kunder, leverandører og andre samarbeidspartnere"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1110",
+          "uri": "http://psi.udir.no/kl06/HO1110",
+          "url-data": "http://data.udir.no/kl06/HO1110"
+        },
+        "kode": "K867",
+        "uri": "http://psi.udir.no/kl06/K867",
+        "url-data": "http://data.udir.no/kl06/K867",
+        "tittel": "følge gjeldende regelverk for helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1110",
+          "uri": "http://psi.udir.no/kl06/HO1110",
+          "url-data": "http://data.udir.no/kl06/HO1110"
+        },
+        "kode": "K868",
+        "uri": "http://psi.udir.no/kl06/K868",
+        "url-data": "http://data.udir.no/kl06/K868",
+        "tittel": "håndtere avfall og materialer i forbindelse med en produksjon som ivaretar kravene til sikkerhet, miljø og ressursbruk"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1110",
+          "uri": "http://psi.udir.no/kl06/HO1110",
+          "url-data": "http://data.udir.no/kl06/HO1110"
+        },
+        "kode": "K869",
+        "uri": "http://psi.udir.no/kl06/K869",
+        "url-data": "http://data.udir.no/kl06/K869",
+        "tittel": "lage enkle skisser og arbeidstegninger"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1110",
+          "uri": "http://psi.udir.no/kl06/HO1110",
+          "url-data": "http://data.udir.no/kl06/HO1110"
+        },
+        "kode": "K870",
+        "uri": "http://psi.udir.no/kl06/K870",
+        "url-data": "http://data.udir.no/kl06/K870",
+        "tittel": "lese og bruke tegninger og beskrivelser i forbindelse med produksjon"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1110",
+          "uri": "http://psi.udir.no/kl06/HO1110",
+          "url-data": "http://data.udir.no/kl06/HO1110"
+        },
+        "kode": "K871",
+        "uri": "http://psi.udir.no/kl06/K871",
+        "url-data": "http://data.udir.no/kl06/K871",
+        "tittel": "dokumentere gjennomført kurs i varmearbeider"
+      },
+      {
+        "rekkefoelge": 18,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1110",
+          "uri": "http://psi.udir.no/kl06/HO1110",
+          "url-data": "http://data.udir.no/kl06/HO1110"
+        },
+        "kode": "K872",
+        "uri": "http://psi.udir.no/kl06/K872",
+        "url-data": "http://data.udir.no/kl06/K872",
+        "tittel": "bruke egnet verne- og sikkerhetsutstyr i forbindelse med arbeidet"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1111",
+          "uri": "http://psi.udir.no/kl06/HO1111",
+          "url-data": "http://data.udir.no/kl06/HO1111"
+        },
+        "kode": "K873",
+        "uri": "http://psi.udir.no/kl06/K873",
+        "url-data": "http://data.udir.no/kl06/K873",
+        "tittel": "planlegge, utføre, dokumentere og vurdere eget arbeid i forbindelse med montering og service"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1111",
+          "uri": "http://psi.udir.no/kl06/HO1111",
+          "url-data": "http://data.udir.no/kl06/HO1111"
+        },
+        "kode": "K874",
+        "uri": "http://psi.udir.no/kl06/K874",
+        "url-data": "http://data.udir.no/kl06/K874",
+        "tittel": "velge ut og bruke materialer tilpasset arbeidsoppgaven og i samsvar med gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1111",
+          "uri": "http://psi.udir.no/kl06/HO1111",
+          "url-data": "http://data.udir.no/kl06/HO1111"
+        },
+        "kode": "K875",
+        "uri": "http://psi.udir.no/kl06/K875",
+        "url-data": "http://data.udir.no/kl06/K875",
+        "tittel": "montere glass og plast i ulike rammematerialer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1111",
+          "uri": "http://psi.udir.no/kl06/HO1111",
+          "url-data": "http://data.udir.no/kl06/HO1111"
+        },
+        "kode": "K876",
+        "uri": "http://psi.udir.no/kl06/K876",
+        "url-data": "http://data.udir.no/kl06/K876",
+        "tittel": "ramme inn fotografier, kunst og andre objekter"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1111",
+          "uri": "http://psi.udir.no/kl06/HO1111",
+          "url-data": "http://data.udir.no/kl06/HO1111"
+        },
+        "kode": "K877",
+        "uri": "http://psi.udir.no/kl06/K877",
+        "url-data": "http://data.udir.no/kl06/K877",
+        "tittel": "montere dører, vinduer og fasadekonstruksjoner og skråstilte konstruksjoner"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1111",
+          "uri": "http://psi.udir.no/kl06/HO1111",
+          "url-data": "http://data.udir.no/kl06/HO1111"
+        },
+        "kode": "K878",
+        "uri": "http://psi.udir.no/kl06/K878",
+        "url-data": "http://data.udir.no/kl06/K878",
+        "tittel": "utføre service på vinduer, dører og ulike typer fasadekonstruksjoner og skråstilte konstruksjoner"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1111",
+          "uri": "http://psi.udir.no/kl06/HO1111",
+          "url-data": "http://data.udir.no/kl06/HO1111"
+        },
+        "kode": "K879",
+        "uri": "http://psi.udir.no/kl06/K879",
+        "url-data": "http://data.udir.no/kl06/K879",
+        "tittel": "gjøre rede for ulike typer solavskjerminger og utføre montasje, service og vedlikehold av dem"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1111",
+          "uri": "http://psi.udir.no/kl06/HO1111",
+          "url-data": "http://data.udir.no/kl06/HO1111"
+        },
+        "kode": "K880",
+        "uri": "http://psi.udir.no/kl06/K880",
+        "url-data": "http://data.udir.no/kl06/K880",
+        "tittel": "montere og vedlikeholde ulike typer låser og beslag"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1111",
+          "uri": "http://psi.udir.no/kl06/HO1111",
+          "url-data": "http://data.udir.no/kl06/HO1111"
+        },
+        "kode": "K881",
+        "uri": "http://psi.udir.no/kl06/K881",
+        "url-data": "http://data.udir.no/kl06/K881",
+        "tittel": "montere, reparere og vedlikeholde ulike typer glasskonstruksjoner"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1111",
+          "uri": "http://psi.udir.no/kl06/HO1111",
+          "url-data": "http://data.udir.no/kl06/HO1111"
+        },
+        "kode": "K882",
+        "uri": "http://psi.udir.no/kl06/K882",
+        "url-data": "http://data.udir.no/kl06/K882",
+        "tittel": "gjøre rede for hvordan ruter med bly- og messinginnfatning er sammensatt, og utføre reparasjoner på dem"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1111",
+          "uri": "http://psi.udir.no/kl06/HO1111",
+          "url-data": "http://data.udir.no/kl06/HO1111"
+        },
+        "kode": "K883",
+        "uri": "http://psi.udir.no/kl06/K883",
+        "url-data": "http://data.udir.no/kl06/K883",
+        "tittel": "utføre nødvendig forarbeid på karosserier, reparere og montere glass i transportmidler"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1111",
+          "uri": "http://psi.udir.no/kl06/HO1111",
+          "url-data": "http://data.udir.no/kl06/HO1111"
+        },
+        "kode": "K884",
+        "uri": "http://psi.udir.no/kl06/K884",
+        "url-data": "http://data.udir.no/kl06/K884",
+        "tittel": "montere og utføre service på ulike produkter"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1111",
+          "uri": "http://psi.udir.no/kl06/HO1111",
+          "url-data": "http://data.udir.no/kl06/HO1111"
+        },
+        "kode": "K885",
+        "uri": "http://psi.udir.no/kl06/K885",
+        "url-data": "http://data.udir.no/kl06/K885",
+        "tittel": "håndtere avfall og materialer i forbindelse med montering og service som ivaretar krav til sikkerhet, miljø og ressursbruk"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1111",
+          "uri": "http://psi.udir.no/kl06/HO1111",
+          "url-data": "http://data.udir.no/kl06/HO1111"
+        },
+        "kode": "K886",
+        "uri": "http://psi.udir.no/kl06/K886",
+        "url-data": "http://data.udir.no/kl06/K886",
+        "tittel": "lese og bruke tegninger og beskrivelser i forbindelse med montering og service"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1111",
+          "uri": "http://psi.udir.no/kl06/HO1111",
+          "url-data": "http://data.udir.no/kl06/HO1111"
+        },
+        "kode": "K887",
+        "uri": "http://psi.udir.no/kl06/K887",
+        "url-data": "http://data.udir.no/kl06/K887",
+        "tittel": "følge gjeldende forskrifter ved bruk av stillas, trapper og stiger"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1111",
+          "uri": "http://psi.udir.no/kl06/HO1111",
+          "url-data": "http://data.udir.no/kl06/HO1111"
+        },
+        "kode": "K888",
+        "uri": "http://psi.udir.no/kl06/K888",
+        "url-data": "http://data.udir.no/kl06/K888",
+        "tittel": "utføre arbeid i henhold til gjeldende regelverk og etiske retningslinjer for faget"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1112",
+          "uri": "http://psi.udir.no/kl06/HO1112",
+          "url-data": "http://data.udir.no/kl06/HO1112"
+        },
+        "kode": "K889",
+        "uri": "http://psi.udir.no/kl06/K889",
+        "url-data": "http://data.udir.no/kl06/K889",
+        "tittel": "gjøre rede for hovedtrekk ved fagets historiske utvikling og samfunnsmessige betydning"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1112",
+          "uri": "http://psi.udir.no/kl06/HO1112",
+          "url-data": "http://data.udir.no/kl06/HO1112"
+        },
+        "kode": "K890",
+        "uri": "http://psi.udir.no/kl06/K890",
+        "url-data": "http://data.udir.no/kl06/K890",
+        "tittel": "gjøre rede for egenskapene til glass, plast, metaller, lim og fugemasser og for deres funksjons- og bruksområder"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1112",
+          "uri": "http://psi.udir.no/kl06/HO1112",
+          "url-data": "http://data.udir.no/kl06/HO1112"
+        },
+        "kode": "K891",
+        "uri": "http://psi.udir.no/kl06/K891",
+        "url-data": "http://data.udir.no/kl06/K891",
+        "tittel": "kartlegge kundenes behov, veilede og informere om aktuelle løsninger"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1112",
+          "uri": "http://psi.udir.no/kl06/HO1112",
+          "url-data": "http://data.udir.no/kl06/HO1112"
+        },
+        "kode": "K892",
+        "uri": "http://psi.udir.no/kl06/K892",
+        "url-data": "http://data.udir.no/kl06/K892",
+        "tittel": "finne fram og ta i bruk relevant informasjon ved å bruke digitale verktøy"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1112",
+          "uri": "http://psi.udir.no/kl06/HO1112",
+          "url-data": "http://data.udir.no/kl06/HO1112"
+        },
+        "kode": "K893",
+        "uri": "http://psi.udir.no/kl06/K893",
+        "url-data": "http://data.udir.no/kl06/K893",
+        "tittel": "gjøre rede for ulike produkt- og arbeidsområder"
+      }
+    ]
+  },
+  {
+    "id": "BAISO3----",
+    "name": "Isolatørfaget",
+    "programUrl": "https://www.udir.no/kl06/BAISO3----",
+    "lareplanUrl": "https://data.udir.no/kl06/ISO3-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1130",
+          "uri": "http://psi.udir.no/kl06/HO1130",
+          "url-data": "http://data.udir.no/kl06/HO1130"
+        },
+        "kode": "K4006",
+        "uri": "http://psi.udir.no/kl06/K4006",
+        "url-data": "http://data.udir.no/kl06/K4006",
+        "tittel": "planlegge, utføre, dokumentere og vurdere eget arbeid i forbindelse med isolering og overflatebeskyttelse"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1130",
+          "uri": "http://psi.udir.no/kl06/HO1130",
+          "url-data": "http://data.udir.no/kl06/HO1130"
+        },
+        "kode": "K4007",
+        "uri": "http://psi.udir.no/kl06/K4007",
+        "url-data": "http://data.udir.no/kl06/K4007",
+        "tittel": "utføre arbeid i henhold til gjeldende regelverk for faget"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1130",
+          "uri": "http://psi.udir.no/kl06/HO1130",
+          "url-data": "http://data.udir.no/kl06/HO1130"
+        },
+        "kode": "K4008",
+        "uri": "http://psi.udir.no/kl06/K4008",
+        "url-data": "http://data.udir.no/kl06/K4008",
+        "tittel": "velge ut og montere isolasjons- og brannsikringsprodukter mot varme, kulde, brann og lyd"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1130",
+          "uri": "http://psi.udir.no/kl06/HO1130",
+          "url-data": "http://data.udir.no/kl06/HO1130"
+        },
+        "kode": "K4009",
+        "uri": "http://psi.udir.no/kl06/K4009",
+        "url-data": "http://data.udir.no/kl06/K4009",
+        "tittel": "velge branntettingsmetode og utføre ulike typer passiv brannbeskyttelse innen bygg, industri, på skip og offshore"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1130",
+          "uri": "http://psi.udir.no/kl06/HO1130",
+          "url-data": "http://data.udir.no/kl06/HO1130"
+        },
+        "kode": "K4010",
+        "uri": "http://psi.udir.no/kl06/K4010",
+        "url-data": "http://data.udir.no/kl06/K4010",
+        "tittel": "montere ulike typer isolasjon og overflatebeskyttelse på rør, ventiler, beholdere og tankanlegg"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1130",
+          "uri": "http://psi.udir.no/kl06/HO1130",
+          "url-data": "http://data.udir.no/kl06/HO1130"
+        },
+        "kode": "K4011",
+        "uri": "http://psi.udir.no/kl06/K4011",
+        "url-data": "http://data.udir.no/kl06/K4011",
+        "tittel": "bruke ulike typer tynnplatemetaller og lage overflatebeskyttelse og festeanordninger til rør, ventiler, beholdere og tankanlegg"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1130",
+          "uri": "http://psi.udir.no/kl06/HO1130",
+          "url-data": "http://data.udir.no/kl06/HO1130"
+        },
+        "kode": "K4012",
+        "uri": "http://psi.udir.no/kl06/K4012",
+        "url-data": "http://data.udir.no/kl06/K4012",
+        "tittel": "lage og montere isolasjons- og brannsikringsputer"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1130",
+          "uri": "http://psi.udir.no/kl06/HO1130",
+          "url-data": "http://data.udir.no/kl06/HO1130"
+        },
+        "kode": "K4013",
+        "uri": "http://psi.udir.no/kl06/K4013",
+        "url-data": "http://data.udir.no/kl06/K4013",
+        "tittel": "montere isolasjonsjakker"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1130",
+          "uri": "http://psi.udir.no/kl06/HO1130",
+          "url-data": "http://data.udir.no/kl06/HO1130"
+        },
+        "kode": "K4014",
+        "uri": "http://psi.udir.no/kl06/K4014",
+        "url-data": "http://data.udir.no/kl06/K4014",
+        "tittel": "dokumentere gjennomført kurs i varme arbeider"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1130",
+          "uri": "http://psi.udir.no/kl06/HO1130",
+          "url-data": "http://data.udir.no/kl06/HO1130"
+        },
+        "kode": "K4015",
+        "uri": "http://psi.udir.no/kl06/K4015",
+        "url-data": "http://data.udir.no/kl06/K4015",
+        "tittel": "velge ut og bruke verktøy og utstyr"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1130",
+          "uri": "http://psi.udir.no/kl06/HO1130",
+          "url-data": "http://data.udir.no/kl06/HO1130"
+        },
+        "kode": "K4016",
+        "uri": "http://psi.udir.no/kl06/K4016",
+        "url-data": "http://data.udir.no/kl06/K4016",
+        "tittel": "foreta målinger og utarbeide skisser for prefabrikkering i samsvar med tegninger, skjemaer og standarder"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1130",
+          "uri": "http://psi.udir.no/kl06/HO1130",
+          "url-data": "http://data.udir.no/kl06/HO1130"
+        },
+        "kode": "K4017",
+        "uri": "http://psi.udir.no/kl06/K4017",
+        "url-data": "http://data.udir.no/kl06/K4017",
+        "tittel": "montere veggsystemer, himlinger, dører, vinduer og møbler"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1130",
+          "uri": "http://psi.udir.no/kl06/HO1130",
+          "url-data": "http://data.udir.no/kl06/HO1130"
+        },
+        "kode": "K4018",
+        "uri": "http://psi.udir.no/kl06/K4018",
+        "url-data": "http://data.udir.no/kl06/K4018",
+        "tittel": "montere kjøle- og fryseromspaneler, porter og dører"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1130",
+          "uri": "http://psi.udir.no/kl06/HO1130",
+          "url-data": "http://data.udir.no/kl06/HO1130"
+        },
+        "kode": "K4019",
+        "uri": "http://psi.udir.no/kl06/K4019",
+        "url-data": "http://data.udir.no/kl06/K4019",
+        "tittel": "tegne, utfolde, lage og montere overflatebeskyttelse"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1130",
+          "uri": "http://psi.udir.no/kl06/HO1130",
+          "url-data": "http://data.udir.no/kl06/HO1130"
+        },
+        "kode": "K4020",
+        "uri": "http://psi.udir.no/kl06/K4020",
+        "url-data": "http://data.udir.no/kl06/K4020",
+        "tittel": "bruke materialer som ivaretar hensyn til miljø og økonomi"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1130",
+          "uri": "http://psi.udir.no/kl06/HO1130",
+          "url-data": "http://data.udir.no/kl06/HO1130"
+        },
+        "kode": "K4021",
+        "uri": "http://psi.udir.no/kl06/K4021",
+        "url-data": "http://data.udir.no/kl06/K4021",
+        "tittel": "utføre arbeid i henhold til gjeldende regler for helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1130",
+          "uri": "http://psi.udir.no/kl06/HO1130",
+          "url-data": "http://data.udir.no/kl06/HO1130"
+        },
+        "kode": "K4022",
+        "uri": "http://psi.udir.no/kl06/K4022",
+        "url-data": "http://data.udir.no/kl06/K4022",
+        "tittel": "gjøre rede for egenskapene til materialer som brukes i produksjonen"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1131",
+          "uri": "http://psi.udir.no/kl06/HO1131",
+          "url-data": "http://data.udir.no/kl06/HO1131"
+        },
+        "kode": "K4023",
+        "uri": "http://psi.udir.no/kl06/K4023",
+        "url-data": "http://data.udir.no/kl06/K4023",
+        "tittel": "gjøre rede for fagets opprinnelse og plass i samfunnet"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1131",
+          "uri": "http://psi.udir.no/kl06/HO1131",
+          "url-data": "http://data.udir.no/kl06/HO1131"
+        },
+        "kode": "K4024",
+        "uri": "http://psi.udir.no/kl06/K4024",
+        "url-data": "http://data.udir.no/kl06/K4024",
+        "tittel": "lese og bruke tegninger, beskrivelser og monteringsanvisninger"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1131",
+          "uri": "http://psi.udir.no/kl06/HO1131",
+          "url-data": "http://data.udir.no/kl06/HO1131"
+        },
+        "kode": "K4025",
+        "uri": "http://psi.udir.no/kl06/K4025",
+        "url-data": "http://data.udir.no/kl06/K4025",
+        "tittel": "utarbeide skisser etter målestokk"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1131",
+          "uri": "http://psi.udir.no/kl06/HO1131",
+          "url-data": "http://data.udir.no/kl06/HO1131"
+        },
+        "kode": "K4026",
+        "uri": "http://psi.udir.no/kl06/K4026",
+        "url-data": "http://data.udir.no/kl06/K4026",
+        "tittel": "gjøre rede for montering av flytende dørk og datagulv"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1131",
+          "uri": "http://psi.udir.no/kl06/HO1131",
+          "url-data": "http://data.udir.no/kl06/HO1131"
+        },
+        "kode": "K4027",
+        "uri": "http://psi.udir.no/kl06/K4027",
+        "url-data": "http://data.udir.no/kl06/K4027",
+        "tittel": "følge bedriftens kvalitetssikringssystem"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1131",
+          "uri": "http://psi.udir.no/kl06/HO1131",
+          "url-data": "http://data.udir.no/kl06/HO1131"
+        },
+        "kode": "K4028",
+        "uri": "http://psi.udir.no/kl06/K4028",
+        "url-data": "http://data.udir.no/kl06/K4028",
+        "tittel": "veilede kunder om materialer som ivaretar hensyn til miljø og økonomi"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1131",
+          "uri": "http://psi.udir.no/kl06/HO1131",
+          "url-data": "http://data.udir.no/kl06/HO1131"
+        },
+        "kode": "K4029",
+        "uri": "http://psi.udir.no/kl06/K4029",
+        "url-data": "http://data.udir.no/kl06/K4029",
+        "tittel": "beregne materialforbruk knyttet til ulike arbeidsoppgaver"
+      }
+    ]
+  },
+  {
+    "id": "BASTE3----",
+    "name": "Steinfaget",
+    "programUrl": "https://www.udir.no/kl06/BASTE3----",
+    "lareplanUrl": "https://data.udir.no/kl06/STE3-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1136",
+          "uri": "http://psi.udir.no/kl06/HO1136",
+          "url-data": "http://data.udir.no/kl06/HO1136"
+        },
+        "kode": "K4253",
+        "uri": "http://psi.udir.no/kl06/K4253",
+        "url-data": "http://data.udir.no/kl06/K4253",
+        "tittel": "planlegge, utføre, dokumentere og vurdere eget arbeid i forbindelse med bruddvirksomhet"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1136",
+          "uri": "http://psi.udir.no/kl06/HO1136",
+          "url-data": "http://data.udir.no/kl06/HO1136"
+        },
+        "kode": "K4254",
+        "uri": "http://psi.udir.no/kl06/K4254",
+        "url-data": "http://data.udir.no/kl06/K4254",
+        "tittel": "gjøre rede for egenskapene ved ulike typer bergarter"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1136",
+          "uri": "http://psi.udir.no/kl06/HO1136",
+          "url-data": "http://data.udir.no/kl06/HO1136"
+        },
+        "kode": "K4255",
+        "uri": "http://psi.udir.no/kl06/K4255",
+        "url-data": "http://data.udir.no/kl06/K4255",
+        "tittel": "vurdere borbarhet og sprengbarhet av ulike typer bergarter"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1136",
+          "uri": "http://psi.udir.no/kl06/HO1136",
+          "url-data": "http://data.udir.no/kl06/HO1136"
+        },
+        "kode": "K4256",
+        "uri": "http://psi.udir.no/kl06/K4256",
+        "url-data": "http://data.udir.no/kl06/K4256",
+        "tittel": "anvise bust, kløyv og svall i ulike typer bergarter"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1136",
+          "uri": "http://psi.udir.no/kl06/HO1136",
+          "url-data": "http://data.udir.no/kl06/HO1136"
+        },
+        "kode": "K4257",
+        "uri": "http://psi.udir.no/kl06/K4257",
+        "url-data": "http://data.udir.no/kl06/K4257",
+        "tittel": "planlegge og gjennomføre boring i ulike typer bergarter"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1136",
+          "uri": "http://psi.udir.no/kl06/HO1136",
+          "url-data": "http://data.udir.no/kl06/HO1136"
+        },
+        "kode": "K4258",
+        "uri": "http://psi.udir.no/kl06/K4258",
+        "url-data": "http://data.udir.no/kl06/K4258",
+        "tittel": "bruke maskiner og produksjonsutstyr og foreta enkelt vedlikehold"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1136",
+          "uri": "http://psi.udir.no/kl06/HO1136",
+          "url-data": "http://data.udir.no/kl06/HO1136"
+        },
+        "kode": "K4259",
+        "uri": "http://psi.udir.no/kl06/K4259",
+        "url-data": "http://data.udir.no/kl06/K4259",
+        "tittel": "gjennomføre varslingsrutiner før og etter sprengningsarbeider i samsvar med gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1136",
+          "uri": "http://psi.udir.no/kl06/HO1136",
+          "url-data": "http://data.udir.no/kl06/HO1136"
+        },
+        "kode": "K4260",
+        "uri": "http://psi.udir.no/kl06/K4260",
+        "url-data": "http://data.udir.no/kl06/K4260",
+        "tittel": "spalte skifer ved ulik temperatur og fuktighet"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1136",
+          "uri": "http://psi.udir.no/kl06/HO1136",
+          "url-data": "http://data.udir.no/kl06/HO1136"
+        },
+        "kode": "K4261",
+        "uri": "http://psi.udir.no/kl06/K4261",
+        "url-data": "http://data.udir.no/kl06/K4261",
+        "tittel": "utføre arbeid i samsvar med gjeldende regelverk for bruddvirksomhet"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1136",
+          "uri": "http://psi.udir.no/kl06/HO1136",
+          "url-data": "http://data.udir.no/kl06/HO1136"
+        },
+        "kode": "K4262",
+        "uri": "http://psi.udir.no/kl06/K4262",
+        "url-data": "http://data.udir.no/kl06/K4262",
+        "tittel": "ta vare på hensynet til natur og miljø i produksjonen"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1136",
+          "uri": "http://psi.udir.no/kl06/HO1136",
+          "url-data": "http://data.udir.no/kl06/HO1136"
+        },
+        "kode": "K4263",
+        "uri": "http://psi.udir.no/kl06/K4263",
+        "url-data": "http://data.udir.no/kl06/K4263",
+        "tittel": "bruke verne- og sikkerhetsutstyr"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1137",
+          "uri": "http://psi.udir.no/kl06/HO1137",
+          "url-data": "http://data.udir.no/kl06/HO1137"
+        },
+        "kode": "K4264",
+        "uri": "http://psi.udir.no/kl06/K4264",
+        "url-data": "http://data.udir.no/kl06/K4264",
+        "tittel": "planlegge, utføre, dokumentere og vurdere eget arbeid i forbindelse med bearbeiding"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1137",
+          "uri": "http://psi.udir.no/kl06/HO1137",
+          "url-data": "http://data.udir.no/kl06/HO1137"
+        },
+        "kode": "K4265",
+        "uri": "http://psi.udir.no/kl06/K4265",
+        "url-data": "http://data.udir.no/kl06/K4265",
+        "tittel": "lese og bruke tegninger og arbeidsbeskrivelser"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1137",
+          "uri": "http://psi.udir.no/kl06/HO1137",
+          "url-data": "http://data.udir.no/kl06/HO1137"
+        },
+        "kode": "K4266",
+        "uri": "http://psi.udir.no/kl06/K4266",
+        "url-data": "http://data.udir.no/kl06/K4266",
+        "tittel": "vurdere kvaliteten av og klassifisere ulike typer råmaterialer i samsvar med gjeldende kvalitetskrav"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1137",
+          "uri": "http://psi.udir.no/kl06/HO1137",
+          "url-data": "http://data.udir.no/kl06/HO1137"
+        },
+        "kode": "K4267",
+        "uri": "http://psi.udir.no/kl06/K4267",
+        "url-data": "http://data.udir.no/kl06/K4267",
+        "tittel": "bruke maskiner og utstyr til bearbeiding av stein til ferdige produkter"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1137",
+          "uri": "http://psi.udir.no/kl06/HO1137",
+          "url-data": "http://data.udir.no/kl06/HO1137"
+        },
+        "kode": "K4268",
+        "uri": "http://psi.udir.no/kl06/K4268",
+        "url-data": "http://data.udir.no/kl06/K4268",
+        "tittel": "utføre ulike typer manuell og maskinell overflatebehandling av stein"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1137",
+          "uri": "http://psi.udir.no/kl06/HO1137",
+          "url-data": "http://data.udir.no/kl06/HO1137"
+        },
+        "kode": "K4269",
+        "uri": "http://psi.udir.no/kl06/K4269",
+        "url-data": "http://data.udir.no/kl06/K4269",
+        "tittel": "utføre enkelt vedlikehold av maskiner og utstyr"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1139",
+          "uri": "http://psi.udir.no/kl06/HO1139",
+          "url-data": "http://data.udir.no/kl06/HO1139"
+        },
+        "kode": "K4270",
+        "uri": "http://psi.udir.no/kl06/K4270",
+        "url-data": "http://data.udir.no/kl06/K4270",
+        "tittel": "planlegge, utføre, dokumentere og vurdere eget arbeid i forbindelse med montering"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1139",
+          "uri": "http://psi.udir.no/kl06/HO1139",
+          "url-data": "http://data.udir.no/kl06/HO1139"
+        },
+        "kode": "K4271",
+        "uri": "http://psi.udir.no/kl06/K4271",
+        "url-data": "http://data.udir.no/kl06/K4271",
+        "tittel": "lese og bruke tegninger og arbeidsbeskrivelser"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1139",
+          "uri": "http://psi.udir.no/kl06/HO1139",
+          "url-data": "http://data.udir.no/kl06/HO1139"
+        },
+        "kode": "K4272",
+        "uri": "http://psi.udir.no/kl06/K4272",
+        "url-data": "http://data.udir.no/kl06/K4272",
+        "tittel": "vurdere egnet monteringsmåte for ulike arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1139",
+          "uri": "http://psi.udir.no/kl06/HO1139",
+          "url-data": "http://data.udir.no/kl06/HO1139"
+        },
+        "kode": "K4273",
+        "uri": "http://psi.udir.no/kl06/K4273",
+        "url-data": "http://data.udir.no/kl06/K4273",
+        "tittel": "montere steinprodukter på innvendige og utvendige fasader og konstruksjoner"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1139",
+          "uri": "http://psi.udir.no/kl06/HO1139",
+          "url-data": "http://data.udir.no/kl06/HO1139"
+        },
+        "kode": "K4274",
+        "uri": "http://psi.udir.no/kl06/K4274",
+        "url-data": "http://data.udir.no/kl06/K4274",
+        "tittel": "utføre arbeidet i samsvar med gjeldende regelverk og bransjens estetiske normer"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1139",
+          "uri": "http://psi.udir.no/kl06/HO1139",
+          "url-data": "http://data.udir.no/kl06/HO1139"
+        },
+        "kode": "K4275",
+        "uri": "http://psi.udir.no/kl06/K4275",
+        "url-data": "http://data.udir.no/kl06/K4275",
+        "tittel": "håndtere avfall og materialer i samsvar med krav til sikkerhet, miljø og ressursbruk"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1139",
+          "uri": "http://psi.udir.no/kl06/HO1139",
+          "url-data": "http://data.udir.no/kl06/HO1139"
+        },
+        "kode": "K4276",
+        "uri": "http://psi.udir.no/kl06/K4276",
+        "url-data": "http://data.udir.no/kl06/K4276",
+        "tittel": "montere stillas i samsvar med gjeldende forskrift"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1138",
+          "uri": "http://psi.udir.no/kl06/HO1138",
+          "url-data": "http://data.udir.no/kl06/HO1138"
+        },
+        "kode": "K4277",
+        "uri": "http://psi.udir.no/kl06/K4277",
+        "url-data": "http://data.udir.no/kl06/K4277",
+        "tittel": "gjøre rede for fagets opprinnelse og plass i samfunnet"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1138",
+          "uri": "http://psi.udir.no/kl06/HO1138",
+          "url-data": "http://data.udir.no/kl06/HO1138"
+        },
+        "kode": "K4278",
+        "uri": "http://psi.udir.no/kl06/K4278",
+        "url-data": "http://data.udir.no/kl06/K4278",
+        "tittel": "bruke digitale verktøy og lage tegninger og arbeidsbeskrivelser"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1138",
+          "uri": "http://psi.udir.no/kl06/HO1138",
+          "url-data": "http://data.udir.no/kl06/HO1138"
+        },
+        "kode": "K4279",
+        "uri": "http://psi.udir.no/kl06/K4279",
+        "url-data": "http://data.udir.no/kl06/K4279",
+        "tittel": "gjøre rede for egenskapene ved og bruken av sprengstoff og tennmidler til ulike typer sprengningsarbeid"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1138",
+          "uri": "http://psi.udir.no/kl06/HO1138",
+          "url-data": "http://data.udir.no/kl06/HO1138"
+        },
+        "kode": "K4280",
+        "uri": "http://psi.udir.no/kl06/K4280",
+        "url-data": "http://data.udir.no/kl06/K4280",
+        "tittel": "gjøre rede for lagring og transport av ulike typer sprengstoff og tennmidler"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1138",
+          "uri": "http://psi.udir.no/kl06/HO1138",
+          "url-data": "http://data.udir.no/kl06/HO1138"
+        },
+        "kode": "K4281",
+        "uri": "http://psi.udir.no/kl06/K4281",
+        "url-data": "http://data.udir.no/kl06/K4281",
+        "tittel": "følge gjeldende krav til helse, miljø og sikkerhet og bedriftens krav til kvalitetssikring"
+      }
+    ]
+  }
+]

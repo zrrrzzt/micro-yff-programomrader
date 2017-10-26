@@ -1,0 +1,1250 @@
+[
+  {
+    "id": "RMRMF1----",
+    "name": "Restaurant- og matfag",
+    "programUrl": "https://www.udir.no/kl06/RMRMF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/RMF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3593",
+        "uri": "http://psi.udir.no/kl06/K3593",
+        "url-data": "http://data.udir.no/kl06/K3593",
+        "tittel": "gjere greie for råvarer, mat og drikke som inngår i restaurant- og matfaga, næringsinnhald, eigenskapar og bruksområde"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3594",
+        "uri": "http://psi.udir.no/kl06/K3594",
+        "url-data": "http://data.udir.no/kl06/K3594",
+        "tittel": "demonstrere rett behandling av råvarer, mat og drikke for å sikre så trygge produkt som mogleg"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3595",
+        "uri": "http://psi.udir.no/kl06/K3595",
+        "url-data": "http://data.udir.no/kl06/K3595",
+        "tittel": "vurdere kvaliteten på råvarer og produkt, og bruke denne kunnskapen i praktisk arbeid"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3596",
+        "uri": "http://psi.udir.no/kl06/K3596",
+        "url-data": "http://data.udir.no/kl06/K3596",
+        "tittel": "velje og vurdere råvarer og produksjonsmetodar ut frå etiske og berekraftige kriterium"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3601",
+        "uri": "http://psi.udir.no/kl06/K3601",
+        "url-data": "http://data.udir.no/kl06/K3601",
+        "tittel": "følgje og justere reseptar og rekne ut mengder og kostnader"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3602",
+        "uri": "http://psi.udir.no/kl06/K3602",
+        "url-data": "http://data.udir.no/kl06/K3602",
+        "tittel": "setje saman og lage til enkle produkt og måltid på ein kreativ og estetisk måte"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3597",
+        "uri": "http://psi.udir.no/kl06/K3597",
+        "url-data": "http://data.udir.no/kl06/K3597",
+        "tittel": "oppbevare og emballere mat i samsvar med gjeldande krav"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3598",
+        "uri": "http://psi.udir.no/kl06/K3598",
+        "url-data": "http://data.udir.no/kl06/K3598",
+        "tittel": "praktisere god produksjonshygiene, godt reinhald og personleg hygiene og gjere greie for kvifor dette er viktig for god produksjonsflyt"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3603",
+        "uri": "http://psi.udir.no/kl06/K3603",
+        "url-data": "http://data.udir.no/kl06/K3603",
+        "tittel": "gjere greie for kva næringsmiddelhygienen har å seie for produksjon og omsetjing av trygg mat"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3599",
+        "uri": "http://psi.udir.no/kl06/K3599",
+        "url-data": "http://data.udir.no/kl06/K3599",
+        "tittel": "bruke, reingjere og utføre dagleg vedlikehald av lokale, reiskapar og maskiner som blir nytta i opplæringa"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3604",
+        "uri": "http://psi.udir.no/kl06/K3604",
+        "url-data": "http://data.udir.no/kl06/K3604",
+        "tittel": "klargjere lokale og omsetje og servere mat og drikke i samsvar med metodar som gjeld for restaurant- og matbransjane"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3600",
+        "uri": "http://psi.udir.no/kl06/K3600",
+        "url-data": "http://data.udir.no/kl06/K3600",
+        "tittel": "utføre arbeidet i samsvar med kvalitetsstyringssystem som er etablerte på området"
+      }
+    ]
+  },
+  {
+    "id": "RMRMF1----",
+    "name": "Restaurant- og matfag",
+    "programUrl": "https://www.udir.no/kl06/RMRMF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/RMF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3593",
+        "uri": "http://psi.udir.no/kl06/K3593",
+        "url-data": "http://data.udir.no/kl06/K3593",
+        "tittel": "gjere greie for råvarer, mat og drikke som inngår i restaurant- og matfaga, næringsinnhald, eigenskapar og bruksområde"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3594",
+        "uri": "http://psi.udir.no/kl06/K3594",
+        "url-data": "http://data.udir.no/kl06/K3594",
+        "tittel": "demonstrere rett behandling av råvarer, mat og drikke for å sikre så trygge produkt som mogleg"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3595",
+        "uri": "http://psi.udir.no/kl06/K3595",
+        "url-data": "http://data.udir.no/kl06/K3595",
+        "tittel": "vurdere kvaliteten på råvarer og produkt, og bruke denne kunnskapen i praktisk arbeid"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3596",
+        "uri": "http://psi.udir.no/kl06/K3596",
+        "url-data": "http://data.udir.no/kl06/K3596",
+        "tittel": "velje og vurdere råvarer og produksjonsmetodar ut frå etiske og berekraftige kriterium"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3601",
+        "uri": "http://psi.udir.no/kl06/K3601",
+        "url-data": "http://data.udir.no/kl06/K3601",
+        "tittel": "følgje og justere reseptar og rekne ut mengder og kostnader"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3602",
+        "uri": "http://psi.udir.no/kl06/K3602",
+        "url-data": "http://data.udir.no/kl06/K3602",
+        "tittel": "setje saman og lage til enkle produkt og måltid på ein kreativ og estetisk måte"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3597",
+        "uri": "http://psi.udir.no/kl06/K3597",
+        "url-data": "http://data.udir.no/kl06/K3597",
+        "tittel": "oppbevare og emballere mat i samsvar med gjeldande krav"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3598",
+        "uri": "http://psi.udir.no/kl06/K3598",
+        "url-data": "http://data.udir.no/kl06/K3598",
+        "tittel": "praktisere god produksjonshygiene, godt reinhald og personleg hygiene og gjere greie for kvifor dette er viktig for god produksjonsflyt"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3603",
+        "uri": "http://psi.udir.no/kl06/K3603",
+        "url-data": "http://data.udir.no/kl06/K3603",
+        "tittel": "gjere greie for kva næringsmiddelhygienen har å seie for produksjon og omsetjing av trygg mat"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3599",
+        "uri": "http://psi.udir.no/kl06/K3599",
+        "url-data": "http://data.udir.no/kl06/K3599",
+        "tittel": "bruke, reingjere og utføre dagleg vedlikehald av lokale, reiskapar og maskiner som blir nytta i opplæringa"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3604",
+        "uri": "http://psi.udir.no/kl06/K3604",
+        "url-data": "http://data.udir.no/kl06/K3604",
+        "tittel": "klargjere lokale og omsetje og servere mat og drikke i samsvar med metodar som gjeld for restaurant- og matbransjane"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3600",
+        "uri": "http://psi.udir.no/kl06/K3600",
+        "url-data": "http://data.udir.no/kl06/K3600",
+        "tittel": "utføre arbeidet i samsvar med kvalitetsstyringssystem som er etablerte på området"
+      }
+    ]
+  },
+  {
+    "id": "RMRMF1----",
+    "name": "Restaurant- og matfag",
+    "programUrl": "https://www.udir.no/kl06/RMRMF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/RMF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3593",
+        "uri": "http://psi.udir.no/kl06/K3593",
+        "url-data": "http://data.udir.no/kl06/K3593",
+        "tittel": "gjere greie for råvarer, mat og drikke som inngår i restaurant- og matfaga, næringsinnhald, eigenskapar og bruksområde"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3594",
+        "uri": "http://psi.udir.no/kl06/K3594",
+        "url-data": "http://data.udir.no/kl06/K3594",
+        "tittel": "demonstrere rett behandling av råvarer, mat og drikke for å sikre så trygge produkt som mogleg"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3595",
+        "uri": "http://psi.udir.no/kl06/K3595",
+        "url-data": "http://data.udir.no/kl06/K3595",
+        "tittel": "vurdere kvaliteten på råvarer og produkt, og bruke denne kunnskapen i praktisk arbeid"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3596",
+        "uri": "http://psi.udir.no/kl06/K3596",
+        "url-data": "http://data.udir.no/kl06/K3596",
+        "tittel": "velje og vurdere råvarer og produksjonsmetodar ut frå etiske og berekraftige kriterium"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3601",
+        "uri": "http://psi.udir.no/kl06/K3601",
+        "url-data": "http://data.udir.no/kl06/K3601",
+        "tittel": "følgje og justere reseptar og rekne ut mengder og kostnader"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3602",
+        "uri": "http://psi.udir.no/kl06/K3602",
+        "url-data": "http://data.udir.no/kl06/K3602",
+        "tittel": "setje saman og lage til enkle produkt og måltid på ein kreativ og estetisk måte"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3597",
+        "uri": "http://psi.udir.no/kl06/K3597",
+        "url-data": "http://data.udir.no/kl06/K3597",
+        "tittel": "oppbevare og emballere mat i samsvar med gjeldande krav"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3598",
+        "uri": "http://psi.udir.no/kl06/K3598",
+        "url-data": "http://data.udir.no/kl06/K3598",
+        "tittel": "praktisere god produksjonshygiene, godt reinhald og personleg hygiene og gjere greie for kvifor dette er viktig for god produksjonsflyt"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3603",
+        "uri": "http://psi.udir.no/kl06/K3603",
+        "url-data": "http://data.udir.no/kl06/K3603",
+        "tittel": "gjere greie for kva næringsmiddelhygienen har å seie for produksjon og omsetjing av trygg mat"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3599",
+        "uri": "http://psi.udir.no/kl06/K3599",
+        "url-data": "http://data.udir.no/kl06/K3599",
+        "tittel": "bruke, reingjere og utføre dagleg vedlikehald av lokale, reiskapar og maskiner som blir nytta i opplæringa"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3604",
+        "uri": "http://psi.udir.no/kl06/K3604",
+        "url-data": "http://data.udir.no/kl06/K3604",
+        "tittel": "klargjere lokale og omsetje og servere mat og drikke i samsvar med metodar som gjeld for restaurant- og matbransjane"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3600",
+        "uri": "http://psi.udir.no/kl06/K3600",
+        "url-data": "http://data.udir.no/kl06/K3600",
+        "tittel": "utføre arbeidet i samsvar med kvalitetsstyringssystem som er etablerte på området"
+      }
+    ]
+  },
+  {
+    "id": "RMRMF1----",
+    "name": "Restaurant- og matfag",
+    "programUrl": "https://www.udir.no/kl06/RMRMF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/RMF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3593",
+        "uri": "http://psi.udir.no/kl06/K3593",
+        "url-data": "http://data.udir.no/kl06/K3593",
+        "tittel": "gjere greie for råvarer, mat og drikke som inngår i restaurant- og matfaga, næringsinnhald, eigenskapar og bruksområde"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3594",
+        "uri": "http://psi.udir.no/kl06/K3594",
+        "url-data": "http://data.udir.no/kl06/K3594",
+        "tittel": "demonstrere rett behandling av råvarer, mat og drikke for å sikre så trygge produkt som mogleg"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3595",
+        "uri": "http://psi.udir.no/kl06/K3595",
+        "url-data": "http://data.udir.no/kl06/K3595",
+        "tittel": "vurdere kvaliteten på råvarer og produkt, og bruke denne kunnskapen i praktisk arbeid"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3596",
+        "uri": "http://psi.udir.no/kl06/K3596",
+        "url-data": "http://data.udir.no/kl06/K3596",
+        "tittel": "velje og vurdere råvarer og produksjonsmetodar ut frå etiske og berekraftige kriterium"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3601",
+        "uri": "http://psi.udir.no/kl06/K3601",
+        "url-data": "http://data.udir.no/kl06/K3601",
+        "tittel": "følgje og justere reseptar og rekne ut mengder og kostnader"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3602",
+        "uri": "http://psi.udir.no/kl06/K3602",
+        "url-data": "http://data.udir.no/kl06/K3602",
+        "tittel": "setje saman og lage til enkle produkt og måltid på ein kreativ og estetisk måte"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3597",
+        "uri": "http://psi.udir.no/kl06/K3597",
+        "url-data": "http://data.udir.no/kl06/K3597",
+        "tittel": "oppbevare og emballere mat i samsvar med gjeldande krav"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3598",
+        "uri": "http://psi.udir.no/kl06/K3598",
+        "url-data": "http://data.udir.no/kl06/K3598",
+        "tittel": "praktisere god produksjonshygiene, godt reinhald og personleg hygiene og gjere greie for kvifor dette er viktig for god produksjonsflyt"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3603",
+        "uri": "http://psi.udir.no/kl06/K3603",
+        "url-data": "http://data.udir.no/kl06/K3603",
+        "tittel": "gjere greie for kva næringsmiddelhygienen har å seie for produksjon og omsetjing av trygg mat"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3599",
+        "uri": "http://psi.udir.no/kl06/K3599",
+        "url-data": "http://data.udir.no/kl06/K3599",
+        "tittel": "bruke, reingjere og utføre dagleg vedlikehald av lokale, reiskapar og maskiner som blir nytta i opplæringa"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3604",
+        "uri": "http://psi.udir.no/kl06/K3604",
+        "url-data": "http://data.udir.no/kl06/K3604",
+        "tittel": "klargjere lokale og omsetje og servere mat og drikke i samsvar med metodar som gjeld for restaurant- og matbransjane"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3600",
+        "uri": "http://psi.udir.no/kl06/K3600",
+        "url-data": "http://data.udir.no/kl06/K3600",
+        "tittel": "utføre arbeidet i samsvar med kvalitetsstyringssystem som er etablerte på området"
+      }
+    ]
+  },
+  {
+    "id": "RMRMF1----",
+    "name": "Restaurant- og matfag",
+    "programUrl": "https://www.udir.no/kl06/RMRMF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/RMF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3593",
+        "uri": "http://psi.udir.no/kl06/K3593",
+        "url-data": "http://data.udir.no/kl06/K3593",
+        "tittel": "gjere greie for råvarer, mat og drikke som inngår i restaurant- og matfaga, næringsinnhald, eigenskapar og bruksområde"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3594",
+        "uri": "http://psi.udir.no/kl06/K3594",
+        "url-data": "http://data.udir.no/kl06/K3594",
+        "tittel": "demonstrere rett behandling av råvarer, mat og drikke for å sikre så trygge produkt som mogleg"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3595",
+        "uri": "http://psi.udir.no/kl06/K3595",
+        "url-data": "http://data.udir.no/kl06/K3595",
+        "tittel": "vurdere kvaliteten på råvarer og produkt, og bruke denne kunnskapen i praktisk arbeid"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3596",
+        "uri": "http://psi.udir.no/kl06/K3596",
+        "url-data": "http://data.udir.no/kl06/K3596",
+        "tittel": "velje og vurdere råvarer og produksjonsmetodar ut frå etiske og berekraftige kriterium"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3601",
+        "uri": "http://psi.udir.no/kl06/K3601",
+        "url-data": "http://data.udir.no/kl06/K3601",
+        "tittel": "følgje og justere reseptar og rekne ut mengder og kostnader"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3602",
+        "uri": "http://psi.udir.no/kl06/K3602",
+        "url-data": "http://data.udir.no/kl06/K3602",
+        "tittel": "setje saman og lage til enkle produkt og måltid på ein kreativ og estetisk måte"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3597",
+        "uri": "http://psi.udir.no/kl06/K3597",
+        "url-data": "http://data.udir.no/kl06/K3597",
+        "tittel": "oppbevare og emballere mat i samsvar med gjeldande krav"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3598",
+        "uri": "http://psi.udir.no/kl06/K3598",
+        "url-data": "http://data.udir.no/kl06/K3598",
+        "tittel": "praktisere god produksjonshygiene, godt reinhald og personleg hygiene og gjere greie for kvifor dette er viktig for god produksjonsflyt"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3603",
+        "uri": "http://psi.udir.no/kl06/K3603",
+        "url-data": "http://data.udir.no/kl06/K3603",
+        "tittel": "gjere greie for kva næringsmiddelhygienen har å seie for produksjon og omsetjing av trygg mat"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3599",
+        "uri": "http://psi.udir.no/kl06/K3599",
+        "url-data": "http://data.udir.no/kl06/K3599",
+        "tittel": "bruke, reingjere og utføre dagleg vedlikehald av lokale, reiskapar og maskiner som blir nytta i opplæringa"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3604",
+        "uri": "http://psi.udir.no/kl06/K3604",
+        "url-data": "http://data.udir.no/kl06/K3604",
+        "tittel": "klargjere lokale og omsetje og servere mat og drikke i samsvar med metodar som gjeld for restaurant- og matbransjane"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3600",
+        "uri": "http://psi.udir.no/kl06/K3600",
+        "url-data": "http://data.udir.no/kl06/K3600",
+        "tittel": "utføre arbeidet i samsvar med kvalitetsstyringssystem som er etablerte på området"
+      }
+    ]
+  },
+  {
+    "id": "RMRMF1----",
+    "name": "Restaurant- og matfag",
+    "programUrl": "https://www.udir.no/kl06/RMRMF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/RMF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3593",
+        "uri": "http://psi.udir.no/kl06/K3593",
+        "url-data": "http://data.udir.no/kl06/K3593",
+        "tittel": "gjere greie for råvarer, mat og drikke som inngår i restaurant- og matfaga, næringsinnhald, eigenskapar og bruksområde"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3594",
+        "uri": "http://psi.udir.no/kl06/K3594",
+        "url-data": "http://data.udir.no/kl06/K3594",
+        "tittel": "demonstrere rett behandling av råvarer, mat og drikke for å sikre så trygge produkt som mogleg"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3595",
+        "uri": "http://psi.udir.no/kl06/K3595",
+        "url-data": "http://data.udir.no/kl06/K3595",
+        "tittel": "vurdere kvaliteten på råvarer og produkt, og bruke denne kunnskapen i praktisk arbeid"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3596",
+        "uri": "http://psi.udir.no/kl06/K3596",
+        "url-data": "http://data.udir.no/kl06/K3596",
+        "tittel": "velje og vurdere råvarer og produksjonsmetodar ut frå etiske og berekraftige kriterium"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3601",
+        "uri": "http://psi.udir.no/kl06/K3601",
+        "url-data": "http://data.udir.no/kl06/K3601",
+        "tittel": "følgje og justere reseptar og rekne ut mengder og kostnader"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3602",
+        "uri": "http://psi.udir.no/kl06/K3602",
+        "url-data": "http://data.udir.no/kl06/K3602",
+        "tittel": "setje saman og lage til enkle produkt og måltid på ein kreativ og estetisk måte"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3597",
+        "uri": "http://psi.udir.no/kl06/K3597",
+        "url-data": "http://data.udir.no/kl06/K3597",
+        "tittel": "oppbevare og emballere mat i samsvar med gjeldande krav"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3598",
+        "uri": "http://psi.udir.no/kl06/K3598",
+        "url-data": "http://data.udir.no/kl06/K3598",
+        "tittel": "praktisere god produksjonshygiene, godt reinhald og personleg hygiene og gjere greie for kvifor dette er viktig for god produksjonsflyt"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3603",
+        "uri": "http://psi.udir.no/kl06/K3603",
+        "url-data": "http://data.udir.no/kl06/K3603",
+        "tittel": "gjere greie for kva næringsmiddelhygienen har å seie for produksjon og omsetjing av trygg mat"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3599",
+        "uri": "http://psi.udir.no/kl06/K3599",
+        "url-data": "http://data.udir.no/kl06/K3599",
+        "tittel": "bruke, reingjere og utføre dagleg vedlikehald av lokale, reiskapar og maskiner som blir nytta i opplæringa"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3604",
+        "uri": "http://psi.udir.no/kl06/K3604",
+        "url-data": "http://data.udir.no/kl06/K3604",
+        "tittel": "klargjere lokale og omsetje og servere mat og drikke i samsvar med metodar som gjeld for restaurant- og matbransjane"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3600",
+        "uri": "http://psi.udir.no/kl06/K3600",
+        "url-data": "http://data.udir.no/kl06/K3600",
+        "tittel": "utføre arbeidet i samsvar med kvalitetsstyringssystem som er etablerte på området"
+      }
+    ]
+  },
+  {
+    "id": "RMRMF1----",
+    "name": "Restaurant- og matfag",
+    "programUrl": "https://www.udir.no/kl06/RMRMF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/RMF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3593",
+        "uri": "http://psi.udir.no/kl06/K3593",
+        "url-data": "http://data.udir.no/kl06/K3593",
+        "tittel": "gjere greie for råvarer, mat og drikke som inngår i restaurant- og matfaga, næringsinnhald, eigenskapar og bruksområde"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3594",
+        "uri": "http://psi.udir.no/kl06/K3594",
+        "url-data": "http://data.udir.no/kl06/K3594",
+        "tittel": "demonstrere rett behandling av råvarer, mat og drikke for å sikre så trygge produkt som mogleg"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3595",
+        "uri": "http://psi.udir.no/kl06/K3595",
+        "url-data": "http://data.udir.no/kl06/K3595",
+        "tittel": "vurdere kvaliteten på råvarer og produkt, og bruke denne kunnskapen i praktisk arbeid"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3596",
+        "uri": "http://psi.udir.no/kl06/K3596",
+        "url-data": "http://data.udir.no/kl06/K3596",
+        "tittel": "velje og vurdere råvarer og produksjonsmetodar ut frå etiske og berekraftige kriterium"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3601",
+        "uri": "http://psi.udir.no/kl06/K3601",
+        "url-data": "http://data.udir.no/kl06/K3601",
+        "tittel": "følgje og justere reseptar og rekne ut mengder og kostnader"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3602",
+        "uri": "http://psi.udir.no/kl06/K3602",
+        "url-data": "http://data.udir.no/kl06/K3602",
+        "tittel": "setje saman og lage til enkle produkt og måltid på ein kreativ og estetisk måte"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3597",
+        "uri": "http://psi.udir.no/kl06/K3597",
+        "url-data": "http://data.udir.no/kl06/K3597",
+        "tittel": "oppbevare og emballere mat i samsvar med gjeldande krav"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3598",
+        "uri": "http://psi.udir.no/kl06/K3598",
+        "url-data": "http://data.udir.no/kl06/K3598",
+        "tittel": "praktisere god produksjonshygiene, godt reinhald og personleg hygiene og gjere greie for kvifor dette er viktig for god produksjonsflyt"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3603",
+        "uri": "http://psi.udir.no/kl06/K3603",
+        "url-data": "http://data.udir.no/kl06/K3603",
+        "tittel": "gjere greie for kva næringsmiddelhygienen har å seie for produksjon og omsetjing av trygg mat"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3599",
+        "uri": "http://psi.udir.no/kl06/K3599",
+        "url-data": "http://data.udir.no/kl06/K3599",
+        "tittel": "bruke, reingjere og utføre dagleg vedlikehald av lokale, reiskapar og maskiner som blir nytta i opplæringa"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3604",
+        "uri": "http://psi.udir.no/kl06/K3604",
+        "url-data": "http://data.udir.no/kl06/K3604",
+        "tittel": "klargjere lokale og omsetje og servere mat og drikke i samsvar med metodar som gjeld for restaurant- og matbransjane"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3600",
+        "uri": "http://psi.udir.no/kl06/K3600",
+        "url-data": "http://data.udir.no/kl06/K3600",
+        "tittel": "utføre arbeidet i samsvar med kvalitetsstyringssystem som er etablerte på området"
+      }
+    ]
+  },
+  {
+    "id": "RMRMF1----",
+    "name": "Restaurant- og matfag",
+    "programUrl": "https://www.udir.no/kl06/RMRMF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/RMF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3593",
+        "uri": "http://psi.udir.no/kl06/K3593",
+        "url-data": "http://data.udir.no/kl06/K3593",
+        "tittel": "gjere greie for råvarer, mat og drikke som inngår i restaurant- og matfaga, næringsinnhald, eigenskapar og bruksområde"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3594",
+        "uri": "http://psi.udir.no/kl06/K3594",
+        "url-data": "http://data.udir.no/kl06/K3594",
+        "tittel": "demonstrere rett behandling av råvarer, mat og drikke for å sikre så trygge produkt som mogleg"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3595",
+        "uri": "http://psi.udir.no/kl06/K3595",
+        "url-data": "http://data.udir.no/kl06/K3595",
+        "tittel": "vurdere kvaliteten på råvarer og produkt, og bruke denne kunnskapen i praktisk arbeid"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3596",
+        "uri": "http://psi.udir.no/kl06/K3596",
+        "url-data": "http://data.udir.no/kl06/K3596",
+        "tittel": "velje og vurdere råvarer og produksjonsmetodar ut frå etiske og berekraftige kriterium"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3601",
+        "uri": "http://psi.udir.no/kl06/K3601",
+        "url-data": "http://data.udir.no/kl06/K3601",
+        "tittel": "følgje og justere reseptar og rekne ut mengder og kostnader"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3602",
+        "uri": "http://psi.udir.no/kl06/K3602",
+        "url-data": "http://data.udir.no/kl06/K3602",
+        "tittel": "setje saman og lage til enkle produkt og måltid på ein kreativ og estetisk måte"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3597",
+        "uri": "http://psi.udir.no/kl06/K3597",
+        "url-data": "http://data.udir.no/kl06/K3597",
+        "tittel": "oppbevare og emballere mat i samsvar med gjeldande krav"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3598",
+        "uri": "http://psi.udir.no/kl06/K3598",
+        "url-data": "http://data.udir.no/kl06/K3598",
+        "tittel": "praktisere god produksjonshygiene, godt reinhald og personleg hygiene og gjere greie for kvifor dette er viktig for god produksjonsflyt"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3603",
+        "uri": "http://psi.udir.no/kl06/K3603",
+        "url-data": "http://data.udir.no/kl06/K3603",
+        "tittel": "gjere greie for kva næringsmiddelhygienen har å seie for produksjon og omsetjing av trygg mat"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3599",
+        "uri": "http://psi.udir.no/kl06/K3599",
+        "url-data": "http://data.udir.no/kl06/K3599",
+        "tittel": "bruke, reingjere og utføre dagleg vedlikehald av lokale, reiskapar og maskiner som blir nytta i opplæringa"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3604",
+        "uri": "http://psi.udir.no/kl06/K3604",
+        "url-data": "http://data.udir.no/kl06/K3604",
+        "tittel": "klargjere lokale og omsetje og servere mat og drikke i samsvar med metodar som gjeld for restaurant- og matbransjane"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3600",
+        "uri": "http://psi.udir.no/kl06/K3600",
+        "url-data": "http://data.udir.no/kl06/K3600",
+        "tittel": "utføre arbeidet i samsvar med kvalitetsstyringssystem som er etablerte på området"
+      }
+    ]
+  },
+  {
+    "id": "RMRMF1----",
+    "name": "Restaurant- og matfag",
+    "programUrl": "https://www.udir.no/kl06/RMRMF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/RMF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3593",
+        "uri": "http://psi.udir.no/kl06/K3593",
+        "url-data": "http://data.udir.no/kl06/K3593",
+        "tittel": "gjere greie for råvarer, mat og drikke som inngår i restaurant- og matfaga, næringsinnhald, eigenskapar og bruksområde"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3594",
+        "uri": "http://psi.udir.no/kl06/K3594",
+        "url-data": "http://data.udir.no/kl06/K3594",
+        "tittel": "demonstrere rett behandling av råvarer, mat og drikke for å sikre så trygge produkt som mogleg"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3595",
+        "uri": "http://psi.udir.no/kl06/K3595",
+        "url-data": "http://data.udir.no/kl06/K3595",
+        "tittel": "vurdere kvaliteten på råvarer og produkt, og bruke denne kunnskapen i praktisk arbeid"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3596",
+        "uri": "http://psi.udir.no/kl06/K3596",
+        "url-data": "http://data.udir.no/kl06/K3596",
+        "tittel": "velje og vurdere råvarer og produksjonsmetodar ut frå etiske og berekraftige kriterium"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3601",
+        "uri": "http://psi.udir.no/kl06/K3601",
+        "url-data": "http://data.udir.no/kl06/K3601",
+        "tittel": "følgje og justere reseptar og rekne ut mengder og kostnader"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3602",
+        "uri": "http://psi.udir.no/kl06/K3602",
+        "url-data": "http://data.udir.no/kl06/K3602",
+        "tittel": "setje saman og lage til enkle produkt og måltid på ein kreativ og estetisk måte"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3597",
+        "uri": "http://psi.udir.no/kl06/K3597",
+        "url-data": "http://data.udir.no/kl06/K3597",
+        "tittel": "oppbevare og emballere mat i samsvar med gjeldande krav"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3598",
+        "uri": "http://psi.udir.no/kl06/K3598",
+        "url-data": "http://data.udir.no/kl06/K3598",
+        "tittel": "praktisere god produksjonshygiene, godt reinhald og personleg hygiene og gjere greie for kvifor dette er viktig for god produksjonsflyt"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3603",
+        "uri": "http://psi.udir.no/kl06/K3603",
+        "url-data": "http://data.udir.no/kl06/K3603",
+        "tittel": "gjere greie for kva næringsmiddelhygienen har å seie for produksjon og omsetjing av trygg mat"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3599",
+        "uri": "http://psi.udir.no/kl06/K3599",
+        "url-data": "http://data.udir.no/kl06/K3599",
+        "tittel": "bruke, reingjere og utføre dagleg vedlikehald av lokale, reiskapar og maskiner som blir nytta i opplæringa"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3604",
+        "uri": "http://psi.udir.no/kl06/K3604",
+        "url-data": "http://data.udir.no/kl06/K3604",
+        "tittel": "klargjere lokale og omsetje og servere mat og drikke i samsvar med metodar som gjeld for restaurant- og matbransjane"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3600",
+        "uri": "http://psi.udir.no/kl06/K3600",
+        "url-data": "http://data.udir.no/kl06/K3600",
+        "tittel": "utføre arbeidet i samsvar med kvalitetsstyringssystem som er etablerte på området"
+      }
+    ]
+  },
+  {
+    "id": "RMRMF1----",
+    "name": "Restaurant- og matfag",
+    "programUrl": "https://www.udir.no/kl06/RMRMF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/RMF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3593",
+        "uri": "http://psi.udir.no/kl06/K3593",
+        "url-data": "http://data.udir.no/kl06/K3593",
+        "tittel": "gjere greie for råvarer, mat og drikke som inngår i restaurant- og matfaga, næringsinnhald, eigenskapar og bruksområde"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3594",
+        "uri": "http://psi.udir.no/kl06/K3594",
+        "url-data": "http://data.udir.no/kl06/K3594",
+        "tittel": "demonstrere rett behandling av råvarer, mat og drikke for å sikre så trygge produkt som mogleg"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3595",
+        "uri": "http://psi.udir.no/kl06/K3595",
+        "url-data": "http://data.udir.no/kl06/K3595",
+        "tittel": "vurdere kvaliteten på råvarer og produkt, og bruke denne kunnskapen i praktisk arbeid"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3596",
+        "uri": "http://psi.udir.no/kl06/K3596",
+        "url-data": "http://data.udir.no/kl06/K3596",
+        "tittel": "velje og vurdere råvarer og produksjonsmetodar ut frå etiske og berekraftige kriterium"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3601",
+        "uri": "http://psi.udir.no/kl06/K3601",
+        "url-data": "http://data.udir.no/kl06/K3601",
+        "tittel": "følgje og justere reseptar og rekne ut mengder og kostnader"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3602",
+        "uri": "http://psi.udir.no/kl06/K3602",
+        "url-data": "http://data.udir.no/kl06/K3602",
+        "tittel": "setje saman og lage til enkle produkt og måltid på ein kreativ og estetisk måte"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3597",
+        "uri": "http://psi.udir.no/kl06/K3597",
+        "url-data": "http://data.udir.no/kl06/K3597",
+        "tittel": "oppbevare og emballere mat i samsvar med gjeldande krav"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3598",
+        "uri": "http://psi.udir.no/kl06/K3598",
+        "url-data": "http://data.udir.no/kl06/K3598",
+        "tittel": "praktisere god produksjonshygiene, godt reinhald og personleg hygiene og gjere greie for kvifor dette er viktig for god produksjonsflyt"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3603",
+        "uri": "http://psi.udir.no/kl06/K3603",
+        "url-data": "http://data.udir.no/kl06/K3603",
+        "tittel": "gjere greie for kva næringsmiddelhygienen har å seie for produksjon og omsetjing av trygg mat"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3599",
+        "uri": "http://psi.udir.no/kl06/K3599",
+        "url-data": "http://data.udir.no/kl06/K3599",
+        "tittel": "bruke, reingjere og utføre dagleg vedlikehald av lokale, reiskapar og maskiner som blir nytta i opplæringa"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3604",
+        "uri": "http://psi.udir.no/kl06/K3604",
+        "url-data": "http://data.udir.no/kl06/K3604",
+        "tittel": "klargjere lokale og omsetje og servere mat og drikke i samsvar med metodar som gjeld for restaurant- og matbransjane"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3600",
+        "uri": "http://psi.udir.no/kl06/K3600",
+        "url-data": "http://data.udir.no/kl06/K3600",
+        "tittel": "utføre arbeidet i samsvar med kvalitetsstyringssystem som er etablerte på området"
+      }
+    ]
+  },
+  {
+    "id": "RMRMF1----",
+    "name": "Restaurant- og matfag",
+    "programUrl": "https://www.udir.no/kl06/RMRMF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/RMF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3593",
+        "uri": "http://psi.udir.no/kl06/K3593",
+        "url-data": "http://data.udir.no/kl06/K3593",
+        "tittel": "gjere greie for råvarer, mat og drikke som inngår i restaurant- og matfaga, næringsinnhald, eigenskapar og bruksområde"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3594",
+        "uri": "http://psi.udir.no/kl06/K3594",
+        "url-data": "http://data.udir.no/kl06/K3594",
+        "tittel": "demonstrere rett behandling av råvarer, mat og drikke for å sikre så trygge produkt som mogleg"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3595",
+        "uri": "http://psi.udir.no/kl06/K3595",
+        "url-data": "http://data.udir.no/kl06/K3595",
+        "tittel": "vurdere kvaliteten på råvarer og produkt, og bruke denne kunnskapen i praktisk arbeid"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3596",
+        "uri": "http://psi.udir.no/kl06/K3596",
+        "url-data": "http://data.udir.no/kl06/K3596",
+        "tittel": "velje og vurdere råvarer og produksjonsmetodar ut frå etiske og berekraftige kriterium"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3601",
+        "uri": "http://psi.udir.no/kl06/K3601",
+        "url-data": "http://data.udir.no/kl06/K3601",
+        "tittel": "følgje og justere reseptar og rekne ut mengder og kostnader"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3602",
+        "uri": "http://psi.udir.no/kl06/K3602",
+        "url-data": "http://data.udir.no/kl06/K3602",
+        "tittel": "setje saman og lage til enkle produkt og måltid på ein kreativ og estetisk måte"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3597",
+        "uri": "http://psi.udir.no/kl06/K3597",
+        "url-data": "http://data.udir.no/kl06/K3597",
+        "tittel": "oppbevare og emballere mat i samsvar med gjeldande krav"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3598",
+        "uri": "http://psi.udir.no/kl06/K3598",
+        "url-data": "http://data.udir.no/kl06/K3598",
+        "tittel": "praktisere god produksjonshygiene, godt reinhald og personleg hygiene og gjere greie for kvifor dette er viktig for god produksjonsflyt"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3603",
+        "uri": "http://psi.udir.no/kl06/K3603",
+        "url-data": "http://data.udir.no/kl06/K3603",
+        "tittel": "gjere greie for kva næringsmiddelhygienen har å seie for produksjon og omsetjing av trygg mat"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3599",
+        "uri": "http://psi.udir.no/kl06/K3599",
+        "url-data": "http://data.udir.no/kl06/K3599",
+        "tittel": "bruke, reingjere og utføre dagleg vedlikehald av lokale, reiskapar og maskiner som blir nytta i opplæringa"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3604",
+        "uri": "http://psi.udir.no/kl06/K3604",
+        "url-data": "http://data.udir.no/kl06/K3604",
+        "tittel": "klargjere lokale og omsetje og servere mat og drikke i samsvar med metodar som gjeld for restaurant- og matbransjane"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3600",
+        "uri": "http://psi.udir.no/kl06/K3600",
+        "url-data": "http://data.udir.no/kl06/K3600",
+        "tittel": "utføre arbeidet i samsvar med kvalitetsstyringssystem som er etablerte på området"
+      }
+    ]
+  },
+  {
+    "id": "RMRMF1----",
+    "name": "Restaurant- og matfag",
+    "programUrl": "https://www.udir.no/kl06/RMRMF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/RMF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3593",
+        "uri": "http://psi.udir.no/kl06/K3593",
+        "url-data": "http://data.udir.no/kl06/K3593",
+        "tittel": "gjere greie for råvarer, mat og drikke som inngår i restaurant- og matfaga, næringsinnhald, eigenskapar og bruksområde"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3594",
+        "uri": "http://psi.udir.no/kl06/K3594",
+        "url-data": "http://data.udir.no/kl06/K3594",
+        "tittel": "demonstrere rett behandling av råvarer, mat og drikke for å sikre så trygge produkt som mogleg"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3595",
+        "uri": "http://psi.udir.no/kl06/K3595",
+        "url-data": "http://data.udir.no/kl06/K3595",
+        "tittel": "vurdere kvaliteten på råvarer og produkt, og bruke denne kunnskapen i praktisk arbeid"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3596",
+        "uri": "http://psi.udir.no/kl06/K3596",
+        "url-data": "http://data.udir.no/kl06/K3596",
+        "tittel": "velje og vurdere råvarer og produksjonsmetodar ut frå etiske og berekraftige kriterium"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3601",
+        "uri": "http://psi.udir.no/kl06/K3601",
+        "url-data": "http://data.udir.no/kl06/K3601",
+        "tittel": "følgje og justere reseptar og rekne ut mengder og kostnader"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3602",
+        "uri": "http://psi.udir.no/kl06/K3602",
+        "url-data": "http://data.udir.no/kl06/K3602",
+        "tittel": "setje saman og lage til enkle produkt og måltid på ein kreativ og estetisk måte"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3597",
+        "uri": "http://psi.udir.no/kl06/K3597",
+        "url-data": "http://data.udir.no/kl06/K3597",
+        "tittel": "oppbevare og emballere mat i samsvar med gjeldande krav"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3598",
+        "uri": "http://psi.udir.no/kl06/K3598",
+        "url-data": "http://data.udir.no/kl06/K3598",
+        "tittel": "praktisere god produksjonshygiene, godt reinhald og personleg hygiene og gjere greie for kvifor dette er viktig for god produksjonsflyt"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3603",
+        "uri": "http://psi.udir.no/kl06/K3603",
+        "url-data": "http://data.udir.no/kl06/K3603",
+        "tittel": "gjere greie for kva næringsmiddelhygienen har å seie for produksjon og omsetjing av trygg mat"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3599",
+        "uri": "http://psi.udir.no/kl06/K3599",
+        "url-data": "http://data.udir.no/kl06/K3599",
+        "tittel": "bruke, reingjere og utføre dagleg vedlikehald av lokale, reiskapar og maskiner som blir nytta i opplæringa"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3604",
+        "uri": "http://psi.udir.no/kl06/K3604",
+        "url-data": "http://data.udir.no/kl06/K3604",
+        "tittel": "klargjere lokale og omsetje og servere mat og drikke i samsvar med metodar som gjeld for restaurant- og matbransjane"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3600",
+        "uri": "http://psi.udir.no/kl06/K3600",
+        "url-data": "http://data.udir.no/kl06/K3600",
+        "tittel": "utføre arbeidet i samsvar med kvalitetsstyringssystem som er etablerte på området"
+      }
+    ]
+  }
+]

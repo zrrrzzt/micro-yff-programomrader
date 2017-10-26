@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "BABAT1----",
+    "name": "Bygg- og anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABAT1----",
+    "lareplanUrl": "https://data.udir.no/kl06/BAT1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5785",
+        "uri": "http://psi.udir.no/kl06/K5785",
+        "url-data": "http://data.udir.no/kl06/K5785",
+        "tittel": "velge egnede verktøy og maskiner knyttet til enkle arbeidsoppgaver innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5775",
+        "uri": "http://psi.udir.no/kl06/K5775",
+        "url-data": "http://data.udir.no/kl06/K5775",
+        "tittel": "velge, bruke og bearbeide materialer som benyttes i enkle konstruksjoner innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5774",
+        "uri": "http://psi.udir.no/kl06/K5774",
+        "url-data": "http://data.udir.no/kl06/K5774",
+        "tittel": "bruke verktøy og utstyr på en riktig måte i følge regelverk og normer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5773",
+        "uri": "http://psi.udir.no/kl06/K5773",
+        "url-data": "http://data.udir.no/kl06/K5773",
+        "tittel": "beskrive egenskapene og bruksområdene til materialene som brukes i en arbeidsoppgave og beskrive alternative materialvalg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5772",
+        "uri": "http://psi.udir.no/kl06/K5772",
+        "url-data": "http://data.udir.no/kl06/K5772",
+        "tittel": "motta, håndtere og lagre materialer og utstyr på en hensiktsmessig måte og i henhold til regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5771",
+        "uri": "http://psi.udir.no/kl06/K5771",
+        "url-data": "http://data.udir.no/kl06/K5771",
+        "tittel": "foreta risikovurderinger og utføre arbeid etter regler for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5770",
+        "uri": "http://psi.udir.no/kl06/K5770",
+        "url-data": "http://data.udir.no/kl06/K5770",
+        "tittel": "forklare og bruke ergonomisk riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5769",
+        "uri": "http://psi.udir.no/kl06/K5769",
+        "url-data": "http://data.udir.no/kl06/K5769",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5768",
+        "uri": "http://psi.udir.no/kl06/K5768",
+        "url-data": "http://data.udir.no/kl06/K5768",
+        "tittel": "bruke materialer økonomisk og miljømessig forsvarlig"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5767",
+        "uri": "http://psi.udir.no/kl06/K5767",
+        "url-data": "http://data.udir.no/kl06/K5767",
+        "tittel": "følge gjeldende rutiner for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5766",
+        "uri": "http://psi.udir.no/kl06/K5766",
+        "url-data": "http://data.udir.no/kl06/K5766",
+        "tittel": "utføre livreddende førstehjelp"
+      }
+    ]
+  },
+  {
+    "id": "BABAT1----",
+    "name": "Bygg- og anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABAT1----",
+    "lareplanUrl": "https://data.udir.no/kl06/BAT1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5785",
+        "uri": "http://psi.udir.no/kl06/K5785",
+        "url-data": "http://data.udir.no/kl06/K5785",
+        "tittel": "velge egnede verktøy og maskiner knyttet til enkle arbeidsoppgaver innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5775",
+        "uri": "http://psi.udir.no/kl06/K5775",
+        "url-data": "http://data.udir.no/kl06/K5775",
+        "tittel": "velge, bruke og bearbeide materialer som benyttes i enkle konstruksjoner innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5774",
+        "uri": "http://psi.udir.no/kl06/K5774",
+        "url-data": "http://data.udir.no/kl06/K5774",
+        "tittel": "bruke verktøy og utstyr på en riktig måte i følge regelverk og normer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5773",
+        "uri": "http://psi.udir.no/kl06/K5773",
+        "url-data": "http://data.udir.no/kl06/K5773",
+        "tittel": "beskrive egenskapene og bruksområdene til materialene som brukes i en arbeidsoppgave og beskrive alternative materialvalg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5772",
+        "uri": "http://psi.udir.no/kl06/K5772",
+        "url-data": "http://data.udir.no/kl06/K5772",
+        "tittel": "motta, håndtere og lagre materialer og utstyr på en hensiktsmessig måte og i henhold til regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5771",
+        "uri": "http://psi.udir.no/kl06/K5771",
+        "url-data": "http://data.udir.no/kl06/K5771",
+        "tittel": "foreta risikovurderinger og utføre arbeid etter regler for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5770",
+        "uri": "http://psi.udir.no/kl06/K5770",
+        "url-data": "http://data.udir.no/kl06/K5770",
+        "tittel": "forklare og bruke ergonomisk riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5769",
+        "uri": "http://psi.udir.no/kl06/K5769",
+        "url-data": "http://data.udir.no/kl06/K5769",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5768",
+        "uri": "http://psi.udir.no/kl06/K5768",
+        "url-data": "http://data.udir.no/kl06/K5768",
+        "tittel": "bruke materialer økonomisk og miljømessig forsvarlig"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5767",
+        "uri": "http://psi.udir.no/kl06/K5767",
+        "url-data": "http://data.udir.no/kl06/K5767",
+        "tittel": "følge gjeldende rutiner for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5766",
+        "uri": "http://psi.udir.no/kl06/K5766",
+        "url-data": "http://data.udir.no/kl06/K5766",
+        "tittel": "utføre livreddende førstehjelp"
+      }
+    ]
+  },
+  {
+    "id": "BABAT1----",
+    "name": "Bygg- og anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABAT1----",
+    "lareplanUrl": "https://data.udir.no/kl06/BAT1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5785",
+        "uri": "http://psi.udir.no/kl06/K5785",
+        "url-data": "http://data.udir.no/kl06/K5785",
+        "tittel": "velge egnede verktøy og maskiner knyttet til enkle arbeidsoppgaver innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5775",
+        "uri": "http://psi.udir.no/kl06/K5775",
+        "url-data": "http://data.udir.no/kl06/K5775",
+        "tittel": "velge, bruke og bearbeide materialer som benyttes i enkle konstruksjoner innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5774",
+        "uri": "http://psi.udir.no/kl06/K5774",
+        "url-data": "http://data.udir.no/kl06/K5774",
+        "tittel": "bruke verktøy og utstyr på en riktig måte i følge regelverk og normer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5773",
+        "uri": "http://psi.udir.no/kl06/K5773",
+        "url-data": "http://data.udir.no/kl06/K5773",
+        "tittel": "beskrive egenskapene og bruksområdene til materialene som brukes i en arbeidsoppgave og beskrive alternative materialvalg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5772",
+        "uri": "http://psi.udir.no/kl06/K5772",
+        "url-data": "http://data.udir.no/kl06/K5772",
+        "tittel": "motta, håndtere og lagre materialer og utstyr på en hensiktsmessig måte og i henhold til regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5771",
+        "uri": "http://psi.udir.no/kl06/K5771",
+        "url-data": "http://data.udir.no/kl06/K5771",
+        "tittel": "foreta risikovurderinger og utføre arbeid etter regler for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5770",
+        "uri": "http://psi.udir.no/kl06/K5770",
+        "url-data": "http://data.udir.no/kl06/K5770",
+        "tittel": "forklare og bruke ergonomisk riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5769",
+        "uri": "http://psi.udir.no/kl06/K5769",
+        "url-data": "http://data.udir.no/kl06/K5769",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5768",
+        "uri": "http://psi.udir.no/kl06/K5768",
+        "url-data": "http://data.udir.no/kl06/K5768",
+        "tittel": "bruke materialer økonomisk og miljømessig forsvarlig"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5767",
+        "uri": "http://psi.udir.no/kl06/K5767",
+        "url-data": "http://data.udir.no/kl06/K5767",
+        "tittel": "følge gjeldende rutiner for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5766",
+        "uri": "http://psi.udir.no/kl06/K5766",
+        "url-data": "http://data.udir.no/kl06/K5766",
+        "tittel": "utføre livreddende førstehjelp"
+      }
+    ]
+  },
+  {
+    "id": "BABAT1----",
+    "name": "Bygg- og anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABAT1----",
+    "lareplanUrl": "https://data.udir.no/kl06/BAT1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5785",
+        "uri": "http://psi.udir.no/kl06/K5785",
+        "url-data": "http://data.udir.no/kl06/K5785",
+        "tittel": "velge egnede verktøy og maskiner knyttet til enkle arbeidsoppgaver innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5775",
+        "uri": "http://psi.udir.no/kl06/K5775",
+        "url-data": "http://data.udir.no/kl06/K5775",
+        "tittel": "velge, bruke og bearbeide materialer som benyttes i enkle konstruksjoner innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5774",
+        "uri": "http://psi.udir.no/kl06/K5774",
+        "url-data": "http://data.udir.no/kl06/K5774",
+        "tittel": "bruke verktøy og utstyr på en riktig måte i følge regelverk og normer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5773",
+        "uri": "http://psi.udir.no/kl06/K5773",
+        "url-data": "http://data.udir.no/kl06/K5773",
+        "tittel": "beskrive egenskapene og bruksområdene til materialene som brukes i en arbeidsoppgave og beskrive alternative materialvalg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5772",
+        "uri": "http://psi.udir.no/kl06/K5772",
+        "url-data": "http://data.udir.no/kl06/K5772",
+        "tittel": "motta, håndtere og lagre materialer og utstyr på en hensiktsmessig måte og i henhold til regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5771",
+        "uri": "http://psi.udir.no/kl06/K5771",
+        "url-data": "http://data.udir.no/kl06/K5771",
+        "tittel": "foreta risikovurderinger og utføre arbeid etter regler for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5770",
+        "uri": "http://psi.udir.no/kl06/K5770",
+        "url-data": "http://data.udir.no/kl06/K5770",
+        "tittel": "forklare og bruke ergonomisk riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5769",
+        "uri": "http://psi.udir.no/kl06/K5769",
+        "url-data": "http://data.udir.no/kl06/K5769",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5768",
+        "uri": "http://psi.udir.no/kl06/K5768",
+        "url-data": "http://data.udir.no/kl06/K5768",
+        "tittel": "bruke materialer økonomisk og miljømessig forsvarlig"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5767",
+        "uri": "http://psi.udir.no/kl06/K5767",
+        "url-data": "http://data.udir.no/kl06/K5767",
+        "tittel": "følge gjeldende rutiner for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5766",
+        "uri": "http://psi.udir.no/kl06/K5766",
+        "url-data": "http://data.udir.no/kl06/K5766",
+        "tittel": "utføre livreddende førstehjelp"
+      }
+    ]
+  },
+  {
+    "id": "BABAT1----",
+    "name": "Bygg- og anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABAT1----",
+    "lareplanUrl": "https://data.udir.no/kl06/BAT1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5785",
+        "uri": "http://psi.udir.no/kl06/K5785",
+        "url-data": "http://data.udir.no/kl06/K5785",
+        "tittel": "velge egnede verktøy og maskiner knyttet til enkle arbeidsoppgaver innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5775",
+        "uri": "http://psi.udir.no/kl06/K5775",
+        "url-data": "http://data.udir.no/kl06/K5775",
+        "tittel": "velge, bruke og bearbeide materialer som benyttes i enkle konstruksjoner innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5774",
+        "uri": "http://psi.udir.no/kl06/K5774",
+        "url-data": "http://data.udir.no/kl06/K5774",
+        "tittel": "bruke verktøy og utstyr på en riktig måte i følge regelverk og normer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5773",
+        "uri": "http://psi.udir.no/kl06/K5773",
+        "url-data": "http://data.udir.no/kl06/K5773",
+        "tittel": "beskrive egenskapene og bruksområdene til materialene som brukes i en arbeidsoppgave og beskrive alternative materialvalg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5772",
+        "uri": "http://psi.udir.no/kl06/K5772",
+        "url-data": "http://data.udir.no/kl06/K5772",
+        "tittel": "motta, håndtere og lagre materialer og utstyr på en hensiktsmessig måte og i henhold til regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5771",
+        "uri": "http://psi.udir.no/kl06/K5771",
+        "url-data": "http://data.udir.no/kl06/K5771",
+        "tittel": "foreta risikovurderinger og utføre arbeid etter regler for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5770",
+        "uri": "http://psi.udir.no/kl06/K5770",
+        "url-data": "http://data.udir.no/kl06/K5770",
+        "tittel": "forklare og bruke ergonomisk riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5769",
+        "uri": "http://psi.udir.no/kl06/K5769",
+        "url-data": "http://data.udir.no/kl06/K5769",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5768",
+        "uri": "http://psi.udir.no/kl06/K5768",
+        "url-data": "http://data.udir.no/kl06/K5768",
+        "tittel": "bruke materialer økonomisk og miljømessig forsvarlig"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5767",
+        "uri": "http://psi.udir.no/kl06/K5767",
+        "url-data": "http://data.udir.no/kl06/K5767",
+        "tittel": "følge gjeldende rutiner for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5766",
+        "uri": "http://psi.udir.no/kl06/K5766",
+        "url-data": "http://data.udir.no/kl06/K5766",
+        "tittel": "utføre livreddende førstehjelp"
+      }
+    ]
+  },
+  {
+    "id": "BABAT1----",
+    "name": "Bygg- og anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABAT1----",
+    "lareplanUrl": "https://data.udir.no/kl06/BAT1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5785",
+        "uri": "http://psi.udir.no/kl06/K5785",
+        "url-data": "http://data.udir.no/kl06/K5785",
+        "tittel": "velge egnede verktøy og maskiner knyttet til enkle arbeidsoppgaver innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5775",
+        "uri": "http://psi.udir.no/kl06/K5775",
+        "url-data": "http://data.udir.no/kl06/K5775",
+        "tittel": "velge, bruke og bearbeide materialer som benyttes i enkle konstruksjoner innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5774",
+        "uri": "http://psi.udir.no/kl06/K5774",
+        "url-data": "http://data.udir.no/kl06/K5774",
+        "tittel": "bruke verktøy og utstyr på en riktig måte i følge regelverk og normer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5773",
+        "uri": "http://psi.udir.no/kl06/K5773",
+        "url-data": "http://data.udir.no/kl06/K5773",
+        "tittel": "beskrive egenskapene og bruksområdene til materialene som brukes i en arbeidsoppgave og beskrive alternative materialvalg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5772",
+        "uri": "http://psi.udir.no/kl06/K5772",
+        "url-data": "http://data.udir.no/kl06/K5772",
+        "tittel": "motta, håndtere og lagre materialer og utstyr på en hensiktsmessig måte og i henhold til regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5771",
+        "uri": "http://psi.udir.no/kl06/K5771",
+        "url-data": "http://data.udir.no/kl06/K5771",
+        "tittel": "foreta risikovurderinger og utføre arbeid etter regler for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5770",
+        "uri": "http://psi.udir.no/kl06/K5770",
+        "url-data": "http://data.udir.no/kl06/K5770",
+        "tittel": "forklare og bruke ergonomisk riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5769",
+        "uri": "http://psi.udir.no/kl06/K5769",
+        "url-data": "http://data.udir.no/kl06/K5769",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5768",
+        "uri": "http://psi.udir.no/kl06/K5768",
+        "url-data": "http://data.udir.no/kl06/K5768",
+        "tittel": "bruke materialer økonomisk og miljømessig forsvarlig"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5767",
+        "uri": "http://psi.udir.no/kl06/K5767",
+        "url-data": "http://data.udir.no/kl06/K5767",
+        "tittel": "følge gjeldende rutiner for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5766",
+        "uri": "http://psi.udir.no/kl06/K5766",
+        "url-data": "http://data.udir.no/kl06/K5766",
+        "tittel": "utføre livreddende førstehjelp"
+      }
+    ]
+  },
+  {
+    "id": "BABAT1----",
+    "name": "Bygg- og anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABAT1----",
+    "lareplanUrl": "https://data.udir.no/kl06/BAT1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5785",
+        "uri": "http://psi.udir.no/kl06/K5785",
+        "url-data": "http://data.udir.no/kl06/K5785",
+        "tittel": "velge egnede verktøy og maskiner knyttet til enkle arbeidsoppgaver innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5775",
+        "uri": "http://psi.udir.no/kl06/K5775",
+        "url-data": "http://data.udir.no/kl06/K5775",
+        "tittel": "velge, bruke og bearbeide materialer som benyttes i enkle konstruksjoner innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5774",
+        "uri": "http://psi.udir.no/kl06/K5774",
+        "url-data": "http://data.udir.no/kl06/K5774",
+        "tittel": "bruke verktøy og utstyr på en riktig måte i følge regelverk og normer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5773",
+        "uri": "http://psi.udir.no/kl06/K5773",
+        "url-data": "http://data.udir.no/kl06/K5773",
+        "tittel": "beskrive egenskapene og bruksområdene til materialene som brukes i en arbeidsoppgave og beskrive alternative materialvalg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5772",
+        "uri": "http://psi.udir.no/kl06/K5772",
+        "url-data": "http://data.udir.no/kl06/K5772",
+        "tittel": "motta, håndtere og lagre materialer og utstyr på en hensiktsmessig måte og i henhold til regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5771",
+        "uri": "http://psi.udir.no/kl06/K5771",
+        "url-data": "http://data.udir.no/kl06/K5771",
+        "tittel": "foreta risikovurderinger og utføre arbeid etter regler for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5770",
+        "uri": "http://psi.udir.no/kl06/K5770",
+        "url-data": "http://data.udir.no/kl06/K5770",
+        "tittel": "forklare og bruke ergonomisk riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5769",
+        "uri": "http://psi.udir.no/kl06/K5769",
+        "url-data": "http://data.udir.no/kl06/K5769",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5768",
+        "uri": "http://psi.udir.no/kl06/K5768",
+        "url-data": "http://data.udir.no/kl06/K5768",
+        "tittel": "bruke materialer økonomisk og miljømessig forsvarlig"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5767",
+        "uri": "http://psi.udir.no/kl06/K5767",
+        "url-data": "http://data.udir.no/kl06/K5767",
+        "tittel": "følge gjeldende rutiner for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5766",
+        "uri": "http://psi.udir.no/kl06/K5766",
+        "url-data": "http://data.udir.no/kl06/K5766",
+        "tittel": "utføre livreddende førstehjelp"
+      }
+    ]
+  },
+  {
+    "id": "BABAT1----",
+    "name": "Bygg- og anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABAT1----",
+    "lareplanUrl": "https://data.udir.no/kl06/BAT1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5785",
+        "uri": "http://psi.udir.no/kl06/K5785",
+        "url-data": "http://data.udir.no/kl06/K5785",
+        "tittel": "velge egnede verktøy og maskiner knyttet til enkle arbeidsoppgaver innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5775",
+        "uri": "http://psi.udir.no/kl06/K5775",
+        "url-data": "http://data.udir.no/kl06/K5775",
+        "tittel": "velge, bruke og bearbeide materialer som benyttes i enkle konstruksjoner innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5774",
+        "uri": "http://psi.udir.no/kl06/K5774",
+        "url-data": "http://data.udir.no/kl06/K5774",
+        "tittel": "bruke verktøy og utstyr på en riktig måte i følge regelverk og normer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5773",
+        "uri": "http://psi.udir.no/kl06/K5773",
+        "url-data": "http://data.udir.no/kl06/K5773",
+        "tittel": "beskrive egenskapene og bruksområdene til materialene som brukes i en arbeidsoppgave og beskrive alternative materialvalg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5772",
+        "uri": "http://psi.udir.no/kl06/K5772",
+        "url-data": "http://data.udir.no/kl06/K5772",
+        "tittel": "motta, håndtere og lagre materialer og utstyr på en hensiktsmessig måte og i henhold til regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5771",
+        "uri": "http://psi.udir.no/kl06/K5771",
+        "url-data": "http://data.udir.no/kl06/K5771",
+        "tittel": "foreta risikovurderinger og utføre arbeid etter regler for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5770",
+        "uri": "http://psi.udir.no/kl06/K5770",
+        "url-data": "http://data.udir.no/kl06/K5770",
+        "tittel": "forklare og bruke ergonomisk riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5769",
+        "uri": "http://psi.udir.no/kl06/K5769",
+        "url-data": "http://data.udir.no/kl06/K5769",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5768",
+        "uri": "http://psi.udir.no/kl06/K5768",
+        "url-data": "http://data.udir.no/kl06/K5768",
+        "tittel": "bruke materialer økonomisk og miljømessig forsvarlig"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5767",
+        "uri": "http://psi.udir.no/kl06/K5767",
+        "url-data": "http://data.udir.no/kl06/K5767",
+        "tittel": "følge gjeldende rutiner for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5766",
+        "uri": "http://psi.udir.no/kl06/K5766",
+        "url-data": "http://data.udir.no/kl06/K5766",
+        "tittel": "utføre livreddende førstehjelp"
+      }
+    ]
+  },
+  {
+    "id": "BABAT1----",
+    "name": "Bygg- og anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABAT1----",
+    "lareplanUrl": "https://data.udir.no/kl06/BAT1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5785",
+        "uri": "http://psi.udir.no/kl06/K5785",
+        "url-data": "http://data.udir.no/kl06/K5785",
+        "tittel": "velge egnede verktøy og maskiner knyttet til enkle arbeidsoppgaver innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5775",
+        "uri": "http://psi.udir.no/kl06/K5775",
+        "url-data": "http://data.udir.no/kl06/K5775",
+        "tittel": "velge, bruke og bearbeide materialer som benyttes i enkle konstruksjoner innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5774",
+        "uri": "http://psi.udir.no/kl06/K5774",
+        "url-data": "http://data.udir.no/kl06/K5774",
+        "tittel": "bruke verktøy og utstyr på en riktig måte i følge regelverk og normer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5773",
+        "uri": "http://psi.udir.no/kl06/K5773",
+        "url-data": "http://data.udir.no/kl06/K5773",
+        "tittel": "beskrive egenskapene og bruksområdene til materialene som brukes i en arbeidsoppgave og beskrive alternative materialvalg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5772",
+        "uri": "http://psi.udir.no/kl06/K5772",
+        "url-data": "http://data.udir.no/kl06/K5772",
+        "tittel": "motta, håndtere og lagre materialer og utstyr på en hensiktsmessig måte og i henhold til regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5771",
+        "uri": "http://psi.udir.no/kl06/K5771",
+        "url-data": "http://data.udir.no/kl06/K5771",
+        "tittel": "foreta risikovurderinger og utføre arbeid etter regler for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5770",
+        "uri": "http://psi.udir.no/kl06/K5770",
+        "url-data": "http://data.udir.no/kl06/K5770",
+        "tittel": "forklare og bruke ergonomisk riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5769",
+        "uri": "http://psi.udir.no/kl06/K5769",
+        "url-data": "http://data.udir.no/kl06/K5769",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5768",
+        "uri": "http://psi.udir.no/kl06/K5768",
+        "url-data": "http://data.udir.no/kl06/K5768",
+        "tittel": "bruke materialer økonomisk og miljømessig forsvarlig"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5767",
+        "uri": "http://psi.udir.no/kl06/K5767",
+        "url-data": "http://data.udir.no/kl06/K5767",
+        "tittel": "følge gjeldende rutiner for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5766",
+        "uri": "http://psi.udir.no/kl06/K5766",
+        "url-data": "http://data.udir.no/kl06/K5766",
+        "tittel": "utføre livreddende førstehjelp"
+      }
+    ]
+  },
+  {
+    "id": "BABAT1----",
+    "name": "Bygg- og anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABAT1----",
+    "lareplanUrl": "https://data.udir.no/kl06/BAT1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5785",
+        "uri": "http://psi.udir.no/kl06/K5785",
+        "url-data": "http://data.udir.no/kl06/K5785",
+        "tittel": "velge egnede verktøy og maskiner knyttet til enkle arbeidsoppgaver innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5775",
+        "uri": "http://psi.udir.no/kl06/K5775",
+        "url-data": "http://data.udir.no/kl06/K5775",
+        "tittel": "velge, bruke og bearbeide materialer som benyttes i enkle konstruksjoner innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5774",
+        "uri": "http://psi.udir.no/kl06/K5774",
+        "url-data": "http://data.udir.no/kl06/K5774",
+        "tittel": "bruke verktøy og utstyr på en riktig måte i følge regelverk og normer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5773",
+        "uri": "http://psi.udir.no/kl06/K5773",
+        "url-data": "http://data.udir.no/kl06/K5773",
+        "tittel": "beskrive egenskapene og bruksområdene til materialene som brukes i en arbeidsoppgave og beskrive alternative materialvalg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5772",
+        "uri": "http://psi.udir.no/kl06/K5772",
+        "url-data": "http://data.udir.no/kl06/K5772",
+        "tittel": "motta, håndtere og lagre materialer og utstyr på en hensiktsmessig måte og i henhold til regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5771",
+        "uri": "http://psi.udir.no/kl06/K5771",
+        "url-data": "http://data.udir.no/kl06/K5771",
+        "tittel": "foreta risikovurderinger og utføre arbeid etter regler for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5770",
+        "uri": "http://psi.udir.no/kl06/K5770",
+        "url-data": "http://data.udir.no/kl06/K5770",
+        "tittel": "forklare og bruke ergonomisk riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5769",
+        "uri": "http://psi.udir.no/kl06/K5769",
+        "url-data": "http://data.udir.no/kl06/K5769",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5768",
+        "uri": "http://psi.udir.no/kl06/K5768",
+        "url-data": "http://data.udir.no/kl06/K5768",
+        "tittel": "bruke materialer økonomisk og miljømessig forsvarlig"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5767",
+        "uri": "http://psi.udir.no/kl06/K5767",
+        "url-data": "http://data.udir.no/kl06/K5767",
+        "tittel": "følge gjeldende rutiner for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5766",
+        "uri": "http://psi.udir.no/kl06/K5766",
+        "url-data": "http://data.udir.no/kl06/K5766",
+        "tittel": "utføre livreddende førstehjelp"
+      }
+    ]
+  },
+  {
+    "id": "BABAT1----",
+    "name": "Bygg- og anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABAT1----",
+    "lareplanUrl": "https://data.udir.no/kl06/BAT1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5785",
+        "uri": "http://psi.udir.no/kl06/K5785",
+        "url-data": "http://data.udir.no/kl06/K5785",
+        "tittel": "velge egnede verktøy og maskiner knyttet til enkle arbeidsoppgaver innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5775",
+        "uri": "http://psi.udir.no/kl06/K5775",
+        "url-data": "http://data.udir.no/kl06/K5775",
+        "tittel": "velge, bruke og bearbeide materialer som benyttes i enkle konstruksjoner innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5774",
+        "uri": "http://psi.udir.no/kl06/K5774",
+        "url-data": "http://data.udir.no/kl06/K5774",
+        "tittel": "bruke verktøy og utstyr på en riktig måte i følge regelverk og normer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5773",
+        "uri": "http://psi.udir.no/kl06/K5773",
+        "url-data": "http://data.udir.no/kl06/K5773",
+        "tittel": "beskrive egenskapene og bruksområdene til materialene som brukes i en arbeidsoppgave og beskrive alternative materialvalg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5772",
+        "uri": "http://psi.udir.no/kl06/K5772",
+        "url-data": "http://data.udir.no/kl06/K5772",
+        "tittel": "motta, håndtere og lagre materialer og utstyr på en hensiktsmessig måte og i henhold til regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5771",
+        "uri": "http://psi.udir.no/kl06/K5771",
+        "url-data": "http://data.udir.no/kl06/K5771",
+        "tittel": "foreta risikovurderinger og utføre arbeid etter regler for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5770",
+        "uri": "http://psi.udir.no/kl06/K5770",
+        "url-data": "http://data.udir.no/kl06/K5770",
+        "tittel": "forklare og bruke ergonomisk riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5769",
+        "uri": "http://psi.udir.no/kl06/K5769",
+        "url-data": "http://data.udir.no/kl06/K5769",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5768",
+        "uri": "http://psi.udir.no/kl06/K5768",
+        "url-data": "http://data.udir.no/kl06/K5768",
+        "tittel": "bruke materialer økonomisk og miljømessig forsvarlig"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5767",
+        "uri": "http://psi.udir.no/kl06/K5767",
+        "url-data": "http://data.udir.no/kl06/K5767",
+        "tittel": "følge gjeldende rutiner for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5766",
+        "uri": "http://psi.udir.no/kl06/K5766",
+        "url-data": "http://data.udir.no/kl06/K5766",
+        "tittel": "utføre livreddende førstehjelp"
+      }
+    ]
+  },
+  {
+    "id": "BABAT1----",
+    "name": "Bygg- og anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABAT1----",
+    "lareplanUrl": "https://data.udir.no/kl06/BAT1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5785",
+        "uri": "http://psi.udir.no/kl06/K5785",
+        "url-data": "http://data.udir.no/kl06/K5785",
+        "tittel": "velge egnede verktøy og maskiner knyttet til enkle arbeidsoppgaver innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5775",
+        "uri": "http://psi.udir.no/kl06/K5775",
+        "url-data": "http://data.udir.no/kl06/K5775",
+        "tittel": "velge, bruke og bearbeide materialer som benyttes i enkle konstruksjoner innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5774",
+        "uri": "http://psi.udir.no/kl06/K5774",
+        "url-data": "http://data.udir.no/kl06/K5774",
+        "tittel": "bruke verktøy og utstyr på en riktig måte i følge regelverk og normer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5773",
+        "uri": "http://psi.udir.no/kl06/K5773",
+        "url-data": "http://data.udir.no/kl06/K5773",
+        "tittel": "beskrive egenskapene og bruksområdene til materialene som brukes i en arbeidsoppgave og beskrive alternative materialvalg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5772",
+        "uri": "http://psi.udir.no/kl06/K5772",
+        "url-data": "http://data.udir.no/kl06/K5772",
+        "tittel": "motta, håndtere og lagre materialer og utstyr på en hensiktsmessig måte og i henhold til regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5771",
+        "uri": "http://psi.udir.no/kl06/K5771",
+        "url-data": "http://data.udir.no/kl06/K5771",
+        "tittel": "foreta risikovurderinger og utføre arbeid etter regler for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5770",
+        "uri": "http://psi.udir.no/kl06/K5770",
+        "url-data": "http://data.udir.no/kl06/K5770",
+        "tittel": "forklare og bruke ergonomisk riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5769",
+        "uri": "http://psi.udir.no/kl06/K5769",
+        "url-data": "http://data.udir.no/kl06/K5769",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5768",
+        "uri": "http://psi.udir.no/kl06/K5768",
+        "url-data": "http://data.udir.no/kl06/K5768",
+        "tittel": "bruke materialer økonomisk og miljømessig forsvarlig"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5767",
+        "uri": "http://psi.udir.no/kl06/K5767",
+        "url-data": "http://data.udir.no/kl06/K5767",
+        "tittel": "følge gjeldende rutiner for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5766",
+        "uri": "http://psi.udir.no/kl06/K5766",
+        "url-data": "http://data.udir.no/kl06/K5766",
+        "tittel": "utføre livreddende førstehjelp"
+      }
+    ]
+  },
+  {
+    "id": "BABAT1----",
+    "name": "Bygg- og anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABAT1----",
+    "lareplanUrl": "https://data.udir.no/kl06/BAT1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5785",
+        "uri": "http://psi.udir.no/kl06/K5785",
+        "url-data": "http://data.udir.no/kl06/K5785",
+        "tittel": "velge egnede verktøy og maskiner knyttet til enkle arbeidsoppgaver innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5775",
+        "uri": "http://psi.udir.no/kl06/K5775",
+        "url-data": "http://data.udir.no/kl06/K5775",
+        "tittel": "velge, bruke og bearbeide materialer som benyttes i enkle konstruksjoner innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5774",
+        "uri": "http://psi.udir.no/kl06/K5774",
+        "url-data": "http://data.udir.no/kl06/K5774",
+        "tittel": "bruke verktøy og utstyr på en riktig måte i følge regelverk og normer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5773",
+        "uri": "http://psi.udir.no/kl06/K5773",
+        "url-data": "http://data.udir.no/kl06/K5773",
+        "tittel": "beskrive egenskapene og bruksområdene til materialene som brukes i en arbeidsoppgave og beskrive alternative materialvalg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5772",
+        "uri": "http://psi.udir.no/kl06/K5772",
+        "url-data": "http://data.udir.no/kl06/K5772",
+        "tittel": "motta, håndtere og lagre materialer og utstyr på en hensiktsmessig måte og i henhold til regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5771",
+        "uri": "http://psi.udir.no/kl06/K5771",
+        "url-data": "http://data.udir.no/kl06/K5771",
+        "tittel": "foreta risikovurderinger og utføre arbeid etter regler for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5770",
+        "uri": "http://psi.udir.no/kl06/K5770",
+        "url-data": "http://data.udir.no/kl06/K5770",
+        "tittel": "forklare og bruke ergonomisk riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5769",
+        "uri": "http://psi.udir.no/kl06/K5769",
+        "url-data": "http://data.udir.no/kl06/K5769",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5768",
+        "uri": "http://psi.udir.no/kl06/K5768",
+        "url-data": "http://data.udir.no/kl06/K5768",
+        "tittel": "bruke materialer økonomisk og miljømessig forsvarlig"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5767",
+        "uri": "http://psi.udir.no/kl06/K5767",
+        "url-data": "http://data.udir.no/kl06/K5767",
+        "tittel": "følge gjeldende rutiner for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5766",
+        "uri": "http://psi.udir.no/kl06/K5766",
+        "url-data": "http://data.udir.no/kl06/K5766",
+        "tittel": "utføre livreddende førstehjelp"
+      }
+    ]
+  },
+  {
+    "id": "BABAT1----",
+    "name": "Bygg- og anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABAT1----",
+    "lareplanUrl": "https://data.udir.no/kl06/BAT1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5785",
+        "uri": "http://psi.udir.no/kl06/K5785",
+        "url-data": "http://data.udir.no/kl06/K5785",
+        "tittel": "velge egnede verktøy og maskiner knyttet til enkle arbeidsoppgaver innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5775",
+        "uri": "http://psi.udir.no/kl06/K5775",
+        "url-data": "http://data.udir.no/kl06/K5775",
+        "tittel": "velge, bruke og bearbeide materialer som benyttes i enkle konstruksjoner innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5774",
+        "uri": "http://psi.udir.no/kl06/K5774",
+        "url-data": "http://data.udir.no/kl06/K5774",
+        "tittel": "bruke verktøy og utstyr på en riktig måte i følge regelverk og normer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5773",
+        "uri": "http://psi.udir.no/kl06/K5773",
+        "url-data": "http://data.udir.no/kl06/K5773",
+        "tittel": "beskrive egenskapene og bruksområdene til materialene som brukes i en arbeidsoppgave og beskrive alternative materialvalg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5772",
+        "uri": "http://psi.udir.no/kl06/K5772",
+        "url-data": "http://data.udir.no/kl06/K5772",
+        "tittel": "motta, håndtere og lagre materialer og utstyr på en hensiktsmessig måte og i henhold til regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5771",
+        "uri": "http://psi.udir.no/kl06/K5771",
+        "url-data": "http://data.udir.no/kl06/K5771",
+        "tittel": "foreta risikovurderinger og utføre arbeid etter regler for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5770",
+        "uri": "http://psi.udir.no/kl06/K5770",
+        "url-data": "http://data.udir.no/kl06/K5770",
+        "tittel": "forklare og bruke ergonomisk riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5769",
+        "uri": "http://psi.udir.no/kl06/K5769",
+        "url-data": "http://data.udir.no/kl06/K5769",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5768",
+        "uri": "http://psi.udir.no/kl06/K5768",
+        "url-data": "http://data.udir.no/kl06/K5768",
+        "tittel": "bruke materialer økonomisk og miljømessig forsvarlig"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5767",
+        "uri": "http://psi.udir.no/kl06/K5767",
+        "url-data": "http://data.udir.no/kl06/K5767",
+        "tittel": "følge gjeldende rutiner for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5766",
+        "uri": "http://psi.udir.no/kl06/K5766",
+        "url-data": "http://data.udir.no/kl06/K5766",
+        "tittel": "utføre livreddende førstehjelp"
+      }
+    ]
+  },
+  {
+    "id": "BABAT1----",
+    "name": "Bygg- og anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABAT1----",
+    "lareplanUrl": "https://data.udir.no/kl06/BAT1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5785",
+        "uri": "http://psi.udir.no/kl06/K5785",
+        "url-data": "http://data.udir.no/kl06/K5785",
+        "tittel": "velge egnede verktøy og maskiner knyttet til enkle arbeidsoppgaver innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5775",
+        "uri": "http://psi.udir.no/kl06/K5775",
+        "url-data": "http://data.udir.no/kl06/K5775",
+        "tittel": "velge, bruke og bearbeide materialer som benyttes i enkle konstruksjoner innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5774",
+        "uri": "http://psi.udir.no/kl06/K5774",
+        "url-data": "http://data.udir.no/kl06/K5774",
+        "tittel": "bruke verktøy og utstyr på en riktig måte i følge regelverk og normer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5773",
+        "uri": "http://psi.udir.no/kl06/K5773",
+        "url-data": "http://data.udir.no/kl06/K5773",
+        "tittel": "beskrive egenskapene og bruksområdene til materialene som brukes i en arbeidsoppgave og beskrive alternative materialvalg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5772",
+        "uri": "http://psi.udir.no/kl06/K5772",
+        "url-data": "http://data.udir.no/kl06/K5772",
+        "tittel": "motta, håndtere og lagre materialer og utstyr på en hensiktsmessig måte og i henhold til regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5771",
+        "uri": "http://psi.udir.no/kl06/K5771",
+        "url-data": "http://data.udir.no/kl06/K5771",
+        "tittel": "foreta risikovurderinger og utføre arbeid etter regler for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5770",
+        "uri": "http://psi.udir.no/kl06/K5770",
+        "url-data": "http://data.udir.no/kl06/K5770",
+        "tittel": "forklare og bruke ergonomisk riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5769",
+        "uri": "http://psi.udir.no/kl06/K5769",
+        "url-data": "http://data.udir.no/kl06/K5769",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5768",
+        "uri": "http://psi.udir.no/kl06/K5768",
+        "url-data": "http://data.udir.no/kl06/K5768",
+        "tittel": "bruke materialer økonomisk og miljømessig forsvarlig"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5767",
+        "uri": "http://psi.udir.no/kl06/K5767",
+        "url-data": "http://data.udir.no/kl06/K5767",
+        "tittel": "følge gjeldende rutiner for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5766",
+        "uri": "http://psi.udir.no/kl06/K5766",
+        "url-data": "http://data.udir.no/kl06/K5766",
+        "tittel": "utføre livreddende førstehjelp"
+      }
+    ]
+  },
+  {
+    "id": "BABAT1----",
+    "name": "Bygg- og anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABAT1----",
+    "lareplanUrl": "https://data.udir.no/kl06/BAT1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5785",
+        "uri": "http://psi.udir.no/kl06/K5785",
+        "url-data": "http://data.udir.no/kl06/K5785",
+        "tittel": "velge egnede verktøy og maskiner knyttet til enkle arbeidsoppgaver innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5775",
+        "uri": "http://psi.udir.no/kl06/K5775",
+        "url-data": "http://data.udir.no/kl06/K5775",
+        "tittel": "velge, bruke og bearbeide materialer som benyttes i enkle konstruksjoner innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5774",
+        "uri": "http://psi.udir.no/kl06/K5774",
+        "url-data": "http://data.udir.no/kl06/K5774",
+        "tittel": "bruke verktøy og utstyr på en riktig måte i følge regelverk og normer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5773",
+        "uri": "http://psi.udir.no/kl06/K5773",
+        "url-data": "http://data.udir.no/kl06/K5773",
+        "tittel": "beskrive egenskapene og bruksområdene til materialene som brukes i en arbeidsoppgave og beskrive alternative materialvalg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5772",
+        "uri": "http://psi.udir.no/kl06/K5772",
+        "url-data": "http://data.udir.no/kl06/K5772",
+        "tittel": "motta, håndtere og lagre materialer og utstyr på en hensiktsmessig måte og i henhold til regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5771",
+        "uri": "http://psi.udir.no/kl06/K5771",
+        "url-data": "http://data.udir.no/kl06/K5771",
+        "tittel": "foreta risikovurderinger og utføre arbeid etter regler for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5770",
+        "uri": "http://psi.udir.no/kl06/K5770",
+        "url-data": "http://data.udir.no/kl06/K5770",
+        "tittel": "forklare og bruke ergonomisk riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5769",
+        "uri": "http://psi.udir.no/kl06/K5769",
+        "url-data": "http://data.udir.no/kl06/K5769",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5768",
+        "uri": "http://psi.udir.no/kl06/K5768",
+        "url-data": "http://data.udir.no/kl06/K5768",
+        "tittel": "bruke materialer økonomisk og miljømessig forsvarlig"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5767",
+        "uri": "http://psi.udir.no/kl06/K5767",
+        "url-data": "http://data.udir.no/kl06/K5767",
+        "tittel": "følge gjeldende rutiner for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5766",
+        "uri": "http://psi.udir.no/kl06/K5766",
+        "url-data": "http://data.udir.no/kl06/K5766",
+        "tittel": "utføre livreddende førstehjelp"
+      }
+    ]
+  },
+  {
+    "id": "BABAT1----",
+    "name": "Bygg- og anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABAT1----",
+    "lareplanUrl": "https://data.udir.no/kl06/BAT1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5785",
+        "uri": "http://psi.udir.no/kl06/K5785",
+        "url-data": "http://data.udir.no/kl06/K5785",
+        "tittel": "velge egnede verktøy og maskiner knyttet til enkle arbeidsoppgaver innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5775",
+        "uri": "http://psi.udir.no/kl06/K5775",
+        "url-data": "http://data.udir.no/kl06/K5775",
+        "tittel": "velge, bruke og bearbeide materialer som benyttes i enkle konstruksjoner innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5774",
+        "uri": "http://psi.udir.no/kl06/K5774",
+        "url-data": "http://data.udir.no/kl06/K5774",
+        "tittel": "bruke verktøy og utstyr på en riktig måte i følge regelverk og normer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5773",
+        "uri": "http://psi.udir.no/kl06/K5773",
+        "url-data": "http://data.udir.no/kl06/K5773",
+        "tittel": "beskrive egenskapene og bruksområdene til materialene som brukes i en arbeidsoppgave og beskrive alternative materialvalg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5772",
+        "uri": "http://psi.udir.no/kl06/K5772",
+        "url-data": "http://data.udir.no/kl06/K5772",
+        "tittel": "motta, håndtere og lagre materialer og utstyr på en hensiktsmessig måte og i henhold til regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5771",
+        "uri": "http://psi.udir.no/kl06/K5771",
+        "url-data": "http://data.udir.no/kl06/K5771",
+        "tittel": "foreta risikovurderinger og utføre arbeid etter regler for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5770",
+        "uri": "http://psi.udir.no/kl06/K5770",
+        "url-data": "http://data.udir.no/kl06/K5770",
+        "tittel": "forklare og bruke ergonomisk riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5769",
+        "uri": "http://psi.udir.no/kl06/K5769",
+        "url-data": "http://data.udir.no/kl06/K5769",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5768",
+        "uri": "http://psi.udir.no/kl06/K5768",
+        "url-data": "http://data.udir.no/kl06/K5768",
+        "tittel": "bruke materialer økonomisk og miljømessig forsvarlig"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5767",
+        "uri": "http://psi.udir.no/kl06/K5767",
+        "url-data": "http://data.udir.no/kl06/K5767",
+        "tittel": "følge gjeldende rutiner for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5766",
+        "uri": "http://psi.udir.no/kl06/K5766",
+        "url-data": "http://data.udir.no/kl06/K5766",
+        "tittel": "utføre livreddende førstehjelp"
+      }
+    ]
+  },
+  {
+    "id": "BABAT1----",
+    "name": "Bygg- og anleggsteknikk",
+    "programUrl": "https://www.udir.no/kl06/BABAT1----",
+    "lareplanUrl": "https://data.udir.no/kl06/BAT1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5785",
+        "uri": "http://psi.udir.no/kl06/K5785",
+        "url-data": "http://data.udir.no/kl06/K5785",
+        "tittel": "velge egnede verktøy og maskiner knyttet til enkle arbeidsoppgaver innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5775",
+        "uri": "http://psi.udir.no/kl06/K5775",
+        "url-data": "http://data.udir.no/kl06/K5775",
+        "tittel": "velge, bruke og bearbeide materialer som benyttes i enkle konstruksjoner innenfor bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5774",
+        "uri": "http://psi.udir.no/kl06/K5774",
+        "url-data": "http://data.udir.no/kl06/K5774",
+        "tittel": "bruke verktøy og utstyr på en riktig måte i følge regelverk og normer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5773",
+        "uri": "http://psi.udir.no/kl06/K5773",
+        "url-data": "http://data.udir.no/kl06/K5773",
+        "tittel": "beskrive egenskapene og bruksområdene til materialene som brukes i en arbeidsoppgave og beskrive alternative materialvalg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5772",
+        "uri": "http://psi.udir.no/kl06/K5772",
+        "url-data": "http://data.udir.no/kl06/K5772",
+        "tittel": "motta, håndtere og lagre materialer og utstyr på en hensiktsmessig måte og i henhold til regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5771",
+        "uri": "http://psi.udir.no/kl06/K5771",
+        "url-data": "http://data.udir.no/kl06/K5771",
+        "tittel": "foreta risikovurderinger og utføre arbeid etter regler for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5770",
+        "uri": "http://psi.udir.no/kl06/K5770",
+        "url-data": "http://data.udir.no/kl06/K5770",
+        "tittel": "forklare og bruke ergonomisk riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5769",
+        "uri": "http://psi.udir.no/kl06/K5769",
+        "url-data": "http://data.udir.no/kl06/K5769",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5768",
+        "uri": "http://psi.udir.no/kl06/K5768",
+        "url-data": "http://data.udir.no/kl06/K5768",
+        "tittel": "bruke materialer økonomisk og miljømessig forsvarlig"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5767",
+        "uri": "http://psi.udir.no/kl06/K5767",
+        "url-data": "http://data.udir.no/kl06/K5767",
+        "tittel": "følge gjeldende rutiner for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5766",
+        "uri": "http://psi.udir.no/kl06/K5766",
+        "url-data": "http://data.udir.no/kl06/K5766",
+        "tittel": "utføre livreddende førstehjelp"
+      }
+    ]
+  }
+]

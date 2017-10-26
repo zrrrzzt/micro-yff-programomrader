@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "NAAKV2----",
+    "name": "Akvakultur",
+    "programUrl": "https://www.udir.no/kl06/NAAKV2----",
+    "lareplanUrl": "https://data.udir.no/kl06/AKV2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2659",
+        "uri": "http://psi.udir.no/kl06/K2659",
+        "url-data": "http://data.udir.no/kl06/K2659",
+        "tittel": "utføre arbeid i et oppdrettsanlegg i tråd med gjeldende regelverk og yrkesetiske retningslinjer"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2660",
+        "uri": "http://psi.udir.no/kl06/K2660",
+        "url-data": "http://data.udir.no/kl06/K2660",
+        "tittel": "utføre registreringer av fôrmengde, dødelighet, snittvekt, tetthet og miljøparametere"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2661",
+        "uri": "http://psi.udir.no/kl06/K2661",
+        "url-data": "http://data.udir.no/kl06/K2661",
+        "tittel": "beregne fôrmengde og utføre fôring av oppdrettsorganismer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2662",
+        "uri": "http://psi.udir.no/kl06/K2662",
+        "url-data": "http://data.udir.no/kl06/K2662",
+        "tittel": "forklare betydningen av optimal fôring"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2663",
+        "uri": "http://psi.udir.no/kl06/K2663",
+        "url-data": "http://data.udir.no/kl06/K2663",
+        "tittel": "observere organismer og miljø og vurdere endringer i forhold til artenes normale utseende og atferd"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2664",
+        "uri": "http://psi.udir.no/kl06/K2664",
+        "url-data": "http://data.udir.no/kl06/K2664",
+        "tittel": "planlegge, gjennomføre, vurdere og dokumentere renhold og vedlikehold av båter, motorer og utstyr i oppdrettsnæringen"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2665",
+        "uri": "http://psi.udir.no/kl06/K2665",
+        "url-data": "http://data.udir.no/kl06/K2665",
+        "tittel": "utføre sortering, veiing og transport av oppdrettsorganismer"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2666",
+        "uri": "http://psi.udir.no/kl06/K2666",
+        "url-data": "http://data.udir.no/kl06/K2666",
+        "tittel": "vurdere risiko ved arbeidsoperasjoner og iverksette tiltak for å redusere faren for skade på personell, oppdrettsorganismer og utstyr"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2667",
+        "uri": "http://psi.udir.no/kl06/K2667",
+        "url-data": "http://data.udir.no/kl06/K2667",
+        "tittel": "utarbeide rutiner for å sikre kvaliteten av prosesser og produkter i oppdrettsnæringen"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2668",
+        "uri": "http://psi.udir.no/kl06/K2668",
+        "url-data": "http://data.udir.no/kl06/K2668",
+        "tittel": "utføre arbeidet i oppdrettsanlegget i samsvar med gjeldende regelverk for helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2669",
+        "uri": "http://psi.udir.no/kl06/K2669",
+        "url-data": "http://data.udir.no/kl06/K2669",
+        "tittel": "planlegge, gjennomføre og vurdere en produksjonsplan med antall, tilvekst, biomasse, tetthet, vannbehov, oksygenbehov og fôrforbruk"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2670",
+        "uri": "http://psi.udir.no/kl06/K2670",
+        "url-data": "http://data.udir.no/kl06/K2670",
+        "tittel": "gjøre rede for regelverk som regulerer oppdrettsnæringen, og innhente nødvendig informasjon knyttet til etablering av ny oppdrettsvirksomhet i et område"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2671",
+        "uri": "http://psi.udir.no/kl06/K2671",
+        "url-data": "http://data.udir.no/kl06/K2671",
+        "tittel": "beskrive organiseringen av en akvakulturbedrift, med utgangspunkt i bedriftsform og organisasjonskart"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2672",
+        "uri": "http://psi.udir.no/kl06/K2672",
+        "url-data": "http://data.udir.no/kl06/K2672",
+        "tittel": "forklare forskjellen mellom et budsjett og et regnskap for drift og investering i en akvakulturvirksomhet, og påvise eventuelle avvik og mulige årsaker til dem"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2673",
+        "uri": "http://psi.udir.no/kl06/K2673",
+        "url-data": "http://data.udir.no/kl06/K2673",
+        "tittel": "forklare sammenhenger mellom innsatsfaktorer og økonomi i en akvakulturbedrift, med særlig vekt på betydningen av eget arbeid"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2674",
+        "uri": "http://psi.udir.no/kl06/K2674",
+        "url-data": "http://data.udir.no/kl06/K2674",
+        "tittel": "beskrive hvordan markedet for oppdrettsprodukter har endret seg, og diskutere mulige framtidsutsikter"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2675",
+        "uri": "http://psi.udir.no/kl06/K2675",
+        "url-data": "http://data.udir.no/kl06/K2675",
+        "tittel": "gi eksempler på markedets krav til kvalitet og utvalg av oppdrettsprodukter"
+      }
+    ]
+  },
+  {
+    "id": "NAAID2----",
+    "name": "Anleggsgartner- og idrettsanleggsfag",
+    "programUrl": "https://www.udir.no/kl06/NAAID2----",
+    "lareplanUrl": "https://data.udir.no/kl06/ADI2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7453",
+        "uri": "http://psi.udir.no/kl06/K7453",
+        "url-data": "http://data.udir.no/kl06/K7453",
+        "tittel": "planlegge og utføre oppgaver i nyanlegg etter gjeldende regelverk, standarder, planer og beskrivelser, vurdere og dokumentere eget arbeid"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7454",
+        "uri": "http://psi.udir.no/kl06/K7454",
+        "url-data": "http://data.udir.no/kl06/K7454",
+        "tittel": "bruke digitale verktøy i planlegging og rapportering"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7455",
+        "uri": "http://psi.udir.no/kl06/K7455",
+        "url-data": "http://data.udir.no/kl06/K7455",
+        "tittel": "velge og bruke aktuelt verktøy, aktuelle redskaper, maskiner og utstyr etter gjeldende regelverk og standarder"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7456",
+        "uri": "http://psi.udir.no/kl06/K7456",
+        "url-data": "http://data.udir.no/kl06/K7456",
+        "tittel": "bruke aktuelt landmålingsutstyr i nyanleggsarbeid"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7457",
+        "uri": "http://psi.udir.no/kl06/K7457",
+        "url-data": "http://data.udir.no/kl06/K7457",
+        "tittel": "velge og bruke materialer ut fra deres egenskaper og begrensninger"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7458",
+        "uri": "http://psi.udir.no/kl06/K7458",
+        "url-data": "http://data.udir.no/kl06/K7458",
+        "tittel": "vurdere ulike jordarters egnethet for vegetasjonsetablering og foreta jordforbedringstiltak"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7459",
+        "uri": "http://psi.udir.no/kl06/K7459",
+        "url-data": "http://data.udir.no/kl06/K7459",
+        "tittel": "behandle vekstmedier og tilføre næringsstoffer og jordforbedringsmidler i riktig mengde"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7460",
+        "uri": "http://psi.udir.no/kl06/K7460",
+        "url-data": "http://data.udir.no/kl06/K7460",
+        "tittel": "identifisere vanlige planter i ulike anleggstyper og bruke plantemateriale ut fra fysiologi og miljøkrav"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7461",
+        "uri": "http://psi.udir.no/kl06/K7461",
+        "url-data": "http://data.udir.no/kl06/K7461",
+        "tittel": "behandle og bruke løsmasser til ulike formål"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7462",
+        "uri": "http://psi.udir.no/kl06/K7462",
+        "url-data": "http://data.udir.no/kl06/K7462",
+        "tittel": "montere aktuelle installasjoner og konstruksjoner etter gjeldende standarder og prinsipper for universell utforming"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7463",
+        "uri": "http://psi.udir.no/kl06/K7463",
+        "url-data": "http://data.udir.no/kl06/K7463",
+        "tittel": "bruke økologiske begreper og forklare kretsløp i naturen   "
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7464",
+        "uri": "http://psi.udir.no/kl06/K7464",
+        "url-data": "http://data.udir.no/kl06/K7464",
+        "tittel": "gjøre rede for klimaets betydning for bygging av ulike anlegg"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7465",
+        "uri": "http://psi.udir.no/kl06/K7465",
+        "url-data": "http://data.udir.no/kl06/K7465",
+        "tittel": "beskrive organiseringen av en bedrift med utgangspunkt i bedriftsform og organisasjonskart"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7466",
+        "uri": "http://psi.udir.no/kl06/K7466",
+        "url-data": "http://data.udir.no/kl06/K7466",
+        "tittel": "gjøre rede for konkurranseforhold og skiftende rammevilkår i bransjene"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7467",
+        "uri": "http://psi.udir.no/kl06/K7467",
+        "url-data": "http://data.udir.no/kl06/K7467",
+        "tittel": "utføre arbeid i nyanlegg med tanke på økonomi og ressursutnyttelse og i tråd med gjeldende regelverk og standarder"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7468",
+        "uri": "http://psi.udir.no/kl06/K7468",
+        "url-data": "http://data.udir.no/kl06/K7468",
+        "tittel": "forklare sammenhenger mellom kvalitet i utførelse og senere vedlikeholdsarbeid på anlegg"
+      }
+    ]
+  },
+  {
+    "id": "NAAID2----",
+    "name": "Anleggsgartner- og idrettsanleggsfag",
+    "programUrl": "https://www.udir.no/kl06/NAAID2----",
+    "lareplanUrl": "https://data.udir.no/kl06/ADI2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7453",
+        "uri": "http://psi.udir.no/kl06/K7453",
+        "url-data": "http://data.udir.no/kl06/K7453",
+        "tittel": "planlegge og utføre oppgaver i nyanlegg etter gjeldende regelverk, standarder, planer og beskrivelser, vurdere og dokumentere eget arbeid"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7454",
+        "uri": "http://psi.udir.no/kl06/K7454",
+        "url-data": "http://data.udir.no/kl06/K7454",
+        "tittel": "bruke digitale verktøy i planlegging og rapportering"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7455",
+        "uri": "http://psi.udir.no/kl06/K7455",
+        "url-data": "http://data.udir.no/kl06/K7455",
+        "tittel": "velge og bruke aktuelt verktøy, aktuelle redskaper, maskiner og utstyr etter gjeldende regelverk og standarder"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7456",
+        "uri": "http://psi.udir.no/kl06/K7456",
+        "url-data": "http://data.udir.no/kl06/K7456",
+        "tittel": "bruke aktuelt landmålingsutstyr i nyanleggsarbeid"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7457",
+        "uri": "http://psi.udir.no/kl06/K7457",
+        "url-data": "http://data.udir.no/kl06/K7457",
+        "tittel": "velge og bruke materialer ut fra deres egenskaper og begrensninger"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7458",
+        "uri": "http://psi.udir.no/kl06/K7458",
+        "url-data": "http://data.udir.no/kl06/K7458",
+        "tittel": "vurdere ulike jordarters egnethet for vegetasjonsetablering og foreta jordforbedringstiltak"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7459",
+        "uri": "http://psi.udir.no/kl06/K7459",
+        "url-data": "http://data.udir.no/kl06/K7459",
+        "tittel": "behandle vekstmedier og tilføre næringsstoffer og jordforbedringsmidler i riktig mengde"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7460",
+        "uri": "http://psi.udir.no/kl06/K7460",
+        "url-data": "http://data.udir.no/kl06/K7460",
+        "tittel": "identifisere vanlige planter i ulike anleggstyper og bruke plantemateriale ut fra fysiologi og miljøkrav"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7461",
+        "uri": "http://psi.udir.no/kl06/K7461",
+        "url-data": "http://data.udir.no/kl06/K7461",
+        "tittel": "behandle og bruke løsmasser til ulike formål"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7462",
+        "uri": "http://psi.udir.no/kl06/K7462",
+        "url-data": "http://data.udir.no/kl06/K7462",
+        "tittel": "montere aktuelle installasjoner og konstruksjoner etter gjeldende standarder og prinsipper for universell utforming"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7463",
+        "uri": "http://psi.udir.no/kl06/K7463",
+        "url-data": "http://data.udir.no/kl06/K7463",
+        "tittel": "bruke økologiske begreper og forklare kretsløp i naturen   "
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7464",
+        "uri": "http://psi.udir.no/kl06/K7464",
+        "url-data": "http://data.udir.no/kl06/K7464",
+        "tittel": "gjøre rede for klimaets betydning for bygging av ulike anlegg"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7465",
+        "uri": "http://psi.udir.no/kl06/K7465",
+        "url-data": "http://data.udir.no/kl06/K7465",
+        "tittel": "beskrive organiseringen av en bedrift med utgangspunkt i bedriftsform og organisasjonskart"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7466",
+        "uri": "http://psi.udir.no/kl06/K7466",
+        "url-data": "http://data.udir.no/kl06/K7466",
+        "tittel": "gjøre rede for konkurranseforhold og skiftende rammevilkår i bransjene"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7467",
+        "uri": "http://psi.udir.no/kl06/K7467",
+        "url-data": "http://data.udir.no/kl06/K7467",
+        "tittel": "utføre arbeid i nyanlegg med tanke på økonomi og ressursutnyttelse og i tråd med gjeldende regelverk og standarder"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7468",
+        "uri": "http://psi.udir.no/kl06/K7468",
+        "url-data": "http://data.udir.no/kl06/K7468",
+        "tittel": "forklare sammenhenger mellom kvalitet i utførelse og senere vedlikeholdsarbeid på anlegg"
+      }
+    ]
+  },
+  {
+    "id": "NAFFA2----",
+    "name": "Fiske og fangst",
+    "programUrl": "https://www.udir.no/kl06/NAFFA2----",
+    "lareplanUrl": "https://data.udir.no/kl06/FFA2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12904",
+        "uri": "http://psi.udir.no/kl06/K12904",
+        "url-data": "http://data.udir.no/kl06/K12904",
+        "tittel": "planleggje og gjere greie for gjennomføring og dokumentasjon av ei kystreise og bestemme posisjon"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12905",
+        "uri": "http://psi.udir.no/kl06/K12905",
+        "url-data": "http://data.udir.no/kl06/K12905",
+        "tittel": "gjere greie for krav til dokumentasjon av spesielle hendingar og uhell under kystreise "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12906",
+        "uri": "http://psi.udir.no/kl06/K12906",
+        "url-data": "http://data.udir.no/kl06/K12906",
+        "tittel": "velje og bruke sjøkart og navigasjonsinstrument som hjelpemiddel for å gjennomføre sikker seglas innanskjers og i kystfarvatn under varierande forhold"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12907",
+        "uri": "http://psi.udir.no/kl06/K12907",
+        "url-data": "http://data.udir.no/kl06/K12907",
+        "tittel": "forklare prinsippa for astronomisk navigasjon"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12908",
+        "uri": "http://psi.udir.no/kl06/K12908",
+        "url-data": "http://data.udir.no/kl06/K12908",
+        "tittel": "bruke farvassbeskrivingar, seglasrettleiingar og kartrettingar"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12909",
+        "uri": "http://psi.udir.no/kl06/K12909",
+        "url-data": "http://data.udir.no/kl06/K12909",
+        "tittel": "utføre meteorologiske observasjonar og bruke resultata til å planleggje gjennomføringa av ein seglas med fartøy inntil 500 bruttotonn"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12910",
+        "uri": "http://psi.udir.no/kl06/K12910",
+        "url-data": "http://data.udir.no/kl06/K12910",
+        "tittel": "beskrive og bruke sjømerke og utføre bruvakt på fartøy inntil 500 bruttotonn etter gjeldande sjøvegsreglar og i samsvar med godt sjømannskap"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12911",
+        "uri": "http://psi.udir.no/kl06/K12911",
+        "url-data": "http://data.udir.no/kl06/K12911",
+        "tittel": "gjere greie for kva det vil seie å vere øvste ansvarlege om bord"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12912",
+        "uri": "http://psi.udir.no/kl06/K12912",
+        "url-data": "http://data.udir.no/kl06/K12912",
+        "tittel": "førebyggje ulykker og gjere reie for korleis fartøyet kan opererast trygt, basert på gjeldande regelverk for fartøy inntil 500 bruttotonn"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12913",
+        "uri": "http://psi.udir.no/kl06/K12913",
+        "url-data": "http://data.udir.no/kl06/K12913",
+        "tittel": "vurdere risiko og utføre oppgåver som leiar i krise- og nødssituasjonar"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12914",
+        "uri": "http://psi.udir.no/kl06/K12914",
+        "url-data": "http://data.udir.no/kl06/K12914",
+        "tittel": "manøvrere fartøy inntil 500 bruttotonn, med rettleiing, og bruke mindre skipsmaskinar etter gjeldande regelverk"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12915",
+        "uri": "http://psi.udir.no/kl06/K12915",
+        "url-data": "http://data.udir.no/kl06/K12915",
+        "tittel": "føre tilsyn med og berekne stabiliteten til fartøy inntil 500 bruttotonn før og etter lasting, og overvake lasting, lossing og sikring av lasta etter gjeldande regelverk"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12916",
+        "uri": "http://psi.udir.no/kl06/K12916",
+        "url-data": "http://data.udir.no/kl06/K12916",
+        "tittel": "planlegge lasting og lossing i samsvar med gjeldande miljøregelverk"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12917",
+        "uri": "http://psi.udir.no/kl06/K12917",
+        "url-data": "http://data.udir.no/kl06/K12917",
+        "tittel": "gjere greie for innhaldet i ein forretningsplan og gangen i arbeidet med å etablere eiga bedrift  innan fiske og fangst"
+      }
+    ]
+  },
+  {
+    "id": "NAHHO2----",
+    "name": "Heste- og hovslagerfag",
+    "programUrl": "https://www.udir.no/kl06/NAHHO2----",
+    "lareplanUrl": "https://data.udir.no/kl06/HHO2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3385",
+        "uri": "http://psi.udir.no/kl06/K3385",
+        "url-data": "http://data.udir.no/kl06/K3385",
+        "tittel": "planlegge, gjennomføre og dokumentere arbeidsoperasjoner i daglig drift av stall og vurdere eget arbeid"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3386",
+        "uri": "http://psi.udir.no/kl06/K3386",
+        "url-data": "http://data.udir.no/kl06/K3386",
+        "tittel": "utføre grunnleggende vedlikehold og enkle reparasjoner av utstyr, stall, luftegårder og treningsarenaer"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3387",
+        "uri": "http://psi.udir.no/kl06/K3387",
+        "url-data": "http://data.udir.no/kl06/K3387",
+        "tittel": "velge materialer, tekniske innretninger og maskiner til stalldrift og bruke dem i tråd med gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3388",
+        "uri": "http://psi.udir.no/kl06/K3388",
+        "url-data": "http://data.udir.no/kl06/K3388",
+        "tittel": "gjennomføre arbeid knyttet til drift av stall i samsvar med gjeldende regelverk for helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3389",
+        "uri": "http://psi.udir.no/kl06/K3389",
+        "url-data": "http://data.udir.no/kl06/K3389",
+        "tittel": "beskrive prinsippene for produksjon av vanlige fôrslag til hest og utføre utvalgte arbeidsoperasjoner innen produksjon, lagring og håndtering av fôr"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3390",
+        "uri": "http://psi.udir.no/kl06/K3390",
+        "url-data": "http://data.udir.no/kl06/K3390",
+        "tittel": "gjøre rede for ulike typer beite og forvaltningen av dem"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3391",
+        "uri": "http://psi.udir.no/kl06/K3391",
+        "url-data": "http://data.udir.no/kl06/K3391",
+        "tittel": "innarbeide rutiner for kvalitetskontroll og gjøre rede for betydningen av kvalitetssikring knyttet til drift av stall og aktiviteter med hest"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3392",
+        "uri": "http://psi.udir.no/kl06/K3392",
+        "url-data": "http://data.udir.no/kl06/K3392",
+        "tittel": "sette opp et budsjett for drift av stall og vurdere hvordan ulike driftsformer og aktiviteter påvirker inntekter og utgifter"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3393",
+        "uri": "http://psi.udir.no/kl06/K3393",
+        "url-data": "http://data.udir.no/kl06/K3393",
+        "tittel": "gjøre rede for gangen i en bedriftsetablering og forklare hensikten med og innholdet i en forretningsplan"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3394",
+        "uri": "http://psi.udir.no/kl06/K3394",
+        "url-data": "http://data.udir.no/kl06/K3394",
+        "tittel": "gi eksempler på aktuelle kundegrupper i hestenæringen og gjøre rede for profesjonell kundebehandling"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3395",
+        "uri": "http://psi.udir.no/kl06/K3395",
+        "url-data": "http://data.udir.no/kl06/K3395",
+        "tittel": "gi eksempler på hvordan hestenæring, naturvern og allmennhet kan ha ulike interesser når det gjelder forvaltning av naturområder, og drøfte hvordan de kan samordnes"
+      }
+    ]
+  },
+  {
+    "id": "NAHHO2----",
+    "name": "Heste- og hovslagerfag",
+    "programUrl": "https://www.udir.no/kl06/NAHHO2----",
+    "lareplanUrl": "https://data.udir.no/kl06/HHO2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3385",
+        "uri": "http://psi.udir.no/kl06/K3385",
+        "url-data": "http://data.udir.no/kl06/K3385",
+        "tittel": "planlegge, gjennomføre og dokumentere arbeidsoperasjoner i daglig drift av stall og vurdere eget arbeid"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3386",
+        "uri": "http://psi.udir.no/kl06/K3386",
+        "url-data": "http://data.udir.no/kl06/K3386",
+        "tittel": "utføre grunnleggende vedlikehold og enkle reparasjoner av utstyr, stall, luftegårder og treningsarenaer"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3387",
+        "uri": "http://psi.udir.no/kl06/K3387",
+        "url-data": "http://data.udir.no/kl06/K3387",
+        "tittel": "velge materialer, tekniske innretninger og maskiner til stalldrift og bruke dem i tråd med gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3388",
+        "uri": "http://psi.udir.no/kl06/K3388",
+        "url-data": "http://data.udir.no/kl06/K3388",
+        "tittel": "gjennomføre arbeid knyttet til drift av stall i samsvar med gjeldende regelverk for helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3389",
+        "uri": "http://psi.udir.no/kl06/K3389",
+        "url-data": "http://data.udir.no/kl06/K3389",
+        "tittel": "beskrive prinsippene for produksjon av vanlige fôrslag til hest og utføre utvalgte arbeidsoperasjoner innen produksjon, lagring og håndtering av fôr"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3390",
+        "uri": "http://psi.udir.no/kl06/K3390",
+        "url-data": "http://data.udir.no/kl06/K3390",
+        "tittel": "gjøre rede for ulike typer beite og forvaltningen av dem"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3391",
+        "uri": "http://psi.udir.no/kl06/K3391",
+        "url-data": "http://data.udir.no/kl06/K3391",
+        "tittel": "innarbeide rutiner for kvalitetskontroll og gjøre rede for betydningen av kvalitetssikring knyttet til drift av stall og aktiviteter med hest"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3392",
+        "uri": "http://psi.udir.no/kl06/K3392",
+        "url-data": "http://data.udir.no/kl06/K3392",
+        "tittel": "sette opp et budsjett for drift av stall og vurdere hvordan ulike driftsformer og aktiviteter påvirker inntekter og utgifter"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3393",
+        "uri": "http://psi.udir.no/kl06/K3393",
+        "url-data": "http://data.udir.no/kl06/K3393",
+        "tittel": "gjøre rede for gangen i en bedriftsetablering og forklare hensikten med og innholdet i en forretningsplan"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3394",
+        "uri": "http://psi.udir.no/kl06/K3394",
+        "url-data": "http://data.udir.no/kl06/K3394",
+        "tittel": "gi eksempler på aktuelle kundegrupper i hestenæringen og gjøre rede for profesjonell kundebehandling"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3395",
+        "uri": "http://psi.udir.no/kl06/K3395",
+        "url-data": "http://data.udir.no/kl06/K3395",
+        "tittel": "gi eksempler på hvordan hestenæring, naturvern og allmennhet kan ha ulike interesser når det gjelder forvaltning av naturområder, og drøfte hvordan de kan samordnes"
+      }
+    ]
+  },
+  {
+    "id": "NALGA2----",
+    "name": "Landbruk og gartnernæring",
+    "programUrl": "https://www.udir.no/kl06/NALGA2----",
+    "lareplanUrl": "https://data.udir.no/kl06/LGA4-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K16638",
+        "uri": "http://psi.udir.no/kl06/K16638",
+        "url-data": "http://data.udir.no/kl06/K16638",
+        "tittel": "kartlegge naturtyper og arealbruk i et område, og gi eksempler på hvordan næringsutøvelsen påvirker lokalsamfunnet, miljøet og det biologiske mangfoldet"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K16639",
+        "uri": "http://psi.udir.no/kl06/K16639",
+        "url-data": "http://data.udir.no/kl06/K16639",
+        "tittel": "foreslå nye produkter basert på lokale naturressurser og vurdere muligheten for å etablere ny virksomhet "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K16640",
+        "uri": "http://psi.udir.no/kl06/K16640",
+        "url-data": "http://data.udir.no/kl06/K16640",
+        "tittel": "gjøre rede oppstart, drift og avvikling av en produksjon eller aktivitet og innholdet i en forretningsplan "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K16641",
+        "uri": "http://psi.udir.no/kl06/K16641",
+        "url-data": "http://data.udir.no/kl06/K16641",
+        "tittel": "gjøre rede for krav som kunder stiller til produkter, kvalitet og kundebehandling og klargjøre et produkt for salg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K16642",
+        "uri": "http://psi.udir.no/kl06/K16642",
+        "url-data": "http://data.udir.no/kl06/K16642",
+        "tittel": "beskrive sentrale elementer i god økonomistyring og benytte dataverktøy til en enkel økonomisk oversikt "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K16643",
+        "uri": "http://psi.udir.no/kl06/K16643",
+        "url-data": "http://data.udir.no/kl06/K16643",
+        "tittel": "klargjøre bilag for regnskapsføring, tolke nøkkeltall og forklare betydningen av korrekt regnskapsføring "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K16644",
+        "uri": "http://psi.udir.no/kl06/K16644",
+        "url-data": "http://data.udir.no/kl06/K16644",
+        "tittel": "gjøre rede for krav til profesjonell arbeidsledelse, planlegge en naturbasert arbeidsoppgave som skal utføres av flere personer, lede gjennomføringen og evaluere arbeidet"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K16645",
+        "uri": "http://psi.udir.no/kl06/K16645",
+        "url-data": "http://data.udir.no/kl06/K16645",
+        "tittel": "gjøre rede for samvirke og andre vanlige selskaps- og samarbeidsformer knyttet til produksjon, aktivitet, omsetning og foredling i landbruk og gartnernæring og i organisasjoner knyttet til næringene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K16646",
+        "uri": "http://psi.udir.no/kl06/K16646",
+        "url-data": "http://data.udir.no/kl06/K16646",
+        "tittel": "beskrive og vurdere historisk og estetisk betydning av planter, bygninger og andre elementer i hageanlegg, gårdstun og kulturlandskap"
+      }
+    ]
+  },
+  {
+    "id": "NALGA2----",
+    "name": "Landbruk og gartnernæring",
+    "programUrl": "https://www.udir.no/kl06/NALGA2----",
+    "lareplanUrl": "https://data.udir.no/kl06/LGA4-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K16638",
+        "uri": "http://psi.udir.no/kl06/K16638",
+        "url-data": "http://data.udir.no/kl06/K16638",
+        "tittel": "kartlegge naturtyper og arealbruk i et område, og gi eksempler på hvordan næringsutøvelsen påvirker lokalsamfunnet, miljøet og det biologiske mangfoldet"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K16639",
+        "uri": "http://psi.udir.no/kl06/K16639",
+        "url-data": "http://data.udir.no/kl06/K16639",
+        "tittel": "foreslå nye produkter basert på lokale naturressurser og vurdere muligheten for å etablere ny virksomhet "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K16640",
+        "uri": "http://psi.udir.no/kl06/K16640",
+        "url-data": "http://data.udir.no/kl06/K16640",
+        "tittel": "gjøre rede oppstart, drift og avvikling av en produksjon eller aktivitet og innholdet i en forretningsplan "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K16641",
+        "uri": "http://psi.udir.no/kl06/K16641",
+        "url-data": "http://data.udir.no/kl06/K16641",
+        "tittel": "gjøre rede for krav som kunder stiller til produkter, kvalitet og kundebehandling og klargjøre et produkt for salg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K16642",
+        "uri": "http://psi.udir.no/kl06/K16642",
+        "url-data": "http://data.udir.no/kl06/K16642",
+        "tittel": "beskrive sentrale elementer i god økonomistyring og benytte dataverktøy til en enkel økonomisk oversikt "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K16643",
+        "uri": "http://psi.udir.no/kl06/K16643",
+        "url-data": "http://data.udir.no/kl06/K16643",
+        "tittel": "klargjøre bilag for regnskapsføring, tolke nøkkeltall og forklare betydningen av korrekt regnskapsføring "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K16644",
+        "uri": "http://psi.udir.no/kl06/K16644",
+        "url-data": "http://data.udir.no/kl06/K16644",
+        "tittel": "gjøre rede for krav til profesjonell arbeidsledelse, planlegge en naturbasert arbeidsoppgave som skal utføres av flere personer, lede gjennomføringen og evaluere arbeidet"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K16645",
+        "uri": "http://psi.udir.no/kl06/K16645",
+        "url-data": "http://data.udir.no/kl06/K16645",
+        "tittel": "gjøre rede for samvirke og andre vanlige selskaps- og samarbeidsformer knyttet til produksjon, aktivitet, omsetning og foredling i landbruk og gartnernæring og i organisasjoner knyttet til næringene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K16646",
+        "uri": "http://psi.udir.no/kl06/K16646",
+        "url-data": "http://data.udir.no/kl06/K16646",
+        "tittel": "beskrive og vurdere historisk og estetisk betydning av planter, bygninger og andre elementer i hageanlegg, gårdstun og kulturlandskap"
+      }
+    ]
+  },
+  {
+    "id": "NAREI2----",
+    "name": "Reindrift",
+    "programUrl": "https://www.udir.no/kl06/NAREI2----",
+    "lareplanUrl": "https://data.udir.no/kl06/REI2-02",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3667",
+        "uri": "http://psi.udir.no/kl06/K3667",
+        "url-data": "http://data.udir.no/kl06/K3667",
+        "tittel": "beskrive ulike former for tradisjonell reindrift i Sápmi og internasjonalt "
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3668",
+        "uri": "http://psi.udir.no/kl06/K3668",
+        "url-data": "http://data.udir.no/kl06/K3668",
+        "tittel": "beskrive ulike utviklingstrekk og bakgrunn for endringer i reindriftsbasert produksjon"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3669",
+        "uri": "http://psi.udir.no/kl06/K3669",
+        "url-data": "http://data.udir.no/kl06/K3669",
+        "tittel": "gjøre rede for ulike arbeidsoppgaver i tradisjonelle og nye former for reindrift som utføres individuelt og sammen med andre "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3670",
+        "uri": "http://psi.udir.no/kl06/K3670",
+        "url-data": "http://data.udir.no/kl06/K3670",
+        "tittel": "gjøre rede for ulike arbeidsoppgaver knyttet til enkeltrein og reinflokker og beskrive hvordan oppgavene kan utføres på en trygg måte og i samsvar med gjeldende lover og regler "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3671",
+        "uri": "http://psi.udir.no/kl06/K3671",
+        "url-data": "http://data.udir.no/kl06/K3671",
+        "tittel": "gjenkjenne og beskrive rein på grunnlag av tradisjonelle metoder og fagterminologi "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3672",
+        "uri": "http://psi.udir.no/kl06/K3672",
+        "url-data": "http://data.udir.no/kl06/K3672",
+        "tittel": "beskrive bedøving og avliving av rein etter gjeldende regelverk og beskrive videre slakteprosess og ivaretakelse av råstoff "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3673",
+        "uri": "http://psi.udir.no/kl06/K3673",
+        "url-data": "http://data.udir.no/kl06/K3673",
+        "tittel": "forberede og utføre arbeidsoppgaver ved utnyttelse av øvrige naturressurser i produksjons- og driftsøyemed "
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3674",
+        "uri": "http://psi.udir.no/kl06/K3674",
+        "url-data": "http://data.udir.no/kl06/K3674",
+        "tittel": "beskrive og identifisere egenskaper for gjeterhunder og gjøre rede for foring, stell, dressur og regelverk for hundehold"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3675",
+        "uri": "http://psi.udir.no/kl06/K3675",
+        "url-data": "http://data.udir.no/kl06/K3675",
+        "tittel": "bruke og vedlikeholde vanlige tekniske hjelpemidler på en trygg måte og i samsvar med gjeldende lover og regler "
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3676",
+        "uri": "http://psi.udir.no/kl06/K3676",
+        "url-data": "http://data.udir.no/kl06/K3676",
+        "tittel": "velge ut egnede steder for og beskrive utforming av gjerder og anlegg for reindrift "
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3677",
+        "uri": "http://psi.udir.no/kl06/K3677",
+        "url-data": "http://data.udir.no/kl06/K3677",
+        "tittel": "beskrive roller og oppgaver til og relasjoner mellom individer, familier, slekter og siidaer i tradisjonelle reindriftssamfunn og gi eksempler på tradisjoner og skikker knyttet til de ulike enhetene og relasjoner mellom disse "
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3678",
+        "uri": "http://psi.udir.no/kl06/K3678",
+        "url-data": "http://data.udir.no/kl06/K3678",
+        "tittel": "gi eksempler på og vurdere nye former for organisering av arbeidsoppgaver knyttet til rein og reindrift"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3679",
+        "uri": "http://psi.udir.no/kl06/K3679",
+        "url-data": "http://data.udir.no/kl06/K3679",
+        "tittel": "beskrive reindrift som lærings- og aktivitetsarena for personer med ulik alder og posisjon i reindriften"
+      }
+    ]
+  },
+  {
+    "id": "NASBR2----",
+    "name": "Skogbruk",
+    "programUrl": "https://www.udir.no/kl06/NASBR2----",
+    "lareplanUrl": "https://data.udir.no/kl06/SBR2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1615",
+        "uri": "http://psi.udir.no/kl06/K1615",
+        "url-data": "http://data.udir.no/kl06/K1615",
+        "tittel": "planlegge, gjennomføre, vurdere og dokumentere arbeid i skog og utmark i tråd med gjeldende regelverk og bransjestandarder"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1616",
+        "uri": "http://psi.udir.no/kl06/K1616",
+        "url-data": "http://data.udir.no/kl06/K1616",
+        "tittel": "velge foryngelsesmetode og utføre foryngelse av skog"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1617",
+        "uri": "http://psi.udir.no/kl06/K1617",
+        "url-data": "http://data.udir.no/kl06/K1617",
+        "tittel": "vurdere behov for og utføre ungskogspleie"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1618",
+        "uri": "http://psi.udir.no/kl06/K1618",
+        "url-data": "http://data.udir.no/kl06/K1618",
+        "tittel": "fastsette bonitet på grunnlag av vegetasjonstyper"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1619",
+        "uri": "http://psi.udir.no/kl06/K1619",
+        "url-data": "http://data.udir.no/kl06/K1619",
+        "tittel": "utføre markberedning, såing og planting"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1620",
+        "uri": "http://psi.udir.no/kl06/K1620",
+        "url-data": "http://data.udir.no/kl06/K1620",
+        "tittel": "bruke motorryddesag og manuelle redskaper i bestandspleie"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1621",
+        "uri": "http://psi.udir.no/kl06/K1621",
+        "url-data": "http://data.udir.no/kl06/K1621",
+        "tittel": "bruke yrkesrelevante, digitale verktøy i informasjonsinnhenting, kommunikasjon og posisjonering                                                           "
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1622",
+        "uri": "http://psi.udir.no/kl06/K1622",
+        "url-data": "http://data.udir.no/kl06/K1622",
+        "tittel": "presentere et utvalg typiske plante- og dyrearter i noen skogtyper og gjøre rede for deres leveområder"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1623",
+        "uri": "http://psi.udir.no/kl06/K1623",
+        "url-data": "http://data.udir.no/kl06/K1623",
+        "tittel": "beskrive økologiske sammenhenger i ulike skogtyper, identifisere merkeplanter, biotoper og kulturminner, og vurdere konsekvenser av menneskelig aktivitet"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1624",
+        "uri": "http://psi.udir.no/kl06/K1624",
+        "url-data": "http://data.udir.no/kl06/K1624",
+        "tittel": "planlegge og utøve skog- og utmarksnæring med hensyn til økologi, allmennhet og andre brukergrupper"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1625",
+        "uri": "http://psi.udir.no/kl06/K1625",
+        "url-data": "http://data.udir.no/kl06/K1625",
+        "tittel": "forklare forskjeller mellom naturskog og kulturlandskap"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1626",
+        "uri": "http://psi.udir.no/kl06/K1626",
+        "url-data": "http://data.udir.no/kl06/K1626",
+        "tittel": "vurdere muligheter for ny næringsvirksomhet basert på skog- og utmarksressurser"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1627",
+        "uri": "http://psi.udir.no/kl06/K1627",
+        "url-data": "http://data.udir.no/kl06/K1627",
+        "tittel": "planlegge, gjennomføre, vurdere og dokumentere utmarksaktiviteter tilrettelagt for publikum til ulike årstider"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1628",
+        "uri": "http://psi.udir.no/kl06/K1628",
+        "url-data": "http://data.udir.no/kl06/K1628",
+        "tittel": "planlegge og gjennomføre produksjon av bioenergi"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1629",
+        "uri": "http://psi.udir.no/kl06/K1629",
+        "url-data": "http://data.udir.no/kl06/K1629",
+        "tittel": "utføre arbeid i skog og utmark etter gjeldende regelverk for helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1630",
+        "uri": "http://psi.udir.no/kl06/K1630",
+        "url-data": "http://data.udir.no/kl06/K1630",
+        "tittel": "sette mål og vurdere lønnsomhet for en utmarksproduksjon"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1631",
+        "uri": "http://psi.udir.no/kl06/K1631",
+        "url-data": "http://data.udir.no/kl06/K1631",
+        "tittel": "forklare forskjellen mellom budsjett og regnskap, påpeke eventuelle avvik og mulige årsaker til dem"
+      },
+      {
+        "rekkefoelge": 18,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1632",
+        "uri": "http://psi.udir.no/kl06/K1632",
+        "url-data": "http://data.udir.no/kl06/K1632",
+        "tittel": "gjøre rede for skogbrukets organisasjoner og sentrale trekk ved offentlig skogsforvaltning"
+      }
+    ]
+  }
+]

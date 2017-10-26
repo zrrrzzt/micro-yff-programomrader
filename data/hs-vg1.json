@@ -1,0 +1,938 @@
+[
+  {
+    "id": "HSHSF1----",
+    "name": "Helse- og oppvekstfag",
+    "programUrl": "https://www.udir.no/kl06/HSHSF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/HSF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K640",
+        "uri": "http://psi.udir.no/kl06/K640",
+        "url-data": "http://data.udir.no/kl06/K640",
+        "tittel": "gjere greie for samanhengar mellom helse og livsstil"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K641",
+        "uri": "http://psi.udir.no/kl06/K641",
+        "url-data": "http://data.udir.no/kl06/K641",
+        "tittel": "drøfte og gi døme på kva den enkelte og samfunnet kan gjere for å betre eiga helse og folkehelsa, både psykisk og fysisk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K642",
+        "uri": "http://psi.udir.no/kl06/K642",
+        "url-data": "http://data.udir.no/kl06/K642",
+        "tittel": "setje saman enkle måltid og vurdere energi- og næringsinnhaldet i tråd med tilrådingar om eit sunt kosthald frå helsestyresmaktene"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K643",
+        "uri": "http://psi.udir.no/kl06/K643",
+        "url-data": "http://data.udir.no/kl06/K643",
+        "tittel": "drøfte helse-, livsstils- og kosthaldsinformasjon og reklame i media"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K644",
+        "uri": "http://psi.udir.no/kl06/K644",
+        "url-data": "http://data.udir.no/kl06/K644",
+        "tittel": "gjere greie for kva den enkelte kan gjere for å halde ved lag eit godt immunforsvar og førebyggje smittespreiing, og forklare kva smittespreiing kan føre til"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K645",
+        "uri": "http://psi.udir.no/kl06/K645",
+        "url-data": "http://data.udir.no/kl06/K645",
+        "tittel": "forklare korleis kroppen er bygd opp og fungerer i forhold til livsstilssjukdommar, og forklare konsekvensar av svikt i vitale kroppsfunksjonar"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K646",
+        "uri": "http://psi.udir.no/kl06/K646",
+        "url-data": "http://data.udir.no/kl06/K646",
+        "tittel": "utføre grunnleggjande førstehjelp"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K647",
+        "uri": "http://psi.udir.no/kl06/K647",
+        "url-data": "http://data.udir.no/kl06/K647",
+        "tittel": "bruke rette arbeidsteknikkar og gode arbeidsstillingar, og gjere greie for samanhengen mellom ergonomi og helse"
+      }
+    ]
+  },
+  {
+    "id": "HSHSF1----",
+    "name": "Helse- og oppvekstfag",
+    "programUrl": "https://www.udir.no/kl06/HSHSF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/HSF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K640",
+        "uri": "http://psi.udir.no/kl06/K640",
+        "url-data": "http://data.udir.no/kl06/K640",
+        "tittel": "gjere greie for samanhengar mellom helse og livsstil"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K641",
+        "uri": "http://psi.udir.no/kl06/K641",
+        "url-data": "http://data.udir.no/kl06/K641",
+        "tittel": "drøfte og gi døme på kva den enkelte og samfunnet kan gjere for å betre eiga helse og folkehelsa, både psykisk og fysisk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K642",
+        "uri": "http://psi.udir.no/kl06/K642",
+        "url-data": "http://data.udir.no/kl06/K642",
+        "tittel": "setje saman enkle måltid og vurdere energi- og næringsinnhaldet i tråd med tilrådingar om eit sunt kosthald frå helsestyresmaktene"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K643",
+        "uri": "http://psi.udir.no/kl06/K643",
+        "url-data": "http://data.udir.no/kl06/K643",
+        "tittel": "drøfte helse-, livsstils- og kosthaldsinformasjon og reklame i media"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K644",
+        "uri": "http://psi.udir.no/kl06/K644",
+        "url-data": "http://data.udir.no/kl06/K644",
+        "tittel": "gjere greie for kva den enkelte kan gjere for å halde ved lag eit godt immunforsvar og førebyggje smittespreiing, og forklare kva smittespreiing kan føre til"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K645",
+        "uri": "http://psi.udir.no/kl06/K645",
+        "url-data": "http://data.udir.no/kl06/K645",
+        "tittel": "forklare korleis kroppen er bygd opp og fungerer i forhold til livsstilssjukdommar, og forklare konsekvensar av svikt i vitale kroppsfunksjonar"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K646",
+        "uri": "http://psi.udir.no/kl06/K646",
+        "url-data": "http://data.udir.no/kl06/K646",
+        "tittel": "utføre grunnleggjande førstehjelp"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K647",
+        "uri": "http://psi.udir.no/kl06/K647",
+        "url-data": "http://data.udir.no/kl06/K647",
+        "tittel": "bruke rette arbeidsteknikkar og gode arbeidsstillingar, og gjere greie for samanhengen mellom ergonomi og helse"
+      }
+    ]
+  },
+  {
+    "id": "HSHSF1----",
+    "name": "Helse- og oppvekstfag",
+    "programUrl": "https://www.udir.no/kl06/HSHSF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/HSF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K640",
+        "uri": "http://psi.udir.no/kl06/K640",
+        "url-data": "http://data.udir.no/kl06/K640",
+        "tittel": "gjere greie for samanhengar mellom helse og livsstil"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K641",
+        "uri": "http://psi.udir.no/kl06/K641",
+        "url-data": "http://data.udir.no/kl06/K641",
+        "tittel": "drøfte og gi døme på kva den enkelte og samfunnet kan gjere for å betre eiga helse og folkehelsa, både psykisk og fysisk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K642",
+        "uri": "http://psi.udir.no/kl06/K642",
+        "url-data": "http://data.udir.no/kl06/K642",
+        "tittel": "setje saman enkle måltid og vurdere energi- og næringsinnhaldet i tråd med tilrådingar om eit sunt kosthald frå helsestyresmaktene"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K643",
+        "uri": "http://psi.udir.no/kl06/K643",
+        "url-data": "http://data.udir.no/kl06/K643",
+        "tittel": "drøfte helse-, livsstils- og kosthaldsinformasjon og reklame i media"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K644",
+        "uri": "http://psi.udir.no/kl06/K644",
+        "url-data": "http://data.udir.no/kl06/K644",
+        "tittel": "gjere greie for kva den enkelte kan gjere for å halde ved lag eit godt immunforsvar og førebyggje smittespreiing, og forklare kva smittespreiing kan føre til"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K645",
+        "uri": "http://psi.udir.no/kl06/K645",
+        "url-data": "http://data.udir.no/kl06/K645",
+        "tittel": "forklare korleis kroppen er bygd opp og fungerer i forhold til livsstilssjukdommar, og forklare konsekvensar av svikt i vitale kroppsfunksjonar"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K646",
+        "uri": "http://psi.udir.no/kl06/K646",
+        "url-data": "http://data.udir.no/kl06/K646",
+        "tittel": "utføre grunnleggjande førstehjelp"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K647",
+        "uri": "http://psi.udir.no/kl06/K647",
+        "url-data": "http://data.udir.no/kl06/K647",
+        "tittel": "bruke rette arbeidsteknikkar og gode arbeidsstillingar, og gjere greie for samanhengen mellom ergonomi og helse"
+      }
+    ]
+  },
+  {
+    "id": "HSHSF1----",
+    "name": "Helse- og oppvekstfag",
+    "programUrl": "https://www.udir.no/kl06/HSHSF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/HSF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K640",
+        "uri": "http://psi.udir.no/kl06/K640",
+        "url-data": "http://data.udir.no/kl06/K640",
+        "tittel": "gjere greie for samanhengar mellom helse og livsstil"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K641",
+        "uri": "http://psi.udir.no/kl06/K641",
+        "url-data": "http://data.udir.no/kl06/K641",
+        "tittel": "drøfte og gi døme på kva den enkelte og samfunnet kan gjere for å betre eiga helse og folkehelsa, både psykisk og fysisk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K642",
+        "uri": "http://psi.udir.no/kl06/K642",
+        "url-data": "http://data.udir.no/kl06/K642",
+        "tittel": "setje saman enkle måltid og vurdere energi- og næringsinnhaldet i tråd med tilrådingar om eit sunt kosthald frå helsestyresmaktene"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K643",
+        "uri": "http://psi.udir.no/kl06/K643",
+        "url-data": "http://data.udir.no/kl06/K643",
+        "tittel": "drøfte helse-, livsstils- og kosthaldsinformasjon og reklame i media"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K644",
+        "uri": "http://psi.udir.no/kl06/K644",
+        "url-data": "http://data.udir.no/kl06/K644",
+        "tittel": "gjere greie for kva den enkelte kan gjere for å halde ved lag eit godt immunforsvar og førebyggje smittespreiing, og forklare kva smittespreiing kan føre til"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K645",
+        "uri": "http://psi.udir.no/kl06/K645",
+        "url-data": "http://data.udir.no/kl06/K645",
+        "tittel": "forklare korleis kroppen er bygd opp og fungerer i forhold til livsstilssjukdommar, og forklare konsekvensar av svikt i vitale kroppsfunksjonar"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K646",
+        "uri": "http://psi.udir.no/kl06/K646",
+        "url-data": "http://data.udir.no/kl06/K646",
+        "tittel": "utføre grunnleggjande førstehjelp"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K647",
+        "uri": "http://psi.udir.no/kl06/K647",
+        "url-data": "http://data.udir.no/kl06/K647",
+        "tittel": "bruke rette arbeidsteknikkar og gode arbeidsstillingar, og gjere greie for samanhengen mellom ergonomi og helse"
+      }
+    ]
+  },
+  {
+    "id": "HSHSF1----",
+    "name": "Helse- og oppvekstfag",
+    "programUrl": "https://www.udir.no/kl06/HSHSF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/HSF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K640",
+        "uri": "http://psi.udir.no/kl06/K640",
+        "url-data": "http://data.udir.no/kl06/K640",
+        "tittel": "gjere greie for samanhengar mellom helse og livsstil"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K641",
+        "uri": "http://psi.udir.no/kl06/K641",
+        "url-data": "http://data.udir.no/kl06/K641",
+        "tittel": "drøfte og gi døme på kva den enkelte og samfunnet kan gjere for å betre eiga helse og folkehelsa, både psykisk og fysisk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K642",
+        "uri": "http://psi.udir.no/kl06/K642",
+        "url-data": "http://data.udir.no/kl06/K642",
+        "tittel": "setje saman enkle måltid og vurdere energi- og næringsinnhaldet i tråd med tilrådingar om eit sunt kosthald frå helsestyresmaktene"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K643",
+        "uri": "http://psi.udir.no/kl06/K643",
+        "url-data": "http://data.udir.no/kl06/K643",
+        "tittel": "drøfte helse-, livsstils- og kosthaldsinformasjon og reklame i media"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K644",
+        "uri": "http://psi.udir.no/kl06/K644",
+        "url-data": "http://data.udir.no/kl06/K644",
+        "tittel": "gjere greie for kva den enkelte kan gjere for å halde ved lag eit godt immunforsvar og førebyggje smittespreiing, og forklare kva smittespreiing kan føre til"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K645",
+        "uri": "http://psi.udir.no/kl06/K645",
+        "url-data": "http://data.udir.no/kl06/K645",
+        "tittel": "forklare korleis kroppen er bygd opp og fungerer i forhold til livsstilssjukdommar, og forklare konsekvensar av svikt i vitale kroppsfunksjonar"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K646",
+        "uri": "http://psi.udir.no/kl06/K646",
+        "url-data": "http://data.udir.no/kl06/K646",
+        "tittel": "utføre grunnleggjande førstehjelp"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K647",
+        "uri": "http://psi.udir.no/kl06/K647",
+        "url-data": "http://data.udir.no/kl06/K647",
+        "tittel": "bruke rette arbeidsteknikkar og gode arbeidsstillingar, og gjere greie for samanhengen mellom ergonomi og helse"
+      }
+    ]
+  },
+  {
+    "id": "HSHSF1----",
+    "name": "Helse- og oppvekstfag",
+    "programUrl": "https://www.udir.no/kl06/HSHSF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/HSF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K640",
+        "uri": "http://psi.udir.no/kl06/K640",
+        "url-data": "http://data.udir.no/kl06/K640",
+        "tittel": "gjere greie for samanhengar mellom helse og livsstil"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K641",
+        "uri": "http://psi.udir.no/kl06/K641",
+        "url-data": "http://data.udir.no/kl06/K641",
+        "tittel": "drøfte og gi døme på kva den enkelte og samfunnet kan gjere for å betre eiga helse og folkehelsa, både psykisk og fysisk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K642",
+        "uri": "http://psi.udir.no/kl06/K642",
+        "url-data": "http://data.udir.no/kl06/K642",
+        "tittel": "setje saman enkle måltid og vurdere energi- og næringsinnhaldet i tråd med tilrådingar om eit sunt kosthald frå helsestyresmaktene"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K643",
+        "uri": "http://psi.udir.no/kl06/K643",
+        "url-data": "http://data.udir.no/kl06/K643",
+        "tittel": "drøfte helse-, livsstils- og kosthaldsinformasjon og reklame i media"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K644",
+        "uri": "http://psi.udir.no/kl06/K644",
+        "url-data": "http://data.udir.no/kl06/K644",
+        "tittel": "gjere greie for kva den enkelte kan gjere for å halde ved lag eit godt immunforsvar og førebyggje smittespreiing, og forklare kva smittespreiing kan føre til"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K645",
+        "uri": "http://psi.udir.no/kl06/K645",
+        "url-data": "http://data.udir.no/kl06/K645",
+        "tittel": "forklare korleis kroppen er bygd opp og fungerer i forhold til livsstilssjukdommar, og forklare konsekvensar av svikt i vitale kroppsfunksjonar"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K646",
+        "uri": "http://psi.udir.no/kl06/K646",
+        "url-data": "http://data.udir.no/kl06/K646",
+        "tittel": "utføre grunnleggjande førstehjelp"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K647",
+        "uri": "http://psi.udir.no/kl06/K647",
+        "url-data": "http://data.udir.no/kl06/K647",
+        "tittel": "bruke rette arbeidsteknikkar og gode arbeidsstillingar, og gjere greie for samanhengen mellom ergonomi og helse"
+      }
+    ]
+  },
+  {
+    "id": "HSHSF1----",
+    "name": "Helse- og oppvekstfag",
+    "programUrl": "https://www.udir.no/kl06/HSHSF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/HSF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K640",
+        "uri": "http://psi.udir.no/kl06/K640",
+        "url-data": "http://data.udir.no/kl06/K640",
+        "tittel": "gjere greie for samanhengar mellom helse og livsstil"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K641",
+        "uri": "http://psi.udir.no/kl06/K641",
+        "url-data": "http://data.udir.no/kl06/K641",
+        "tittel": "drøfte og gi døme på kva den enkelte og samfunnet kan gjere for å betre eiga helse og folkehelsa, både psykisk og fysisk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K642",
+        "uri": "http://psi.udir.no/kl06/K642",
+        "url-data": "http://data.udir.no/kl06/K642",
+        "tittel": "setje saman enkle måltid og vurdere energi- og næringsinnhaldet i tråd med tilrådingar om eit sunt kosthald frå helsestyresmaktene"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K643",
+        "uri": "http://psi.udir.no/kl06/K643",
+        "url-data": "http://data.udir.no/kl06/K643",
+        "tittel": "drøfte helse-, livsstils- og kosthaldsinformasjon og reklame i media"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K644",
+        "uri": "http://psi.udir.no/kl06/K644",
+        "url-data": "http://data.udir.no/kl06/K644",
+        "tittel": "gjere greie for kva den enkelte kan gjere for å halde ved lag eit godt immunforsvar og førebyggje smittespreiing, og forklare kva smittespreiing kan føre til"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K645",
+        "uri": "http://psi.udir.no/kl06/K645",
+        "url-data": "http://data.udir.no/kl06/K645",
+        "tittel": "forklare korleis kroppen er bygd opp og fungerer i forhold til livsstilssjukdommar, og forklare konsekvensar av svikt i vitale kroppsfunksjonar"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K646",
+        "uri": "http://psi.udir.no/kl06/K646",
+        "url-data": "http://data.udir.no/kl06/K646",
+        "tittel": "utføre grunnleggjande førstehjelp"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K647",
+        "uri": "http://psi.udir.no/kl06/K647",
+        "url-data": "http://data.udir.no/kl06/K647",
+        "tittel": "bruke rette arbeidsteknikkar og gode arbeidsstillingar, og gjere greie for samanhengen mellom ergonomi og helse"
+      }
+    ]
+  },
+  {
+    "id": "HSHSF1----",
+    "name": "Helse- og oppvekstfag",
+    "programUrl": "https://www.udir.no/kl06/HSHSF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/HSF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K640",
+        "uri": "http://psi.udir.no/kl06/K640",
+        "url-data": "http://data.udir.no/kl06/K640",
+        "tittel": "gjere greie for samanhengar mellom helse og livsstil"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K641",
+        "uri": "http://psi.udir.no/kl06/K641",
+        "url-data": "http://data.udir.no/kl06/K641",
+        "tittel": "drøfte og gi døme på kva den enkelte og samfunnet kan gjere for å betre eiga helse og folkehelsa, både psykisk og fysisk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K642",
+        "uri": "http://psi.udir.no/kl06/K642",
+        "url-data": "http://data.udir.no/kl06/K642",
+        "tittel": "setje saman enkle måltid og vurdere energi- og næringsinnhaldet i tråd med tilrådingar om eit sunt kosthald frå helsestyresmaktene"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K643",
+        "uri": "http://psi.udir.no/kl06/K643",
+        "url-data": "http://data.udir.no/kl06/K643",
+        "tittel": "drøfte helse-, livsstils- og kosthaldsinformasjon og reklame i media"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K644",
+        "uri": "http://psi.udir.no/kl06/K644",
+        "url-data": "http://data.udir.no/kl06/K644",
+        "tittel": "gjere greie for kva den enkelte kan gjere for å halde ved lag eit godt immunforsvar og førebyggje smittespreiing, og forklare kva smittespreiing kan føre til"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K645",
+        "uri": "http://psi.udir.no/kl06/K645",
+        "url-data": "http://data.udir.no/kl06/K645",
+        "tittel": "forklare korleis kroppen er bygd opp og fungerer i forhold til livsstilssjukdommar, og forklare konsekvensar av svikt i vitale kroppsfunksjonar"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K646",
+        "uri": "http://psi.udir.no/kl06/K646",
+        "url-data": "http://data.udir.no/kl06/K646",
+        "tittel": "utføre grunnleggjande førstehjelp"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K647",
+        "uri": "http://psi.udir.no/kl06/K647",
+        "url-data": "http://data.udir.no/kl06/K647",
+        "tittel": "bruke rette arbeidsteknikkar og gode arbeidsstillingar, og gjere greie for samanhengen mellom ergonomi og helse"
+      }
+    ]
+  },
+  {
+    "id": "HSHSF1----",
+    "name": "Helse- og oppvekstfag",
+    "programUrl": "https://www.udir.no/kl06/HSHSF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/HSF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K640",
+        "uri": "http://psi.udir.no/kl06/K640",
+        "url-data": "http://data.udir.no/kl06/K640",
+        "tittel": "gjere greie for samanhengar mellom helse og livsstil"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K641",
+        "uri": "http://psi.udir.no/kl06/K641",
+        "url-data": "http://data.udir.no/kl06/K641",
+        "tittel": "drøfte og gi døme på kva den enkelte og samfunnet kan gjere for å betre eiga helse og folkehelsa, både psykisk og fysisk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K642",
+        "uri": "http://psi.udir.no/kl06/K642",
+        "url-data": "http://data.udir.no/kl06/K642",
+        "tittel": "setje saman enkle måltid og vurdere energi- og næringsinnhaldet i tråd med tilrådingar om eit sunt kosthald frå helsestyresmaktene"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K643",
+        "uri": "http://psi.udir.no/kl06/K643",
+        "url-data": "http://data.udir.no/kl06/K643",
+        "tittel": "drøfte helse-, livsstils- og kosthaldsinformasjon og reklame i media"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K644",
+        "uri": "http://psi.udir.no/kl06/K644",
+        "url-data": "http://data.udir.no/kl06/K644",
+        "tittel": "gjere greie for kva den enkelte kan gjere for å halde ved lag eit godt immunforsvar og førebyggje smittespreiing, og forklare kva smittespreiing kan føre til"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K645",
+        "uri": "http://psi.udir.no/kl06/K645",
+        "url-data": "http://data.udir.no/kl06/K645",
+        "tittel": "forklare korleis kroppen er bygd opp og fungerer i forhold til livsstilssjukdommar, og forklare konsekvensar av svikt i vitale kroppsfunksjonar"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K646",
+        "uri": "http://psi.udir.no/kl06/K646",
+        "url-data": "http://data.udir.no/kl06/K646",
+        "tittel": "utføre grunnleggjande førstehjelp"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K647",
+        "uri": "http://psi.udir.no/kl06/K647",
+        "url-data": "http://data.udir.no/kl06/K647",
+        "tittel": "bruke rette arbeidsteknikkar og gode arbeidsstillingar, og gjere greie for samanhengen mellom ergonomi og helse"
+      }
+    ]
+  },
+  {
+    "id": "HSHSF1----",
+    "name": "Helse- og oppvekstfag",
+    "programUrl": "https://www.udir.no/kl06/HSHSF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/HSF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K640",
+        "uri": "http://psi.udir.no/kl06/K640",
+        "url-data": "http://data.udir.no/kl06/K640",
+        "tittel": "gjere greie for samanhengar mellom helse og livsstil"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K641",
+        "uri": "http://psi.udir.no/kl06/K641",
+        "url-data": "http://data.udir.no/kl06/K641",
+        "tittel": "drøfte og gi døme på kva den enkelte og samfunnet kan gjere for å betre eiga helse og folkehelsa, både psykisk og fysisk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K642",
+        "uri": "http://psi.udir.no/kl06/K642",
+        "url-data": "http://data.udir.no/kl06/K642",
+        "tittel": "setje saman enkle måltid og vurdere energi- og næringsinnhaldet i tråd med tilrådingar om eit sunt kosthald frå helsestyresmaktene"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K643",
+        "uri": "http://psi.udir.no/kl06/K643",
+        "url-data": "http://data.udir.no/kl06/K643",
+        "tittel": "drøfte helse-, livsstils- og kosthaldsinformasjon og reklame i media"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K644",
+        "uri": "http://psi.udir.no/kl06/K644",
+        "url-data": "http://data.udir.no/kl06/K644",
+        "tittel": "gjere greie for kva den enkelte kan gjere for å halde ved lag eit godt immunforsvar og førebyggje smittespreiing, og forklare kva smittespreiing kan føre til"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K645",
+        "uri": "http://psi.udir.no/kl06/K645",
+        "url-data": "http://data.udir.no/kl06/K645",
+        "tittel": "forklare korleis kroppen er bygd opp og fungerer i forhold til livsstilssjukdommar, og forklare konsekvensar av svikt i vitale kroppsfunksjonar"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K646",
+        "uri": "http://psi.udir.no/kl06/K646",
+        "url-data": "http://data.udir.no/kl06/K646",
+        "tittel": "utføre grunnleggjande førstehjelp"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K647",
+        "uri": "http://psi.udir.no/kl06/K647",
+        "url-data": "http://data.udir.no/kl06/K647",
+        "tittel": "bruke rette arbeidsteknikkar og gode arbeidsstillingar, og gjere greie for samanhengen mellom ergonomi og helse"
+      }
+    ]
+  },
+  {
+    "id": "HSHSF1----",
+    "name": "Helse- og oppvekstfag",
+    "programUrl": "https://www.udir.no/kl06/HSHSF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/HSF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K640",
+        "uri": "http://psi.udir.no/kl06/K640",
+        "url-data": "http://data.udir.no/kl06/K640",
+        "tittel": "gjere greie for samanhengar mellom helse og livsstil"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K641",
+        "uri": "http://psi.udir.no/kl06/K641",
+        "url-data": "http://data.udir.no/kl06/K641",
+        "tittel": "drøfte og gi døme på kva den enkelte og samfunnet kan gjere for å betre eiga helse og folkehelsa, både psykisk og fysisk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K642",
+        "uri": "http://psi.udir.no/kl06/K642",
+        "url-data": "http://data.udir.no/kl06/K642",
+        "tittel": "setje saman enkle måltid og vurdere energi- og næringsinnhaldet i tråd med tilrådingar om eit sunt kosthald frå helsestyresmaktene"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K643",
+        "uri": "http://psi.udir.no/kl06/K643",
+        "url-data": "http://data.udir.no/kl06/K643",
+        "tittel": "drøfte helse-, livsstils- og kosthaldsinformasjon og reklame i media"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K644",
+        "uri": "http://psi.udir.no/kl06/K644",
+        "url-data": "http://data.udir.no/kl06/K644",
+        "tittel": "gjere greie for kva den enkelte kan gjere for å halde ved lag eit godt immunforsvar og førebyggje smittespreiing, og forklare kva smittespreiing kan føre til"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K645",
+        "uri": "http://psi.udir.no/kl06/K645",
+        "url-data": "http://data.udir.no/kl06/K645",
+        "tittel": "forklare korleis kroppen er bygd opp og fungerer i forhold til livsstilssjukdommar, og forklare konsekvensar av svikt i vitale kroppsfunksjonar"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K646",
+        "uri": "http://psi.udir.no/kl06/K646",
+        "url-data": "http://data.udir.no/kl06/K646",
+        "tittel": "utføre grunnleggjande førstehjelp"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K647",
+        "uri": "http://psi.udir.no/kl06/K647",
+        "url-data": "http://data.udir.no/kl06/K647",
+        "tittel": "bruke rette arbeidsteknikkar og gode arbeidsstillingar, og gjere greie for samanhengen mellom ergonomi og helse"
+      }
+    ]
+  },
+  {
+    "id": "HSHSF1----",
+    "name": "Helse- og oppvekstfag",
+    "programUrl": "https://www.udir.no/kl06/HSHSF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/HSF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K640",
+        "uri": "http://psi.udir.no/kl06/K640",
+        "url-data": "http://data.udir.no/kl06/K640",
+        "tittel": "gjere greie for samanhengar mellom helse og livsstil"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K641",
+        "uri": "http://psi.udir.no/kl06/K641",
+        "url-data": "http://data.udir.no/kl06/K641",
+        "tittel": "drøfte og gi døme på kva den enkelte og samfunnet kan gjere for å betre eiga helse og folkehelsa, både psykisk og fysisk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K642",
+        "uri": "http://psi.udir.no/kl06/K642",
+        "url-data": "http://data.udir.no/kl06/K642",
+        "tittel": "setje saman enkle måltid og vurdere energi- og næringsinnhaldet i tråd med tilrådingar om eit sunt kosthald frå helsestyresmaktene"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K643",
+        "uri": "http://psi.udir.no/kl06/K643",
+        "url-data": "http://data.udir.no/kl06/K643",
+        "tittel": "drøfte helse-, livsstils- og kosthaldsinformasjon og reklame i media"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K644",
+        "uri": "http://psi.udir.no/kl06/K644",
+        "url-data": "http://data.udir.no/kl06/K644",
+        "tittel": "gjere greie for kva den enkelte kan gjere for å halde ved lag eit godt immunforsvar og førebyggje smittespreiing, og forklare kva smittespreiing kan føre til"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K645",
+        "uri": "http://psi.udir.no/kl06/K645",
+        "url-data": "http://data.udir.no/kl06/K645",
+        "tittel": "forklare korleis kroppen er bygd opp og fungerer i forhold til livsstilssjukdommar, og forklare konsekvensar av svikt i vitale kroppsfunksjonar"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K646",
+        "uri": "http://psi.udir.no/kl06/K646",
+        "url-data": "http://data.udir.no/kl06/K646",
+        "tittel": "utføre grunnleggjande førstehjelp"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K647",
+        "uri": "http://psi.udir.no/kl06/K647",
+        "url-data": "http://data.udir.no/kl06/K647",
+        "tittel": "bruke rette arbeidsteknikkar og gode arbeidsstillingar, og gjere greie for samanhengen mellom ergonomi og helse"
+      }
+    ]
+  },
+  {
+    "id": "HSHSF1----",
+    "name": "Helse- og oppvekstfag",
+    "programUrl": "https://www.udir.no/kl06/HSHSF1----",
+    "lareplanUrl": "https://data.udir.no/kl06/HSF1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K640",
+        "uri": "http://psi.udir.no/kl06/K640",
+        "url-data": "http://data.udir.no/kl06/K640",
+        "tittel": "gjere greie for samanhengar mellom helse og livsstil"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K641",
+        "uri": "http://psi.udir.no/kl06/K641",
+        "url-data": "http://data.udir.no/kl06/K641",
+        "tittel": "drøfte og gi døme på kva den enkelte og samfunnet kan gjere for å betre eiga helse og folkehelsa, både psykisk og fysisk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K642",
+        "uri": "http://psi.udir.no/kl06/K642",
+        "url-data": "http://data.udir.no/kl06/K642",
+        "tittel": "setje saman enkle måltid og vurdere energi- og næringsinnhaldet i tråd med tilrådingar om eit sunt kosthald frå helsestyresmaktene"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K643",
+        "uri": "http://psi.udir.no/kl06/K643",
+        "url-data": "http://data.udir.no/kl06/K643",
+        "tittel": "drøfte helse-, livsstils- og kosthaldsinformasjon og reklame i media"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K644",
+        "uri": "http://psi.udir.no/kl06/K644",
+        "url-data": "http://data.udir.no/kl06/K644",
+        "tittel": "gjere greie for kva den enkelte kan gjere for å halde ved lag eit godt immunforsvar og førebyggje smittespreiing, og forklare kva smittespreiing kan føre til"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K645",
+        "uri": "http://psi.udir.no/kl06/K645",
+        "url-data": "http://data.udir.no/kl06/K645",
+        "tittel": "forklare korleis kroppen er bygd opp og fungerer i forhold til livsstilssjukdommar, og forklare konsekvensar av svikt i vitale kroppsfunksjonar"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K646",
+        "uri": "http://psi.udir.no/kl06/K646",
+        "url-data": "http://data.udir.no/kl06/K646",
+        "tittel": "utføre grunnleggjande førstehjelp"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K647",
+        "uri": "http://psi.udir.no/kl06/K647",
+        "url-data": "http://data.udir.no/kl06/K647",
+        "tittel": "bruke rette arbeidsteknikkar og gode arbeidsstillingar, og gjere greie for samanhengen mellom ergonomi og helse"
+      }
+    ]
+  }
+]

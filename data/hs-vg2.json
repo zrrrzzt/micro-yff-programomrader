@@ -1,0 +1,1926 @@
+[
+  {
+    "id": "HSAMB2----",
+    "name": "Ambulansefag",
+    "programUrl": "https://www.udir.no/kl06/HSAMB2----",
+    "lareplanUrl": "https://data.udir.no/kl06/AMB2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11090",
+        "uri": "http://psi.udir.no/kl06/K11090",
+        "url-data": "http://data.udir.no/kl06/K11090",
+        "tittel": "gjøre rede for kroppens oppbygning og funksjoner og beskrive kroppens regulerings- og kompensasjonsmekanismer ved sykdom og skade"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11091",
+        "uri": "http://psi.udir.no/kl06/K11091",
+        "url-data": "http://data.udir.no/kl06/K11091",
+        "tittel": "drøfte hvordan en kan ivareta omsorgen for pasienter og pårørende, og gi eksempler på god omsorg og pleie i akutt- og transportoppdrag"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11092",
+        "uri": "http://psi.udir.no/kl06/K11092",
+        "url-data": "http://data.udir.no/kl06/K11092",
+        "tittel": "kommunisere med pasienter og med andre yrkesgrupper under ambulanseoppdrag"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11093",
+        "uri": "http://psi.udir.no/kl06/K11093",
+        "url-data": "http://data.udir.no/kl06/K11093",
+        "tittel": "beskrive hvordan medikamenter administreres, og hvordan de tas opp, omsettes og skilles ut i kroppen"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11094",
+        "uri": "http://psi.udir.no/kl06/K11094",
+        "url-data": "http://data.udir.no/kl06/K11094",
+        "tittel": "gjøre rede for de vanligste medikamenter som brukes i prehospital akuttmedisin, kontrollere riktig styrke og mengde, trekke opp medikamenter, koble infusjonssett og utføre dobbeltkontroll"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11095",
+        "uri": "http://psi.udir.no/kl06/K11095",
+        "url-data": "http://data.udir.no/kl06/K11095",
+        "tittel": "gjøre rede for hva systematiske rapporter og dokumentasjon innebærer, og gi eksempler på bruk av slik dokumentasjon i ambulansetjenesten"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11096",
+        "uri": "http://psi.udir.no/kl06/K11096",
+        "url-data": "http://data.udir.no/kl06/K11096",
+        "tittel": "gjøre rede for relevant regelverk og gi eksempler på og vurdere etiske dilemmaer i ambulansetjenesten"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11097",
+        "uri": "http://psi.udir.no/kl06/K11097",
+        "url-data": "http://data.udir.no/kl06/K11097",
+        "tittel": "gjøre rede for hvordan smittespredning kan hindres, og gi eksempler på gode rutiner i ambulansetjenesten"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11098",
+        "uri": "http://psi.udir.no/kl06/K11098",
+        "url-data": "http://data.udir.no/kl06/K11098",
+        "tittel": "drøfte hva profesjonell yrkesutøvelse innebærer for ambulansearbeideren"
+      }
+    ]
+  },
+  {
+    "id": "HSAMB2----",
+    "name": "Ambulansefag",
+    "programUrl": "https://www.udir.no/kl06/HSAMB2----",
+    "lareplanUrl": "https://data.udir.no/kl06/AMB2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11090",
+        "uri": "http://psi.udir.no/kl06/K11090",
+        "url-data": "http://data.udir.no/kl06/K11090",
+        "tittel": "gjøre rede for kroppens oppbygning og funksjoner og beskrive kroppens regulerings- og kompensasjonsmekanismer ved sykdom og skade"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11091",
+        "uri": "http://psi.udir.no/kl06/K11091",
+        "url-data": "http://data.udir.no/kl06/K11091",
+        "tittel": "drøfte hvordan en kan ivareta omsorgen for pasienter og pårørende, og gi eksempler på god omsorg og pleie i akutt- og transportoppdrag"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11092",
+        "uri": "http://psi.udir.no/kl06/K11092",
+        "url-data": "http://data.udir.no/kl06/K11092",
+        "tittel": "kommunisere med pasienter og med andre yrkesgrupper under ambulanseoppdrag"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11093",
+        "uri": "http://psi.udir.no/kl06/K11093",
+        "url-data": "http://data.udir.no/kl06/K11093",
+        "tittel": "beskrive hvordan medikamenter administreres, og hvordan de tas opp, omsettes og skilles ut i kroppen"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11094",
+        "uri": "http://psi.udir.no/kl06/K11094",
+        "url-data": "http://data.udir.no/kl06/K11094",
+        "tittel": "gjøre rede for de vanligste medikamenter som brukes i prehospital akuttmedisin, kontrollere riktig styrke og mengde, trekke opp medikamenter, koble infusjonssett og utføre dobbeltkontroll"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11095",
+        "uri": "http://psi.udir.no/kl06/K11095",
+        "url-data": "http://data.udir.no/kl06/K11095",
+        "tittel": "gjøre rede for hva systematiske rapporter og dokumentasjon innebærer, og gi eksempler på bruk av slik dokumentasjon i ambulansetjenesten"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11096",
+        "uri": "http://psi.udir.no/kl06/K11096",
+        "url-data": "http://data.udir.no/kl06/K11096",
+        "tittel": "gjøre rede for relevant regelverk og gi eksempler på og vurdere etiske dilemmaer i ambulansetjenesten"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11097",
+        "uri": "http://psi.udir.no/kl06/K11097",
+        "url-data": "http://data.udir.no/kl06/K11097",
+        "tittel": "gjøre rede for hvordan smittespredning kan hindres, og gi eksempler på gode rutiner i ambulansetjenesten"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11098",
+        "uri": "http://psi.udir.no/kl06/K11098",
+        "url-data": "http://data.udir.no/kl06/K11098",
+        "tittel": "drøfte hva profesjonell yrkesutøvelse innebærer for ambulansearbeideren"
+      }
+    ]
+  },
+  {
+    "id": "HSAMB2----",
+    "name": "Ambulansefag",
+    "programUrl": "https://www.udir.no/kl06/HSAMB2----",
+    "lareplanUrl": "https://data.udir.no/kl06/AMB2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11090",
+        "uri": "http://psi.udir.no/kl06/K11090",
+        "url-data": "http://data.udir.no/kl06/K11090",
+        "tittel": "gjøre rede for kroppens oppbygning og funksjoner og beskrive kroppens regulerings- og kompensasjonsmekanismer ved sykdom og skade"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11091",
+        "uri": "http://psi.udir.no/kl06/K11091",
+        "url-data": "http://data.udir.no/kl06/K11091",
+        "tittel": "drøfte hvordan en kan ivareta omsorgen for pasienter og pårørende, og gi eksempler på god omsorg og pleie i akutt- og transportoppdrag"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11092",
+        "uri": "http://psi.udir.no/kl06/K11092",
+        "url-data": "http://data.udir.no/kl06/K11092",
+        "tittel": "kommunisere med pasienter og med andre yrkesgrupper under ambulanseoppdrag"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11093",
+        "uri": "http://psi.udir.no/kl06/K11093",
+        "url-data": "http://data.udir.no/kl06/K11093",
+        "tittel": "beskrive hvordan medikamenter administreres, og hvordan de tas opp, omsettes og skilles ut i kroppen"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11094",
+        "uri": "http://psi.udir.no/kl06/K11094",
+        "url-data": "http://data.udir.no/kl06/K11094",
+        "tittel": "gjøre rede for de vanligste medikamenter som brukes i prehospital akuttmedisin, kontrollere riktig styrke og mengde, trekke opp medikamenter, koble infusjonssett og utføre dobbeltkontroll"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11095",
+        "uri": "http://psi.udir.no/kl06/K11095",
+        "url-data": "http://data.udir.no/kl06/K11095",
+        "tittel": "gjøre rede for hva systematiske rapporter og dokumentasjon innebærer, og gi eksempler på bruk av slik dokumentasjon i ambulansetjenesten"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11096",
+        "uri": "http://psi.udir.no/kl06/K11096",
+        "url-data": "http://data.udir.no/kl06/K11096",
+        "tittel": "gjøre rede for relevant regelverk og gi eksempler på og vurdere etiske dilemmaer i ambulansetjenesten"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11097",
+        "uri": "http://psi.udir.no/kl06/K11097",
+        "url-data": "http://data.udir.no/kl06/K11097",
+        "tittel": "gjøre rede for hvordan smittespredning kan hindres, og gi eksempler på gode rutiner i ambulansetjenesten"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11098",
+        "uri": "http://psi.udir.no/kl06/K11098",
+        "url-data": "http://data.udir.no/kl06/K11098",
+        "tittel": "drøfte hva profesjonell yrkesutøvelse innebærer for ambulansearbeideren"
+      }
+    ]
+  },
+  {
+    "id": "HSBUA2----",
+    "name": "Barne- og ungdomsarbeiderfag",
+    "programUrl": "https://www.udir.no/kl06/HSBUA2----",
+    "lareplanUrl": "https://data.udir.no/kl06/BUA2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11858",
+        "uri": "http://psi.udir.no/kl06/K11858",
+        "url-data": "http://data.udir.no/kl06/K11858",
+        "tittel": "gjøre rede for aktiviteter for barn og unge som kan fremme god fysisk og psykisk helse"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11859",
+        "uri": "http://psi.udir.no/kl06/K11859",
+        "url-data": "http://data.udir.no/kl06/K11859",
+        "tittel": "drøfte hva omsorg innebærer for barn og unge i ulike aldrer"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11860",
+        "uri": "http://psi.udir.no/kl06/K11860",
+        "url-data": "http://data.udir.no/kl06/K11860",
+        "tittel": "forklare hva mobbing og rasisme er, og drøfte forebyggende tiltak"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11861",
+        "uri": "http://psi.udir.no/kl06/K11861",
+        "url-data": "http://data.udir.no/kl06/K11861",
+        "tittel": "drøfte ulike holdninger til tobakk, rus og kriminalitet og beskrive noen rus- og kriminalitetsforebyggende tiltak rettet mot barn og unge"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11862",
+        "uri": "http://psi.udir.no/kl06/K11862",
+        "url-data": "http://data.udir.no/kl06/K11862",
+        "tittel": "drøfte sammenhenger mellom identitet, seksualitet og selvfølelse, og drøfte hvordan en kan veilede barn og unge i slike spørsmål"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11863",
+        "uri": "http://psi.udir.no/kl06/K11863",
+        "url-data": "http://data.udir.no/kl06/K11863",
+        "tittel": "gjøre rede for hva fysisk aktivitet og kosthold betyr for barn og unges helse, og foreslå helsefremmende tiltak"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11864",
+        "uri": "http://psi.udir.no/kl06/K11864",
+        "url-data": "http://data.udir.no/kl06/K11864",
+        "tittel": "lage trygge og sunne måltider for barn og unge i tråd med norske anbefalinger for ernæring og relevant regelverk"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11865",
+        "uri": "http://psi.udir.no/kl06/K11865",
+        "url-data": "http://data.udir.no/kl06/K11865",
+        "tittel": "gjøre rede for betydningen av god hygiene og foreslå tiltak for å forebygge smittsomme sykdommer"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11866",
+        "uri": "http://psi.udir.no/kl06/K11866",
+        "url-data": "http://data.udir.no/kl06/K11866",
+        "tittel": "utføre førstehjelp ved fall-, druknings- og trafikkulykker"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11867",
+        "uri": "http://psi.udir.no/kl06/K11867",
+        "url-data": "http://data.udir.no/kl06/K11867",
+        "tittel": "gjøre rede for krav til sikkerhet der barn og unge oppholder seg, og drøfte hvordan barn og unge kan ta medansvar for egen sikkerhet"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11868",
+        "uri": "http://psi.udir.no/kl06/K11868",
+        "url-data": "http://data.udir.no/kl06/K11868",
+        "tittel": "gi eksempler på tegn som tyder på omsorgssvikt og andre bekymringsfulle forhold, og gjøre rede for ansvar og tjenestevei"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11869",
+        "uri": "http://psi.udir.no/kl06/K11869",
+        "url-data": "http://data.udir.no/kl06/K11869",
+        "tittel": "drøfte hva helse-, miljø og sikkerhet betyr for arbeids- og læringsmiljøet"
+      }
+    ]
+  },
+  {
+    "id": "HSFOT2----",
+    "name": "Fotterapi og ortopediteknikk",
+    "programUrl": "https://www.udir.no/kl06/HSFOT2----",
+    "lareplanUrl": "https://data.udir.no/kl06/FOT2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13429",
+        "uri": "http://psi.udir.no/kl06/K13429",
+        "url-data": "http://data.udir.no/kl06/K13429",
+        "tittel": "drøfte sammenhenger mellom helse, levevaner, kultur og menneskets funksjons- og bevegelsesevne"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13430",
+        "uri": "http://psi.udir.no/kl06/K13430",
+        "url-data": "http://data.udir.no/kl06/K13430",
+        "tittel": "undersøke og beskrive kroppens funksjonelle anatomi og gi eksempler på sykdommer, deformiteter og skader som kan ha innvirkning på den enkeltes aktivitetsnivå"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13431",
+        "uri": "http://psi.udir.no/kl06/K13431",
+        "url-data": "http://data.udir.no/kl06/K13431",
+        "tittel": "gjøre rede for forebyggende tiltak og behandlinger innenfor fotterapeutens og ortopediteknikerens kompetanseområde"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13432",
+        "uri": "http://psi.udir.no/kl06/K13432",
+        "url-data": "http://data.udir.no/kl06/K13432",
+        "tittel": "gjøre rede for de forholdsregler som fotterapeuten og ortopediteknikeren må ta for å opprettholde god hygiene og hindre smitte på arbeidsplassen og i omgivelsene"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13433",
+        "uri": "http://psi.udir.no/kl06/K13433",
+        "url-data": "http://data.udir.no/kl06/K13433",
+        "tittel": "forklare prinsippene for helse, miljø og sikkerhet på arbeidsplassen og diskutere egen rolle i dette arbeidet"
+      }
+    ]
+  },
+  {
+    "id": "HSFOT2----",
+    "name": "Fotterapi og ortopediteknikk",
+    "programUrl": "https://www.udir.no/kl06/HSFOT2----",
+    "lareplanUrl": "https://data.udir.no/kl06/FOT2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13429",
+        "uri": "http://psi.udir.no/kl06/K13429",
+        "url-data": "http://data.udir.no/kl06/K13429",
+        "tittel": "drøfte sammenhenger mellom helse, levevaner, kultur og menneskets funksjons- og bevegelsesevne"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13430",
+        "uri": "http://psi.udir.no/kl06/K13430",
+        "url-data": "http://data.udir.no/kl06/K13430",
+        "tittel": "undersøke og beskrive kroppens funksjonelle anatomi og gi eksempler på sykdommer, deformiteter og skader som kan ha innvirkning på den enkeltes aktivitetsnivå"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13431",
+        "uri": "http://psi.udir.no/kl06/K13431",
+        "url-data": "http://data.udir.no/kl06/K13431",
+        "tittel": "gjøre rede for forebyggende tiltak og behandlinger innenfor fotterapeutens og ortopediteknikerens kompetanseområde"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13432",
+        "uri": "http://psi.udir.no/kl06/K13432",
+        "url-data": "http://data.udir.no/kl06/K13432",
+        "tittel": "gjøre rede for de forholdsregler som fotterapeuten og ortopediteknikeren må ta for å opprettholde god hygiene og hindre smitte på arbeidsplassen og i omgivelsene"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13433",
+        "uri": "http://psi.udir.no/kl06/K13433",
+        "url-data": "http://data.udir.no/kl06/K13433",
+        "tittel": "forklare prinsippene for helse, miljø og sikkerhet på arbeidsplassen og diskutere egen rolle i dette arbeidet"
+      }
+    ]
+  },
+  {
+    "id": "HSHEA2----",
+    "name": "Helsearbeiderfag",
+    "programUrl": "https://www.udir.no/kl06/HSHEA2----",
+    "lareplanUrl": "https://data.udir.no/kl06/HEA2-02",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10815",
+        "uri": "http://psi.udir.no/kl06/K10815",
+        "url-data": "http://data.udir.no/kl06/K10815",
+        "tittel": "gjøre rede for sammenhengen mellom fysisk aktivitet og helse, og for hvordan fysisk aktivitet kan bidra til å forebygge de vanligste livsstilssykdommene"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18086",
+        "uri": "http://psi.udir.no/kl06/K18086",
+        "url-data": "http://data.udir.no/kl06/K18086",
+        "tittel": "drøfte sammenhengen mellom levekår og livskvalitet, og prøve ut aktiviteter som fremmer helse og trivsel "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18087",
+        "uri": "http://psi.udir.no/kl06/K18087",
+        "url-data": "http://data.udir.no/kl06/K18087",
+        "tittel": "forklare hva allmenntilstand er"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18088",
+        "uri": "http://psi.udir.no/kl06/K18088",
+        "url-data": "http://data.udir.no/kl06/K18088",
+        "tittel": "planlegge og begrunne sammensetningen av kostholdet for ulike brukere ut fra allmenntilstand, funksjonsnivå, alder og behov, og  i tråd med norske anbefalinger for ernæring"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10818",
+        "uri": "http://psi.udir.no/kl06/K10818",
+        "url-data": "http://data.udir.no/kl06/K10818",
+        "tittel": "lage trygge og sunne måltider for ulike brukere i tråd med norske anbefalinger om ernæring"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18089",
+        "uri": "http://psi.udir.no/kl06/K18089",
+        "url-data": "http://data.udir.no/kl06/K18089",
+        "tittel": "gjøre rede for prinsippene for og demonstrere grunnleggende sykepleie "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18090",
+        "uri": "http://psi.udir.no/kl06/K18090",
+        "url-data": "http://data.udir.no/kl06/K18090",
+        "tittel": "gjøre rede for de vanligste tegn og symptomer på sykdommer og skader og gjenkjenne sykdomsforverring"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18091",
+        "uri": "http://psi.udir.no/kl06/K18091",
+        "url-data": "http://data.udir.no/kl06/K18091",
+        "tittel": "gjøre rede for de mest brukte legemiddelgruppene, forklare administrasjonsformer og de vanligste virkninger og bivirkninger"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10821",
+        "uri": "http://psi.udir.no/kl06/K10821",
+        "url-data": "http://data.udir.no/kl06/K10821",
+        "tittel": "drøfte betydningen av god hygiene for å forebygge sykdom og hindre smitte i og utenfor en institusjon i tråd med gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18092",
+        "uri": "http://psi.udir.no/kl06/K18092",
+        "url-data": "http://data.udir.no/kl06/K18092",
+        "tittel": "utføre førstehjelp "
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18093",
+        "uri": "http://psi.udir.no/kl06/K18093",
+        "url-data": "http://data.udir.no/kl06/K18093",
+        "tittel": "beskrive de tilbud frivillige organisasjoner og interesseorganisasjoner gir i nærmiljøet, og drøfte deres betydning for sosiale nettverk og for å forebygge ensomhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18094",
+        "uri": "http://psi.udir.no/kl06/K18094",
+        "url-data": "http://data.udir.no/kl06/K18094",
+        "tittel": "forklare hva hverdagsmestring, habilitering og rehabilitering er, og gi eksempler på forebyggende og helsefremmende tiltak"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18095",
+        "uri": "http://psi.udir.no/kl06/K18095",
+        "url-data": "http://data.udir.no/kl06/K18095",
+        "tittel": "vurdere behovet for ulike hjelpemidler og velferdsteknologi som bidrar til selvstendighet, og som opprettholder funksjoner i dagliglivet"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10826",
+        "uri": "http://psi.udir.no/kl06/K10826",
+        "url-data": "http://data.udir.no/kl06/K10826",
+        "tittel": "gjøre rede for tiltak som forebygger ulykker og brann i hjemmet og på institusjoner"
+      }
+    ]
+  },
+  {
+    "id": "HSHEA3----",
+    "name": "Helsearbeiderfaget",
+    "programUrl": "https://www.udir.no/kl06/HSHEA3----",
+    "lareplanUrl": "https://data.udir.no/kl06/HEA3-02",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1800",
+          "uri": "http://psi.udir.no/kl06/HO1800",
+          "url-data": "http://data.udir.no/kl06/HO1800"
+        },
+        "kode": "K18427",
+        "uri": "http://psi.udir.no/kl06/K18427",
+        "url-data": "http://data.udir.no/kl06/K18427",
+        "tittel": "foreslå og sette i verk tiltak som fremmer mestring, helse og trivsel, og som stimulerer til et aktivt liv "
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1800",
+          "uri": "http://psi.udir.no/kl06/HO1800",
+          "url-data": "http://data.udir.no/kl06/HO1800"
+        },
+        "kode": "K18428",
+        "uri": "http://psi.udir.no/kl06/K18428",
+        "url-data": "http://data.udir.no/kl06/K18428",
+        "tittel": "tilrettelegge for og tilberede måltider som ivaretar brukernes helse og trivsel, og begrunne forslagene i tråd med norske anbefalinger for ernæring"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1800",
+          "uri": "http://psi.udir.no/kl06/HO1800",
+          "url-data": "http://data.udir.no/kl06/HO1800"
+        },
+        "kode": "K9715",
+        "uri": "http://psi.udir.no/kl06/K9715",
+        "url-data": "http://data.udir.no/kl06/K9715",
+        "tittel": "identifisere underernæring og feilernæring og foreslå tiltak for å forebygge og behandle disse"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1800",
+          "uri": "http://psi.udir.no/kl06/HO1800",
+          "url-data": "http://data.udir.no/kl06/HO1800"
+        },
+        "kode": "K18429",
+        "uri": "http://psi.udir.no/kl06/K18429",
+        "url-data": "http://data.udir.no/kl06/K18429",
+        "tittel": "planlegge, gjennomføre, vurdere og dokumentere forebyggende, habiliterende og rehabiliterende pleie- og omsorgstiltak"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1800",
+          "uri": "http://psi.udir.no/kl06/HO1800",
+          "url-data": "http://data.udir.no/kl06/HO1800"
+        },
+        "kode": "K9691",
+        "uri": "http://psi.udir.no/kl06/K9691",
+        "url-data": "http://data.udir.no/kl06/K9691",
+        "tittel": "iverksette og begrunne tiltak ved sykdom og skade i samarbeid med andre yrkesgrupper"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1800",
+          "uri": "http://psi.udir.no/kl06/HO1800",
+          "url-data": "http://data.udir.no/kl06/HO1800"
+        },
+        "kode": "K18430",
+        "uri": "http://psi.udir.no/kl06/K18430",
+        "url-data": "http://data.udir.no/kl06/K18430",
+        "tittel": "observere allmenntilstand, rapportere og dokumentere endringer"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1800",
+          "uri": "http://psi.udir.no/kl06/HO1800",
+          "url-data": "http://data.udir.no/kl06/HO1800"
+        },
+        "kode": "K18431",
+        "uri": "http://psi.udir.no/kl06/K18431",
+        "url-data": "http://data.udir.no/kl06/K18431",
+        "tittel": "observere, vurdere og utføre sykepleietiltak ved sykdom og skade"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1800",
+          "uri": "http://psi.udir.no/kl06/HO1800",
+          "url-data": "http://data.udir.no/kl06/HO1800"
+        },
+        "kode": "K18432",
+        "uri": "http://psi.udir.no/kl06/K18432",
+        "url-data": "http://data.udir.no/kl06/K18432",
+        "tittel": "utføre pleie til alvorlig syke og døende"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1800",
+          "uri": "http://psi.udir.no/kl06/HO1800",
+          "url-data": "http://data.udir.no/kl06/HO1800"
+        },
+        "kode": "K18433",
+        "uri": "http://psi.udir.no/kl06/K18433",
+        "url-data": "http://data.udir.no/kl06/K18433",
+        "tittel": "utføre hygienetiltak i tråd med gjeldende prosedyrer"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1800",
+          "uri": "http://psi.udir.no/kl06/HO1800",
+          "url-data": "http://data.udir.no/kl06/HO1800"
+        },
+        "kode": "K18434",
+        "uri": "http://psi.udir.no/kl06/K18434",
+        "url-data": "http://data.udir.no/kl06/K18434",
+        "tittel": "planlegge og gjennomføre tiltak som fremmer psykisk helse og livskvalitet"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1800",
+          "uri": "http://psi.udir.no/kl06/HO1800",
+          "url-data": "http://data.udir.no/kl06/HO1800"
+        },
+        "kode": "K9698",
+        "uri": "http://psi.udir.no/kl06/K9698",
+        "url-data": "http://data.udir.no/kl06/K9698",
+        "tittel": "bruke kultur og kulturopplevelser som helsefremmende tiltak"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1800",
+          "uri": "http://psi.udir.no/kl06/HO1800",
+          "url-data": "http://data.udir.no/kl06/HO1800"
+        },
+        "kode": "K18435",
+        "uri": "http://psi.udir.no/kl06/K18435",
+        "url-data": "http://data.udir.no/kl06/K18435",
+        "tittel": "veilede pasienter og brukere i å benytte velferdsteknologi og andre hjelpemidler"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1800",
+          "uri": "http://psi.udir.no/kl06/HO1800",
+          "url-data": "http://data.udir.no/kl06/HO1800"
+        },
+        "kode": "K9700",
+        "uri": "http://psi.udir.no/kl06/K9700",
+        "url-data": "http://data.udir.no/kl06/K9700",
+        "tittel": "vurdere risiko for brann og andre hjemmeulykker og foreslå forebyggende tiltak"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1801",
+          "uri": "http://psi.udir.no/kl06/HO1801",
+          "url-data": "http://data.udir.no/kl06/HO1801"
+        },
+        "kode": "K18439",
+        "uri": "http://psi.udir.no/kl06/K18439",
+        "url-data": "http://data.udir.no/kl06/K18439",
+        "tittel": "kommunisere og samhandle på tvers av tjenestene for å oppnå helhet og sammenheng i tilbudet til pasienter og brukere"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1801",
+          "uri": "http://psi.udir.no/kl06/HO1801",
+          "url-data": "http://data.udir.no/kl06/HO1801"
+        },
+        "kode": "K9706",
+        "uri": "http://psi.udir.no/kl06/K9706",
+        "url-data": "http://data.udir.no/kl06/K9706",
+        "tittel": "kommunisere med brukere og pasienter med ulik kommunikasjonsevne"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1801",
+          "uri": "http://psi.udir.no/kl06/HO1801",
+          "url-data": "http://data.udir.no/kl06/HO1801"
+        },
+        "kode": "K18440",
+        "uri": "http://psi.udir.no/kl06/K18440",
+        "url-data": "http://data.udir.no/kl06/K18440",
+        "tittel": "observere, rapportere og dokumentere den enkelte brukers behov for helsehjelp"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1801",
+          "uri": "http://psi.udir.no/kl06/HO1801",
+          "url-data": "http://data.udir.no/kl06/HO1801"
+        },
+        "kode": "K9708",
+        "uri": "http://psi.udir.no/kl06/K9708",
+        "url-data": "http://data.udir.no/kl06/K9708",
+        "tittel": "følge gjeldende regelverk for taushetsplikt og personvern i helse- og sosialsektoren"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1801",
+          "uri": "http://psi.udir.no/kl06/HO1801",
+          "url-data": "http://data.udir.no/kl06/HO1801"
+        },
+        "kode": "K18441",
+        "uri": "http://psi.udir.no/kl06/K18441",
+        "url-data": "http://data.udir.no/kl06/K18441",
+        "tittel": "informere og veilede brukere, pasienter og pårørende i helsefaglige spørsmål om rettigheter innen helse- og sosialtjenesten"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1801",
+          "uri": "http://psi.udir.no/kl06/HO1801",
+          "url-data": "http://data.udir.no/kl06/HO1801"
+        },
+        "kode": "K9711",
+        "uri": "http://psi.udir.no/kl06/K9711",
+        "url-data": "http://data.udir.no/kl06/K9711",
+        "tittel": "bruke ulike strategier for konflikthåndtering"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1801",
+          "uri": "http://psi.udir.no/kl06/HO1801",
+          "url-data": "http://data.udir.no/kl06/HO1801"
+        },
+        "kode": "K9712",
+        "uri": "http://psi.udir.no/kl06/K9712",
+        "url-data": "http://data.udir.no/kl06/K9712",
+        "tittel": "håndtere aggressive og truende personer"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1801",
+          "uri": "http://psi.udir.no/kl06/HO1801",
+          "url-data": "http://data.udir.no/kl06/HO1801"
+        },
+        "kode": "K9713",
+        "uri": "http://psi.udir.no/kl06/K9713",
+        "url-data": "http://data.udir.no/kl06/K9713",
+        "tittel": "utføre arbeidet i tråd med miljøterapeutiske målsettinger"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1802",
+          "uri": "http://psi.udir.no/kl06/HO1802",
+          "url-data": "http://data.udir.no/kl06/HO1802"
+        },
+        "kode": "K9714",
+        "uri": "http://psi.udir.no/kl06/K9714",
+        "url-data": "http://data.udir.no/kl06/K9714",
+        "tittel": "planlegge, gjennomføre, dokumentere og vurdere eget arbeid og foreslå forbedringstiltak"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1802",
+          "uri": "http://psi.udir.no/kl06/HO1802",
+          "url-data": "http://data.udir.no/kl06/HO1802"
+        },
+        "kode": "K9721",
+        "uri": "http://psi.udir.no/kl06/K9721",
+        "url-data": "http://data.udir.no/kl06/K9721",
+        "tittel": "delta i tverrfaglig samarbeid"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1802",
+          "uri": "http://psi.udir.no/kl06/HO1802",
+          "url-data": "http://data.udir.no/kl06/HO1802"
+        },
+        "kode": "K18446",
+        "uri": "http://psi.udir.no/kl06/K18446",
+        "url-data": "http://data.udir.no/kl06/K18446",
+        "tittel": "ivareta brukermedvirkning og samarbeid med pårørende "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1802",
+          "uri": "http://psi.udir.no/kl06/HO1802",
+          "url-data": "http://data.udir.no/kl06/HO1802"
+        },
+        "kode": "K9723",
+        "uri": "http://psi.udir.no/kl06/K9723",
+        "url-data": "http://data.udir.no/kl06/K9723",
+        "tittel": "kartlegge brukerens funksjonsnivå og bistandsbehov, og gjennomføre tiltak i samhandling med brukeren"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1802",
+          "uri": "http://psi.udir.no/kl06/HO1802",
+          "url-data": "http://data.udir.no/kl06/HO1802"
+        },
+        "kode": "K9716",
+        "uri": "http://psi.udir.no/kl06/K9716",
+        "url-data": "http://data.udir.no/kl06/K9716",
+        "tittel": "yte profesjonell helsehjelp i tråd med gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1802",
+          "uri": "http://psi.udir.no/kl06/HO1802",
+          "url-data": "http://data.udir.no/kl06/HO1802"
+        },
+        "kode": "K9717",
+        "uri": "http://psi.udir.no/kl06/K9717",
+        "url-data": "http://data.udir.no/kl06/K9717",
+        "tittel": "utføre arbeidet i tråd med yrkesetiske retningslinjer"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1802",
+          "uri": "http://psi.udir.no/kl06/HO1802",
+          "url-data": "http://data.udir.no/kl06/HO1802"
+        },
+        "kode": "K9718",
+        "uri": "http://psi.udir.no/kl06/K9718",
+        "url-data": "http://data.udir.no/kl06/K9718",
+        "tittel": "drøfte etiske problemstillinger knyttet til yrkesutøvelsen"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1802",
+          "uri": "http://psi.udir.no/kl06/HO1802",
+          "url-data": "http://data.udir.no/kl06/HO1802"
+        },
+        "kode": "K9720",
+        "uri": "http://psi.udir.no/kl06/K9720",
+        "url-data": "http://data.udir.no/kl06/K9720",
+        "tittel": "følge gjeldende regelverk for bruk av tvang"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1802",
+          "uri": "http://psi.udir.no/kl06/HO1802",
+          "url-data": "http://data.udir.no/kl06/HO1802"
+        },
+        "kode": "K9725",
+        "uri": "http://psi.udir.no/kl06/K9725",
+        "url-data": "http://data.udir.no/kl06/K9725",
+        "tittel": "utføre arbeidet i samsvar med gjeldende regelverk og arbeidsplassens planer og rutiner"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1802",
+          "uri": "http://psi.udir.no/kl06/HO1802",
+          "url-data": "http://data.udir.no/kl06/HO1802"
+        },
+        "kode": "K18447",
+        "uri": "http://psi.udir.no/kl06/K18447",
+        "url-data": "http://data.udir.no/kl06/K18447",
+        "tittel": "følge gjeldende regelverk og arbeidsplassens rutiner for legemiddelhåndtering"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1802",
+          "uri": "http://psi.udir.no/kl06/HO1802",
+          "url-data": "http://data.udir.no/kl06/HO1802"
+        },
+        "kode": "K18448",
+        "uri": "http://psi.udir.no/kl06/K18448",
+        "url-data": "http://data.udir.no/kl06/K18448",
+        "tittel": "observere, rapportere og dokumentere om virkninger og bivirkninger av legemidler"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1802",
+          "uri": "http://psi.udir.no/kl06/HO1802",
+          "url-data": "http://data.udir.no/kl06/HO1802"
+        },
+        "kode": "K9704",
+        "uri": "http://psi.udir.no/kl06/K9704",
+        "url-data": "http://data.udir.no/kl06/K9704",
+        "tittel": "følge gjeldende regelverk for helse-, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1802",
+          "uri": "http://psi.udir.no/kl06/HO1802",
+          "url-data": "http://data.udir.no/kl06/HO1802"
+        },
+        "kode": "K9727",
+        "uri": "http://psi.udir.no/kl06/K9727",
+        "url-data": "http://data.udir.no/kl06/K9727",
+        "tittel": "gjøre rede for begrepet myndiggjorte medarbeidere"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1802",
+          "uri": "http://psi.udir.no/kl06/HO1802",
+          "url-data": "http://data.udir.no/kl06/HO1802"
+        },
+        "kode": "K18449",
+        "uri": "http://psi.udir.no/kl06/K18449",
+        "url-data": "http://data.udir.no/kl06/K18449",
+        "tittel": "reflektere over egen praksis"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1802",
+          "uri": "http://psi.udir.no/kl06/HO1802",
+          "url-data": "http://data.udir.no/kl06/HO1802"
+        },
+        "kode": "K9701",
+        "uri": "http://psi.udir.no/kl06/K9701",
+        "url-data": "http://data.udir.no/kl06/K9701",
+        "tittel": "utføre førstehjelp og følge rutiner for varsling"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1802",
+          "uri": "http://psi.udir.no/kl06/HO1802",
+          "url-data": "http://data.udir.no/kl06/HO1802"
+        },
+        "kode": "K9703",
+        "uri": "http://psi.udir.no/kl06/K9703",
+        "url-data": "http://data.udir.no/kl06/K9703",
+        "tittel": "følge ergonomiske prinsipper i yrkesutøvelsen"
+      }
+    ]
+  },
+  {
+    "id": "HSHEA2----",
+    "name": "Helsearbeiderfag",
+    "programUrl": "https://www.udir.no/kl06/HSHEA2----",
+    "lareplanUrl": "https://data.udir.no/kl06/HEA2-02",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10815",
+        "uri": "http://psi.udir.no/kl06/K10815",
+        "url-data": "http://data.udir.no/kl06/K10815",
+        "tittel": "gjøre rede for sammenhengen mellom fysisk aktivitet og helse, og for hvordan fysisk aktivitet kan bidra til å forebygge de vanligste livsstilssykdommene"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18086",
+        "uri": "http://psi.udir.no/kl06/K18086",
+        "url-data": "http://data.udir.no/kl06/K18086",
+        "tittel": "drøfte sammenhengen mellom levekår og livskvalitet, og prøve ut aktiviteter som fremmer helse og trivsel "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18087",
+        "uri": "http://psi.udir.no/kl06/K18087",
+        "url-data": "http://data.udir.no/kl06/K18087",
+        "tittel": "forklare hva allmenntilstand er"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18088",
+        "uri": "http://psi.udir.no/kl06/K18088",
+        "url-data": "http://data.udir.no/kl06/K18088",
+        "tittel": "planlegge og begrunne sammensetningen av kostholdet for ulike brukere ut fra allmenntilstand, funksjonsnivå, alder og behov, og  i tråd med norske anbefalinger for ernæring"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10818",
+        "uri": "http://psi.udir.no/kl06/K10818",
+        "url-data": "http://data.udir.no/kl06/K10818",
+        "tittel": "lage trygge og sunne måltider for ulike brukere i tråd med norske anbefalinger om ernæring"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18089",
+        "uri": "http://psi.udir.no/kl06/K18089",
+        "url-data": "http://data.udir.no/kl06/K18089",
+        "tittel": "gjøre rede for prinsippene for og demonstrere grunnleggende sykepleie "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18090",
+        "uri": "http://psi.udir.no/kl06/K18090",
+        "url-data": "http://data.udir.no/kl06/K18090",
+        "tittel": "gjøre rede for de vanligste tegn og symptomer på sykdommer og skader og gjenkjenne sykdomsforverring"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18091",
+        "uri": "http://psi.udir.no/kl06/K18091",
+        "url-data": "http://data.udir.no/kl06/K18091",
+        "tittel": "gjøre rede for de mest brukte legemiddelgruppene, forklare administrasjonsformer og de vanligste virkninger og bivirkninger"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10821",
+        "uri": "http://psi.udir.no/kl06/K10821",
+        "url-data": "http://data.udir.no/kl06/K10821",
+        "tittel": "drøfte betydningen av god hygiene for å forebygge sykdom og hindre smitte i og utenfor en institusjon i tråd med gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18092",
+        "uri": "http://psi.udir.no/kl06/K18092",
+        "url-data": "http://data.udir.no/kl06/K18092",
+        "tittel": "utføre førstehjelp "
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18093",
+        "uri": "http://psi.udir.no/kl06/K18093",
+        "url-data": "http://data.udir.no/kl06/K18093",
+        "tittel": "beskrive de tilbud frivillige organisasjoner og interesseorganisasjoner gir i nærmiljøet, og drøfte deres betydning for sosiale nettverk og for å forebygge ensomhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18094",
+        "uri": "http://psi.udir.no/kl06/K18094",
+        "url-data": "http://data.udir.no/kl06/K18094",
+        "tittel": "forklare hva hverdagsmestring, habilitering og rehabilitering er, og gi eksempler på forebyggende og helsefremmende tiltak"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18095",
+        "uri": "http://psi.udir.no/kl06/K18095",
+        "url-data": "http://data.udir.no/kl06/K18095",
+        "tittel": "vurdere behovet for ulike hjelpemidler og velferdsteknologi som bidrar til selvstendighet, og som opprettholder funksjoner i dagliglivet"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10826",
+        "uri": "http://psi.udir.no/kl06/K10826",
+        "url-data": "http://data.udir.no/kl06/K10826",
+        "tittel": "gjøre rede for tiltak som forebygger ulykker og brann i hjemmet og på institusjoner"
+      }
+    ]
+  },
+  {
+    "id": "HSPOR3----",
+    "name": "Portørfaget",
+    "programUrl": "https://www.udir.no/kl06/HSPOR3----",
+    "lareplanUrl": "https://data.udir.no/kl06/POR3-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1533",
+          "uri": "http://psi.udir.no/kl06/HO1533",
+          "url-data": "http://data.udir.no/kl06/HO1533"
+        },
+        "kode": "K16927",
+        "uri": "http://psi.udir.no/kl06/K16927",
+        "url-data": "http://data.udir.no/kl06/K16927",
+        "tittel": "forstå og forklare begrepet pasient- og brukerforløp i egen virksomhet"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1533",
+          "uri": "http://psi.udir.no/kl06/HO1533",
+          "url-data": "http://data.udir.no/kl06/HO1533"
+        },
+        "kode": "K16928",
+        "uri": "http://psi.udir.no/kl06/K16928",
+        "url-data": "http://data.udir.no/kl06/K16928",
+        "tittel": "identifisere og rapportere fysiske og psykiske behov hos pasienter og brukere i deres miljø, under transport, forflytting og sikring"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1533",
+          "uri": "http://psi.udir.no/kl06/HO1533",
+          "url-data": "http://data.udir.no/kl06/HO1533"
+        },
+        "kode": "K16929",
+        "uri": "http://psi.udir.no/kl06/K16929",
+        "url-data": "http://data.udir.no/kl06/K16929",
+        "tittel": "observere og rapportere om mulige endringer i tilstanden til pasienten og brukeren i deres miljø, under transport, forflytting og sikring "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1533",
+          "uri": "http://psi.udir.no/kl06/HO1533",
+          "url-data": "http://data.udir.no/kl06/HO1533"
+        },
+        "kode": "K16930",
+        "uri": "http://psi.udir.no/kl06/K16930",
+        "url-data": "http://data.udir.no/kl06/K16930",
+        "tittel": "forstå og følge medisinskfaglig veiledning og instruks fra den ansvarlige legen eller annet autorisert helsepersonell"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1533",
+          "uri": "http://psi.udir.no/kl06/HO1533",
+          "url-data": "http://data.udir.no/kl06/HO1533"
+        },
+        "kode": "K16931",
+        "uri": "http://psi.udir.no/kl06/K16931",
+        "url-data": "http://data.udir.no/kl06/K16931",
+        "tittel": "forebygge smittespredning og ivareta god hygiene i samsvar med gjeldende regelverk "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1533",
+          "uri": "http://psi.udir.no/kl06/HO1533",
+          "url-data": "http://data.udir.no/kl06/HO1533"
+        },
+        "kode": "K16932",
+        "uri": "http://psi.udir.no/kl06/K16932",
+        "url-data": "http://data.udir.no/kl06/K16932",
+        "tittel": "forstå og utføre helsefaglige støttefunksjoner i samsvar med retningslinjer og instruks                                               "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1533",
+          "uri": "http://psi.udir.no/kl06/HO1533",
+          "url-data": "http://data.udir.no/kl06/HO1533"
+        },
+        "kode": "K16933",
+        "uri": "http://psi.udir.no/kl06/K16933",
+        "url-data": "http://data.udir.no/kl06/K16933",
+        "tittel": "drøfte etiske dilemmaer knyttet til yrkesutøvelsen som portør"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1533",
+          "uri": "http://psi.udir.no/kl06/HO1533",
+          "url-data": "http://data.udir.no/kl06/HO1533"
+        },
+        "kode": "K16934",
+        "uri": "http://psi.udir.no/kl06/K16934",
+        "url-data": "http://data.udir.no/kl06/K16934",
+        "tittel": "vurdere risiko for brann og andre ulykker på arbeidsplassen og foreslå forebyggende HMS-tiltak"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1533",
+          "uri": "http://psi.udir.no/kl06/HO1533",
+          "url-data": "http://data.udir.no/kl06/HO1533"
+        },
+        "kode": "K16935",
+        "uri": "http://psi.udir.no/kl06/K16935",
+        "url-data": "http://data.udir.no/kl06/K16935",
+        "tittel": "i samarbeid med annet helse- og innsatspersonell, iverksette og begrunne tiltak ved akutt sykdom og skade "
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1534",
+          "uri": "http://psi.udir.no/kl06/HO1534",
+          "url-data": "http://data.udir.no/kl06/HO1534"
+        },
+        "kode": "K16936",
+        "uri": "http://psi.udir.no/kl06/K16936",
+        "url-data": "http://data.udir.no/kl06/K16936",
+        "tittel": "kommunisere med og vise profesjonell omsorg for pasienter, brukere og pårørende"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1534",
+          "uri": "http://psi.udir.no/kl06/HO1534",
+          "url-data": "http://data.udir.no/kl06/HO1534"
+        },
+        "kode": "K16937",
+        "uri": "http://psi.udir.no/kl06/K16937",
+        "url-data": "http://data.udir.no/kl06/K16937",
+        "tittel": "kommunisere og samhandle med kollegaer, andre profesjoner på tvers av fagområder, avgi rapporter og bidra til et omsorgsfullt pasient- og brukerforløp"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1534",
+          "uri": "http://psi.udir.no/kl06/HO1534",
+          "url-data": "http://data.udir.no/kl06/HO1534"
+        },
+        "kode": "K16938",
+        "uri": "http://psi.udir.no/kl06/K16938",
+        "url-data": "http://data.udir.no/kl06/K16938",
+        "tittel": "bruke digitalt verktøy og programvare ved kommunikasjon og rapportering, og bruke moderne digitalt og analogt utstyr for kommunikasjon og navigasjon"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1534",
+          "uri": "http://psi.udir.no/kl06/HO1534",
+          "url-data": "http://data.udir.no/kl06/HO1534"
+        },
+        "kode": "K16939",
+        "uri": "http://psi.udir.no/kl06/K16939",
+        "url-data": "http://data.udir.no/kl06/K16939",
+        "tittel": "bruke ulike strategier for konflikthåndtering og kommunisere med personer i en traumatisk og reaktiv krisesituasjon under transport, forflytting og sikring"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1534",
+          "uri": "http://psi.udir.no/kl06/HO1534",
+          "url-data": "http://data.udir.no/kl06/HO1534"
+        },
+        "kode": "K16940",
+        "uri": "http://psi.udir.no/kl06/K16940",
+        "url-data": "http://data.udir.no/kl06/K16940",
+        "tittel": "vise og forklare at empati, respekt og toleranse er grunnleggende verdier for den enkeltes selvfølelse og integritet"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1534",
+          "uri": "http://psi.udir.no/kl06/HO1534",
+          "url-data": "http://data.udir.no/kl06/HO1534"
+        },
+        "kode": "K16941",
+        "uri": "http://psi.udir.no/kl06/K16941",
+        "url-data": "http://data.udir.no/kl06/K16941",
+        "tittel": "følge gjeldende regelverk for taushetsplikt og personvern"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1535",
+          "uri": "http://psi.udir.no/kl06/HO1535",
+          "url-data": "http://data.udir.no/kl06/HO1535"
+        },
+        "kode": "K16942",
+        "uri": "http://psi.udir.no/kl06/K16942",
+        "url-data": "http://data.udir.no/kl06/K16942",
+        "tittel": "forflytte og transportere pasienter og brukere på en profesjonell måte "
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1535",
+          "uri": "http://psi.udir.no/kl06/HO1535",
+          "url-data": "http://data.udir.no/kl06/HO1535"
+        },
+        "kode": "K16943",
+        "uri": "http://psi.udir.no/kl06/K16943",
+        "url-data": "http://data.udir.no/kl06/K16943",
+        "tittel": "utføre transport og arbeidsoppgaver knyttet til døde personer etter gjeldende retningslinjer"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1535",
+          "uri": "http://psi.udir.no/kl06/HO1535",
+          "url-data": "http://data.udir.no/kl06/HO1535"
+        },
+        "kode": "K16944",
+        "uri": "http://psi.udir.no/kl06/K16944",
+        "url-data": "http://data.udir.no/kl06/K16944",
+        "tittel": "følge beredskapsplanene i virksomheten og ivareta gjeldende retningslinjer for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1535",
+          "uri": "http://psi.udir.no/kl06/HO1535",
+          "url-data": "http://data.udir.no/kl06/HO1535"
+        },
+        "kode": "K16945",
+        "uri": "http://psi.udir.no/kl06/K16945",
+        "url-data": "http://data.udir.no/kl06/K16945",
+        "tittel": "utføre førstehjelp og følge rutiner for varsling"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1535",
+          "uri": "http://psi.udir.no/kl06/HO1535",
+          "url-data": "http://data.udir.no/kl06/HO1535"
+        },
+        "kode": "K16946",
+        "uri": "http://psi.udir.no/kl06/K16946",
+        "url-data": "http://data.udir.no/kl06/K16946",
+        "tittel": "utføre brannvern og smittevern i samsvar med gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1535",
+          "uri": "http://psi.udir.no/kl06/HO1535",
+          "url-data": "http://data.udir.no/kl06/HO1535"
+        },
+        "kode": "K16947",
+        "uri": "http://psi.udir.no/kl06/K16947",
+        "url-data": "http://data.udir.no/kl06/K16947",
+        "tittel": "vurdere og iverksette tiltak overfor aggressive og truende personer, i samarbeid med annet helsepersonell"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1535",
+          "uri": "http://psi.udir.no/kl06/HO1535",
+          "url-data": "http://data.udir.no/kl06/HO1535"
+        },
+        "kode": "K16948",
+        "uri": "http://psi.udir.no/kl06/K16948",
+        "url-data": "http://data.udir.no/kl06/K16948",
+        "tittel": "forstå viktigheten av å gjennomgå spesielle hendelser eller episoder man har opplevd i jobbsammenheng i etterkant"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1535",
+          "uri": "http://psi.udir.no/kl06/HO1535",
+          "url-data": "http://data.udir.no/kl06/HO1535"
+        },
+        "kode": "K16949",
+        "uri": "http://psi.udir.no/kl06/K16949",
+        "url-data": "http://data.udir.no/kl06/K16949",
+        "tittel": "forstå hvilken funksjon logistikken har i virksomheten, og følge prosedyrer og retningslinjer for mottak, oppbevaring og utlevering av varer, rengjøring, kontroll og vedlikehold"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1535",
+          "uri": "http://psi.udir.no/kl06/HO1535",
+          "url-data": "http://data.udir.no/kl06/HO1535"
+        },
+        "kode": "K16950",
+        "uri": "http://psi.udir.no/kl06/K16950",
+        "url-data": "http://data.udir.no/kl06/K16950",
+        "tittel": "gjøre rede for bruk av transporttekniske innretninger, hvordan de er bygget opp, og hvilken betydning de har for sikkerhet og driftspålitelighet"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1535",
+          "uri": "http://psi.udir.no/kl06/HO1535",
+          "url-data": "http://data.udir.no/kl06/HO1535"
+        },
+        "kode": "K16951",
+        "uri": "http://psi.udir.no/kl06/K16951",
+        "url-data": "http://data.udir.no/kl06/K16951",
+        "tittel": "behandle aktuelle medikamenter og medisinskteknisk utstyr, og transportere prøver og blodprodukter i samsvar med gjeldende forskrifter og retningslinjer"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1535",
+          "uri": "http://psi.udir.no/kl06/HO1535",
+          "url-data": "http://data.udir.no/kl06/HO1535"
+        },
+        "kode": "K16952",
+        "uri": "http://psi.udir.no/kl06/K16952",
+        "url-data": "http://data.udir.no/kl06/K16952",
+        "tittel": "transportere, sortere og lagre ulike typer avfall i samsvar med gjeldende forskrifter og retningslinjer"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1535",
+          "uri": "http://psi.udir.no/kl06/HO1535",
+          "url-data": "http://data.udir.no/kl06/HO1535"
+        },
+        "kode": "K16953",
+        "uri": "http://psi.udir.no/kl06/K16953",
+        "url-data": "http://data.udir.no/kl06/K16953",
+        "tittel": "følge ergonomiske prinsipper i yrkesutøvelsen"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1535",
+          "uri": "http://psi.udir.no/kl06/HO1535",
+          "url-data": "http://data.udir.no/kl06/HO1535"
+        },
+        "kode": "K16954",
+        "uri": "http://psi.udir.no/kl06/K16954",
+        "url-data": "http://data.udir.no/kl06/K16954",
+        "tittel": "følge regelverk og yrkesetiske retningslinjer, og kjenne portørens rolle og ansvar i samarbeid med andre yrkesgrupper "
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1535",
+          "uri": "http://psi.udir.no/kl06/HO1535",
+          "url-data": "http://data.udir.no/kl06/HO1535"
+        },
+        "kode": "K16955",
+        "uri": "http://psi.udir.no/kl06/K16955",
+        "url-data": "http://data.udir.no/kl06/K16955",
+        "tittel": "bidra til at virksomheten kan forbedre sin totale ressursutnyttelse og kostnadseffektivitet"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1535",
+          "uri": "http://psi.udir.no/kl06/HO1535",
+          "url-data": "http://data.udir.no/kl06/HO1535"
+        },
+        "kode": "K16956",
+        "uri": "http://psi.udir.no/kl06/K16956",
+        "url-data": "http://data.udir.no/kl06/K16956",
+        "tittel": "planlegge, gjennomføre, vurdere og dokumentere arbeidsoppgavene "
+      }
+    ]
+  },
+  {
+    "id": "HSHES2----",
+    "name": "Helseservicefag",
+    "programUrl": "https://www.udir.no/kl06/HSHES2----",
+    "lareplanUrl": "https://data.udir.no/kl06/HES2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13694",
+        "uri": "http://psi.udir.no/kl06/K13694",
+        "url-data": "http://data.udir.no/kl06/K13694",
+        "tittel": "gjere greie for individuelle og miljømessige faktorar som kan påverke den psykiske og fysiske helsa"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13695",
+        "uri": "http://psi.udir.no/kl06/K13695",
+        "url-data": "http://data.udir.no/kl06/K13695",
+        "tittel": "drøfte samanhengar mellom helse, levevanar, fysisk aktivitet og kosthald"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13696",
+        "uri": "http://psi.udir.no/kl06/K13696",
+        "url-data": "http://data.udir.no/kl06/K13696",
+        "tittel": "forklare korleis fordøyingssystemet og immunforsvaret fungerer, og gi døme på psykiske og fysiske faktorar som kan påverke dei"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13697",
+        "uri": "http://psi.udir.no/kl06/K13697",
+        "url-data": "http://data.udir.no/kl06/K13697",
+        "tittel": "beskrive symptom og allmenntilstand ved infeksjonar, forgiftingar og allergiske reaksjonar og gi døme på aktuelle tiltak"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13698",
+        "uri": "http://psi.udir.no/kl06/K13698",
+        "url-data": "http://data.udir.no/kl06/K13698",
+        "tittel": "gjere greie for bruksområde og dei vanlegaste biverknadene for dei mest brukte reseptfrie legemidla"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13699",
+        "uri": "http://psi.udir.no/kl06/K13699",
+        "url-data": "http://data.udir.no/kl06/K13699",
+        "tittel": "forklare kvifor det er viktig å følgje den behandlinga som blir føreskriven"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13700",
+        "uri": "http://psi.udir.no/kl06/K13700",
+        "url-data": "http://data.udir.no/kl06/K13700",
+        "tittel": "gjere greie for kva god hygiene har å seie for å førebyggje sjukdom og hindre smitte, og demonstrere relevante hygienetiltak"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13701",
+        "uri": "http://psi.udir.no/kl06/K13701",
+        "url-data": "http://data.udir.no/kl06/K13701",
+        "tittel": "forklare hovudprinsippa for helse, miljø og tryggleik og gi døme på kva konsekvensar dei har i yrkesutøvinga"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13702",
+        "uri": "http://psi.udir.no/kl06/K13702",
+        "url-data": "http://data.udir.no/kl06/K13702",
+        "tittel": "forklare og vise samanhengar mellom ergonomi og helse"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13703",
+        "uri": "http://psi.udir.no/kl06/K13703",
+        "url-data": "http://data.udir.no/kl06/K13703",
+        "tittel": "diskutere korleis utforming av lokale og service kan påverke velværet til folk"
+      }
+    ]
+  },
+  {
+    "id": "HSHES2----",
+    "name": "Helseservicefag",
+    "programUrl": "https://www.udir.no/kl06/HSHES2----",
+    "lareplanUrl": "https://data.udir.no/kl06/HES2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13694",
+        "uri": "http://psi.udir.no/kl06/K13694",
+        "url-data": "http://data.udir.no/kl06/K13694",
+        "tittel": "gjere greie for individuelle og miljømessige faktorar som kan påverke den psykiske og fysiske helsa"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13695",
+        "uri": "http://psi.udir.no/kl06/K13695",
+        "url-data": "http://data.udir.no/kl06/K13695",
+        "tittel": "drøfte samanhengar mellom helse, levevanar, fysisk aktivitet og kosthald"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13696",
+        "uri": "http://psi.udir.no/kl06/K13696",
+        "url-data": "http://data.udir.no/kl06/K13696",
+        "tittel": "forklare korleis fordøyingssystemet og immunforsvaret fungerer, og gi døme på psykiske og fysiske faktorar som kan påverke dei"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13697",
+        "uri": "http://psi.udir.no/kl06/K13697",
+        "url-data": "http://data.udir.no/kl06/K13697",
+        "tittel": "beskrive symptom og allmenntilstand ved infeksjonar, forgiftingar og allergiske reaksjonar og gi døme på aktuelle tiltak"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13698",
+        "uri": "http://psi.udir.no/kl06/K13698",
+        "url-data": "http://data.udir.no/kl06/K13698",
+        "tittel": "gjere greie for bruksområde og dei vanlegaste biverknadene for dei mest brukte reseptfrie legemidla"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13699",
+        "uri": "http://psi.udir.no/kl06/K13699",
+        "url-data": "http://data.udir.no/kl06/K13699",
+        "tittel": "forklare kvifor det er viktig å følgje den behandlinga som blir føreskriven"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13700",
+        "uri": "http://psi.udir.no/kl06/K13700",
+        "url-data": "http://data.udir.no/kl06/K13700",
+        "tittel": "gjere greie for kva god hygiene har å seie for å førebyggje sjukdom og hindre smitte, og demonstrere relevante hygienetiltak"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13701",
+        "uri": "http://psi.udir.no/kl06/K13701",
+        "url-data": "http://data.udir.no/kl06/K13701",
+        "tittel": "forklare hovudprinsippa for helse, miljø og tryggleik og gi døme på kva konsekvensar dei har i yrkesutøvinga"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13702",
+        "uri": "http://psi.udir.no/kl06/K13702",
+        "url-data": "http://data.udir.no/kl06/K13702",
+        "tittel": "forklare og vise samanhengar mellom ergonomi og helse"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13703",
+        "uri": "http://psi.udir.no/kl06/K13703",
+        "url-data": "http://data.udir.no/kl06/K13703",
+        "tittel": "diskutere korleis utforming av lokale og service kan påverke velværet til folk"
+      }
+    ]
+  },
+  {
+    "id": "HSHES2----",
+    "name": "Helseservicefag",
+    "programUrl": "https://www.udir.no/kl06/HSHES2----",
+    "lareplanUrl": "https://data.udir.no/kl06/HES2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13694",
+        "uri": "http://psi.udir.no/kl06/K13694",
+        "url-data": "http://data.udir.no/kl06/K13694",
+        "tittel": "gjere greie for individuelle og miljømessige faktorar som kan påverke den psykiske og fysiske helsa"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13695",
+        "uri": "http://psi.udir.no/kl06/K13695",
+        "url-data": "http://data.udir.no/kl06/K13695",
+        "tittel": "drøfte samanhengar mellom helse, levevanar, fysisk aktivitet og kosthald"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13696",
+        "uri": "http://psi.udir.no/kl06/K13696",
+        "url-data": "http://data.udir.no/kl06/K13696",
+        "tittel": "forklare korleis fordøyingssystemet og immunforsvaret fungerer, og gi døme på psykiske og fysiske faktorar som kan påverke dei"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13697",
+        "uri": "http://psi.udir.no/kl06/K13697",
+        "url-data": "http://data.udir.no/kl06/K13697",
+        "tittel": "beskrive symptom og allmenntilstand ved infeksjonar, forgiftingar og allergiske reaksjonar og gi døme på aktuelle tiltak"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13698",
+        "uri": "http://psi.udir.no/kl06/K13698",
+        "url-data": "http://data.udir.no/kl06/K13698",
+        "tittel": "gjere greie for bruksområde og dei vanlegaste biverknadene for dei mest brukte reseptfrie legemidla"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13699",
+        "uri": "http://psi.udir.no/kl06/K13699",
+        "url-data": "http://data.udir.no/kl06/K13699",
+        "tittel": "forklare kvifor det er viktig å følgje den behandlinga som blir føreskriven"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13700",
+        "uri": "http://psi.udir.no/kl06/K13700",
+        "url-data": "http://data.udir.no/kl06/K13700",
+        "tittel": "gjere greie for kva god hygiene har å seie for å førebyggje sjukdom og hindre smitte, og demonstrere relevante hygienetiltak"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13701",
+        "uri": "http://psi.udir.no/kl06/K13701",
+        "url-data": "http://data.udir.no/kl06/K13701",
+        "tittel": "forklare hovudprinsippa for helse, miljø og tryggleik og gi døme på kva konsekvensar dei har i yrkesutøvinga"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13702",
+        "uri": "http://psi.udir.no/kl06/K13702",
+        "url-data": "http://data.udir.no/kl06/K13702",
+        "tittel": "forklare og vise samanhengar mellom ergonomi og helse"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13703",
+        "uri": "http://psi.udir.no/kl06/K13703",
+        "url-data": "http://data.udir.no/kl06/K13703",
+        "tittel": "diskutere korleis utforming av lokale og service kan påverke velværet til folk"
+      }
+    ]
+  },
+  {
+    "id": "HSHES2----",
+    "name": "Helseservicefag",
+    "programUrl": "https://www.udir.no/kl06/HSHES2----",
+    "lareplanUrl": "https://data.udir.no/kl06/HES2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13694",
+        "uri": "http://psi.udir.no/kl06/K13694",
+        "url-data": "http://data.udir.no/kl06/K13694",
+        "tittel": "gjere greie for individuelle og miljømessige faktorar som kan påverke den psykiske og fysiske helsa"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13695",
+        "uri": "http://psi.udir.no/kl06/K13695",
+        "url-data": "http://data.udir.no/kl06/K13695",
+        "tittel": "drøfte samanhengar mellom helse, levevanar, fysisk aktivitet og kosthald"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13696",
+        "uri": "http://psi.udir.no/kl06/K13696",
+        "url-data": "http://data.udir.no/kl06/K13696",
+        "tittel": "forklare korleis fordøyingssystemet og immunforsvaret fungerer, og gi døme på psykiske og fysiske faktorar som kan påverke dei"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13697",
+        "uri": "http://psi.udir.no/kl06/K13697",
+        "url-data": "http://data.udir.no/kl06/K13697",
+        "tittel": "beskrive symptom og allmenntilstand ved infeksjonar, forgiftingar og allergiske reaksjonar og gi døme på aktuelle tiltak"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13698",
+        "uri": "http://psi.udir.no/kl06/K13698",
+        "url-data": "http://data.udir.no/kl06/K13698",
+        "tittel": "gjere greie for bruksområde og dei vanlegaste biverknadene for dei mest brukte reseptfrie legemidla"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13699",
+        "uri": "http://psi.udir.no/kl06/K13699",
+        "url-data": "http://data.udir.no/kl06/K13699",
+        "tittel": "forklare kvifor det er viktig å følgje den behandlinga som blir føreskriven"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13700",
+        "uri": "http://psi.udir.no/kl06/K13700",
+        "url-data": "http://data.udir.no/kl06/K13700",
+        "tittel": "gjere greie for kva god hygiene har å seie for å førebyggje sjukdom og hindre smitte, og demonstrere relevante hygienetiltak"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13701",
+        "uri": "http://psi.udir.no/kl06/K13701",
+        "url-data": "http://data.udir.no/kl06/K13701",
+        "tittel": "forklare hovudprinsippa for helse, miljø og tryggleik og gi døme på kva konsekvensar dei har i yrkesutøvinga"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13702",
+        "uri": "http://psi.udir.no/kl06/K13702",
+        "url-data": "http://data.udir.no/kl06/K13702",
+        "tittel": "forklare og vise samanhengar mellom ergonomi og helse"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K13703",
+        "uri": "http://psi.udir.no/kl06/K13703",
+        "url-data": "http://data.udir.no/kl06/K13703",
+        "tittel": "diskutere korleis utforming av lokale og service kan påverke velværet til folk"
+      }
+    ]
+  },
+  {
+    "id": "HSHUD2----",
+    "name": "Hudpleie",
+    "programUrl": "https://www.udir.no/kl06/HSHUD2----",
+    "lareplanUrl": "https://data.udir.no/kl06/HUD2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1087",
+        "uri": "http://psi.udir.no/kl06/K1087",
+        "url-data": "http://data.udir.no/kl06/K1087",
+        "tittel": "gjøre rede for krav som stilles til personlig hygiene i hudpleiefaget"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1088",
+        "uri": "http://psi.udir.no/kl06/K1088",
+        "url-data": "http://data.udir.no/kl06/K1088",
+        "tittel": "gjøre rede for hudens, hårets og neglenes oppbygning og funksjon og gi eksempler på ulike behandlingsmetoder"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1089",
+        "uri": "http://psi.udir.no/kl06/K1089",
+        "url-data": "http://data.udir.no/kl06/K1089",
+        "tittel": "drøfte og gi eksempler på ulike tiltak for å forebygge og forbedre hudforandringer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1090",
+        "uri": "http://psi.udir.no/kl06/K1090",
+        "url-data": "http://data.udir.no/kl06/K1090",
+        "tittel": "drøfte sammenhengen mellom helse, levevaner, fysisk aktivitet og kosthold"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1091",
+        "uri": "http://psi.udir.no/kl06/K1091",
+        "url-data": "http://data.udir.no/kl06/K1091",
+        "tittel": "gi eksempler på sammenhengen mellom kosthold og frisk hud"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1092",
+        "uri": "http://psi.udir.no/kl06/K1092",
+        "url-data": "http://data.udir.no/kl06/K1092",
+        "tittel": "gjøre rede for betydningen av god hygiene for å forebygge sykdom og hindre smitte, og kunne demonstrere viktige hygienetiltak i hudpleiefaget"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1093",
+        "uri": "http://psi.udir.no/kl06/K1093",
+        "url-data": "http://data.udir.no/kl06/K1093",
+        "tittel": "forklare hovedprinsippene for helse, miljø og sikkerhet og gi eksempler på hvordan kravene til helse, miljø og sikkerhet kommer til uttrykk i yrkesutøvelsen"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1094",
+        "uri": "http://psi.udir.no/kl06/K1094",
+        "url-data": "http://data.udir.no/kl06/K1094",
+        "tittel": "forklare valg av produkter i sammenheng med bærekraftig utvikling og konsekvenser for miljøet"
+      }
+    ]
+  }
+]

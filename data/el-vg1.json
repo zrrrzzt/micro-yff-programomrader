@@ -1,0 +1,2394 @@
+[
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  },
+  {
+    "id": "ELELE1----",
+    "name": "Elektrofag",
+    "programUrl": "https://www.udir.no/kl06/ELELE1----",
+    "lareplanUrl": "https://data.udir.no/kl06/ELE1-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3739",
+        "uri": "http://psi.udir.no/kl06/K3739",
+        "url-data": "http://data.udir.no/kl06/K3739",
+        "tittel": "planlegge, montere, sette i drift og dokumentere enkle systemer for adgangskontroll og alarmanlegg beregnet for montasje i bolig"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3740",
+        "uri": "http://psi.udir.no/kl06/K3740",
+        "url-data": "http://data.udir.no/kl06/K3740",
+        "tittel": "planlegge, montere, sette i drift og dokumentere mindre systemer for tele- og datakommunikasjon "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3741",
+        "uri": "http://psi.udir.no/kl06/K3741",
+        "url-data": "http://data.udir.no/kl06/K3741",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for databehandling, basert på personlig datamaskin og periferiutstyr"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3742",
+        "uri": "http://psi.udir.no/kl06/K3742",
+        "url-data": "http://data.udir.no/kl06/K3742",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for privat mottak av lyd- og bildekringkasting og systemer for presentasjon av digitalt lagret lyd- og bildeinformasjon med kapasitet for flerkanallyd"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3743",
+        "uri": "http://psi.udir.no/kl06/K3743",
+        "url-data": "http://data.udir.no/kl06/K3743",
+        "tittel": "gi brukerveiledning på systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3744",
+        "uri": "http://psi.udir.no/kl06/K3744",
+        "url-data": "http://data.udir.no/kl06/K3744",
+        "tittel": "måle elektriske størrelser på systemene og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3745",
+        "uri": "http://psi.udir.no/kl06/K3745",
+        "url-data": "http://data.udir.no/kl06/K3745",
+        "tittel": "feilsøke på systemnivå og bruke digitalt verktøy for support"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3746",
+        "uri": "http://psi.udir.no/kl06/K3746",
+        "url-data": "http://data.udir.no/kl06/K3746",
+        "tittel": "sluttkontrollere og funksjonsteste systemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3747",
+        "uri": "http://psi.udir.no/kl06/K3747",
+        "url-data": "http://data.udir.no/kl06/K3747",
+        "tittel": "bruke faglig presist språk om systemene, tilpasset brukere, supportpersonell, kolleger og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3748",
+        "uri": "http://psi.udir.no/kl06/K3748",
+        "url-data": "http://data.udir.no/kl06/K3748",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med standarder og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3749",
+        "uri": "http://psi.udir.no/kl06/K3749",
+        "url-data": "http://data.udir.no/kl06/K3749",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll, med hovedvekt på avvikshåndtering og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3750",
+        "uri": "http://psi.udir.no/kl06/K3750",
+        "url-data": "http://data.udir.no/kl06/K3750",
+        "tittel": "vurdere og prøve ut ideer til produkter"
+      }
+    ]
+  }
+]

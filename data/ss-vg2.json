@@ -1,0 +1,1050 @@
+[
+  {
+    "id": "SSISF2----",
+    "name": "IKT-servicefag",
+    "programUrl": "https://www.udir.no/kl06/SSISF2----",
+    "lareplanUrl": "https://data.udir.no/kl06/ISF2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9908",
+        "uri": "http://psi.udir.no/kl06/K9908",
+        "url-data": "http://data.udir.no/kl06/K9908",
+        "tittel": "utarbeide en plan for systeminstallasjoner med programvare, maskinvare og nettverk og andre kommunikasjonsløsninger som dekker en virksomhets spesifiserte krav"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9909",
+        "uri": "http://psi.udir.no/kl06/K9909",
+        "url-data": "http://data.udir.no/kl06/K9909",
+        "tittel": "skaffe til veie, dokumentere, håndtere og installere planlagt program- og maskinvare etter utarbeidede planer, uten at det oppstår skade på maskinvaren"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9910",
+        "uri": "http://psi.udir.no/kl06/K9910",
+        "url-data": "http://data.udir.no/kl06/K9910",
+        "tittel": "dokumentere sammenhenger mellom funksjoner i et IKT-system"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9911",
+        "uri": "http://psi.udir.no/kl06/K9911",
+        "url-data": "http://data.udir.no/kl06/K9911",
+        "tittel": "dokumentere investerings- og driftskostnader for systeminstallasjoner"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9912",
+        "uri": "http://psi.udir.no/kl06/K9912",
+        "url-data": "http://data.udir.no/kl06/K9912",
+        "tittel": "planlegge, utføre og dokumentere driftsoppgaver og daglig vedlikehold av en systeminstallasjon"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9913",
+        "uri": "http://psi.udir.no/kl06/K9913",
+        "url-data": "http://data.udir.no/kl06/K9913",
+        "tittel": "vurdere systeminstallasjoner mot krav til tilgjengelighet, informasjonssikkerhet og helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9914",
+        "uri": "http://psi.udir.no/kl06/K9914",
+        "url-data": "http://data.udir.no/kl06/K9914",
+        "tittel": "aktivisere, vurdere og dokumentere sikkerhetsmekanismer for å forebygge og varsle forsøk på sikkerhetsbrudd"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9915",
+        "uri": "http://psi.udir.no/kl06/K9915",
+        "url-data": "http://data.udir.no/kl06/K9915",
+        "tittel": "bruke sentrale begreper for faget på norsk og engelsk i dokumentasjon og dialog med fagpersonell"
+      }
+    ]
+  },
+  {
+    "id": "SSRLV2----",
+    "name": "Reiseliv",
+    "programUrl": "https://www.udir.no/kl06/SSRLV2----",
+    "lareplanUrl": "https://data.udir.no/kl06/RLV2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9043",
+        "uri": "http://psi.udir.no/kl06/K9043",
+        "url-data": "http://data.udir.no/kl06/K9043",
+        "tittel": "avdekkje behov og potensielle ønske hos gjestene gjennom situasjonstilpassa kommunikasjon"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9044",
+        "uri": "http://psi.udir.no/kl06/K9044",
+        "url-data": "http://data.udir.no/kl06/K9044",
+        "tittel": "formidle informasjon om sentrale lokale og nasjonale turistattraksjonar, basert på norsk og samisk kulturhistorie, kulturlivet i dag og bruk og vern av naturressursar"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9045",
+        "uri": "http://psi.udir.no/kl06/K9045",
+        "url-data": "http://data.udir.no/kl06/K9045",
+        "tittel": "samhandle og kommunisere med aktørar som er med i den totale reiselivsopplevinga gjestene får"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9046",
+        "uri": "http://psi.udir.no/kl06/K9046",
+        "url-data": "http://data.udir.no/kl06/K9046",
+        "tittel": "opptre korrekt i vertskapsrolla ved å tilpasse åtferd, klesdrakt og kroppsspråk til situasjonen"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9047",
+        "uri": "http://psi.udir.no/kl06/K9047",
+        "url-data": "http://data.udir.no/kl06/K9047",
+        "tittel": "møte og ta omsyn til kulturelle særtrekk hos gjestene i vertskapsrolla"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9048",
+        "uri": "http://psi.udir.no/kl06/K9048",
+        "url-data": "http://data.udir.no/kl06/K9048",
+        "tittel": "bruke eit grunnleggjande ordtilfang i formidling av enkel informasjon til gjester på eit anna framandspråk enn engelsk"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9049",
+        "uri": "http://psi.udir.no/kl06/K9049",
+        "url-data": "http://data.udir.no/kl06/K9049",
+        "tittel": "bruke teoriar om det heilskaplege reiselivsproduktet for å analysere ulike nasjonale og internasjonale reisemål med utgangspunkt i ei reiselivsbedrift"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9050",
+        "uri": "http://psi.udir.no/kl06/K9050",
+        "url-data": "http://data.udir.no/kl06/K9050",
+        "tittel": "gjere greie for verkemiddel som sikrar at gjester og  personale er trygge i situasjonar som brann, ran, tjuveri, og ved friluftsaktivitetar utføre livreddande førstehjelp"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9051",
+        "uri": "http://psi.udir.no/kl06/K9051",
+        "url-data": "http://data.udir.no/kl06/K9051",
+        "tittel": "vurdere og hente relevant informasjon frå ulike kjelder til bruk i vertskapsrolla"
+      }
+    ]
+  },
+  {
+    "id": "SSRLV2----",
+    "name": "Reiseliv",
+    "programUrl": "https://www.udir.no/kl06/SSRLV2----",
+    "lareplanUrl": "https://data.udir.no/kl06/RLV2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9043",
+        "uri": "http://psi.udir.no/kl06/K9043",
+        "url-data": "http://data.udir.no/kl06/K9043",
+        "tittel": "avdekkje behov og potensielle ønske hos gjestene gjennom situasjonstilpassa kommunikasjon"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9044",
+        "uri": "http://psi.udir.no/kl06/K9044",
+        "url-data": "http://data.udir.no/kl06/K9044",
+        "tittel": "formidle informasjon om sentrale lokale og nasjonale turistattraksjonar, basert på norsk og samisk kulturhistorie, kulturlivet i dag og bruk og vern av naturressursar"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9045",
+        "uri": "http://psi.udir.no/kl06/K9045",
+        "url-data": "http://data.udir.no/kl06/K9045",
+        "tittel": "samhandle og kommunisere med aktørar som er med i den totale reiselivsopplevinga gjestene får"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9046",
+        "uri": "http://psi.udir.no/kl06/K9046",
+        "url-data": "http://data.udir.no/kl06/K9046",
+        "tittel": "opptre korrekt i vertskapsrolla ved å tilpasse åtferd, klesdrakt og kroppsspråk til situasjonen"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9047",
+        "uri": "http://psi.udir.no/kl06/K9047",
+        "url-data": "http://data.udir.no/kl06/K9047",
+        "tittel": "møte og ta omsyn til kulturelle særtrekk hos gjestene i vertskapsrolla"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9048",
+        "uri": "http://psi.udir.no/kl06/K9048",
+        "url-data": "http://data.udir.no/kl06/K9048",
+        "tittel": "bruke eit grunnleggjande ordtilfang i formidling av enkel informasjon til gjester på eit anna framandspråk enn engelsk"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9049",
+        "uri": "http://psi.udir.no/kl06/K9049",
+        "url-data": "http://data.udir.no/kl06/K9049",
+        "tittel": "bruke teoriar om det heilskaplege reiselivsproduktet for å analysere ulike nasjonale og internasjonale reisemål med utgangspunkt i ei reiselivsbedrift"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9050",
+        "uri": "http://psi.udir.no/kl06/K9050",
+        "url-data": "http://data.udir.no/kl06/K9050",
+        "tittel": "gjere greie for verkemiddel som sikrar at gjester og  personale er trygge i situasjonar som brann, ran, tjuveri, og ved friluftsaktivitetar utføre livreddande førstehjelp"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9051",
+        "uri": "http://psi.udir.no/kl06/K9051",
+        "url-data": "http://data.udir.no/kl06/K9051",
+        "tittel": "vurdere og hente relevant informasjon frå ulike kjelder til bruk i vertskapsrolla"
+      }
+    ]
+  },
+  {
+    "id": "SSSSS2----",
+    "name": "Salg, service og sikkerhet",
+    "programUrl": "https://www.udir.no/kl06/SSSSS2----",
+    "lareplanUrl": "https://data.udir.no/kl06/SSS2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3115",
+        "uri": "http://psi.udir.no/kl06/K3115",
+        "url-data": "http://data.udir.no/kl06/K3115",
+        "tittel": "gjøre rede for produktutviklingsprosesser og produkters livssyklus, og bruk av ulike konkurransemidler i salg av varer og tjenester"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3116",
+        "uri": "http://psi.udir.no/kl06/K3116",
+        "url-data": "http://data.udir.no/kl06/K3116",
+        "tittel": "lage og presentere en markedsplan for en virksomhet"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3117",
+        "uri": "http://psi.udir.no/kl06/K3117",
+        "url-data": "http://data.udir.no/kl06/K3117",
+        "tittel": "tilpasse salg og markedsføring til kjøper- og selgerrollen i forbruker-, bedrifts- og institusjonsmarkedet"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3118",
+        "uri": "http://psi.udir.no/kl06/K3118",
+        "url-data": "http://data.udir.no/kl06/K3118",
+        "tittel": "kommunisere muntlig og skriftlig med kunder og leverandører i ulike markeder"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3119",
+        "uri": "http://psi.udir.no/kl06/K3119",
+        "url-data": "http://data.udir.no/kl06/K3119",
+        "tittel": "gjøre rede for kjøperatferden i ulike markeder"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3120",
+        "uri": "http://psi.udir.no/kl06/K3120",
+        "url-data": "http://data.udir.no/kl06/K3120",
+        "tittel": "vurdere trender i utviklingen av ulike produkter og tjenester, og tilpasse produkt og tjenesteleveranse etter dem"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3121",
+        "uri": "http://psi.udir.no/kl06/K3121",
+        "url-data": "http://data.udir.no/kl06/K3121",
+        "tittel": "drøfte forhold ved netthandel, telefonsalg og direkte salg i forbrukermarkedet"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3122",
+        "uri": "http://psi.udir.no/kl06/K3122",
+        "url-data": "http://data.udir.no/kl06/K3122",
+        "tittel": "foreslå tiltak i det fysiske ytre og indre salgsmiljøet som fremmer profilering og salg av varer og tjenester"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3123",
+        "uri": "http://psi.udir.no/kl06/K3123",
+        "url-data": "http://data.udir.no/kl06/K3123",
+        "tittel": "gjennomføre salgs- og mersalgsprosesser ved hjelp av hoved- og tilleggsleveranser til forbruker-, bedrifts- og institusjonsmarkedet"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3124",
+        "uri": "http://psi.udir.no/kl06/K3124",
+        "url-data": "http://data.udir.no/kl06/K3124",
+        "tittel": "vurdere betydningen av ekstern, intern og interaktiv markedsføring for å fremme salg"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3125",
+        "uri": "http://psi.udir.no/kl06/K3125",
+        "url-data": "http://data.udir.no/kl06/K3125",
+        "tittel": "bruke produktkunnskap, bransjekunnskap og forbrukerkunnskap i samhandling med kunden"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3126",
+        "uri": "http://psi.udir.no/kl06/K3126",
+        "url-data": "http://data.udir.no/kl06/K3126",
+        "tittel": "yte service i samsvar med etiske retningslinjer for bransjen"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3127",
+        "uri": "http://psi.udir.no/kl06/K3127",
+        "url-data": "http://data.udir.no/kl06/K3127",
+        "tittel": "bruke IKT som redskap i salgssituasjoner"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3128",
+        "uri": "http://psi.udir.no/kl06/K3128",
+        "url-data": "http://data.udir.no/kl06/K3128",
+        "tittel": "gjøre rede for samarbeidsformer i service- og varehandelsbedrifter"
+      }
+    ]
+  },
+  {
+    "id": "SSSSS2----",
+    "name": "Salg, service og sikkerhet",
+    "programUrl": "https://www.udir.no/kl06/SSSSS2----",
+    "lareplanUrl": "https://data.udir.no/kl06/SSS2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3115",
+        "uri": "http://psi.udir.no/kl06/K3115",
+        "url-data": "http://data.udir.no/kl06/K3115",
+        "tittel": "gjøre rede for produktutviklingsprosesser og produkters livssyklus, og bruk av ulike konkurransemidler i salg av varer og tjenester"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3116",
+        "uri": "http://psi.udir.no/kl06/K3116",
+        "url-data": "http://data.udir.no/kl06/K3116",
+        "tittel": "lage og presentere en markedsplan for en virksomhet"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3117",
+        "uri": "http://psi.udir.no/kl06/K3117",
+        "url-data": "http://data.udir.no/kl06/K3117",
+        "tittel": "tilpasse salg og markedsføring til kjøper- og selgerrollen i forbruker-, bedrifts- og institusjonsmarkedet"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3118",
+        "uri": "http://psi.udir.no/kl06/K3118",
+        "url-data": "http://data.udir.no/kl06/K3118",
+        "tittel": "kommunisere muntlig og skriftlig med kunder og leverandører i ulike markeder"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3119",
+        "uri": "http://psi.udir.no/kl06/K3119",
+        "url-data": "http://data.udir.no/kl06/K3119",
+        "tittel": "gjøre rede for kjøperatferden i ulike markeder"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3120",
+        "uri": "http://psi.udir.no/kl06/K3120",
+        "url-data": "http://data.udir.no/kl06/K3120",
+        "tittel": "vurdere trender i utviklingen av ulike produkter og tjenester, og tilpasse produkt og tjenesteleveranse etter dem"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3121",
+        "uri": "http://psi.udir.no/kl06/K3121",
+        "url-data": "http://data.udir.no/kl06/K3121",
+        "tittel": "drøfte forhold ved netthandel, telefonsalg og direkte salg i forbrukermarkedet"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3122",
+        "uri": "http://psi.udir.no/kl06/K3122",
+        "url-data": "http://data.udir.no/kl06/K3122",
+        "tittel": "foreslå tiltak i det fysiske ytre og indre salgsmiljøet som fremmer profilering og salg av varer og tjenester"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3123",
+        "uri": "http://psi.udir.no/kl06/K3123",
+        "url-data": "http://data.udir.no/kl06/K3123",
+        "tittel": "gjennomføre salgs- og mersalgsprosesser ved hjelp av hoved- og tilleggsleveranser til forbruker-, bedrifts- og institusjonsmarkedet"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3124",
+        "uri": "http://psi.udir.no/kl06/K3124",
+        "url-data": "http://data.udir.no/kl06/K3124",
+        "tittel": "vurdere betydningen av ekstern, intern og interaktiv markedsføring for å fremme salg"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3125",
+        "uri": "http://psi.udir.no/kl06/K3125",
+        "url-data": "http://data.udir.no/kl06/K3125",
+        "tittel": "bruke produktkunnskap, bransjekunnskap og forbrukerkunnskap i samhandling med kunden"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3126",
+        "uri": "http://psi.udir.no/kl06/K3126",
+        "url-data": "http://data.udir.no/kl06/K3126",
+        "tittel": "yte service i samsvar med etiske retningslinjer for bransjen"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3127",
+        "uri": "http://psi.udir.no/kl06/K3127",
+        "url-data": "http://data.udir.no/kl06/K3127",
+        "tittel": "bruke IKT som redskap i salgssituasjoner"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3128",
+        "uri": "http://psi.udir.no/kl06/K3128",
+        "url-data": "http://data.udir.no/kl06/K3128",
+        "tittel": "gjøre rede for samarbeidsformer i service- og varehandelsbedrifter"
+      }
+    ]
+  },
+  {
+    "id": "SSSSS2----",
+    "name": "Salg, service og sikkerhet",
+    "programUrl": "https://www.udir.no/kl06/SSSSS2----",
+    "lareplanUrl": "https://data.udir.no/kl06/SSS2-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3115",
+        "uri": "http://psi.udir.no/kl06/K3115",
+        "url-data": "http://data.udir.no/kl06/K3115",
+        "tittel": "gjøre rede for produktutviklingsprosesser og produkters livssyklus, og bruk av ulike konkurransemidler i salg av varer og tjenester"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3116",
+        "uri": "http://psi.udir.no/kl06/K3116",
+        "url-data": "http://data.udir.no/kl06/K3116",
+        "tittel": "lage og presentere en markedsplan for en virksomhet"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3117",
+        "uri": "http://psi.udir.no/kl06/K3117",
+        "url-data": "http://data.udir.no/kl06/K3117",
+        "tittel": "tilpasse salg og markedsføring til kjøper- og selgerrollen i forbruker-, bedrifts- og institusjonsmarkedet"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3118",
+        "uri": "http://psi.udir.no/kl06/K3118",
+        "url-data": "http://data.udir.no/kl06/K3118",
+        "tittel": "kommunisere muntlig og skriftlig med kunder og leverandører i ulike markeder"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3119",
+        "uri": "http://psi.udir.no/kl06/K3119",
+        "url-data": "http://data.udir.no/kl06/K3119",
+        "tittel": "gjøre rede for kjøperatferden i ulike markeder"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3120",
+        "uri": "http://psi.udir.no/kl06/K3120",
+        "url-data": "http://data.udir.no/kl06/K3120",
+        "tittel": "vurdere trender i utviklingen av ulike produkter og tjenester, og tilpasse produkt og tjenesteleveranse etter dem"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3121",
+        "uri": "http://psi.udir.no/kl06/K3121",
+        "url-data": "http://data.udir.no/kl06/K3121",
+        "tittel": "drøfte forhold ved netthandel, telefonsalg og direkte salg i forbrukermarkedet"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3122",
+        "uri": "http://psi.udir.no/kl06/K3122",
+        "url-data": "http://data.udir.no/kl06/K3122",
+        "tittel": "foreslå tiltak i det fysiske ytre og indre salgsmiljøet som fremmer profilering og salg av varer og tjenester"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3123",
+        "uri": "http://psi.udir.no/kl06/K3123",
+        "url-data": "http://data.udir.no/kl06/K3123",
+        "tittel": "gjennomføre salgs- og mersalgsprosesser ved hjelp av hoved- og tilleggsleveranser til forbruker-, bedrifts- og institusjonsmarkedet"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3124",
+        "uri": "http://psi.udir.no/kl06/K3124",
+        "url-data": "http://data.udir.no/kl06/K3124",
+        "tittel": "vurdere betydningen av ekstern, intern og interaktiv markedsføring for å fremme salg"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3125",
+        "uri": "http://psi.udir.no/kl06/K3125",
+        "url-data": "http://data.udir.no/kl06/K3125",
+        "tittel": "bruke produktkunnskap, bransjekunnskap og forbrukerkunnskap i samhandling med kunden"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3126",
+        "uri": "http://psi.udir.no/kl06/K3126",
+        "url-data": "http://data.udir.no/kl06/K3126",
+        "tittel": "yte service i samsvar med etiske retningslinjer for bransjen"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3127",
+        "uri": "http://psi.udir.no/kl06/K3127",
+        "url-data": "http://data.udir.no/kl06/K3127",
+        "tittel": "bruke IKT som redskap i salgssituasjoner"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3128",
+        "uri": "http://psi.udir.no/kl06/K3128",
+        "url-data": "http://data.udir.no/kl06/K3128",
+        "tittel": "gjøre rede for samarbeidsformer i service- og varehandelsbedrifter"
+      }
+    ]
+  },
+  {
+    "id": "SSTRL2----",
+    "name": "Transport og logistikk",
+    "programUrl": "https://www.udir.no/kl06/SSTRL2----",
+    "lareplanUrl": "https://data.udir.no/kl06/TRL2-02",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1505",
+          "uri": "http://psi.udir.no/kl06/HO1505",
+          "url-data": "http://data.udir.no/kl06/HO1505"
+        },
+        "kode": "K9878",
+        "uri": "http://psi.udir.no/kl06/K9878",
+        "url-data": "http://data.udir.no/kl06/K9878",
+        "tittel": "utføre livreddende førstehjelp, sikre skadestedet ved trafikkulykker og slukke mindre branntilløp"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1505",
+          "uri": "http://psi.udir.no/kl06/HO1505",
+          "url-data": "http://data.udir.no/kl06/HO1505"
+        },
+        "kode": "K16571",
+        "uri": "http://psi.udir.no/kl06/K16571",
+        "url-data": "http://data.udir.no/kl06/K16571",
+        "tittel": "håndtere og transportere varer med truck etter gjeldende forskrifter"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1505",
+          "uri": "http://psi.udir.no/kl06/HO1505",
+          "url-data": "http://data.udir.no/kl06/HO1505"
+        },
+        "kode": "K9880",
+        "uri": "http://psi.udir.no/kl06/K9880",
+        "url-data": "http://data.udir.no/kl06/K9880",
+        "tittel": "bruke og vedlikeholde vanlige tekniske hjelpemidler ved transport og logistikkoppdrag"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1505",
+          "uri": "http://psi.udir.no/kl06/HO1505",
+          "url-data": "http://data.udir.no/kl06/HO1505"
+        },
+        "kode": "K16572",
+        "uri": "http://psi.udir.no/kl06/K16572",
+        "url-data": "http://data.udir.no/kl06/K16572",
+        "tittel": "gjøre rede for regelverk for håndtering og transport av farlig gods "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1505",
+          "uri": "http://psi.udir.no/kl06/HO1505",
+          "url-data": "http://data.udir.no/kl06/HO1505"
+        },
+        "kode": "K16573",
+        "uri": "http://psi.udir.no/kl06/K16573",
+        "url-data": "http://data.udir.no/kl06/K16573",
+        "tittel": "gjøre rede for rutiner ved uhell i forbindelse med håndtering av farlig gods "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1505",
+          "uri": "http://psi.udir.no/kl06/HO1505",
+          "url-data": "http://data.udir.no/kl06/HO1505"
+        },
+        "kode": "K16574",
+        "uri": "http://psi.udir.no/kl06/K16574",
+        "url-data": "http://data.udir.no/kl06/K16574",
+        "tittel": "dokumentere gjennomført opplæring i obligatorisk sikkerhetskurs på bane og vei, og obligatoriske veiledningstimer for førerkort klasse B etter gjeldende bestemmelser"
+      }
+    ]
+  },
+  {
+    "id": "SSTRL2----",
+    "name": "Transport og logistikk",
+    "programUrl": "https://www.udir.no/kl06/SSTRL2----",
+    "lareplanUrl": "https://data.udir.no/kl06/TRL2-02",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1505",
+          "uri": "http://psi.udir.no/kl06/HO1505",
+          "url-data": "http://data.udir.no/kl06/HO1505"
+        },
+        "kode": "K9878",
+        "uri": "http://psi.udir.no/kl06/K9878",
+        "url-data": "http://data.udir.no/kl06/K9878",
+        "tittel": "utføre livreddende førstehjelp, sikre skadestedet ved trafikkulykker og slukke mindre branntilløp"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1505",
+          "uri": "http://psi.udir.no/kl06/HO1505",
+          "url-data": "http://data.udir.no/kl06/HO1505"
+        },
+        "kode": "K16571",
+        "uri": "http://psi.udir.no/kl06/K16571",
+        "url-data": "http://data.udir.no/kl06/K16571",
+        "tittel": "håndtere og transportere varer med truck etter gjeldende forskrifter"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1505",
+          "uri": "http://psi.udir.no/kl06/HO1505",
+          "url-data": "http://data.udir.no/kl06/HO1505"
+        },
+        "kode": "K9880",
+        "uri": "http://psi.udir.no/kl06/K9880",
+        "url-data": "http://data.udir.no/kl06/K9880",
+        "tittel": "bruke og vedlikeholde vanlige tekniske hjelpemidler ved transport og logistikkoppdrag"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1505",
+          "uri": "http://psi.udir.no/kl06/HO1505",
+          "url-data": "http://data.udir.no/kl06/HO1505"
+        },
+        "kode": "K16572",
+        "uri": "http://psi.udir.no/kl06/K16572",
+        "url-data": "http://data.udir.no/kl06/K16572",
+        "tittel": "gjøre rede for regelverk for håndtering og transport av farlig gods "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1505",
+          "uri": "http://psi.udir.no/kl06/HO1505",
+          "url-data": "http://data.udir.no/kl06/HO1505"
+        },
+        "kode": "K16573",
+        "uri": "http://psi.udir.no/kl06/K16573",
+        "url-data": "http://data.udir.no/kl06/K16573",
+        "tittel": "gjøre rede for rutiner ved uhell i forbindelse med håndtering av farlig gods "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1505",
+          "uri": "http://psi.udir.no/kl06/HO1505",
+          "url-data": "http://data.udir.no/kl06/HO1505"
+        },
+        "kode": "K16574",
+        "uri": "http://psi.udir.no/kl06/K16574",
+        "url-data": "http://data.udir.no/kl06/K16574",
+        "tittel": "dokumentere gjennomført opplæring i obligatorisk sikkerhetskurs på bane og vei, og obligatoriske veiledningstimer for førerkort klasse B etter gjeldende bestemmelser"
+      }
+    ]
+  },
+  {
+    "id": "SSYSL3----",
+    "name": "Yrkessjåførkurs for voksne",
+    "programUrl": "https://www.udir.no/kl06/SSYSL3----",
+    "lareplanUrl": "https://data.udir.no/kl06/YRK3-02",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1507",
+          "uri": "http://psi.udir.no/kl06/HO1507",
+          "url-data": "http://data.udir.no/kl06/HO1507"
+        },
+        "kode": "K16583",
+        "uri": "http://psi.udir.no/kl06/K16583",
+        "url-data": "http://data.udir.no/kl06/K16583",
+        "tittel": "planlegge transportoppdrag i samsvar med bestilling, bedriftens rutiner og krav til sikker, miljøvennlig, effektiv og lønnsom drift "
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1507",
+          "uri": "http://psi.udir.no/kl06/HO1507",
+          "url-data": "http://data.udir.no/kl06/HO1507"
+        },
+        "kode": "K8291",
+        "uri": "http://psi.udir.no/kl06/K8291",
+        "url-data": "http://data.udir.no/kl06/K8291",
+        "tittel": "planlegge transportoppdrag med tyngre kjøretøy i samsvar med gjeldende regelverk og bedriftens produksjon"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1507",
+          "uri": "http://psi.udir.no/kl06/HO1507",
+          "url-data": "http://data.udir.no/kl06/HO1507"
+        },
+        "kode": "K16584",
+        "uri": "http://psi.udir.no/kl06/K16584",
+        "url-data": "http://data.udir.no/kl06/K16584",
+        "tittel": "gjøre rede for oppbygging og organisering av en transportbedrift "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1507",
+          "uri": "http://psi.udir.no/kl06/HO1507",
+          "url-data": "http://data.udir.no/kl06/HO1507"
+        },
+        "kode": "K16585",
+        "uri": "http://psi.udir.no/kl06/K16585",
+        "url-data": "http://data.udir.no/kl06/K16585",
+        "tittel": "gjøre rede for hvordan interne og eksterne rammebetingelser påvirker effektivitet, sikkerhet, miljø og lønnsomhet"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1507",
+          "uri": "http://psi.udir.no/kl06/HO1507",
+          "url-data": "http://data.udir.no/kl06/HO1507"
+        },
+        "kode": "K16586",
+        "uri": "http://psi.udir.no/kl06/K16586",
+        "url-data": "http://data.udir.no/kl06/K16586",
+        "tittel": "gjøre rede for yrkessjåførens rolle fra produksjon til gjenvinning "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1507",
+          "uri": "http://psi.udir.no/kl06/HO1507",
+          "url-data": "http://data.udir.no/kl06/HO1507"
+        },
+        "kode": "K16587",
+        "uri": "http://psi.udir.no/kl06/K16587",
+        "url-data": "http://data.udir.no/kl06/K16587",
+        "tittel": "planlegge, gjennomføre og dokumentere arbeidsoppgaver i samsvar med gjeldende regelverk for helse, miljø og sikkerhet og brukermanualer og bedriftens rutiner "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1507",
+          "uri": "http://psi.udir.no/kl06/HO1507",
+          "url-data": "http://data.udir.no/kl06/HO1507"
+        },
+        "kode": "K16588",
+        "uri": "http://psi.udir.no/kl06/K16588",
+        "url-data": "http://data.udir.no/kl06/K16588",
+        "tittel": "forstå aktuelle nasjonale og europeiske transportdokumenter "
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1507",
+          "uri": "http://psi.udir.no/kl06/HO1507",
+          "url-data": "http://data.udir.no/kl06/HO1507"
+        },
+        "kode": "K8297",
+        "uri": "http://psi.udir.no/kl06/K8297",
+        "url-data": "http://data.udir.no/kl06/K8297",
+        "tittel": "bruke bedriftens betalingssystemer "
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1507",
+          "uri": "http://psi.udir.no/kl06/HO1507",
+          "url-data": "http://data.udir.no/kl06/HO1507"
+        },
+        "kode": "K16589",
+        "uri": "http://psi.udir.no/kl06/K16589",
+        "url-data": "http://data.udir.no/kl06/K16589",
+        "tittel": "arbeide etter regelverk og avtaler som regulerer arbeidsforhold i yrkessjåførfaget"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16590",
+        "uri": "http://psi.udir.no/kl06/K16590",
+        "url-data": "http://data.udir.no/kl06/K16590",
+        "tittel": "gjennomføre og dokumentere teoretisk opplæring for tyngre kjøretøy i samsvar med gjeldende regelverk og bedriftens produksjon "
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16591",
+        "uri": "http://psi.udir.no/kl06/K16591",
+        "url-data": "http://data.udir.no/kl06/K16591",
+        "tittel": "gjennomføre og dokumentere transportoppdrag med tyngre kjøretøy uten unødvendige miljøbelastninger i samsvar med gjeldende regelverk og bedriftens produksjon"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16592",
+        "uri": "http://psi.udir.no/kl06/K16592",
+        "url-data": "http://data.udir.no/kl06/K16592",
+        "tittel": "opptre forsvarlig og hensynsfullt i trafikken under transportoppdrag med skiftende vei- og føreforhold"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16593",
+        "uri": "http://psi.udir.no/kl06/K16593",
+        "url-data": "http://data.udir.no/kl06/K16593",
+        "tittel": "gjennomføre transportoppdrag i samsvar med de kravene som bransjen og bedriften stiller"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16594",
+        "uri": "http://psi.udir.no/kl06/K16594",
+        "url-data": "http://data.udir.no/kl06/K16594",
+        "tittel": "utføre service og kundebehandling i samsvar med bedriftens krav "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16595",
+        "uri": "http://psi.udir.no/kl06/K16595",
+        "url-data": "http://data.udir.no/kl06/K16595",
+        "tittel": "benytte digitale og elektroniske hjelpemidler i kommunikasjon med kunde og transportør "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K8305",
+        "uri": "http://psi.udir.no/kl06/K8305",
+        "url-data": "http://data.udir.no/kl06/K8305",
+        "tittel": "utføre effektiv og sikker lasting og lossing av gods i samsvar med gjeldende regelverk og bedriftens kvalitetskrav"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16596",
+        "uri": "http://psi.udir.no/kl06/K16596",
+        "url-data": "http://data.udir.no/kl06/K16596",
+        "tittel": "gjøre rede for regelverket som gjelder for transport av farlig gods"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K8306",
+        "uri": "http://psi.udir.no/kl06/K8306",
+        "url-data": "http://data.udir.no/kl06/K8306",
+        "tittel": "velge utstyr og metode som skal sikre last og personer i kjøretøy i samsvar med gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16597",
+        "uri": "http://psi.udir.no/kl06/K16597",
+        "url-data": "http://data.udir.no/kl06/K16597",
+        "tittel": "bruke kjøretøyets tekniske utstyr og hjelpemidler i tråd med gjeldende regelverk for helse, miljø og sikkerhet og brukermanualer"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K8308",
+        "uri": "http://psi.udir.no/kl06/K8308",
+        "url-data": "http://data.udir.no/kl06/K8308",
+        "tittel": "gjøre rede for kjøretøyets konstruksjon og virkemåte "
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K8309",
+        "uri": "http://psi.udir.no/kl06/K8309",
+        "url-data": "http://data.udir.no/kl06/K8309",
+        "tittel": "utføre enkelt vedlikehold og klargjøring av kjøretøy, utstyr og hjelpemidler knyttet til transportoppdrag"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16598",
+        "uri": "http://psi.udir.no/kl06/K16598",
+        "url-data": "http://data.udir.no/kl06/K16598",
+        "tittel": "følge bedriftens rutiner ved driftsstans, sykdom, ulykker og andre uønskede hendelser "
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16599",
+        "uri": "http://psi.udir.no/kl06/K16599",
+        "url-data": "http://data.udir.no/kl06/K16599",
+        "tittel": "utføre arbeidsoppgaver på en helsemessig forsvarlig måte"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16600",
+        "uri": "http://psi.udir.no/kl06/K16600",
+        "url-data": "http://data.udir.no/kl06/K16600",
+        "tittel": "beskrive næringens krav til ansatte og bedrifter og hvilke etiske normer næringen arbeider etter"
+      }
+    ]
+  }
+]

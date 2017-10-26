@@ -9,7 +9,15 @@ microservice for yff programomrader
 ## Update files
 
 ```
-$ npm run update
+$ npm run update-vg3
+```
+
+```
+$ npm run update-vg2
+```
+
+```
+$ npm run update-vg1
 ```
 
 ## API
