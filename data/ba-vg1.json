@@ -92,6 +92,78 @@
         "uri": "http://psi.udir.no/kl06/K5766",
         "url-data": "http://data.udir.no/kl06/K5766",
         "tittel": "utføre livreddende førstehjelp"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5782",
+        "uri": "http://psi.udir.no/kl06/K5782",
+        "url-data": "http://data.udir.no/kl06/K5782",
+        "tittel": "bruke enkle måleverktøy knyttet til arbeidsoppgaver innen bygg- og anleggsteknikk  "
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5781",
+        "uri": "http://psi.udir.no/kl06/K5781",
+        "url-data": "http://data.udir.no/kl06/K5781",
+        "tittel": "lese, forstå og følge enkle tegninger som skal brukes i produksjon og vedlikeholdsoppgaver innen bygg- og anleggsteknikk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5784",
+        "uri": "http://psi.udir.no/kl06/K5784",
+        "url-data": "http://data.udir.no/kl06/K5784",
+        "tittel": "lese og anvende beskrivelser som er relevante for utføring av eget arbeid"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5783",
+        "uri": "http://psi.udir.no/kl06/K5783",
+        "url-data": "http://data.udir.no/kl06/K5783",
+        "tittel": "tegne enkle skisser knyttet til egne arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5780",
+        "uri": "http://psi.udir.no/kl06/K5780",
+        "url-data": "http://data.udir.no/kl06/K5780",
+        "tittel": "tegne enkel plan, detaljer og snittegninger i målestokk "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5779",
+        "uri": "http://psi.udir.no/kl06/K5779",
+        "url-data": "http://data.udir.no/kl06/K5779",
+        "tittel": "utarbeide tegninger, kalkulasjon, beregninger og dokumentasjonsarbeid knyttet til eget arbeid ved hjelp av digitale verktøy "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5778",
+        "uri": "http://psi.udir.no/kl06/K5778",
+        "url-data": "http://data.udir.no/kl06/K5778",
+        "tittel": "gjøre rede for sammenheng mellom yrker innenfor bygg- og anleggsnæringen"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5777",
+        "uri": "http://psi.udir.no/kl06/K5777",
+        "url-data": "http://data.udir.no/kl06/K5777",
+        "tittel": "gi eksempler på sentrale bestemmelser som regulerer arbeidet innen bygg- og anleggsteknikk "
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5776",
+        "uri": "http://psi.udir.no/kl06/K5776",
+        "url-data": "http://data.udir.no/kl06/K5776",
+        "tittel": "planlegge helse-, miljø- og sikkerhetstiltak for arbeidsoppgaver som skal utføres "
       }
     ]
   }

@@ -132,6 +132,78 @@
         "uri": "http://psi.udir.no/kl06/K8111",
         "url-data": "http://data.udir.no/kl06/K8111",
         "tittel": "dokumentere gjennomført opplæring i forhold til IMO 60 (gjelder kun for elever som har fiske og fangst som en av produksjonene)"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8112",
+        "uri": "http://psi.udir.no/kl06/K8112",
+        "url-data": "http://data.udir.no/kl06/K8112",
+        "tittel": "beskrive eksempler på produkt- og næringsutvikling basert på lokale naturressurser og lokal kultur og tradisjon"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8113",
+        "uri": "http://psi.udir.no/kl06/K8113",
+        "url-data": "http://data.udir.no/kl06/K8113",
+        "tittel": "planlegge, gjennomføre og vurdere en eller flere naturbaserte aktiviteter med tanke på anvendelse innen turisme, helse og omsorg, pedagogisk tilrettelegging og i nye produkter og tjenester"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8114",
+        "uri": "http://psi.udir.no/kl06/K8114",
+        "url-data": "http://data.udir.no/kl06/K8114",
+        "tittel": "presentere naturbaserte aktiviteter for en valgt målgruppe"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8115",
+        "uri": "http://psi.udir.no/kl06/K8115",
+        "url-data": "http://data.udir.no/kl06/K8115",
+        "tittel": "orientere seg i naturen ved hjelp av yrkesrelevante hjelpemidler"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8116",
+        "uri": "http://psi.udir.no/kl06/K8116",
+        "url-data": "http://data.udir.no/kl06/K8116",
+        "tittel": "velge og bruke utstyr og bekledning etter situasjon, naturforhold og klima og utføre enkelt vedlikehold på utstyret"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8117",
+        "uri": "http://psi.udir.no/kl06/K8117",
+        "url-data": "http://data.udir.no/kl06/K8117",
+        "tittel": "vurdere risiko og ivareta egen sikkerhet under utførelse av naturbaserte aktiviteter og utføre disse innenfor gjeldende rammebetingelser og regelverk"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8118",
+        "uri": "http://psi.udir.no/kl06/K8118",
+        "url-data": "http://data.udir.no/kl06/K8118",
+        "tittel": "beskrive bærekraftig utvikling og ressursforvaltning og vurdere hvordan naturbaserte produkter og tjenester kan utvikles innenfor denne rammen"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8119",
+        "uri": "http://psi.udir.no/kl06/K8119",
+        "url-data": "http://data.udir.no/kl06/K8119",
+        "tittel": "beskrive likheter og forskjeller i yrkesutøvelsen i ulike typer naturbruk"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8120",
+        "uri": "http://psi.udir.no/kl06/K8120",
+        "url-data": "http://data.udir.no/kl06/K8120",
+        "tittel": "beskrive og begrunne bruk av natur ut fra økologisk forståelse og etiske normer"
       }
     ]
   }

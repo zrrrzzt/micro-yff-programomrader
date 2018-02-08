@@ -132,6 +132,62 @@
         "uri": "http://psi.udir.no/kl06/K5026",
         "url-data": "http://data.udir.no/kl06/K5026",
         "tittel": "bruke digitale verktøy i praktisk arbeid med håndverksprodukter og tjenester"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5011",
+        "uri": "http://psi.udir.no/kl06/K5011",
+        "url-data": "http://data.udir.no/kl06/K5011",
+        "tittel": "dokumentere og kvalitetssikre egen produksjon og kompetanse på en hensiktsmessig måte "
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5012",
+        "uri": "http://psi.udir.no/kl06/K5012",
+        "url-data": "http://data.udir.no/kl06/K5012",
+        "tittel": "bruke digitale verktøy i kvalitetsarbeid og presentasjons- og dokumentasjonsarbeid i tråd med yrkesmessige behov"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5013",
+        "uri": "http://psi.udir.no/kl06/K5013",
+        "url-data": "http://data.udir.no/kl06/K5013",
+        "tittel": "reflektere over og vurdere eget og andres arbeider som grunnlag for å tolke trender og finne fram til egne utviklingsbehov"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5014",
+        "uri": "http://psi.udir.no/kl06/K5014",
+        "url-data": "http://data.udir.no/kl06/K5014",
+        "tittel": "gjennomføre enkle undersøkelser og vurderinger av behov for håndverksprodukter og tjenester i markedet "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5015",
+        "uri": "http://psi.udir.no/kl06/K5015",
+        "url-data": "http://data.udir.no/kl06/K5015",
+        "tittel": "presentere, begrunne og argumentere for egne produkter, tjenester og produksjonsprosesser med tanke på markedsføring og salg"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5016",
+        "uri": "http://psi.udir.no/kl06/K5016",
+        "url-data": "http://data.udir.no/kl06/K5016",
+        "tittel": "beregne pris på materialer, produkter og tjenester"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5017",
+        "uri": "http://psi.udir.no/kl06/K5017",
+        "url-data": "http://data.udir.no/kl06/K5017",
+        "tittel": "beskrive kultur- og håndverkshistorie, tradisjoner, organisering og særpreg i noen yrker innen design og håndverk"
       }
     ]
   },
@@ -228,6 +284,150 @@
         "uri": "http://psi.udir.no/kl06/K5044",
         "url-data": "http://data.udir.no/kl06/K5044",
         "tittel": "drøfte medienes produkter i lys av regelverk og etiske normer som regulerer medie- og kommunikasjonsvirksomhet"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5045",
+        "uri": "http://psi.udir.no/kl06/K5045",
+        "url-data": "http://data.udir.no/kl06/K5045",
+        "tittel": "bruke aktuelle teknikker for idéskaping og idéutvikling innen tekst, lyd og bilde eller kombinasjoner av dem"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5046",
+        "uri": "http://psi.udir.no/kl06/K5046",
+        "url-data": "http://data.udir.no/kl06/K5046",
+        "tittel": "bruke skisseteknikker til å visualisere ideer"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5047",
+        "uri": "http://psi.udir.no/kl06/K5047",
+        "url-data": "http://data.udir.no/kl06/K5047",
+        "tittel": "drøfte sammenhengen mellom innhold, struktur og kommunikasjon i egne og andres medieprodukter"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5048",
+        "uri": "http://psi.udir.no/kl06/K5048",
+        "url-data": "http://data.udir.no/kl06/K5048",
+        "tittel": "formidle et budskap ved bruk av balanse, bevegelse, kontrast, rytme og framheving"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5049",
+        "uri": "http://psi.udir.no/kl06/K5049",
+        "url-data": "http://data.udir.no/kl06/K5049",
+        "tittel": "bruke dramaturgi og fortellerteknikker i egne medieproduksjoner"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5050",
+        "uri": "http://psi.udir.no/kl06/K5050",
+        "url-data": "http://data.udir.no/kl06/K5050",
+        "tittel": "velge typografi som passer til budskap, uttrykk og layout, og bruke typografiske prinsipper for å oppnå god lesbarhet i ulike medier"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5051",
+        "uri": "http://psi.udir.no/kl06/K5051",
+        "url-data": "http://data.udir.no/kl06/K5051",
+        "tittel": "beskrive og bruke form- og fargekontraster"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5052",
+        "uri": "http://psi.udir.no/kl06/K5052",
+        "url-data": "http://data.udir.no/kl06/K5052",
+        "tittel": "velge lyd i forhold til budskapet "
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5053",
+        "uri": "http://psi.udir.no/kl06/K5053",
+        "url-data": "http://data.udir.no/kl06/K5053",
+        "tittel": "bruke prinsipper for lys som virkemiddel i visuell kommunikasjon"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5054",
+        "uri": "http://psi.udir.no/kl06/K5054",
+        "url-data": "http://data.udir.no/kl06/K5054",
+        "tittel": "bruke prinsipper for utsnitt og perspektiv i komposisjon av bilder"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5055",
+        "uri": "http://psi.udir.no/kl06/K5055",
+        "url-data": "http://data.udir.no/kl06/K5055",
+        "tittel": "gjøre rede for utviklingen av tegn og symboler og bruke dem bevisst i egne arbeider "
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5056",
+        "uri": "http://psi.udir.no/kl06/K5056",
+        "url-data": "http://data.udir.no/kl06/K5056",
+        "tittel": "planlegge, produsere og presentere tekst, lyd, stillbilder, levende bilder og kombinasjoner av disse i aktuelle formater og standarder til trykte og elektroniske medier"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5057",
+        "uri": "http://psi.udir.no/kl06/K5057",
+        "url-data": "http://data.udir.no/kl06/K5057",
+        "tittel": "bruke relevante metoder for kvalitetssikring av egen arbeidsprosess og eget produkt"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5058",
+        "uri": "http://psi.udir.no/kl06/K5058",
+        "url-data": "http://data.udir.no/kl06/K5058",
+        "tittel": "bruke tidsmessig verktøy, programvare og annet teknisk utstyr på en forsvarlig måte"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5059",
+        "uri": "http://psi.udir.no/kl06/K5059",
+        "url-data": "http://data.udir.no/kl06/K5059",
+        "tittel": "oppbevare råmateriale og bearbeidet materiale på en faglig forsvarlig måte"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5060",
+        "uri": "http://psi.udir.no/kl06/K5060",
+        "url-data": "http://data.udir.no/kl06/K5060",
+        "tittel": "beregne kostnader ved en medieproduksjon"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5061",
+        "uri": "http://psi.udir.no/kl06/K5061",
+        "url-data": "http://data.udir.no/kl06/K5061",
+        "tittel": "forklare hvordan arbeidet kan tilrettelegges ergonomisk, og ivareta dette i daglig arbeid"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5062",
+        "uri": "http://psi.udir.no/kl06/K5062",
+        "url-data": "http://data.udir.no/kl06/K5062",
+        "tittel": "gjøre rede for sammensmelting innen ulike medier som følge av teknologisk og samfunnsmessig utvikling"
       }
     ]
   }

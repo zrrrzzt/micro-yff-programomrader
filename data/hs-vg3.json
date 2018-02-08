@@ -1700,6 +1700,166 @@
         "uri": "http://psi.udir.no/kl06/K6386",
         "url-data": "http://data.udir.no/kl06/K6386",
         "tittel": "gjere greie for oppbygginga og funksjonen til fottøyet og vise korleis bruken av riktig fottøy kan førebyggje hud-, nagle-, muskel- og skjelettlidingar"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6387",
+        "uri": "http://psi.udir.no/kl06/K6387",
+        "url-data": "http://data.udir.no/kl06/K6387",
+        "tittel": "rettleie, kommunisere og samhandle med brukarar om fothelse"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6388",
+        "uri": "http://psi.udir.no/kl06/K6388",
+        "url-data": "http://data.udir.no/kl06/K6388",
+        "tittel": "kommunisere og samhandle med anna helsepersonell om fothelse"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6389",
+        "uri": "http://psi.udir.no/kl06/K6389",
+        "url-data": "http://data.udir.no/kl06/K6389",
+        "tittel": "bruke ulike strategiar for konflikthandtering "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6390",
+        "uri": "http://psi.udir.no/kl06/K6390",
+        "url-data": "http://data.udir.no/kl06/K6390",
+        "tittel": "drøfte etiske problemstillingar knytte til yrkesutøvinga"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6391",
+        "uri": "http://psi.udir.no/kl06/K6391",
+        "url-data": "http://data.udir.no/kl06/K6391",
+        "tittel": "utføre og grunngi sal av tenester og produkt og gjennomføre marknadsundersøkingar"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6392",
+        "uri": "http://psi.udir.no/kl06/K6392",
+        "url-data": "http://data.udir.no/kl06/K6392",
+        "tittel": "drøfte korleis estetikk og service kan vere helsefremmande, og foreslå tiltak"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6393",
+        "uri": "http://psi.udir.no/kl06/K6393",
+        "url-data": "http://data.udir.no/kl06/K6393",
+        "tittel": "dokumentere og vurdere fotproblem, fotlidingar og hudskadar"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6394",
+        "uri": "http://psi.udir.no/kl06/K6394",
+        "url-data": "http://data.udir.no/kl06/K6394",
+        "tittel": "planleggje og gjennomføre førebygging og behandling av hudskadar og fotlidingar "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6395",
+        "uri": "http://psi.udir.no/kl06/K6395",
+        "url-data": "http://data.udir.no/kl06/K6395",
+        "tittel": "utføre skoanalyse "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6396",
+        "uri": "http://psi.udir.no/kl06/K6396",
+        "url-data": "http://data.udir.no/kl06/K6396",
+        "tittel": "utføre protetikk og reguleringsteknikkar for negler "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6397",
+        "uri": "http://psi.udir.no/kl06/K6397",
+        "url-data": "http://data.udir.no/kl06/K6397",
+        "tittel": "behandle hud- og naglelidingar innanfor eige kompetanseområde"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6398",
+        "uri": "http://psi.udir.no/kl06/K6398",
+        "url-data": "http://data.udir.no/kl06/K6398",
+        "tittel": "utføre ledd- og muskeltestar"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6399",
+        "uri": "http://psi.udir.no/kl06/K6399",
+        "url-data": "http://data.udir.no/kl06/K6399",
+        "tittel": "kartleggje og vurdere behov for avlasting ved hjelp av analyse- og avtrykksteknikkar"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6400",
+        "uri": "http://psi.udir.no/kl06/K6400",
+        "url-data": "http://data.udir.no/kl06/K6400",
+        "tittel": "tilpasse individuelle avlastingar og behandle kallositetar, tornar og vorter  "
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6401",
+        "uri": "http://psi.udir.no/kl06/K6401",
+        "url-data": "http://data.udir.no/kl06/K6401",
+        "tittel": "utføre arbeidet i tråd med hygieniske prinsipp "
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6402",
+        "uri": "http://psi.udir.no/kl06/K6402",
+        "url-data": "http://data.udir.no/kl06/K6402",
+        "tittel": "bruke materiale, tekniske hjelpemiddel, verktøy og utstyr i tråd med gjeldande regelverk"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6403",
+        "uri": "http://psi.udir.no/kl06/K6403",
+        "url-data": "http://data.udir.no/kl06/K6403",
+        "tittel": "utføre arbeidet i tråd med gjeldande regelverk for helse, miljø og tryggleik (HMT) og ergonomiske prinsipp"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6404",
+        "uri": "http://psi.udir.no/kl06/K6404",
+        "url-data": "http://data.udir.no/kl06/K6404",
+        "tittel": "følgje gjeldande regelverk om teieplikt og personvern"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6405",
+        "uri": "http://psi.udir.no/kl06/K6405",
+        "url-data": "http://data.udir.no/kl06/K6405",
+        "tittel": "føre journal og enkelt budsjett og rekneskap"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K6406",
+        "uri": "http://psi.udir.no/kl06/K6406",
+        "url-data": "http://data.udir.no/kl06/K6406",
+        "tittel": "planleggje etablering av eiga bedrift "
       }
     ]
   },
@@ -2080,6 +2240,222 @@
         "uri": "http://psi.udir.no/kl06/K3906",
         "url-data": "http://data.udir.no/kl06/K3906",
         "tittel": "utføre førstehjelp som er relevant for yrkesutøvelsen "
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3907",
+        "uri": "http://psi.udir.no/kl06/K3907",
+        "url-data": "http://data.udir.no/kl06/K3907",
+        "tittel": "formidle informasjon til kunder i ulike livssituasjoner og med ulike behov"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3908",
+        "uri": "http://psi.udir.no/kl06/K3908",
+        "url-data": "http://data.udir.no/kl06/K3908",
+        "tittel": "kommunisere og samhandle med kunder, kollegaer og andre fagpersoner "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3909",
+        "uri": "http://psi.udir.no/kl06/K3909",
+        "url-data": "http://data.udir.no/kl06/K3909",
+        "tittel": "drøfte apotekteknikerens rolle i det tverrfaglige samarbeidet"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3910",
+        "uri": "http://psi.udir.no/kl06/K3910",
+        "url-data": "http://data.udir.no/kl06/K3910",
+        "tittel": "bruke ulike strategier for konflikthåndtering"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3911",
+        "uri": "http://psi.udir.no/kl06/K3911",
+        "url-data": "http://data.udir.no/kl06/K3911",
+        "tittel": "drøfte kjennetegn på profesjonell kundebehandling "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3912",
+        "uri": "http://psi.udir.no/kl06/K3912",
+        "url-data": "http://data.udir.no/kl06/K3912",
+        "tittel": "yte service til kunder"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3913",
+        "uri": "http://psi.udir.no/kl06/K3913",
+        "url-data": "http://data.udir.no/kl06/K3913",
+        "tittel": "drøfte yrkesetiske problemstillinger og utføre arbeidet i tråd med yrkesetiske retningslinjer"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3914",
+        "uri": "http://psi.udir.no/kl06/K3914",
+        "url-data": "http://data.udir.no/kl06/K3914",
+        "tittel": "gjøre rede for innholdet i det relevante regelverket om forbrukernes rettigheter og plikter"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3915",
+        "uri": "http://psi.udir.no/kl06/K3915",
+        "url-data": "http://data.udir.no/kl06/K3915",
+        "tittel": "håndtere klager i samsvar med regelverket "
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3916",
+        "uri": "http://psi.udir.no/kl06/K3916",
+        "url-data": "http://data.udir.no/kl06/K3916",
+        "tittel": "beherske engelske faguttrykk "
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3917",
+        "uri": "http://psi.udir.no/kl06/K3917",
+        "url-data": "http://data.udir.no/kl06/K3917",
+        "tittel": "følge gjeldende regelverk om taushetsplikt og personvern"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3918",
+        "uri": "http://psi.udir.no/kl06/K3918",
+        "url-data": "http://data.udir.no/kl06/K3918",
+        "tittel": "planlegge, gjennomføre, dokumentere og evaluere eget arbeid"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3919",
+        "uri": "http://psi.udir.no/kl06/K3919",
+        "url-data": "http://data.udir.no/kl06/K3919",
+        "tittel": "drøfte hva profesjonell yrkesutøvelse innebærer for apotekteknikeren"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3920",
+        "uri": "http://psi.udir.no/kl06/K3920",
+        "url-data": "http://data.udir.no/kl06/K3920",
+        "tittel": "bruke de vanligste prinsippene for varebestilling og vareflyt  "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3921",
+        "uri": "http://psi.udir.no/kl06/K3921",
+        "url-data": "http://data.udir.no/kl06/K3921",
+        "tittel": "kontrollere og rydde på plass varer og legemidler etter aktuelle lagersystemer og gjeldende regler for oppbevaring "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3922",
+        "uri": "http://psi.udir.no/kl06/K3922",
+        "url-data": "http://data.udir.no/kl06/K3922",
+        "tittel": "bruke relevante digitale verktøy i arbeidet"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3923",
+        "uri": "http://psi.udir.no/kl06/K3923",
+        "url-data": "http://data.udir.no/kl06/K3923",
+        "tittel": "bruke ATC-klassifikasjonssystemet i apotekarbeidet"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3924",
+        "uri": "http://psi.udir.no/kl06/K3924",
+        "url-data": "http://data.udir.no/kl06/K3924",
+        "tittel": "selge reseptfrie legemidler og handelsvarer basert på produktkunnskap og i samsvar med gjeldende regelverk og etiske retningslinjer"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3925",
+        "uri": "http://psi.udir.no/kl06/K3925",
+        "url-data": "http://data.udir.no/kl06/K3925",
+        "tittel": "registrere, klargjøre og utlevere reseptmedisin i samarbeid med farmasøyt og i henhold til gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3926",
+        "uri": "http://psi.udir.no/kl06/K3926",
+        "url-data": "http://data.udir.no/kl06/K3926",
+        "tittel": "anbefale hensiktsmessig legemiddelform og veilede i bruken av denne "
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3927",
+        "uri": "http://psi.udir.no/kl06/K3927",
+        "url-data": "http://data.udir.no/kl06/K3927",
+        "tittel": "framstille kremer, salver og flytende legemidler og dosere legemidler i henhold til prinsippene for god produksjonspraksis "
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3928",
+        "uri": "http://psi.udir.no/kl06/K3928",
+        "url-data": "http://data.udir.no/kl06/K3928",
+        "tittel": "tilvirke, omsette, markedsføre og kontrollere legemidler i tråd med gjeldende regelverk "
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3929",
+        "uri": "http://psi.udir.no/kl06/K3929",
+        "url-data": "http://data.udir.no/kl06/K3929",
+        "tittel": "utføre arbeidet i tråd med kvalitets- og internkontrollsystemet"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3930",
+        "uri": "http://psi.udir.no/kl06/K3930",
+        "url-data": "http://data.udir.no/kl06/K3930",
+        "tittel": "planlegge og gjennomføre kampanjeaktiviteter"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3931",
+        "uri": "http://psi.udir.no/kl06/K3931",
+        "url-data": "http://data.udir.no/kl06/K3931",
+        "tittel": "håndtere legemiddelavfall i samsvar med gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3932",
+        "uri": "http://psi.udir.no/kl06/K3932",
+        "url-data": "http://data.udir.no/kl06/K3932",
+        "tittel": "planlegge og gjennomføre tiltak i tråd med prinsippene for universell utforming"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3933",
+        "uri": "http://psi.udir.no/kl06/K3933",
+        "url-data": "http://data.udir.no/kl06/K3933",
+        "tittel": "utføre arbeidet i tråd med ergonomiske prinsipper"
       }
     ]
   },
@@ -2192,6 +2568,190 @@
         "uri": "http://psi.udir.no/kl06/K12857",
         "url-data": "http://data.udir.no/kl06/K12857",
         "tittel": "utføre arbeidet i tråd med gjeldande regelverk for helse, miljø og tryggleik (HMT)"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12858",
+        "uri": "http://psi.udir.no/kl06/K12858",
+        "url-data": "http://data.udir.no/kl06/K12858",
+        "tittel": "drøfte kva profesjonell yrkesutøving inneber for helsesekretæren"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12859",
+        "uri": "http://psi.udir.no/kl06/K12859",
+        "url-data": "http://data.udir.no/kl06/K12859",
+        "tittel": "drøfte kjenneteikn på god pasientservice og yte service til pasientar"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12860",
+        "uri": "http://psi.udir.no/kl06/K12860",
+        "url-data": "http://data.udir.no/kl06/K12860",
+        "tittel": "kommunisere og samhandle med helsepersonell og pasientar i ulike livssituasjonar "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12861",
+        "uri": "http://psi.udir.no/kl06/K12861",
+        "url-data": "http://data.udir.no/kl06/K12861",
+        "tittel": "bruke ulike strategiar for konflikthandtering"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12862",
+        "uri": "http://psi.udir.no/kl06/K12862",
+        "url-data": "http://data.udir.no/kl06/K12862",
+        "tittel": "handtere stressprega situasjonar"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12863",
+        "uri": "http://psi.udir.no/kl06/K12863",
+        "url-data": "http://data.udir.no/kl06/K12863",
+        "tittel": "hjelpe pasientar og brukarar i krisesituasjonar og rettleie om bruk av hjelpeapparat "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12864",
+        "uri": "http://psi.udir.no/kl06/K12864",
+        "url-data": "http://data.udir.no/kl06/K12864",
+        "tittel": "observere pasienten og rapportere pasientinformasjon korrekt og objektivt via tenesteveg"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12865",
+        "uri": "http://psi.udir.no/kl06/K12865",
+        "url-data": "http://data.udir.no/kl06/K12865",
+        "tittel": "følgje gjeldande regelverk om teieplikt og personvern"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12866",
+        "uri": "http://psi.udir.no/kl06/K12866",
+        "url-data": "http://data.udir.no/kl06/K12866",
+        "tittel": "leggje til rette relevant informasjon på venterom og arbeidsplassar "
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12867",
+        "uri": "http://psi.udir.no/kl06/K12867",
+        "url-data": "http://data.udir.no/kl06/K12867",
+        "tittel": "bruke medisinske ord og uttrykk"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12868",
+        "uri": "http://psi.udir.no/kl06/K12868",
+        "url-data": "http://data.udir.no/kl06/K12868",
+        "tittel": "planleggje, gjennomføre, vurdere og dokumentere eige arbeid i faget"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12869",
+        "uri": "http://psi.udir.no/kl06/K12869",
+        "url-data": "http://data.udir.no/kl06/K12869",
+        "tittel": "utføre administrative arbeidsoppgåver knytte til dokumentasjon, registrering, rekneskap, telefonførespurnader  og ventelistehandtering "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12870",
+        "uri": "http://psi.udir.no/kl06/K12870",
+        "url-data": "http://data.udir.no/kl06/K12870",
+        "tittel": "utføre logistikk- og bestillingsarbeid "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12871",
+        "uri": "http://psi.udir.no/kl06/K12871",
+        "url-data": "http://data.udir.no/kl06/K12871",
+        "tittel": "leggje til rette for og assistere andre yrkesgrupper"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12872",
+        "uri": "http://psi.udir.no/kl06/K12872",
+        "url-data": "http://data.udir.no/kl06/K12872",
+        "tittel": "utføre dei mest vanlege undersøkingsmetodane, laboratoriearbeid og skiftestue- og assistansearbeid"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12873",
+        "uri": "http://psi.udir.no/kl06/K12873",
+        "url-data": "http://data.udir.no/kl06/K12873",
+        "tittel": "følgje prosedyrar ved stikkskadar "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12874",
+        "uri": "http://psi.udir.no/kl06/K12874",
+        "url-data": "http://data.udir.no/kl06/K12874",
+        "tittel": "følgje prosedyrar for arbeidet med biologisk og kjemisk materiale "
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12875",
+        "uri": "http://psi.udir.no/kl06/K12875",
+        "url-data": "http://data.udir.no/kl06/K12875",
+        "tittel": "handtere avfall på ein hygienisk og miljøriktig måte"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12876",
+        "uri": "http://psi.udir.no/kl06/K12876",
+        "url-data": "http://data.udir.no/kl06/K12876",
+        "tittel": "rettleie pasientar, brukarar og pårørande om ulike instansar i helse- og sosialtenesta "
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12877",
+        "uri": "http://psi.udir.no/kl06/K12877",
+        "url-data": "http://data.udir.no/kl06/K12877",
+        "tittel": "utføre arbeidet i tråd med yrkesetiske retningslinjer og gjeldande regelverk om kvalitet i helse- og sosialtenesta "
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12878",
+        "uri": "http://psi.udir.no/kl06/K12878",
+        "url-data": "http://data.udir.no/kl06/K12878",
+        "tittel": "utføre arbeidet i tråd med ergonomiske prinsipp"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12879",
+        "uri": "http://psi.udir.no/kl06/K12879",
+        "url-data": "http://data.udir.no/kl06/K12879",
+        "tittel": "utføre arbeidet i tråd med prinsippa for universell utforming av tenester og produkt"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12880",
+        "uri": "http://psi.udir.no/kl06/K12880",
+        "url-data": "http://data.udir.no/kl06/K12880",
+        "tittel": "bruke relevante digitale verktøy i arbeidet"
       }
     ]
   },
@@ -2280,6 +2840,190 @@
         "uri": "http://psi.udir.no/kl06/K10212",
         "url-data": "http://data.udir.no/kl06/K10212",
         "tittel": "utføre førstehjelp knyttet til yrkesutøvelsen"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10213",
+        "uri": "http://psi.udir.no/kl06/K10213",
+        "url-data": "http://data.udir.no/kl06/K10213",
+        "tittel": "drøfte hva profesjonell yrkesutøvelse innebærer for tannhelsesekretæren"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10214",
+        "uri": "http://psi.udir.no/kl06/K10214",
+        "url-data": "http://data.udir.no/kl06/K10214",
+        "tittel": "drøfte kjennetegn på god pasientservice og yte service til pasienter"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10215",
+        "uri": "http://psi.udir.no/kl06/K10215",
+        "url-data": "http://data.udir.no/kl06/K10215",
+        "tittel": "kommunisere med pasienter i ulike livssituasjoner "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10216",
+        "uri": "http://psi.udir.no/kl06/K10216",
+        "url-data": "http://data.udir.no/kl06/K10216",
+        "tittel": "ivareta pasienter med odontofobi  "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10217",
+        "uri": "http://psi.udir.no/kl06/K10217",
+        "url-data": "http://data.udir.no/kl06/K10217",
+        "tittel": "drøfte tannhelsesekretærens rolle i det tverrfaglige samarbeidet"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10218",
+        "uri": "http://psi.udir.no/kl06/K10218",
+        "url-data": "http://data.udir.no/kl06/K10218",
+        "tittel": "drøfte hva pasientmedvirkning innebærer i tannhelsetjenesten, og informere om pasientens rettigheter"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10219",
+        "uri": "http://psi.udir.no/kl06/K10219",
+        "url-data": "http://data.udir.no/kl06/K10219",
+        "tittel": "bruke ulike strategier for konflikthåndtering "
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10220",
+        "uri": "http://psi.udir.no/kl06/K10220",
+        "url-data": "http://data.udir.no/kl06/K10220",
+        "tittel": "drøfte yrkesetiske problemstillinger"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10221",
+        "uri": "http://psi.udir.no/kl06/K10221",
+        "url-data": "http://data.udir.no/kl06/K10221",
+        "tittel": "bruke korrekt fagterminologi "
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10222",
+        "uri": "http://psi.udir.no/kl06/K10222",
+        "url-data": "http://data.udir.no/kl06/K10222",
+        "tittel": "planlegge, gjennomføre, dokumentere og vurdere eget arbeid innen tannhelsetjenesten"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10223",
+        "uri": "http://psi.udir.no/kl06/K10223",
+        "url-data": "http://data.udir.no/kl06/K10223",
+        "tittel": "utføre enklere laboratoriearbeid på tannklinikken"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10224",
+        "uri": "http://psi.udir.no/kl06/K10224",
+        "url-data": "http://data.udir.no/kl06/K10224",
+        "tittel": "bruke og vedlikeholde instrumenter og utstyr "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10225",
+        "uri": "http://psi.udir.no/kl06/K10225",
+        "url-data": "http://data.udir.no/kl06/K10225",
+        "tittel": "forberede og assistere ved tannbehandlinger og kirurgiske inngrep i munnhulen "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10226",
+        "uri": "http://psi.udir.no/kl06/K10226",
+        "url-data": "http://data.udir.no/kl06/K10226",
+        "tittel": "ta dentale røntgenbilder i tråd med strålehygieniske retningslinjer og vurdere røntgenbildenes kvalitet "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10227",
+        "uri": "http://psi.udir.no/kl06/K10227",
+        "url-data": "http://data.udir.no/kl06/K10227",
+        "tittel": "gi pasienter postoperativ informasjon i samarbeid med tannlege eller tannpleier"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10228",
+        "uri": "http://psi.udir.no/kl06/K10228",
+        "url-data": "http://data.udir.no/kl06/K10228",
+        "tittel": "utføre administrative oppgaver i en tannhelsepraksis "
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10229",
+        "uri": "http://psi.udir.no/kl06/K10229",
+        "url-data": "http://data.udir.no/kl06/K10229",
+        "tittel": "bestille og oppbevare dentalt forbruksmateriell "
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10230",
+        "uri": "http://psi.udir.no/kl06/K10230",
+        "url-data": "http://data.udir.no/kl06/K10230",
+        "tittel": "bruke relevante digitale verktøy i arbeidet"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10231",
+        "uri": "http://psi.udir.no/kl06/K10231",
+        "url-data": "http://data.udir.no/kl06/K10231",
+        "tittel": "utføre arbeidet i tråd med gjeldende regelverk for helse, miljø og sikkerhet og etter hygieniske retningslinjer "
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10232",
+        "uri": "http://psi.udir.no/kl06/K10232",
+        "url-data": "http://data.udir.no/kl06/K10232",
+        "tittel": "utføre arbeidet i tråd med ergonomiske prinsipper "
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10233",
+        "uri": "http://psi.udir.no/kl06/K10233",
+        "url-data": "http://data.udir.no/kl06/K10233",
+        "tittel": "følge gjeldende regelverk om taushetsplikt, personvern og yrkesetiske retningslinjer"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10234",
+        "uri": "http://psi.udir.no/kl06/K10234",
+        "url-data": "http://data.udir.no/kl06/K10234",
+        "tittel": "følge arbeidsplassens rutiner for kvalitetsutviklingsarbeid"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10235",
+        "uri": "http://psi.udir.no/kl06/K10235",
+        "url-data": "http://data.udir.no/kl06/K10235",
+        "tittel": "planlegge og gjennomføre arbeidet i tråd med prinsippene for universell utforming av produkter og tjenester "
       }
     ]
   },
@@ -2311,7 +3055,7 @@
         "kode": "K6995",
         "uri": "http://psi.udir.no/kl06/K6995",
         "url-data": "http://data.udir.no/kl06/K6995",
-        "tittel": "gjere greie for korleis huda er bygd opp og fungerer, og for normale aldersforandringar  "
+        "tittel": "gjere greie for korleis huda er bygd opp og fungerer, og for normale aldersforandringar"
       },
       {
         "rekkefoelge": 4,
@@ -2352,6 +3096,214 @@
         "uri": "http://psi.udir.no/kl06/K7000",
         "url-data": "http://data.udir.no/kl06/K7000",
         "tittel": "planleggje og foreslå estetiske tiltak for å fremme trivsel og velvære"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7001",
+        "uri": "http://psi.udir.no/kl06/K7001",
+        "url-data": "http://data.udir.no/kl06/K7001",
+        "tittel": "rettleie brukarar om pleie og behandling av hud, hår og negler"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7002",
+        "uri": "http://psi.udir.no/kl06/K7002",
+        "url-data": "http://data.udir.no/kl06/K7002",
+        "tittel": "vurdere og setje i verk tiltak i faget som kan fremme sjølvbilete, trivsel og velvære"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7003",
+        "uri": "http://psi.udir.no/kl06/K7003",
+        "url-data": "http://data.udir.no/kl06/K7003",
+        "tittel": "kommunisere med brukarar med ulik bakgrunn"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7004",
+        "uri": "http://psi.udir.no/kl06/K7004",
+        "url-data": "http://data.udir.no/kl06/K7004",
+        "tittel": "drøfte etiske problemstillingar knytte til yrkesutøvinga"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7005",
+        "uri": "http://psi.udir.no/kl06/K7005",
+        "url-data": "http://data.udir.no/kl06/K7005",
+        "tittel": "drøfte rolla til media og reklame i hudpleiarfaget"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7006",
+        "uri": "http://psi.udir.no/kl06/K7006",
+        "url-data": "http://data.udir.no/kl06/K7006",
+        "tittel": "utføre sal av tenester og produkt ut frå faglege og etiske prinsipp"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7007",
+        "uri": "http://psi.udir.no/kl06/K7007",
+        "url-data": "http://data.udir.no/kl06/K7007",
+        "tittel": "bruke ulike strategiar for konflikthandtering"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7008",
+        "uri": "http://psi.udir.no/kl06/K7008",
+        "url-data": "http://data.udir.no/kl06/K7008",
+        "tittel": "yte service i yrkesutøvinga"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7009",
+        "uri": "http://psi.udir.no/kl06/K7009",
+        "url-data": "http://data.udir.no/kl06/K7009",
+        "tittel": "følgje gjeldande regelverk om teieplikt og personvern"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7010",
+        "uri": "http://psi.udir.no/kl06/K7010",
+        "url-data": "http://data.udir.no/kl06/K7010",
+        "tittel": "planleggje, gjennomføre, vurdere og dokumentere eige arbeid som hudpleiar"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7011",
+        "uri": "http://psi.udir.no/kl06/K7011",
+        "url-data": "http://data.udir.no/kl06/K7011",
+        "tittel": "utføre dags-, kvelds- og brudemakeup med utgangspunkt i fargelære"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7012",
+        "uri": "http://psi.udir.no/kl06/K7012",
+        "url-data": "http://data.udir.no/kl06/K7012",
+        "tittel": "bruke eit utval av tekniske hjelpemiddel i ansikts- og kroppsbehandlingar og vurdere nytteverdien av apparatur"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7013",
+        "uri": "http://psi.udir.no/kl06/K7013",
+        "url-data": "http://data.udir.no/kl06/K7013",
+        "tittel": "bruke enkle korrigeringsteknikkar og kamuflere endringar i huda"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7014",
+        "uri": "http://psi.udir.no/kl06/K7014",
+        "url-data": "http://data.udir.no/kl06/K7014",
+        "tittel": "gi råd om behandling av uønskt hårvekst og bruke ulike arbeidsmetodar og apparat"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7015",
+        "uri": "http://psi.udir.no/kl06/K7015",
+        "url-data": "http://data.udir.no/kl06/K7015",
+        "tittel": "bruke metodar for handbehandling, lakketeknikk og pedikyr og grunngi val av metode"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7016",
+        "uri": "http://psi.udir.no/kl06/K7016",
+        "url-data": "http://data.udir.no/kl06/K7016",
+        "tittel": "bruke ulike massasjeteknikkar  "
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7017",
+        "uri": "http://psi.udir.no/kl06/K7017",
+        "url-data": "http://data.udir.no/kl06/K7017",
+        "tittel": "gi råd om korleis ulike kosmetiske produkt verkar kjemisk i og på huda"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7018",
+        "uri": "http://psi.udir.no/kl06/K7018",
+        "url-data": "http://data.udir.no/kl06/K7018",
+        "tittel": "arbeide i tråd med tiltak for helse, miljø og tryggleik på arbeidsplassen"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7019",
+        "uri": "http://psi.udir.no/kl06/K7019",
+        "url-data": "http://data.udir.no/kl06/K7019",
+        "tittel": "følgje ergonomiske prinsipp i yrkesutøvinga"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7020",
+        "uri": "http://psi.udir.no/kl06/K7020",
+        "url-data": "http://data.udir.no/kl06/K7020",
+        "tittel": "vurdere hud-, hår- og neglebehandlingar og føre journal"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7021",
+        "uri": "http://psi.udir.no/kl06/K7021",
+        "url-data": "http://data.udir.no/kl06/K7021",
+        "tittel": "drive kjøp, sal og marknadsføring i tråd med gjeldande regelverk"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7022",
+        "uri": "http://psi.udir.no/kl06/K7022",
+        "url-data": "http://data.udir.no/kl06/K7022",
+        "tittel": "utføre logistikk"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7023",
+        "uri": "http://psi.udir.no/kl06/K7023",
+        "url-data": "http://data.udir.no/kl06/K7023",
+        "tittel": "drive enkel budsjettering og føre ein enkel rekneskap"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7024",
+        "uri": "http://psi.udir.no/kl06/K7024",
+        "url-data": "http://data.udir.no/kl06/K7024",
+        "tittel": "bruke digitale verktøy i yrkesutøvinga"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7025",
+        "uri": "http://psi.udir.no/kl06/K7025",
+        "url-data": "http://data.udir.no/kl06/K7025",
+        "tittel": "drive kvalitetssikring og kvalitetsutvikling av yrkesutøvinga"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7026",
+        "uri": "http://psi.udir.no/kl06/K7026",
+        "url-data": "http://data.udir.no/kl06/K7026",
+        "tittel": "planleggje og gjennomføre arbeidet i tråd med prinsippa for universell utforming av produkt og tenester"
       }
     ]
   }

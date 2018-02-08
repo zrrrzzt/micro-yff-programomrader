@@ -412,6 +412,1110 @@
         "uri": "http://psi.udir.no/kl06/K16711",
         "url-data": "http://data.udir.no/kl06/K16711",
         "tittel": "bruke forskjellige former for digitale og papirbaserte ordbøker"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16768",
+        "uri": "http://psi.udir.no/kl06/K16768",
+        "url-data": "http://data.udir.no/kl06/K16768",
+        "tittel": "lytte til og forstå muntlig norsk godt nok til å kunne delta i ulike muntlige aktiviteter som aktør og tilhører"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16769",
+        "uri": "http://psi.udir.no/kl06/K16769",
+        "url-data": "http://data.udir.no/kl06/K16769",
+        "tittel": "lytte til, vurdere og gi veiledende tilbakemelding på andres muntlige presentasjoner"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16770",
+        "uri": "http://psi.udir.no/kl06/K16770",
+        "url-data": "http://data.udir.no/kl06/K16770",
+        "tittel": "uttrykke seg med godt forståelig uttale og funksjonelt ordforråd"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16771",
+        "uri": "http://psi.udir.no/kl06/K16771",
+        "url-data": "http://data.udir.no/kl06/K16771",
+        "tittel": "videreutvikle evnen til å tilpasse innhold og språk etter situasjon"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16772",
+        "uri": "http://psi.udir.no/kl06/K16772",
+        "url-data": "http://data.udir.no/kl06/K16772",
+        "tittel": "bruke kunnskap om retoriske appellformer i presentasjoner"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16773",
+        "uri": "http://psi.udir.no/kl06/K16773",
+        "url-data": "http://data.udir.no/kl06/K16773",
+        "tittel": "presentere norskfaglige og andre emner og drøfte det framlagte innholdet"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16774",
+        "uri": "http://psi.udir.no/kl06/K16774",
+        "url-data": "http://data.udir.no/kl06/K16774",
+        "tittel": "formidle faginnhold og bruke digitale medier og verktøy i formidlingen"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16775",
+        "uri": "http://psi.udir.no/kl06/K16775",
+        "url-data": "http://data.udir.no/kl06/K16775",
+        "tittel": "lese egnede tekster på bokmål og nynorsk med flyt, sammenheng og forståelse"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16776",
+        "uri": "http://psi.udir.no/kl06/K16776",
+        "url-data": "http://data.udir.no/kl06/K16776",
+        "tittel": "lese egnede tekster i ulike sjangere for å ta stilling til spørsmål tekstene tar opp, og verdier de representerer"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16777",
+        "uri": "http://psi.udir.no/kl06/K16777",
+        "url-data": "http://data.udir.no/kl06/K16777",
+        "tittel": "skrive sammenhengende med funksjonell håndskrift, og bruke tastatur på en hensiktsmessig måte"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16778",
+        "uri": "http://psi.udir.no/kl06/K16778",
+        "url-data": "http://data.udir.no/kl06/K16778",
+        "tittel": "skrive kreative, informative og argumenterende tekster tilpasset formål og mottaker"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16779",
+        "uri": "http://psi.udir.no/kl06/K16779",
+        "url-data": "http://data.udir.no/kl06/K16779",
+        "tittel": "skrive enkle litterære tolkninger og resonnerende tekster"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16780",
+        "uri": "http://psi.udir.no/kl06/K16780",
+        "url-data": "http://data.udir.no/kl06/K16780",
+        "tittel": "mestre de fleste sentrale regler innenfor ortografi, formverk, setningsbygning og tekstbinding"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16781",
+        "uri": "http://psi.udir.no/kl06/K16781",
+        "url-data": "http://data.udir.no/kl06/K16781",
+        "tittel": "gjøre rede for likheter og forskjeller mellom moderne norsk språk og eget morsmål"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16782",
+        "uri": "http://psi.udir.no/kl06/K16782",
+        "url-data": "http://data.udir.no/kl06/K16782",
+        "tittel": "gjøre rede for hovedlinjer i norsk språkdebatt og språkpolitikk på 1800-tallet"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16783",
+        "uri": "http://psi.udir.no/kl06/K16783",
+        "url-data": "http://data.udir.no/kl06/K16783",
+        "tittel": "analysere innhold og vurdere bruk av virkemidler i egnede tekster hentet fra ulike digitale medier, og se dem i lys av den kulturelle referanserammen tekstene er produsert i"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16784",
+        "uri": "http://psi.udir.no/kl06/K16784",
+        "url-data": "http://data.udir.no/kl06/K16784",
+        "tittel": "vurdere bruk av humor og ironi i egnede tekster"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16785",
+        "uri": "http://psi.udir.no/kl06/K16785",
+        "url-data": "http://data.udir.no/kl06/K16785",
+        "tittel": "gjenkjenne retoriske appellformer og måter å argumentere på"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16786",
+        "uri": "http://psi.udir.no/kl06/K16786",
+        "url-data": "http://data.udir.no/kl06/K16786",
+        "tittel": "sammenligne fortellemåter og verdier i et utvalg egnede samtidstekster med fortellemåter og verdier i myter og folkediktning fra ulike land"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16787",
+        "uri": "http://psi.udir.no/kl06/K16787",
+        "url-data": "http://data.udir.no/kl06/K16787",
+        "tittel": "forklare hvordan ulike forestillinger om det norske kommer til uttrykk i sentrale tekster fra slutten av 1700-tallet til 1870-årene og i et utvalg egnede samtidstekster"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16788",
+        "uri": "http://psi.udir.no/kl06/K16788",
+        "url-data": "http://data.udir.no/kl06/K16788",
+        "tittel": "lese et utvalg egnede sentrale norske og noen europeiske tekster fra middelalderen til og med romantikken i moderne språkdrakt, sette dem inn i en kulturhistorisk sammenheng og reflektere over form og innhold"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16789",
+        "uri": "http://psi.udir.no/kl06/K16789",
+        "url-data": "http://data.udir.no/kl06/K16789",
+        "tittel": "referere til og vurdere kilder i aktuelle faglige situasjoner"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16790",
+        "uri": "http://psi.udir.no/kl06/K16790",
+        "url-data": "http://data.udir.no/kl06/K16790",
+        "tittel": "sammenfatte informasjon i lengre muntlige presentasjoner"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16791",
+        "uri": "http://psi.udir.no/kl06/K16791",
+        "url-data": "http://data.udir.no/kl06/K16791",
+        "tittel": "lytte til og forstå muntlig norsk godt nok til å kunne følge resonnementer og delta aktivt i ulike former for muntlig kommunikasjon"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16792",
+        "uri": "http://psi.udir.no/kl06/K16792",
+        "url-data": "http://data.udir.no/kl06/K16792",
+        "tittel": "lytte til og vurdere argumentasjonen i muntlige tekster i ulike medier og ta stilling til innhold og formål"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16793",
+        "uri": "http://psi.udir.no/kl06/K16793",
+        "url-data": "http://data.udir.no/kl06/K16793",
+        "tittel": "lytte til, forstå og gjengi enkel informasjon fra svensk og dansk"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16794",
+        "uri": "http://psi.udir.no/kl06/K16794",
+        "url-data": "http://data.udir.no/kl06/K16794",
+        "tittel": "uttrykke seg både forberedt og spontant med god uttale og flyt og med et variert ordforråd"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16795",
+        "uri": "http://psi.udir.no/kl06/K16795",
+        "url-data": "http://data.udir.no/kl06/K16795",
+        "tittel": "tilpasse innhold og språk til ulike situasjoner"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16796",
+        "uri": "http://psi.udir.no/kl06/K16796",
+        "url-data": "http://data.udir.no/kl06/K16796",
+        "tittel": "bruke kunnskap om retoriske appellformer i diskusjoner og presentasjoner"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16797",
+        "uri": "http://psi.udir.no/kl06/K16797",
+        "url-data": "http://data.udir.no/kl06/K16797",
+        "tittel": "bruke relevant terminologi i samtaler om norskfaglige emner"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16798",
+        "uri": "http://psi.udir.no/kl06/K16798",
+        "url-data": "http://data.udir.no/kl06/K16798",
+        "tittel": "sette sammen og framføre et avgrenset litterært program"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16799",
+        "uri": "http://psi.udir.no/kl06/K16799",
+        "url-data": "http://data.udir.no/kl06/K16799",
+        "tittel": "orientere seg i egnede tekster av ulik kompleksitet og velge, sammenfatte og vurdere informasjon"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16800",
+        "uri": "http://psi.udir.no/kl06/K16800",
+        "url-data": "http://data.udir.no/kl06/K16800",
+        "tittel": "lese et utvalg egnede samtidstekster og reflektere over hvordan disse tekstene språklig og tematisk forholder seg til vår tid"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16801",
+        "uri": "http://psi.udir.no/kl06/K16801",
+        "url-data": "http://data.udir.no/kl06/K16801",
+        "tittel": "bruke kunnskap om tekst, sjanger og språklige virkemidler til å planlegge, utforme og bearbeide egne tekster"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16802",
+        "uri": "http://psi.udir.no/kl06/K16802",
+        "url-data": "http://data.udir.no/kl06/K16802",
+        "tittel": "skrive litterære tolkninger, kreative og resonnerende tekster med utgangspunkt i norskfaglige tekster og egen erfaringsbakgrunn"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16803",
+        "uri": "http://psi.udir.no/kl06/K16803",
+        "url-data": "http://data.udir.no/kl06/K16803",
+        "tittel": "skrive informative tekster, utgreiinger og drøftinger med klar hensikt, god struktur og saklig informasjon"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16804",
+        "uri": "http://psi.udir.no/kl06/K16804",
+        "url-data": "http://data.udir.no/kl06/K16804",
+        "tittel": "uttrykke seg med et funksjonelt ordforråd og god språkføring og mestre sentrale regler i formverk og ortografi"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16805",
+        "uri": "http://psi.udir.no/kl06/K16805",
+        "url-data": "http://data.udir.no/kl06/K16805",
+        "tittel": "tilpasse språket etter formål, innhold og mottaker"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16806",
+        "uri": "http://psi.udir.no/kl06/K16806",
+        "url-data": "http://data.udir.no/kl06/K16806",
+        "tittel": "bruke kilder på en kritisk og etterprøvbar måte, beherske digital kildehenvisning og følge regler for personvern og opphavsrett"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16807",
+        "uri": "http://psi.udir.no/kl06/K16807",
+        "url-data": "http://data.udir.no/kl06/K16807",
+        "tittel": "gjøre rede for noen særtrekk ved et utvalg norske talemålsvarianter og reflektere over forhold som kan påvirke utviklingen av talemål"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16808",
+        "uri": "http://psi.udir.no/kl06/K16808",
+        "url-data": "http://data.udir.no/kl06/K16808",
+        "tittel": "gjøre rede for norsk språkdebatt og språkpolitikk fra år 1900 til i dag"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16809",
+        "uri": "http://psi.udir.no/kl06/K16809",
+        "url-data": "http://data.udir.no/kl06/K16809",
+        "tittel": "gjøre rede for noen konsekvenser norsk språk- og fornorskingspolitikk har hatt for samisk språk og kultur"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16810",
+        "uri": "http://psi.udir.no/kl06/K16810",
+        "url-data": "http://data.udir.no/kl06/K16810",
+        "tittel": "gjøre rede for et egnet utvalg nordiske tekster i oversettelse"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16811",
+        "uri": "http://psi.udir.no/kl06/K16811",
+        "url-data": "http://data.udir.no/kl06/K16811",
+        "tittel": "analysere, tolke og sammenligne et utvalg egnede norske og noen internasjonale tekster fra ulike litterære tradisjoner fra romantikken til i dag, og sette dem inn i en kulturhistorisk sammenheng"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16812",
+        "uri": "http://psi.udir.no/kl06/K16812",
+        "url-data": "http://data.udir.no/kl06/K16812",
+        "tittel": "forklare argumentasjonen i egnede sakprosatekster ved å bruke kunnskap fra retorikken"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16813",
+        "uri": "http://psi.udir.no/kl06/K16813",
+        "url-data": "http://data.udir.no/kl06/K16813",
+        "tittel": "gjennomføre en selvvalgt fordypningsoppgave med språklig, litterært eller annet norskfaglig emne og velge kommunikasjonsverktøy ut fra faglige behov"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16768",
+        "uri": "http://psi.udir.no/kl06/K16768",
+        "url-data": "http://data.udir.no/kl06/K16768",
+        "tittel": "lytte til og forstå muntlig norsk godt nok til å kunne delta i ulike muntlige aktiviteter som aktør og tilhører"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16769",
+        "uri": "http://psi.udir.no/kl06/K16769",
+        "url-data": "http://data.udir.no/kl06/K16769",
+        "tittel": "lytte til, vurdere og gi veiledende tilbakemelding på andres muntlige presentasjoner"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16770",
+        "uri": "http://psi.udir.no/kl06/K16770",
+        "url-data": "http://data.udir.no/kl06/K16770",
+        "tittel": "uttrykke seg med godt forståelig uttale og funksjonelt ordforråd"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16771",
+        "uri": "http://psi.udir.no/kl06/K16771",
+        "url-data": "http://data.udir.no/kl06/K16771",
+        "tittel": "videreutvikle evnen til å tilpasse innhold og språk etter situasjon"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16772",
+        "uri": "http://psi.udir.no/kl06/K16772",
+        "url-data": "http://data.udir.no/kl06/K16772",
+        "tittel": "bruke kunnskap om retoriske appellformer i presentasjoner"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16773",
+        "uri": "http://psi.udir.no/kl06/K16773",
+        "url-data": "http://data.udir.no/kl06/K16773",
+        "tittel": "presentere norskfaglige og andre emner og drøfte det framlagte innholdet"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16774",
+        "uri": "http://psi.udir.no/kl06/K16774",
+        "url-data": "http://data.udir.no/kl06/K16774",
+        "tittel": "formidle faginnhold og bruke digitale medier og verktøy i formidlingen"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16790",
+        "uri": "http://psi.udir.no/kl06/K16790",
+        "url-data": "http://data.udir.no/kl06/K16790",
+        "tittel": "sammenfatte informasjon i lengre muntlige presentasjoner"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16791",
+        "uri": "http://psi.udir.no/kl06/K16791",
+        "url-data": "http://data.udir.no/kl06/K16791",
+        "tittel": "lytte til og forstå muntlig norsk godt nok til å kunne følge resonnementer og delta aktivt i ulike former for muntlig kommunikasjon"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16792",
+        "uri": "http://psi.udir.no/kl06/K16792",
+        "url-data": "http://data.udir.no/kl06/K16792",
+        "tittel": "lytte til og vurdere argumentasjonen i muntlige tekster i ulike medier og ta stilling til innhold og formål"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16793",
+        "uri": "http://psi.udir.no/kl06/K16793",
+        "url-data": "http://data.udir.no/kl06/K16793",
+        "tittel": "lytte til, forstå og gjengi enkel informasjon fra svensk og dansk"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16794",
+        "uri": "http://psi.udir.no/kl06/K16794",
+        "url-data": "http://data.udir.no/kl06/K16794",
+        "tittel": "uttrykke seg både forberedt og spontant med god uttale og flyt og med et variert ordforråd"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16795",
+        "uri": "http://psi.udir.no/kl06/K16795",
+        "url-data": "http://data.udir.no/kl06/K16795",
+        "tittel": "tilpasse innhold og språk til ulike situasjoner"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16796",
+        "uri": "http://psi.udir.no/kl06/K16796",
+        "url-data": "http://data.udir.no/kl06/K16796",
+        "tittel": "bruke kunnskap om retoriske appellformer i diskusjoner og presentasjoner"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16797",
+        "uri": "http://psi.udir.no/kl06/K16797",
+        "url-data": "http://data.udir.no/kl06/K16797",
+        "tittel": "bruke relevant terminologi i samtaler om norskfaglige emner"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1823",
+          "uri": "http://psi.udir.no/kl06/HO1823",
+          "url-data": "http://data.udir.no/kl06/HO1823"
+        },
+        "kode": "K16798",
+        "uri": "http://psi.udir.no/kl06/K16798",
+        "url-data": "http://data.udir.no/kl06/K16798",
+        "tittel": "sette sammen og framføre et avgrenset litterært program"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16775",
+        "uri": "http://psi.udir.no/kl06/K16775",
+        "url-data": "http://data.udir.no/kl06/K16775",
+        "tittel": "lese egnede tekster på bokmål og nynorsk med flyt, sammenheng og forståelse"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16776",
+        "uri": "http://psi.udir.no/kl06/K16776",
+        "url-data": "http://data.udir.no/kl06/K16776",
+        "tittel": "lese egnede tekster i ulike sjangere for å ta stilling til spørsmål tekstene tar opp, og verdier de representerer"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16777",
+        "uri": "http://psi.udir.no/kl06/K16777",
+        "url-data": "http://data.udir.no/kl06/K16777",
+        "tittel": "skrive sammenhengende med funksjonell håndskrift, og bruke tastatur på en hensiktsmessig måte"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16778",
+        "uri": "http://psi.udir.no/kl06/K16778",
+        "url-data": "http://data.udir.no/kl06/K16778",
+        "tittel": "skrive kreative, informative og argumenterende tekster tilpasset formål og mottaker"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16779",
+        "uri": "http://psi.udir.no/kl06/K16779",
+        "url-data": "http://data.udir.no/kl06/K16779",
+        "tittel": "skrive enkle litterære tolkninger og resonnerende tekster"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16780",
+        "uri": "http://psi.udir.no/kl06/K16780",
+        "url-data": "http://data.udir.no/kl06/K16780",
+        "tittel": "mestre de fleste sentrale regler innenfor ortografi, formverk, setningsbygning og tekstbinding"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16799",
+        "uri": "http://psi.udir.no/kl06/K16799",
+        "url-data": "http://data.udir.no/kl06/K16799",
+        "tittel": "orientere seg i egnede tekster av ulik kompleksitet og velge, sammenfatte og vurdere informasjon"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16800",
+        "uri": "http://psi.udir.no/kl06/K16800",
+        "url-data": "http://data.udir.no/kl06/K16800",
+        "tittel": "lese et utvalg egnede samtidstekster og reflektere over hvordan disse tekstene språklig og tematisk forholder seg til vår tid"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16801",
+        "uri": "http://psi.udir.no/kl06/K16801",
+        "url-data": "http://data.udir.no/kl06/K16801",
+        "tittel": "bruke kunnskap om tekst, sjanger og språklige virkemidler til å planlegge, utforme og bearbeide egne tekster"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16802",
+        "uri": "http://psi.udir.no/kl06/K16802",
+        "url-data": "http://data.udir.no/kl06/K16802",
+        "tittel": "skrive litterære tolkninger, kreative og resonnerende tekster med utgangspunkt i norskfaglige tekster og egen erfaringsbakgrunn"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16803",
+        "uri": "http://psi.udir.no/kl06/K16803",
+        "url-data": "http://data.udir.no/kl06/K16803",
+        "tittel": "skrive informative tekster, utgreiinger og drøftinger med klar hensikt, god struktur og saklig informasjon"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16804",
+        "uri": "http://psi.udir.no/kl06/K16804",
+        "url-data": "http://data.udir.no/kl06/K16804",
+        "tittel": "uttrykke seg med et funksjonelt ordforråd og god språkføring og mestre sentrale regler i formverk og ortografi"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16805",
+        "uri": "http://psi.udir.no/kl06/K16805",
+        "url-data": "http://data.udir.no/kl06/K16805",
+        "tittel": "tilpasse språket etter formål, innhold og mottaker"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1821",
+          "uri": "http://psi.udir.no/kl06/HO1821",
+          "url-data": "http://data.udir.no/kl06/HO1821"
+        },
+        "kode": "K16806",
+        "uri": "http://psi.udir.no/kl06/K16806",
+        "url-data": "http://data.udir.no/kl06/K16806",
+        "tittel": "bruke kilder på en kritisk og etterprøvbar måte, beherske digital kildehenvisning og følge regler for personvern og opphavsrett"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16781",
+        "uri": "http://psi.udir.no/kl06/K16781",
+        "url-data": "http://data.udir.no/kl06/K16781",
+        "tittel": "gjøre rede for likheter og forskjeller mellom moderne norsk språk og eget morsmål"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16782",
+        "uri": "http://psi.udir.no/kl06/K16782",
+        "url-data": "http://data.udir.no/kl06/K16782",
+        "tittel": "gjøre rede for hovedlinjer i norsk språkdebatt og språkpolitikk på 1800-tallet"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16783",
+        "uri": "http://psi.udir.no/kl06/K16783",
+        "url-data": "http://data.udir.no/kl06/K16783",
+        "tittel": "analysere innhold og vurdere bruk av virkemidler i egnede tekster hentet fra ulike digitale medier, og se dem i lys av den kulturelle referanserammen tekstene er produsert i"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16784",
+        "uri": "http://psi.udir.no/kl06/K16784",
+        "url-data": "http://data.udir.no/kl06/K16784",
+        "tittel": "vurdere bruk av humor og ironi i egnede tekster"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16785",
+        "uri": "http://psi.udir.no/kl06/K16785",
+        "url-data": "http://data.udir.no/kl06/K16785",
+        "tittel": "gjenkjenne retoriske appellformer og måter å argumentere på"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16786",
+        "uri": "http://psi.udir.no/kl06/K16786",
+        "url-data": "http://data.udir.no/kl06/K16786",
+        "tittel": "sammenligne fortellemåter og verdier i et utvalg egnede samtidstekster med fortellemåter og verdier i myter og folkediktning fra ulike land"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16787",
+        "uri": "http://psi.udir.no/kl06/K16787",
+        "url-data": "http://data.udir.no/kl06/K16787",
+        "tittel": "forklare hvordan ulike forestillinger om det norske kommer til uttrykk i sentrale tekster fra slutten av 1700-tallet til 1870-årene og i et utvalg egnede samtidstekster"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16788",
+        "uri": "http://psi.udir.no/kl06/K16788",
+        "url-data": "http://data.udir.no/kl06/K16788",
+        "tittel": "lese et utvalg egnede sentrale norske og noen europeiske tekster fra middelalderen til og med romantikken i moderne språkdrakt, sette dem inn i en kulturhistorisk sammenheng og reflektere over form og innhold"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16789",
+        "uri": "http://psi.udir.no/kl06/K16789",
+        "url-data": "http://data.udir.no/kl06/K16789",
+        "tittel": "referere til og vurdere kilder i aktuelle faglige situasjoner"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16807",
+        "uri": "http://psi.udir.no/kl06/K16807",
+        "url-data": "http://data.udir.no/kl06/K16807",
+        "tittel": "gjøre rede for noen særtrekk ved et utvalg norske talemålsvarianter og reflektere over forhold som kan påvirke utviklingen av talemål"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16808",
+        "uri": "http://psi.udir.no/kl06/K16808",
+        "url-data": "http://data.udir.no/kl06/K16808",
+        "tittel": "gjøre rede for norsk språkdebatt og språkpolitikk fra år 1900 til i dag"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16809",
+        "uri": "http://psi.udir.no/kl06/K16809",
+        "url-data": "http://data.udir.no/kl06/K16809",
+        "tittel": "gjøre rede for noen konsekvenser norsk språk- og fornorskingspolitikk har hatt for samisk språk og kultur"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16810",
+        "uri": "http://psi.udir.no/kl06/K16810",
+        "url-data": "http://data.udir.no/kl06/K16810",
+        "tittel": "gjøre rede for et egnet utvalg nordiske tekster i oversettelse"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16811",
+        "uri": "http://psi.udir.no/kl06/K16811",
+        "url-data": "http://data.udir.no/kl06/K16811",
+        "tittel": "analysere, tolke og sammenligne et utvalg egnede norske og noen internasjonale tekster fra ulike litterære tradisjoner fra romantikken til i dag, og sette dem inn i en kulturhistorisk sammenheng"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16812",
+        "uri": "http://psi.udir.no/kl06/K16812",
+        "url-data": "http://data.udir.no/kl06/K16812",
+        "tittel": "forklare argumentasjonen i egnede sakprosatekster ved å bruke kunnskap fra retorikken"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1822",
+          "uri": "http://psi.udir.no/kl06/HO1822",
+          "url-data": "http://data.udir.no/kl06/HO1822"
+        },
+        "kode": "K16813",
+        "uri": "http://psi.udir.no/kl06/K16813",
+        "url-data": "http://data.udir.no/kl06/K16813",
+        "tittel": "gjennomføre en selvvalgt fordypningsoppgave med språklig, litterært eller annet norskfaglig emne og velge kommunikasjonsverktøy ut fra faglige behov"
       }
     ]
   }

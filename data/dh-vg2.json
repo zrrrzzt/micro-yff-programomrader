@@ -108,6 +108,94 @@
         "uri": "http://psi.udir.no/kl06/K1343",
         "url-data": "http://data.udir.no/kl06/K1343",
         "tittel": "finne fram til og bruke regelverk for personvern og anna aktuelt regelverk for aktivitørfaget og for helse, miljø og tryggleik"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1344",
+        "uri": "http://psi.udir.no/kl06/K1344",
+        "url-data": "http://data.udir.no/kl06/K1344",
+        "tittel": "definere mål for aktiviseringsarbeidet"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1345",
+        "uri": "http://psi.udir.no/kl06/K1345",
+        "url-data": "http://data.udir.no/kl06/K1345",
+        "tittel": "utarbeide og grunngi ulike planar for aktivitetar tilpassa enkeltbrukarar og brukargrupper"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K17007",
+        "uri": "http://psi.udir.no/kl06/K17007",
+        "url-data": "http://data.udir.no/kl06/K17007",
+        "tittel": "leie og rettleie brukarar, studentar og samarbeidspartnarar i ulike aktiviseringstiltak"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1346",
+        "uri": "http://psi.udir.no/kl06/K1346",
+        "url-data": "http://data.udir.no/kl06/K1346",
+        "tittel": "gjere greie for verknaden av aktivitetar på den fysiske og mentale helsa hos brukarane, og dokumentere endringar på bakgrunn av gjennomførte aktivitetar"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K17008",
+        "uri": "http://psi.udir.no/kl06/K17008",
+        "url-data": "http://data.udir.no/kl06/K17008",
+        "tittel": "dokumentere skriftleg alle fasar i ein fagleg arbeidsprosess"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1348",
+        "uri": "http://psi.udir.no/kl06/K1348",
+        "url-data": "http://data.udir.no/kl06/K1348",
+        "tittel": "berekne forbruk og gjere innkjøp av materiale, reiskapar og utstyr til bruk i aktiviseringsarbeidet"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K17009",
+        "uri": "http://psi.udir.no/kl06/K17009",
+        "url-data": "http://data.udir.no/kl06/K17009",
+        "tittel": "presentere tenester, produkt og produksjonsprosessar i samsvar med behov i aktivitørfaget ved bruk av digitale verktøy"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1350",
+        "uri": "http://psi.udir.no/kl06/K1350",
+        "url-data": "http://data.udir.no/kl06/K1350",
+        "tittel": "lage budsjett og føre rekneskap over kostnader knytte til aktiviseringsarbeidet"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1351",
+        "uri": "http://psi.udir.no/kl06/K1351",
+        "url-data": "http://data.udir.no/kl06/K1351",
+        "tittel": "gjere greie for samanhengar mellom kosthald, fysisk aktivitet, hygiene og helse"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1352",
+        "uri": "http://psi.udir.no/kl06/K1352",
+        "url-data": "http://data.udir.no/kl06/K1352",
+        "tittel": "forklare tradisjonar, særpreg og avgrensingar som gjeld aktivitørfaget"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1353",
+        "uri": "http://psi.udir.no/kl06/K1353",
+        "url-data": "http://data.udir.no/kl06/K1353",
+        "tittel": "presentere og dokumentere eige arbeid ved bruk av digitale verktøy"
       }
     ]
   },
@@ -196,6 +284,94 @@
         "uri": "http://psi.udir.no/kl06/K3077",
         "url-data": "http://data.udir.no/kl06/K3077",
         "tittel": "dokumentere, grunngi og vurdere eigen produksjon, knytt til kriteria for kvalitet, ønske frå kunden, helse, miljø og tryggleik, tid og økonomi"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3078",
+        "uri": "http://psi.udir.no/kl06/K3078",
+        "url-data": "http://data.udir.no/kl06/K3078",
+        "tittel": "konkretisere og grunngi idé, design og arbeidsprosess i eige arbeid med blomster, som grunnlag for kommunikasjon med kundar og kollegaer"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3079",
+        "uri": "http://psi.udir.no/kl06/K3079",
+        "url-data": "http://data.udir.no/kl06/K3079",
+        "tittel": "lage og bruke arbeidsteikningar, skisser og annan visuell informasjon"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3080",
+        "uri": "http://psi.udir.no/kl06/K3080",
+        "url-data": "http://data.udir.no/kl06/K3080",
+        "tittel": "gjere greie for lokale og vitskaplege namn på botanisk materiale"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3081",
+        "uri": "http://psi.udir.no/kl06/K3081",
+        "url-data": "http://data.udir.no/kl06/K3081",
+        "tittel": "forklare varebehandling og gi relevant informasjon om plantar, blomster og produkt"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3082",
+        "uri": "http://psi.udir.no/kl06/K3082",
+        "url-data": "http://data.udir.no/kl06/K3082",
+        "tittel": "gjere greie for symbolfunksjon og historie til ulike botaniske materiale i blomsterdekoratørfaget"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3083",
+        "uri": "http://psi.udir.no/kl06/K3083",
+        "url-data": "http://data.udir.no/kl06/K3083",
+        "tittel": "kvalitetssikre bruk og oppbevaring av blomster og andre råvarer i eigen produksjon"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3084",
+        "uri": "http://psi.udir.no/kl06/K3084",
+        "url-data": "http://data.udir.no/kl06/K3084",
+        "tittel": "berekne innkjøp av blomster og råvarer og kalkulere pris på produkt og tenester"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3085",
+        "uri": "http://psi.udir.no/kl06/K3085",
+        "url-data": "http://data.udir.no/kl06/K3085",
+        "tittel": "diskutere og ta stilling til estetiske og etiske normer i blomsterdekoratørfaget"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3086",
+        "uri": "http://psi.udir.no/kl06/K3086",
+        "url-data": "http://data.udir.no/kl06/K3086",
+        "tittel": "definere kriterium for kvalitet og vurdere kvaliteten av eige arbeid"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3087",
+        "uri": "http://psi.udir.no/kl06/K3087",
+        "url-data": "http://data.udir.no/kl06/K3087",
+        "tittel": "presentere og dokumentere produksjonsprosess og produkt, visuelt og verbalt og ved hjelp av digitale verktøy"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3088",
+        "uri": "http://psi.udir.no/kl06/K3088",
+        "url-data": "http://data.udir.no/kl06/K3088",
+        "tittel": "finne fram til og vurdere aktuelle produkt, teknikkar, uttrykk og trendar i marknaden"
       }
     ]
   },
@@ -300,6 +476,102 @@
         "uri": "http://psi.udir.no/kl06/K3623",
         "url-data": "http://data.udir.no/kl06/K3623",
         "tittel": "utføre enkelt vedlikehald av aktuelle verktøy og maskiner"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3624",
+        "uri": "http://psi.udir.no/kl06/K3624",
+        "url-data": "http://data.udir.no/kl06/K3624",
+        "tittel": "bruke arbeidsteikningar og annan visuell informasjon i teknisk produksjon"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3625",
+        "uri": "http://psi.udir.no/kl06/K3625",
+        "url-data": "http://data.udir.no/kl06/K3625",
+        "tittel": "handteikne kikkertmontasjering for produksjon"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3626",
+        "uri": "http://psi.udir.no/kl06/K3626",
+        "url-data": "http://data.udir.no/kl06/K3626",
+        "tittel": "rekne ut tidsforbruk og kostnader for produksjon"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3627",
+        "uri": "http://psi.udir.no/kl06/K3627",
+        "url-data": "http://data.udir.no/kl06/K3627",
+        "tittel": "velje rette verktøy, materiale og teknikkar for føremålstenleg produksjon"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3628",
+        "uri": "http://psi.udir.no/kl06/K3628",
+        "url-data": "http://data.udir.no/kl06/K3628",
+        "tittel": "eksperimentere med materiale, verktøy, form og teknikkar"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3629",
+        "uri": "http://psi.udir.no/kl06/K3629",
+        "url-data": "http://data.udir.no/kl06/K3629",
+        "tittel": "utføre våpenrelaterte oppdrag i samsvar med arbeidsplan, lovverk, kvalitetskriterium og gjeldande regelverk for helse, miljø og tryggleik"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3630",
+        "uri": "http://psi.udir.no/kl06/K3630",
+        "url-data": "http://data.udir.no/kl06/K3630",
+        "tittel": "berekne og planleggje produksjon av tennstempel og riflepipe"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3631",
+        "uri": "http://psi.udir.no/kl06/K3631",
+        "url-data": "http://data.udir.no/kl06/K3631",
+        "tittel": "beskrive og forklare den mekaniske og ballistiske prosessen når ein fyrer av ei dobbeltløpa hagle med enkel avtrekkjar og ei halvautomatisk gassdriven rifle"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3632",
+        "uri": "http://psi.udir.no/kl06/K3632",
+        "url-data": "http://data.udir.no/kl06/K3632",
+        "tittel": "vurdere eige arbeid som ledd i å kvalitetssikre og vidareutvikle arbeidsprosess og produkt"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3633",
+        "uri": "http://psi.udir.no/kl06/K3633",
+        "url-data": "http://data.udir.no/kl06/K3633",
+        "tittel": "presentere og dokumentere produksjonsprosess og produkt visuelt og verbalt og ved hjelp av digitale verktøy, i tråd med faglege krav"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3634",
+        "uri": "http://psi.udir.no/kl06/K3634",
+        "url-data": "http://data.udir.no/kl06/K3634",
+        "tittel": "kommunisere med kundar og kollegaer med relevante faguttrykk i børsemakarfaget"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3635",
+        "uri": "http://psi.udir.no/kl06/K3635",
+        "url-data": "http://data.udir.no/kl06/K3635",
+        "tittel": "lage og sende våpenrapport til styresmaktene ved hjelp av digitale verktøy"
       }
     ]
   },
@@ -396,6 +668,102 @@
         "uri": "http://psi.udir.no/kl06/K12891",
         "url-data": "http://data.udir.no/kl06/K12891",
         "tittel": "vurdere egne båtbyggerarbeider"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12892",
+        "uri": "http://psi.udir.no/kl06/K12892",
+        "url-data": "http://data.udir.no/kl06/K12892",
+        "tittel": "begrunne bruk av ulike materialer i tradisjonell og moderne båtbygging"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12893",
+        "uri": "http://psi.udir.no/kl06/K12893",
+        "url-data": "http://data.udir.no/kl06/K12893",
+        "tittel": "gjennomføre enkle tekniske og klimatiske undersøkelser av aktuelle materialer og produkter"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12894",
+        "uri": "http://psi.udir.no/kl06/K12894",
+        "url-data": "http://data.udir.no/kl06/K12894",
+        "tittel": "gjøre rede for relevante egenskaper ved metaller som brukes i båter av tre og kompositt"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12895",
+        "uri": "http://psi.udir.no/kl06/K12895",
+        "url-data": "http://data.udir.no/kl06/K12895",
+        "tittel": "gjøre rede for prinsipper knyttet til kjemiske og mekaniske sammenføyninger innen båtbyggerfaget"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12896",
+        "uri": "http://psi.udir.no/kl06/K12896",
+        "url-data": "http://data.udir.no/kl06/K12896",
+        "tittel": "velge egnet overflatebehandling i samsvar med materialenes egenart og bruksområder"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12897",
+        "uri": "http://psi.udir.no/kl06/K12897",
+        "url-data": "http://data.udir.no/kl06/K12897",
+        "tittel": "lage frihåndsskisser og enkle modeller av båtbyggerprodukter"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12898",
+        "uri": "http://psi.udir.no/kl06/K12898",
+        "url-data": "http://data.udir.no/kl06/K12898",
+        "tittel": "velge og begrunne hvilken båttype som skal lages, ut fra idé og kundebehov"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12899",
+        "uri": "http://psi.udir.no/kl06/K12899",
+        "url-data": "http://data.udir.no/kl06/K12899",
+        "tittel": "velge aktuell utrustning for båt ut fra gitte forutsetninger"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12900",
+        "uri": "http://psi.udir.no/kl06/K12900",
+        "url-data": "http://data.udir.no/kl06/K12900",
+        "tittel": "velge farge og overflatebehandling ut fra bruksområder og estetikk"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12901",
+        "uri": "http://psi.udir.no/kl06/K12901",
+        "url-data": "http://data.udir.no/kl06/K12901",
+        "tittel": "beregne areal, volumenheter, material- og timeforbruk til planlagt produksjon"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12902",
+        "uri": "http://psi.udir.no/kl06/K12902",
+        "url-data": "http://data.udir.no/kl06/K12902",
+        "tittel": "gjøre rede for lokale særtrekk og internasjonale trender i båtbyggerfaget"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12903",
+        "uri": "http://psi.udir.no/kl06/K12903",
+        "url-data": "http://data.udir.no/kl06/K12903",
+        "tittel": "presentere og vurdere eget arbeid med planlegging og produktutvikling"
       }
     ]
   },
@@ -436,6 +804,142 @@
         "uri": "http://psi.udir.no/kl06/K8272",
         "url-data": "http://data.udir.no/kl06/K8272",
         "tittel": "beskrive og identifisere hovedtrekk i tradisjonell duodji/duodje/duedtie for ulike regioner"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8273",
+        "uri": "http://psi.udir.no/kl06/K8273",
+        "url-data": "http://data.udir.no/kl06/K8273",
+        "tittel": "gjøre rede for og bruke tradisjonelle materialer, redskaper, arbeidsmetoder og teknikker i duodji/duodje/duedtie"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8274",
+        "uri": "http://psi.udir.no/kl06/K8274",
+        "url-data": "http://data.udir.no/kl06/K8274",
+        "tittel": "velge og hente ut materialer i tråd med samisk tradisjon, forskningsbasert viten og ta hensyn til natur og miljø"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8275",
+        "uri": "http://psi.udir.no/kl06/K8275",
+        "url-data": "http://data.udir.no/kl06/K8275",
+        "tittel": "beskrive, behandle og ta vare på ulike materialer for bruk i duodji/duodje/duedtie"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8276",
+        "uri": "http://psi.udir.no/kl06/K8276",
+        "url-data": "http://data.udir.no/kl06/K8276",
+        "tittel": "bruke og vedlikeholde utstyr, verktøy og maskiner for bruk i duodji/duodje/duedtie"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8277",
+        "uri": "http://psi.udir.no/kl06/K8277",
+        "url-data": "http://data.udir.no/kl06/K8277",
+        "tittel": "anvende tradisjonelle samiske målemetoder samt internasjonale måleenheter og standarder"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8278",
+        "uri": "http://psi.udir.no/kl06/K8278",
+        "url-data": "http://data.udir.no/kl06/K8278",
+        "tittel": "utarbeide skisser, mønstre og arbeidstegninger til ulike typer duodji-/duodje-/duedtie-produkter  ut fra brukers ønsker og tilgjengelig materiell"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8279",
+        "uri": "http://psi.udir.no/kl06/K8279",
+        "url-data": "http://data.udir.no/kl06/K8279",
+        "tittel": "begrunne valg av form, farge, materialer, metoder, verktøy, maskiner og redskap for egne duodji-/duodje-/duedtie-produkter"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8280",
+        "uri": "http://psi.udir.no/kl06/K8280",
+        "url-data": "http://data.udir.no/kl06/K8280",
+        "tittel": "duddjot/duodjuhit/vïtnesjidh etter tradisjonelle former, skisser og arbeidstegninger og i tråd med normer, kvalitetskriterier og gjeldende regelverk for helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8281",
+        "uri": "http://psi.udir.no/kl06/K8281",
+        "url-data": "http://data.udir.no/kl06/K8281",
+        "tittel": "forklare og bruke fagterminologi ut fra regionale tradisjoner"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8282",
+        "uri": "http://psi.udir.no/kl06/K8282",
+        "url-data": "http://data.udir.no/kl06/K8282",
+        "tittel": "bruke tradisjonelle former og symboler i duodji/duodje/duedtie som utgangspunkt for nyskaping"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8283",
+        "uri": "http://psi.udir.no/kl06/K8283",
+        "url-data": "http://data.udir.no/kl06/K8283",
+        "tittel": "begrunne, konkretisere og utvikle ideer i tråd med brukers behov, kulturelle, etiske og estetiske normer og gjeldende lover og forskrifter"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8284",
+        "uri": "http://psi.udir.no/kl06/K8284",
+        "url-data": "http://data.udir.no/kl06/K8284",
+        "tittel": "skape samisk design ved bruk av farger, formelementer og symboler"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8285",
+        "uri": "http://psi.udir.no/kl06/K8285",
+        "url-data": "http://data.udir.no/kl06/K8285",
+        "tittel": "lage og bruke arbeidstegninger og annen visuell informasjon i produktutvikling"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8286",
+        "uri": "http://psi.udir.no/kl06/K8286",
+        "url-data": "http://data.udir.no/kl06/K8286",
+        "tittel": "sette opp kostnads- og priskalkyler for aktuelle produkter"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8287",
+        "uri": "http://psi.udir.no/kl06/K8287",
+        "url-data": "http://data.udir.no/kl06/K8287",
+        "tittel": "sette opp enkelt budsjett og regnskap"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8288",
+        "uri": "http://psi.udir.no/kl06/K8288",
+        "url-data": "http://data.udir.no/kl06/K8288",
+        "tittel": "beskrive ulike markeder for duodji/duodje/duedtie"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8289",
+        "uri": "http://psi.udir.no/kl06/K8289",
+        "url-data": "http://data.udir.no/kl06/K8289",
+        "tittel": "gjennomføre markedsundersøkelser og markedsføre egne produkter og tjenester"
       }
     ]
   },
@@ -532,6 +1036,110 @@
         "uri": "http://psi.udir.no/kl06/K4239",
         "url-data": "http://data.udir.no/kl06/K4239",
         "tittel": "utføre grunnleggende håndverksarbeid i tråd med normer, kvalitetskriterier og gjeldende regelverk for helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4240",
+        "uri": "http://psi.udir.no/kl06/K4240",
+        "url-data": "http://data.udir.no/kl06/K4240",
+        "tittel": "lage og bruke arbeidstegninger og annen visuell informasjon i produktutvikling og praktisk arbeid"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4241",
+        "uri": "http://psi.udir.no/kl06/K4241",
+        "url-data": "http://data.udir.no/kl06/K4241",
+        "tittel": "dokumentere kunnskap om materialer og grunnleggende teknikker innen gullsmedhåndverk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4242",
+        "uri": "http://psi.udir.no/kl06/K4242",
+        "url-data": "http://data.udir.no/kl06/K4242",
+        "tittel": "dokumentere og vurdere eget arbeid med produktutvikling"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4243",
+        "uri": "http://psi.udir.no/kl06/K4243",
+        "url-data": "http://data.udir.no/kl06/K4243",
+        "tittel": "forklare prinsipper for gullsmedfaglig produktutvikling og produksjonsplanlegging"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4244",
+        "uri": "http://psi.udir.no/kl06/K4244",
+        "url-data": "http://data.udir.no/kl06/K4244",
+        "tittel": "velge, konkretisere og begrunne design og arbeidsprosess i eget arbeid"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4245",
+        "uri": "http://psi.udir.no/kl06/K4245",
+        "url-data": "http://data.udir.no/kl06/K4245",
+        "tittel": "gjennomføre enkle undersøkelser og vurderinger av behov for gullsmedrelaterte produkter i markedet"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4246",
+        "uri": "http://psi.udir.no/kl06/K4246",
+        "url-data": "http://data.udir.no/kl06/K4246",
+        "tittel": "vurdere trender, presentere og markedsføre egne produkter og tjenester"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4247",
+        "uri": "http://psi.udir.no/kl06/K4247",
+        "url-data": "http://data.udir.no/kl06/K4247",
+        "tittel": "beregne forbruket av råvarer til produkter og tjenester"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4248",
+        "uri": "http://psi.udir.no/kl06/K4248",
+        "url-data": "http://data.udir.no/kl06/K4248",
+        "tittel": "beregne pris på materialer, egne produkter og tjenester"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4249",
+        "uri": "http://psi.udir.no/kl06/K4249",
+        "url-data": "http://data.udir.no/kl06/K4249",
+        "tittel": "utvikle, konkretisere og begrunne en idé etter bestilling fra kunde"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4250",
+        "uri": "http://psi.udir.no/kl06/K4250",
+        "url-data": "http://data.udir.no/kl06/K4250",
+        "tittel": "presentere og dokumentere produksjonsprosess og produkt visuelt, verbalt og ved hjelp av digitale verktøy"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4251",
+        "uri": "http://psi.udir.no/kl06/K4251",
+        "url-data": "http://data.udir.no/kl06/K4251",
+        "tittel": "bruke relevante faguttrykk i kommunikasjon med andre"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4252",
+        "uri": "http://psi.udir.no/kl06/K4252",
+        "url-data": "http://data.udir.no/kl06/K4252",
+        "tittel": "bruke digitale verktøy i egen produktutvikling"
       }
     ]
   },
@@ -644,6 +1252,102 @@
         "uri": "http://psi.udir.no/kl06/K5798",
         "url-data": "http://data.udir.no/kl06/K5798",
         "tittel": "dokumentere, presentere og evaluere eget arbeid"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5799",
+        "uri": "http://psi.udir.no/kl06/K5799",
+        "url-data": "http://data.udir.no/kl06/K5799",
+        "tittel": "utvikle og begrunne ideer til produkter og tekstilfaglige tjenester"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5800",
+        "uri": "http://psi.udir.no/kl06/K5800",
+        "url-data": "http://data.udir.no/kl06/K5800",
+        "tittel": "lage arbeidsplaner og planlegge arbeidsprosesser"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5801",
+        "uri": "http://psi.udir.no/kl06/K5801",
+        "url-data": "http://data.udir.no/kl06/K5801",
+        "tittel": "bruke tegneteknikker og lage skisser og annen visuell dokumentasjon"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5802",
+        "uri": "http://psi.udir.no/kl06/K5802",
+        "url-data": "http://data.udir.no/kl06/K5802",
+        "tittel": "lage arbeidstegninger"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5803",
+        "uri": "http://psi.udir.no/kl06/K5803",
+        "url-data": "http://data.udir.no/kl06/K5803",
+        "tittel": "eksperimentere med teknikker, materialer og verktøy"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5804",
+        "uri": "http://psi.udir.no/kl06/K5804",
+        "url-data": "http://data.udir.no/kl06/K5804",
+        "tittel": "analysere og visualisere form, farge, materialer og teknikker på tekstilprodukter"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5805",
+        "uri": "http://psi.udir.no/kl06/K5805",
+        "url-data": "http://data.udir.no/kl06/K5805",
+        "tittel": "undersøke og dokumentere behov for tekstilfaglige produkter og tjenester i markedet"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5806",
+        "uri": "http://psi.udir.no/kl06/K5806",
+        "url-data": "http://data.udir.no/kl06/K5806",
+        "tittel": "kommunisere med kunder, brukere og andre i arbeid med design og produktutvikling"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5807",
+        "uri": "http://psi.udir.no/kl06/K5807",
+        "url-data": "http://data.udir.no/kl06/K5807",
+        "tittel": "presentere egne produkter og tjenester ved hjelp av digitale verktøy og andre hjelpemidler"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5808",
+        "uri": "http://psi.udir.no/kl06/K5808",
+        "url-data": "http://data.udir.no/kl06/K5808",
+        "tittel": "gjøre rede for tradisjoner og særpreg i aktuelle design- og tekstilfag"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5809",
+        "uri": "http://psi.udir.no/kl06/K5809",
+        "url-data": "http://data.udir.no/kl06/K5809",
+        "tittel": "dokumentere og evaluere eget arbeid"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5810",
+        "uri": "http://psi.udir.no/kl06/K5810",
+        "url-data": "http://data.udir.no/kl06/K5810",
+        "tittel": "sette eget arbeid i tekstilfaglig perspektiv"
       }
     ]
   },
@@ -772,6 +1476,94 @@
         "uri": "http://psi.udir.no/kl06/K4389",
         "url-data": "http://data.udir.no/kl06/K4389",
         "tittel": "følge gjeldende bestemmelser om ytre og indre miljø"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4390",
+        "uri": "http://psi.udir.no/kl06/K4390",
+        "url-data": "http://data.udir.no/kl06/K4390",
+        "tittel": "lage og forklare skisser i ulike tidsepoker og stilarter innenfor trehåndverkstradisjoner"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4391",
+        "uri": "http://psi.udir.no/kl06/K4391",
+        "url-data": "http://data.udir.no/kl06/K4391",
+        "tittel": "bruke skisse- og tegneteknikker for å skape designideer til produkter"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4392",
+        "uri": "http://psi.udir.no/kl06/K4392",
+        "url-data": "http://data.udir.no/kl06/K4392",
+        "tittel": "lage arbeidsplaner, materiallister og modeller av produkter ut fra idé og kundenes behov"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4393",
+        "uri": "http://psi.udir.no/kl06/K4393",
+        "url-data": "http://data.udir.no/kl06/K4393",
+        "tittel": "lage projeksjons- og perspektivtegninger av produkter for hånd og ved å bruke digitalt verktøy"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4394",
+        "uri": "http://psi.udir.no/kl06/K4394",
+        "url-data": "http://data.udir.no/kl06/K4394",
+        "tittel": "beregne materialkostnader etter kappliste og lage selvkostkalkyle"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4395",
+        "uri": "http://psi.udir.no/kl06/K4395",
+        "url-data": "http://data.udir.no/kl06/K4395",
+        "tittel": "sortere og velge trematerialer til forskjellige produkter og produktdeler, ut fra treets anatomi, egenskaper og bruksområder"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4396",
+        "uri": "http://psi.udir.no/kl06/K4396",
+        "url-data": "http://data.udir.no/kl06/K4396",
+        "tittel": "dokumentere og begrunne valg av sammenføyninger i produkter"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4397",
+        "uri": "http://psi.udir.no/kl06/K4397",
+        "url-data": "http://data.udir.no/kl06/K4397",
+        "tittel": "gjøre rede for egenskaper og bruksområder for andre materialer i produktet"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4398",
+        "uri": "http://psi.udir.no/kl06/K4398",
+        "url-data": "http://data.udir.no/kl06/K4398",
+        "tittel": "velge farge, dekor og overflatebehandling etter bruksområde"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4399",
+        "uri": "http://psi.udir.no/kl06/K4399",
+        "url-data": "http://data.udir.no/kl06/K4399",
+        "tittel": "dokumentere og begrunne egen produksjonsprosess og produkt ved å bruke digitalt verktøy"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4400",
+        "uri": "http://psi.udir.no/kl06/K4400",
+        "url-data": "http://data.udir.no/kl06/K4400",
+        "tittel": "foreta risikovurdering av helse, miljø og sikkerhetsmessige forhold vedrørende bruk og oppbevaring av kjemiske produkter"
       }
     ]
   },
@@ -852,6 +1644,86 @@
         "uri": "http://psi.udir.no/kl06/K12675",
         "url-data": "http://data.udir.no/kl06/K12675",
         "tittel": "dokumentere, kvalitetssikre og presentere arbeidsprosesser og egne frisørarbeider"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12676",
+        "uri": "http://psi.udir.no/kl06/K12676",
+        "url-data": "http://data.udir.no/kl06/K12676",
+        "tittel": "analysere kundens stil, ønsker og behov for å skape bestemte uttrykk i frisyren"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12677",
+        "uri": "http://psi.udir.no/kl06/K12677",
+        "url-data": "http://data.udir.no/kl06/K12677",
+        "tittel": "konkretisere og begrunne design og produktutvikling i eget frisørarbeid"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12678",
+        "uri": "http://psi.udir.no/kl06/K12678",
+        "url-data": "http://data.udir.no/kl06/K12678",
+        "tittel": "lage og bruke arbeidstegninger og annen visuell informasjon i produktutvikling og produksjon"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12679",
+        "uri": "http://psi.udir.no/kl06/K12679",
+        "url-data": "http://data.udir.no/kl06/K12679",
+        "tittel": "eksperimentere med teknikker, form, farge, materialer og redskaper"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12680",
+        "uri": "http://psi.udir.no/kl06/K12680",
+        "url-data": "http://data.udir.no/kl06/K12680",
+        "tittel": "kommunisere og samarbeide med kunder, kolleger og andre i grunnleggende arbeid med frisyredesign"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12681",
+        "uri": "http://psi.udir.no/kl06/K12681",
+        "url-data": "http://data.udir.no/kl06/K12681",
+        "tittel": "gjennomføre enkle markedsundersøkelser og vurdere behov for ulike frisørtjenester"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12682",
+        "uri": "http://psi.udir.no/kl06/K12682",
+        "url-data": "http://data.udir.no/kl06/K12682",
+        "tittel": "presentere og dokumentere egen kompetanse visuelt og verbalt, og ved hjelp av digitale verktøy"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12683",
+        "uri": "http://psi.udir.no/kl06/K12683",
+        "url-data": "http://data.udir.no/kl06/K12683",
+        "tittel": "beregne pris på produkter, råvarer og tjenester innenfor frisørfaget"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12684",
+        "uri": "http://psi.udir.no/kl06/K12684",
+        "url-data": "http://data.udir.no/kl06/K12684",
+        "tittel": "forklare sammenhenger mellom forbruk av varer og tid og forklare hvordan produktivitet og lønnsomhet henger sammen"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12685",
+        "uri": "http://psi.udir.no/kl06/K12685",
+        "url-data": "http://data.udir.no/kl06/K12685",
+        "tittel": "vurdere eget arbeid i lys av trender og ved bruk av digitale verktøy"
       }
     ]
   },
@@ -972,6 +1844,94 @@
         "uri": "http://psi.udir.no/kl06/K5824",
         "url-data": "http://data.udir.no/kl06/K5824",
         "tittel": "dokumentere og bruke kunnskaper om trender og stilarter i eget arbeid"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5825",
+        "uri": "http://psi.udir.no/kl06/K5825",
+        "url-data": "http://data.udir.no/kl06/K5825",
+        "tittel": "analysere og vurdere ulike typer oppdrag"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5826",
+        "uri": "http://psi.udir.no/kl06/K5826",
+        "url-data": "http://data.udir.no/kl06/K5826",
+        "tittel": "definere målgrupper og bruke idékart og skisser i egen produktutvikling"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5827",
+        "uri": "http://psi.udir.no/kl06/K5827",
+        "url-data": "http://data.udir.no/kl06/K5827",
+        "tittel": "definere kundens ønsker og behov, samt presentere ideer til ulike interiør- og utstillingsløsninger"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5828",
+        "uri": "http://psi.udir.no/kl06/K5828",
+        "url-data": "http://data.udir.no/kl06/K5828",
+        "tittel": "innhente og bruke relevant informasjon i egen produktutvikling"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5829",
+        "uri": "http://psi.udir.no/kl06/K5829",
+        "url-data": "http://data.udir.no/kl06/K5829",
+        "tittel": "tegne og visualisere ideer to- og tredimensjonalt i forkant av en produksjon"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5830",
+        "uri": "http://psi.udir.no/kl06/K5830",
+        "url-data": "http://data.udir.no/kl06/K5830",
+        "tittel": "utarbeide skisser, arbeids- og presentasjonstegninger på frihånd og ved digitalt tegneprogram"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5831",
+        "uri": "http://psi.udir.no/kl06/K5831",
+        "url-data": "http://data.udir.no/kl06/K5831",
+        "tittel": "presentere og argumentere for eget løsningsforslag i forhold til målgruppe, funksjon, estetikk, stil og sammenheng"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5832",
+        "uri": "http://psi.udir.no/kl06/K5832",
+        "url-data": "http://data.udir.no/kl06/K5832",
+        "tittel": "presentere alternative løsningsforslag med tegneprogram og annet relevant digitalt verktøy"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5833",
+        "uri": "http://psi.udir.no/kl06/K5833",
+        "url-data": "http://data.udir.no/kl06/K5833",
+        "tittel": "utarbeide prosjektbeskrivelse og kostnadsoverslag samt dokumentere kostnader for ulike produksjoner"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5834",
+        "uri": "http://psi.udir.no/kl06/K5834",
+        "url-data": "http://data.udir.no/kl06/K5834",
+        "tittel": "beskrive trender og endringer i interiør- og utstillingsfaget gjennom enkle markedsundersøkelser"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5835",
+        "uri": "http://psi.udir.no/kl06/K5835",
+        "url-data": "http://data.udir.no/kl06/K5835",
+        "tittel": "dokumentere og vurdere eget arbeid i et kultur- og stilhistorisk perspektiv"
       }
     ]
   },
@@ -1044,6 +2004,78 @@
         "uri": "http://psi.udir.no/kl06/K12517",
         "url-data": "http://data.udir.no/kl06/K12517",
         "tittel": "ivareta gjeldende regelverk for helse, miljø og sikkerhet i eget arbeid med pianostemming"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12518",
+        "uri": "http://psi.udir.no/kl06/K12518",
+        "url-data": "http://data.udir.no/kl06/K12518",
+        "tittel": "utføre alle reguleringselementene til piano- og flygelmekanikker og klaviaturer på en-oktavs modell"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12519",
+        "uri": "http://psi.udir.no/kl06/K12519",
+        "url-data": "http://data.udir.no/kl06/K12519",
+        "tittel": "kontrollere, reparere og skifte ut deler i piano- og flygelmekanikker og klaviaturer"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12520",
+        "uri": "http://psi.udir.no/kl06/K12520",
+        "url-data": "http://data.udir.no/kl06/K12520",
+        "tittel": "bruke fagbegreper i arbeid med pianoteknikk og i kommunikasjon med andre"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12521",
+        "uri": "http://psi.udir.no/kl06/K12521",
+        "url-data": "http://data.udir.no/kl06/K12521",
+        "tittel": "gjøre rede for de forskjellige tre-, metall- og filttypers egenskaper og bruksområder i piano og flygel"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12522",
+        "uri": "http://psi.udir.no/kl06/K12522",
+        "url-data": "http://data.udir.no/kl06/K12522",
+        "tittel": "gjøre rede for forskjellige egenskaper ved og bruksområder for ulike limtyper og smøremidler"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12523",
+        "uri": "http://psi.udir.no/kl06/K12523",
+        "url-data": "http://data.udir.no/kl06/K12523",
+        "tittel": "velge, bruke og vedlikeholde ulike verktøy for pianoteknikk"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12524",
+        "uri": "http://psi.udir.no/kl06/K12524",
+        "url-data": "http://data.udir.no/kl06/K12524",
+        "tittel": "bruke hensiktsmessig digitalt verktøy i arbeid med pianoteknikk"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12525",
+        "uri": "http://psi.udir.no/kl06/K12525",
+        "url-data": "http://data.udir.no/kl06/K12525",
+        "tittel": "dokumentere arbeid og kompetanse på en hensiktsmessig måte"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12526",
+        "uri": "http://psi.udir.no/kl06/K12526",
+        "url-data": "http://data.udir.no/kl06/K12526",
+        "tittel": "ivareta gjeldende regelverk for helse, miljø og sikkerhet i eget arbeid med pianoteknikk"
       }
     ]
   },
@@ -1124,6 +2156,70 @@
         "uri": "http://psi.udir.no/kl06/K10686",
         "url-data": "http://data.udir.no/kl06/K10686",
         "tittel": "holde orden på egen arbeidsplass og ivareta gjeldende regelverk for helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10687",
+        "uri": "http://psi.udir.no/kl06/K10687",
+        "url-data": "http://data.udir.no/kl06/K10687",
+        "tittel": "formgi egne smedprodukter"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10688",
+        "uri": "http://psi.udir.no/kl06/K10688",
+        "url-data": "http://data.udir.no/kl06/K10688",
+        "tittel": "eksperimentere med form og komposisjon i egne smedprodukter"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10689",
+        "uri": "http://psi.udir.no/kl06/K10689",
+        "url-data": "http://data.udir.no/kl06/K10689",
+        "tittel": "lage skisser og anvende teknisk tegning i smedfaget"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10690",
+        "uri": "http://psi.udir.no/kl06/K10690",
+        "url-data": "http://data.udir.no/kl06/K10690",
+        "tittel": "velge og dimensjonere materialer med utgangspunkt i smedproduktenes funksjoner"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10691",
+        "uri": "http://psi.udir.no/kl06/K10691",
+        "url-data": "http://data.udir.no/kl06/K10691",
+        "tittel": "systematisere og planlegge eget smedarbeid"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10692",
+        "uri": "http://psi.udir.no/kl06/K10692",
+        "url-data": "http://data.udir.no/kl06/K10692",
+        "tittel": "lage hjelpeverktøy i smedfaget"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10693",
+        "uri": "http://psi.udir.no/kl06/K10693",
+        "url-data": "http://data.udir.no/kl06/K10693",
+        "tittel": "bruke digitale verktøy i produktutviklingsprosessen"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K10694",
+        "uri": "http://psi.udir.no/kl06/K10694",
+        "url-data": "http://data.udir.no/kl06/K10694",
+        "tittel": "markedsføre produkter og tjenester i smedfaget, med pris og kvalitet"
       }
     ]
   },
@@ -1204,6 +2300,102 @@
         "uri": "http://psi.udir.no/kl06/K3839",
         "url-data": "http://data.udir.no/kl06/K3839",
         "tittel": "veilede kunder i valg av produkter og tjenester"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3830",
+        "uri": "http://psi.udir.no/kl06/K3830",
+        "url-data": "http://data.udir.no/kl06/K3830",
+        "tittel": "begrunne og konkretisere egne ideer, design og arbeidsprosesser"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3831",
+        "uri": "http://psi.udir.no/kl06/K3831",
+        "url-data": "http://data.udir.no/kl06/K3831",
+        "tittel": "planlegge, vurdere og dokumentere eget ur- og instrumentmakerarbeid "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3832",
+        "uri": "http://psi.udir.no/kl06/K3832",
+        "url-data": "http://data.udir.no/kl06/K3832",
+        "tittel": "vurdere egne arbeider i forhold til fagets historie og tradisjoner"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3833",
+        "uri": "http://psi.udir.no/kl06/K3833",
+        "url-data": "http://data.udir.no/kl06/K3833",
+        "tittel": "bruke fagtekniske ord og uttrykk i kommunikasjon med kunder og samarbeidspartnere"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3834",
+        "uri": "http://psi.udir.no/kl06/K3834",
+        "url-data": "http://data.udir.no/kl06/K3834",
+        "tittel": "lage og bruke arbeidstegninger og annen visuell informasjon i eget arbeid"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3835",
+        "uri": "http://psi.udir.no/kl06/K3835",
+        "url-data": "http://data.udir.no/kl06/K3835",
+        "tittel": "eksperimentere med teknikker, materialer og verktøy"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3836",
+        "uri": "http://psi.udir.no/kl06/K3836",
+        "url-data": "http://data.udir.no/kl06/K3836",
+        "tittel": "utnytte, behandle og avfallshåndtere materialer"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3837",
+        "uri": "http://psi.udir.no/kl06/K3837",
+        "url-data": "http://data.udir.no/kl06/K3837",
+        "tittel": "utføre nødvendig vedlikehold av utstyr, redskaper og maskiner"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3838",
+        "uri": "http://psi.udir.no/kl06/K3838",
+        "url-data": "http://data.udir.no/kl06/K3838",
+        "tittel": "beregne pris på reparasjoner og tjenester"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3840",
+        "uri": "http://psi.udir.no/kl06/K3840",
+        "url-data": "http://data.udir.no/kl06/K3840",
+        "tittel": "vurdere arbeidsprosess ut fra etiske og estetiske forhold, aktuelle lover og forskrifter"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3841",
+        "uri": "http://psi.udir.no/kl06/K3841",
+        "url-data": "http://data.udir.no/kl06/K3841",
+        "tittel": "gjennomføre enkle markedsundersøkelser og vurdere behov for ur, instrumenter og tjenester"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3842",
+        "uri": "http://psi.udir.no/kl06/K3842",
+        "url-data": "http://data.udir.no/kl06/K3842",
+        "tittel": "presentere og dokumentere eget arbeid ved bruk av digitale verktøy"
       }
     ]
   },
@@ -1308,6 +2500,158 @@
         "uri": "http://psi.udir.no/kl06/K3647",
         "url-data": "http://data.udir.no/kl06/K3647",
         "tittel": "analysere ulike medieprodukter med henblikk på tekst, bilde og lyd i mediehistorien"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3648",
+        "uri": "http://psi.udir.no/kl06/K3648",
+        "url-data": "http://data.udir.no/kl06/K3648",
+        "tittel": "utarbeide mediedesign for medieprodukter til papir-, skjerm- og lydmedier på bakgrunn av ideer hos ulike oppdragsgivere, og begrunne designmessige virkemidler "
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3649",
+        "uri": "http://psi.udir.no/kl06/K3649",
+        "url-data": "http://data.udir.no/kl06/K3649",
+        "tittel": "bruke ulike teknikker i idéutvikling fra research til ferdig konsept, dokumentere prosessen med idéskisser og presentere konseptet for en oppdragsgiver "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3650",
+        "uri": "http://psi.udir.no/kl06/K3650",
+        "url-data": "http://data.udir.no/kl06/K3650",
+        "tittel": "bruke komposisjonsprinsipper innen tekst, bilde og lyd og drøfte hvordan de ulike elementene påvirker hverandre "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3651",
+        "uri": "http://psi.udir.no/kl06/K3651",
+        "url-data": "http://data.udir.no/kl06/K3651",
+        "tittel": "bruke ulike dramaturgiske modeller i egne produksjoner og drøfte dramaturgien i egne og andres produkter "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3652",
+        "uri": "http://psi.udir.no/kl06/K3652",
+        "url-data": "http://data.udir.no/kl06/K3652",
+        "tittel": "bruke typografi i elektroniske og trykte medier tilpasset budskap, uttrykk og medievalg "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3653",
+        "uri": "http://psi.udir.no/kl06/K3653",
+        "url-data": "http://data.udir.no/kl06/K3653",
+        "tittel": "bruke form og farger som virkemidler i egne produksjoner og vurdere virkemidlene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3654",
+        "uri": "http://psi.udir.no/kl06/K3654",
+        "url-data": "http://data.udir.no/kl06/K3654",
+        "tittel": "bruke lyssetting for å fremme komposisjon og design i bildeproduksjoner, og vurdere bruk av lys"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3655",
+        "uri": "http://psi.udir.no/kl06/K3655",
+        "url-data": "http://data.udir.no/kl06/K3655",
+        "tittel": "bruke det utvidede tekstbegrepet for å drøfte uttrykksfellesskap i ulike medieuttrykk gjennom tidene"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3656",
+        "uri": "http://psi.udir.no/kl06/K3656",
+        "url-data": "http://data.udir.no/kl06/K3656",
+        "tittel": "planlegge, gjennomføre og vurdere produksjoner i tekst, bilde, lyd og kombinasjoner av disse i ulike formater og til ulike medier"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3657",
+        "uri": "http://psi.udir.no/kl06/K3657",
+        "url-data": "http://data.udir.no/kl06/K3657",
+        "tittel": "bruke grunnleggende fagterminologi og forklare ulike medietypers produksjonsforløp fra idé til ferdig produkt"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3658",
+        "uri": "http://psi.udir.no/kl06/K3658",
+        "url-data": "http://data.udir.no/kl06/K3658",
+        "tittel": "bruke prinsipper for prosjektstyring, kvalitetssikring og kostnadsberegning av en medieproduksjon "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3659",
+        "uri": "http://psi.udir.no/kl06/K3659",
+        "url-data": "http://data.udir.no/kl06/K3659",
+        "tittel": "velge og bruke utstyr og programvare tilpasset produkt og rammevilkår "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3660",
+        "uri": "http://psi.udir.no/kl06/K3660",
+        "url-data": "http://data.udir.no/kl06/K3660",
+        "tittel": "behandle og vedlikeholde utstyr for medieproduksjon"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3661",
+        "uri": "http://psi.udir.no/kl06/K3661",
+        "url-data": "http://data.udir.no/kl06/K3661",
+        "tittel": "lagre medieprodukter i ulike formater på lagringsmedier og gjøre rede for aktuelle distribusjonsformater i ulike medier"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3662",
+        "uri": "http://psi.udir.no/kl06/K3662",
+        "url-data": "http://data.udir.no/kl06/K3662",
+        "tittel": "bruke ulike filformater, oppløsning, komprimering, vektor- og bitmap-grafikk tilpasset ulike medier"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3663",
+        "uri": "http://psi.udir.no/kl06/K3663",
+        "url-data": "http://data.udir.no/kl06/K3663",
+        "tittel": "gjøre rede for ulike fargerom og fargestyring for å oppnå lik fargegjengivelse fra design til publisering for trykte og elektroniske medier"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3664",
+        "uri": "http://psi.udir.no/kl06/K3664",
+        "url-data": "http://data.udir.no/kl06/K3664",
+        "tittel": "bruke blender, lukker, brennvidder og ISO-verdier på kameraer"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3665",
+        "uri": "http://psi.udir.no/kl06/K3665",
+        "url-data": "http://data.udir.no/kl06/K3665",
+        "tittel": "bruke maler og sideombrekkingsprogram for mediegrafikerfaget"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3666",
+        "uri": "http://psi.udir.no/kl06/K3666",
+        "url-data": "http://data.udir.no/kl06/K3666",
+        "tittel": "tilrettelegge egen arbeidsplass etter ergonomiske prinsipper, og arbeide på en ergonomisk måte"
       }
     ]
   },

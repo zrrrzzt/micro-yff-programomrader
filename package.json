@@ -24,7 +24,8 @@
     "update-vg3": "node utils/yff-generate-programomraader.js vg3",
     "update-vg2": "node utils/yff-generate-programomraader.js vg2",
     "update-vg1": "node utils/yff-generate-programomraader.js vg1",
-    "deploy": "npm test && now --npm && now alias"
+    "deploy": "npm test && now && now alias",
+    "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
   },
   "keywords": [
     "microservice",
@@ -53,7 +54,7 @@
     }
   },
   "devDependencies": {
-    "ava": "0.24.0",
+    "ava": "0.25.0",
     "axios": "0.17.1",
     "cheerio": "1.0.0-rc.2",
     "coveralls": "3.0.0",

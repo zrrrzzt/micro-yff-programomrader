@@ -100,6 +100,110 @@
         "uri": "http://psi.udir.no/kl06/K3600",
         "url-data": "http://data.udir.no/kl06/K3600",
         "tittel": "utføre arbeidet i samsvar med kvalitetsstyringssystem som er etablerte på området"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3587",
+        "uri": "http://psi.udir.no/kl06/K3587",
+        "url-data": "http://data.udir.no/kl06/K3587",
+        "tittel": "drøfte samanhengen mellom kosthald, helse og livsstil, og korleis desse faktorane kan påverke folkehelsa"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3588",
+        "uri": "http://psi.udir.no/kl06/K3588",
+        "url-data": "http://data.udir.no/kl06/K3588",
+        "tittel": "lage måltid ut frå tilrådingar frå helsestyresmaktene"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3589",
+        "uri": "http://psi.udir.no/kl06/K3589",
+        "url-data": "http://data.udir.no/kl06/K3589",
+        "tittel": "bruke digitale verktøy til å rekne ut energi- og næringsinnhald i måltid, og til å planleggje og setje saman måltid i tråd med krava frå helsestyresmaktene"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3590",
+        "uri": "http://psi.udir.no/kl06/K3590",
+        "url-data": "http://data.udir.no/kl06/K3590",
+        "tittel": "planleggje og lage til spesialkost"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3591",
+        "uri": "http://psi.udir.no/kl06/K3591",
+        "url-data": "http://data.udir.no/kl06/K3591",
+        "tittel": "lage tradisjonsmat frå ulike område i Noreg og mat frå ulike kulturar, og drøfte kva måltidet har å seie som kulturberar"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3592",
+        "uri": "http://psi.udir.no/kl06/K3592",
+        "url-data": "http://data.udir.no/kl06/K3592",
+        "tittel": "lage mat og produkt tilpassa nye trendar ut frå kunnskap om råvarer, produksjonsmetodar og matkultur"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3605",
+        "uri": "http://psi.udir.no/kl06/K3605",
+        "url-data": "http://data.udir.no/kl06/K3605",
+        "tittel": "gjere greie for samanhengen mellom bransjane innanfor restaurant- og matfaga, deira rammevilkår og konkurranseforhold"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3606",
+        "uri": "http://psi.udir.no/kl06/K3606",
+        "url-data": "http://data.udir.no/kl06/K3606",
+        "tittel": "gjere greie for etiske problemstillingar som er relevante for restaurant- og matbransjane"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3607",
+        "uri": "http://psi.udir.no/kl06/K3607",
+        "url-data": "http://data.udir.no/kl06/K3607",
+        "tittel": "forstå og bruke relevante faguttrykk som blir nytta i restaurant- og matbransjane"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3608",
+        "uri": "http://psi.udir.no/kl06/K3608",
+        "url-data": "http://data.udir.no/kl06/K3608",
+        "tittel": "drøfte og demonstrere kva det vil seie å yte service, og kvifor dette er viktig for yrkesutøvinga i restaurant- og matfaga"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3609",
+        "uri": "http://psi.udir.no/kl06/K3609",
+        "url-data": "http://data.udir.no/kl06/K3609",
+        "tittel": "bruke arbeidsteknikkar og arbeidsstillingar som er funksjonelle og førebyggjer belastningsskadar, og greie ut om samanhengen mellom ergonomi og helse"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3610",
+        "uri": "http://psi.udir.no/kl06/K3610",
+        "url-data": "http://data.udir.no/kl06/K3610",
+        "tittel": "praktisere grunnleggjande førstehjelp som er relevant i restaurant- og matbransjane"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K3611",
+        "uri": "http://psi.udir.no/kl06/K3611",
+        "url-data": "http://data.udir.no/kl06/K3611",
+        "tittel": "handtere avfall på ein miljømessig forsvarleg måte"
       }
     ]
   }

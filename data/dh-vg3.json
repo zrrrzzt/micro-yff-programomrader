@@ -9252,6 +9252,78 @@
         "uri": "http://psi.udir.no/kl06/K11321",
         "url-data": "http://data.udir.no/kl06/K11321",
         "tittel": "dokumentere og vurdere eget arbeid"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11322",
+        "uri": "http://psi.udir.no/kl06/K11322",
+        "url-data": "http://data.udir.no/kl06/K11322",
+        "tittel": "analysere kundebehov, veilede kunder og skissere interiørideer "
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11323",
+        "uri": "http://psi.udir.no/kl06/K11323",
+        "url-data": "http://data.udir.no/kl06/K11323",
+        "tittel": "utarbeide forslag til interiørløsninger sammen med kunder og andre samarbeidspartnere "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11324",
+        "uri": "http://psi.udir.no/kl06/K11324",
+        "url-data": "http://data.udir.no/kl06/K11324",
+        "tittel": "presentere løsningsforslag visuelt og verbalt"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11325",
+        "uri": "http://psi.udir.no/kl06/K11325",
+        "url-data": "http://data.udir.no/kl06/K11325",
+        "tittel": "lage målsatte miljø-, arbeids- og presentasjonstegninger med beskrivelser samt lysplan"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11326",
+        "uri": "http://psi.udir.no/kl06/K11326",
+        "url-data": "http://data.udir.no/kl06/K11326",
+        "tittel": "beregne material- og tidsforbruk og pris på eget interiørarbeid"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11327",
+        "uri": "http://psi.udir.no/kl06/K11327",
+        "url-data": "http://data.udir.no/kl06/K11327",
+        "tittel": "lage produkt- og materialkart med beskrivelser "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11328",
+        "uri": "http://psi.udir.no/kl06/K11328",
+        "url-data": "http://data.udir.no/kl06/K11328",
+        "tittel": "dokumentere eget arbeid i forhold til målgruppe, funksjon, estetikk, stil og sammenheng"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11329",
+        "uri": "http://psi.udir.no/kl06/K11329",
+        "url-data": "http://data.udir.no/kl06/K11329",
+        "tittel": "vise og forklare egen arbeidsprosess ved bruk av skisser, foto, digitale verktøy, tekst og illustrasjoner  "
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11330",
+        "uri": "http://psi.udir.no/kl06/K11330",
+        "url-data": "http://data.udir.no/kl06/K11330",
+        "tittel": "gjennomføre enkle markedsundersøkelser "
       }
     ]
   },
@@ -9760,6 +9832,86 @@
         "uri": "http://psi.udir.no/kl06/K11701",
         "url-data": "http://data.udir.no/kl06/K11701",
         "tittel": "gjøre rede for og ivareta gjeldende regelverk for helse, miljø og sikkerhet "
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11702",
+        "uri": "http://psi.udir.no/kl06/K11702",
+        "url-data": "http://data.udir.no/kl06/K11702",
+        "tittel": "beskrive og vurdere ulike utstillingsoppdrag "
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11703",
+        "uri": "http://psi.udir.no/kl06/K11703",
+        "url-data": "http://data.udir.no/kl06/K11703",
+        "tittel": "innhente og bruke ulike kilder og relevant informasjon til egen produktutvikling"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11704",
+        "uri": "http://psi.udir.no/kl06/K11704",
+        "url-data": "http://data.udir.no/kl06/K11704",
+        "tittel": "utarbeide skisser, arbeids- og presentasjonstegninger "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11705",
+        "uri": "http://psi.udir.no/kl06/K11705",
+        "url-data": "http://data.udir.no/kl06/K11705",
+        "tittel": "utvikle ideer og konsepter til markedsføring tilpasset definerte målgrupper"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11706",
+        "uri": "http://psi.udir.no/kl06/K11706",
+        "url-data": "http://data.udir.no/kl06/K11706",
+        "tittel": "presentere og begrunne ideer og løsningsforslag tilpasset målgruppe, funksjon, estetikk, stil og sammenheng"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11707",
+        "uri": "http://psi.udir.no/kl06/K11707",
+        "url-data": "http://data.udir.no/kl06/K11707",
+        "tittel": "presentere prosjektbeskrivelser med og uten digitale verktøy "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11708",
+        "uri": "http://psi.udir.no/kl06/K11708",
+        "url-data": "http://data.udir.no/kl06/K11708",
+        "tittel": "gjøre rede for nasjonale og internasjonale trender i faget "
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11709",
+        "uri": "http://psi.udir.no/kl06/K11709",
+        "url-data": "http://data.udir.no/kl06/K11709",
+        "tittel": "beregne materialforbruk, tidsbruk og pris på eget arbeid"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11710",
+        "uri": "http://psi.udir.no/kl06/K11710",
+        "url-data": "http://data.udir.no/kl06/K11710",
+        "tittel": "gjøre rede for gjeldende bestemmelser knyttet til opphavsrettigheter og åndsverk"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11711",
+        "uri": "http://psi.udir.no/kl06/K11711",
+        "url-data": "http://data.udir.no/kl06/K11711",
+        "tittel": "dokumentere og vurdere eget arbeid  "
       }
     ]
   },
@@ -9816,6 +9968,118 @@
         "uri": "http://psi.udir.no/kl06/K7969",
         "url-data": "http://data.udir.no/kl06/K7969",
         "tittel": "demonstrere og kvalitetssikre utført arbeid gjennom eget pianospill"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7970",
+        "uri": "http://psi.udir.no/kl06/K7970",
+        "url-data": "http://data.udir.no/kl06/K7970",
+        "tittel": "utføre alle reguleringselementene til piano- og flygelmekanikker, klaviaturer og pedaler"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7971",
+        "uri": "http://psi.udir.no/kl06/K7971",
+        "url-data": "http://data.udir.no/kl06/K7971",
+        "tittel": "kontrollere, reparere og skifte ut slitte og defekte deler i pianoer og flygler"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7972",
+        "uri": "http://psi.udir.no/kl06/K7972",
+        "url-data": "http://data.udir.no/kl06/K7972",
+        "tittel": "velge materialer ved reparasjoner og utskiftinger i pianoer og flygler ut fra bruksegenskaper og miljø"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7973",
+        "uri": "http://psi.udir.no/kl06/K7973",
+        "url-data": "http://data.udir.no/kl06/K7973",
+        "tittel": "velge og vedlikeholde egnet verktøy til ulike arbeidsoperasjoner"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7974",
+        "uri": "http://psi.udir.no/kl06/K7974",
+        "url-data": "http://data.udir.no/kl06/K7974",
+        "tittel": "forklare hvordan variasjoner i inneklimaet virker på instrumenter, og gjøre rede for nødvendige forholdsregler i denne sammenheng"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7975",
+        "uri": "http://psi.udir.no/kl06/K7975",
+        "url-data": "http://data.udir.no/kl06/K7975",
+        "tittel": "beskrive og vurdere kvalitet og tekniske tilstand på instrument"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7976",
+        "uri": "http://psi.udir.no/kl06/K7976",
+        "url-data": "http://data.udir.no/kl06/K7976",
+        "tittel": "vurdere eget arbeid i pianoteknikk"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7977",
+        "uri": "http://psi.udir.no/kl06/K7977",
+        "url-data": "http://data.udir.no/kl06/K7977",
+        "tittel": "gjøre rede for ulikheter innen moderne pianoproduksjon"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7978",
+        "uri": "http://psi.udir.no/kl06/K7978",
+        "url-data": "http://data.udir.no/kl06/K7978",
+        "tittel": "markedsføre egne produkter og tjenester "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7979",
+        "uri": "http://psi.udir.no/kl06/K7979",
+        "url-data": "http://data.udir.no/kl06/K7979",
+        "tittel": "bruke faguttrykk og fagspråk i kommunikasjon med kolleger, kunder og andre samarbeidspartnere "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7980",
+        "uri": "http://psi.udir.no/kl06/K7980",
+        "url-data": "http://data.udir.no/kl06/K7980",
+        "tittel": "beregne pris på egne produkter og tjenester "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7981",
+        "uri": "http://psi.udir.no/kl06/K7981",
+        "url-data": "http://data.udir.no/kl06/K7981",
+        "tittel": "vurdere behov for og kostnader ved reparasjoner"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7982",
+        "uri": "http://psi.udir.no/kl06/K7982",
+        "url-data": "http://data.udir.no/kl06/K7982",
+        "tittel": "gjøre rede for og følge gjeldende regelverk for helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K7983",
+        "uri": "http://psi.udir.no/kl06/K7983",
+        "url-data": "http://data.udir.no/kl06/K7983",
+        "tittel": "presentere og dokumentere eget arbeid ved bruk av digitale verktøy "
       }
     ]
   },

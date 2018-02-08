@@ -2152,6 +2152,238 @@
         "uri": "http://psi.udir.no/kl06/K2117",
         "url-data": "http://data.udir.no/kl06/K2117",
         "tittel": "vurdere miljø- og energiøkonomiseringstiltak i planteproduksjon, vurdere muligheter for gjenbruk og flerbruk av innsatsfaktorer og resirkulering av avfall"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2118",
+        "uri": "http://psi.udir.no/kl06/K2118",
+        "url-data": "http://data.udir.no/kl06/K2118",
+        "tittel": "planlegge, gjennomføre og vurdere bruk av planter og planteprodukter som estetiske og kulturelle elementer "
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2119",
+        "uri": "http://psi.udir.no/kl06/K2119",
+        "url-data": "http://data.udir.no/kl06/K2119",
+        "tittel": "beskrive bruk av planter og planteprodukter i et historisk perspektiv og vurdere potensialet for bearbeiding og videreforedling "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2120",
+        "uri": "http://psi.udir.no/kl06/K2120",
+        "url-data": "http://data.udir.no/kl06/K2120",
+        "tittel": "gjøre rede for kulturplanters betydning som næringsmiddel, medisin og smaksopplevelse  "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2121",
+        "uri": "http://psi.udir.no/kl06/K2121",
+        "url-data": "http://data.udir.no/kl06/K2121",
+        "tittel": "identifisere og beskrive kulturplanter med norske og botaniske navn"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2122",
+        "uri": "http://psi.udir.no/kl06/K2122",
+        "url-data": "http://data.udir.no/kl06/K2122",
+        "tittel": "identifisere planter som kan gi allergi eller forgiftning "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2123",
+        "uri": "http://psi.udir.no/kl06/K2123",
+        "url-data": "http://data.udir.no/kl06/K2123",
+        "tittel": "presentere skisser av et område basert på enkel registrering og oppmåling og foreslå beplantning som ivaretar hensyn til form, farge og formål"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2124",
+        "uri": "http://psi.udir.no/kl06/K2124",
+        "url-data": "http://data.udir.no/kl06/K2124",
+        "tittel": "vedlikeholde planter i ulike miljøer og optimalisere forholdene for plantene ved å ha rett vekst på rett sted og ulike planter i riktig kombinasjon"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2125",
+        "uri": "http://psi.udir.no/kl06/K2125",
+        "url-data": "http://data.udir.no/kl06/K2125",
+        "tittel": "gjøre rede for gjeldende regelverk ved bruk av plantevernmidler i offentlige rom og oppholdsrom"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2126",
+        "uri": "http://psi.udir.no/kl06/K2126",
+        "url-data": "http://data.udir.no/kl06/K2126",
+        "tittel": "planlegge, gjennomføre og vurdere omsetning av planter og planteprodukter med utgangspunkt i de kravene kunder og marked stiller til produktutvalg og kvalitet"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2127",
+        "uri": "http://psi.udir.no/kl06/K2127",
+        "url-data": "http://data.udir.no/kl06/K2127",
+        "tittel": "håndtere en salgssituasjon med vekt på profesjonell kundebehandling "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2128",
+        "uri": "http://psi.udir.no/kl06/K2128",
+        "url-data": "http://data.udir.no/kl06/K2128",
+        "tittel": "gjøre rede for omsetningsformer i gartnernæringen"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2129",
+        "uri": "http://psi.udir.no/kl06/K2129",
+        "url-data": "http://data.udir.no/kl06/K2129",
+        "tittel": "gjøre rede for rammebetingelser for gartnernæringen"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2130",
+        "uri": "http://psi.udir.no/kl06/K2130",
+        "url-data": "http://data.udir.no/kl06/K2130",
+        "tittel": "gjøre rede for prosesser i planter og planteprodukter etter høsting"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2131",
+        "uri": "http://psi.udir.no/kl06/K2131",
+        "url-data": "http://data.udir.no/kl06/K2131",
+        "tittel": "klargjøre produkter for salg, kalkulere og fastsette pris på produktene"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2132",
+        "uri": "http://psi.udir.no/kl06/K2132",
+        "url-data": "http://data.udir.no/kl06/K2132",
+        "tittel": "lage utstillinger, plantearrangementer, presentasjoner og vurdere bruk av emballasje som ledd i markedsføringen"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2133",
+        "uri": "http://psi.udir.no/kl06/K2133",
+        "url-data": "http://data.udir.no/kl06/K2133",
+        "tittel": "vurdere kvalitet og ta ut varer for salg på rett tidspunkt med tanke på anvendelse og etterspørsel"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2134",
+        "uri": "http://psi.udir.no/kl06/K2134",
+        "url-data": "http://data.udir.no/kl06/K2134",
+        "tittel": "gjøre rede for lagringsmetoder for planteprodukter"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2135",
+        "uri": "http://psi.udir.no/kl06/K2135",
+        "url-data": "http://data.udir.no/kl06/K2135",
+        "tittel": "utarbeide logistikk og ivareta kontrollrutiner og dokumentasjonskrav for lagring, pakking og transport "
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2136",
+        "uri": "http://psi.udir.no/kl06/K2136",
+        "url-data": "http://data.udir.no/kl06/K2136",
+        "tittel": "omsette planteprodukter på nasjonale og internasjonale markeder etter gjeldende regelverk og følge rutiner for dokumentasjon"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2137",
+        "uri": "http://psi.udir.no/kl06/K2137",
+        "url-data": "http://data.udir.no/kl06/K2137",
+        "tittel": "beskrive og vurdere samvirke og andre vanlige selskaps- og samarbeidsformer knyttet til omsetning og foredling av gartnerprodukter"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2138",
+        "uri": "http://psi.udir.no/kl06/K2138",
+        "url-data": "http://data.udir.no/kl06/K2138",
+        "tittel": "planlegge, gjennomføre og vurdere en gartnerrelatert produksjon og utarbeide et system for dokumentasjon og kvalitetskontroll i samsvar med gjeldende regelverk og standarder"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2139",
+        "uri": "http://psi.udir.no/kl06/K2139",
+        "url-data": "http://data.udir.no/kl06/K2139",
+        "tittel": "identifisere og teste ut gartnerprodukter og -tjenester i et marked"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2140",
+        "uri": "http://psi.udir.no/kl06/K2140",
+        "url-data": "http://data.udir.no/kl06/K2140",
+        "tittel": "vurdere muligheter for å øke verdien av produktet gjennom videre bearbeiding"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2141",
+        "uri": "http://psi.udir.no/kl06/K2141",
+        "url-data": "http://data.udir.no/kl06/K2141",
+        "tittel": "foreslå nye gartnerprodukter basert på lokale naturressurser og vurdere muligheter for etablering av ny virksomhet i samsvar med gjeldende regelverk, etiske og økologiske prinsipper "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2142",
+        "uri": "http://psi.udir.no/kl06/K2142",
+        "url-data": "http://data.udir.no/kl06/K2142",
+        "tittel": "gjøre rede for plikter og rettigheter som arbeidstakere og arbeidsgivere har, og bruke gjeldende regelverk som grunnlag for utforming av en arbeidsavtale   "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2143",
+        "uri": "http://psi.udir.no/kl06/K2143",
+        "url-data": "http://data.udir.no/kl06/K2143",
+        "tittel": "gjennomføre en kostnadseffektiv og miljøvennlig gartnerproduksjon med vektlegging av tidsforbruk, håndlag og presisjon "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2144",
+        "uri": "http://psi.udir.no/kl06/K2144",
+        "url-data": "http://data.udir.no/kl06/K2144",
+        "tittel": "sette opp enkle budsjetter for drift og investering og bruke dataverktøy til å utarbeide en enkel økonomisk oversikt for en gartnerproduksjon"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2145",
+        "uri": "http://psi.udir.no/kl06/K2145",
+        "url-data": "http://data.udir.no/kl06/K2145",
+        "tittel": "utarbeide anbud i forbindelse med enkle arbeidsoppdrag i gartnerproduksjon"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K2146",
+        "uri": "http://psi.udir.no/kl06/K2146",
+        "url-data": "http://data.udir.no/kl06/K2146",
+        "tittel": "utføre arbeidsoppgaver på en ergonomisk riktig måte"
       }
     ]
   },
@@ -2264,6 +2496,182 @@
         "uri": "http://psi.udir.no/kl06/K4081",
         "url-data": "http://data.udir.no/kl06/K4081",
         "tittel": "analysere driftsresultat og gi råd om forbedringer i landbruksproduksjoner"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4082",
+        "uri": "http://psi.udir.no/kl06/K4082",
+        "url-data": "http://data.udir.no/kl06/K4082",
+        "tittel": "utføre arbeidsoppgaver knyttet til skjøtsel, bruk og høsting i skog, utmark og kulturlandskap"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4083",
+        "uri": "http://psi.udir.no/kl06/K4083",
+        "url-data": "http://data.udir.no/kl06/K4083",
+        "tittel": "beskrive og bruke planer for drift og skjøtsel av skog, utmark og kulturlandskap ut fra hensyn til økologi og bærekraftig forvaltning"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4084",
+        "uri": "http://psi.udir.no/kl06/K4084",
+        "url-data": "http://data.udir.no/kl06/K4084",
+        "tittel": "kartlegge vegetasjon og gi eksempler på ulike landskapstypers betydning for landskapsbildet og som leveområde for planter og dyr "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4085",
+        "uri": "http://psi.udir.no/kl06/K4085",
+        "url-data": "http://data.udir.no/kl06/K4085",
+        "tittel": "gjennomføre tiltak som kan bidra til ønsket utvikling i et landskapsområde"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4086",
+        "uri": "http://psi.udir.no/kl06/K4086",
+        "url-data": "http://data.udir.no/kl06/K4086",
+        "tittel": "påvise naturlige og menneskeskapte endringer i utmark og kulturlandskap "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4087",
+        "uri": "http://psi.udir.no/kl06/K4087",
+        "url-data": "http://data.udir.no/kl06/K4087",
+        "tittel": "bruke og vedlikeholde redskaper og utstyr knyttet til skjøtsel og høsting i henhold til gjeldende regelverk "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4088",
+        "uri": "http://psi.udir.no/kl06/K4088",
+        "url-data": "http://data.udir.no/kl06/K4088",
+        "tittel": "beskrive muligheter for flerbruk av utmark og kulturlandskap, kartlegge brukerinteresser og rettighetshavere i området og gjøre rede for mulige interessekonflikter "
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4089",
+        "uri": "http://psi.udir.no/kl06/K4089",
+        "url-data": "http://data.udir.no/kl06/K4089",
+        "tittel": "påvise og ivareta kulturminner i utmarks- og kulturlandskapsområder etter gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4090",
+        "uri": "http://psi.udir.no/kl06/K4090",
+        "url-data": "http://data.udir.no/kl06/K4090",
+        "tittel": "beskrive anlegg og bygninger og utføre skjøtselstiltak i tråd med ønsket utvikling av kulturlandskapet "
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4091",
+        "uri": "http://psi.udir.no/kl06/K4091",
+        "url-data": "http://data.udir.no/kl06/K4091",
+        "tittel": "forvalte gårdens ressurser etter planer og regelverk, økologi og etiske prinsipper med tanke på økonomisk resultat"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4092",
+        "uri": "http://psi.udir.no/kl06/K4092",
+        "url-data": "http://data.udir.no/kl06/K4092",
+        "tittel": "beskrive regelverk og prosedyrer i forbindelse med eierskap, leie, forpakting, kjøp og overdragelse av landbrukseiendom"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4093",
+        "uri": "http://psi.udir.no/kl06/K4093",
+        "url-data": "http://data.udir.no/kl06/K4093",
+        "tittel": "beskrive og vurdere samvirke og andre vanlige selskaps- og samarbeidsformer i landbruket og innen omsetning og foredling "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4094",
+        "uri": "http://psi.udir.no/kl06/K4094",
+        "url-data": "http://data.udir.no/kl06/K4094",
+        "tittel": "arbeide etter regelverk og avtaler som regulerer arbeidsforhold i landbruket, og gjøre rede for arbeidsgiverens og arbeidstakerens plikter og rettigheter "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4095",
+        "uri": "http://psi.udir.no/kl06/K4095",
+        "url-data": "http://data.udir.no/kl06/K4095",
+        "tittel": "beskrive faglige organisasjoner og kompetansehevingstiltak i landbruksnæringen"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4096",
+        "uri": "http://psi.udir.no/kl06/K4096",
+        "url-data": "http://data.udir.no/kl06/K4096",
+        "tittel": "gjennomføre økonomistyring for en landbrukseiendom i henhold til regelverk og standarder "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4097",
+        "uri": "http://psi.udir.no/kl06/K4097",
+        "url-data": "http://data.udir.no/kl06/K4097",
+        "tittel": "utarbeide forretningsplan for en næringsaktivitet i landbruket, beskrive oppstart, drift og avvikling av denne"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4098",
+        "uri": "http://psi.udir.no/kl06/K4098",
+        "url-data": "http://data.udir.no/kl06/K4098",
+        "tittel": "utarbeide og justere driftsplaner for en landbruksvirksomhet med hensyn til flerbruksinteresser og lokalt natur- og kulturgrunnlag"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4099",
+        "uri": "http://psi.udir.no/kl06/K4099",
+        "url-data": "http://data.udir.no/kl06/K4099",
+        "tittel": "utarbeide og bruke miljøplaner for gårdsbruk"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4100",
+        "uri": "http://psi.udir.no/kl06/K4100",
+        "url-data": "http://data.udir.no/kl06/K4100",
+        "tittel": "gjøre rede for offentlig virkemiddelbruk i landbruket og støtteordninger til ulike produksjonstyper, miljøtiltak og investeringer"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4101",
+        "uri": "http://psi.udir.no/kl06/K4101",
+        "url-data": "http://data.udir.no/kl06/K4101",
+        "tittel": "vurdere behovet for forsikringer på en gård, sammenlikne ulike forsikringsvilkår og forklare betydningen disse har for driften av gården"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4102",
+        "uri": "http://psi.udir.no/kl06/K4102",
+        "url-data": "http://data.udir.no/kl06/K4102",
+        "tittel": "planlegge og gjennomføre tiltak for energiøkonomisering på en gård og drøfte muligheter for bruk av fornybar energi"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K4103",
+        "uri": "http://psi.udir.no/kl06/K4103",
+        "url-data": "http://data.udir.no/kl06/K4103",
+        "tittel": "utføre arbeidsoppgaver i landbruket på en ergonomisk riktig måte"
       }
     ]
   },

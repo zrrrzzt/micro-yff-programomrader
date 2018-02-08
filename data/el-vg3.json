@@ -1612,6 +1612,806 @@
         "uri": "http://psi.udir.no/kl06/K11129",
         "url-data": "http://data.udir.no/kl06/K11129",
         "tittel": "utføre arbeid etter gjeldende regelverk for helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11130",
+        "uri": "http://psi.udir.no/kl06/K11130",
+        "url-data": "http://data.udir.no/kl06/K11130",
+        "tittel": "bruke nettbaserte læringsressurser og simuleringsprogrammer"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11131",
+        "uri": "http://psi.udir.no/kl06/K11131",
+        "url-data": "http://data.udir.no/kl06/K11131",
+        "tittel": "henvise til gjeldende standarder for romteknologi"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11132",
+        "uri": "http://psi.udir.no/kl06/K11132",
+        "url-data": "http://data.udir.no/kl06/K11132",
+        "tittel": "beregne satellittbaner"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11133",
+        "uri": "http://psi.udir.no/kl06/K11133",
+        "url-data": "http://data.udir.no/kl06/K11133",
+        "tittel": "beskrive ulike romtransportsystemer"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11134",
+        "uri": "http://psi.udir.no/kl06/K11134",
+        "url-data": "http://data.udir.no/kl06/K11134",
+        "tittel": "gjøre rede for satellitters rommiljø og krefter og påvirkninger som de utsettes for under oppskyting"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11135",
+        "uri": "http://psi.udir.no/kl06/K11135",
+        "url-data": "http://data.udir.no/kl06/K11135",
+        "tittel": "forklare ulike typer energiforsyning, retningskontroll og temperaturkontroll på plattformer i rommet"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11136",
+        "uri": "http://psi.udir.no/kl06/K11136",
+        "url-data": "http://data.udir.no/kl06/K11136",
+        "tittel": "forklare bruk av radiolink for telekommando, fjernmåling, målfølging og kontroll"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11137",
+        "uri": "http://psi.udir.no/kl06/K11137",
+        "url-data": "http://data.udir.no/kl06/K11137",
+        "tittel": "beskrive ulike oppdrag og nyttelaster en satellitt kan ha"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11138",
+        "uri": "http://psi.udir.no/kl06/K11138",
+        "url-data": "http://data.udir.no/kl06/K11138",
+        "tittel": "beskrive strategi for oppdeling av bakke- og romsegment"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11139",
+        "uri": "http://psi.udir.no/kl06/K11139",
+        "url-data": "http://data.udir.no/kl06/K11139",
+        "tittel": "forklare kommunikasjonssatellitters formidling av ulike typer informasjon mellom to eller flere steder på jorden"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11140",
+        "uri": "http://psi.udir.no/kl06/K11140",
+        "url-data": "http://data.udir.no/kl06/K11140",
+        "tittel": "beskrive prinsippene for satellittnavigasjon, bruk av GPS og satellittelefon"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11141",
+        "uri": "http://psi.udir.no/kl06/K11141",
+        "url-data": "http://data.udir.no/kl06/K11141",
+        "tittel": "gjøre rede for programmer for den tekniske og vitenskapelige utforskningen av verdensrommet"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11142",
+        "uri": "http://psi.udir.no/kl06/K11142",
+        "url-data": "http://data.udir.no/kl06/K11142",
+        "tittel": "bruke etablerte romteknologisentre for læring om romteknologi og bruke engelsk som kommunikasjonsspråk"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11143",
+        "uri": "http://psi.udir.no/kl06/K11143",
+        "url-data": "http://data.udir.no/kl06/K11143",
+        "tittel": "bruke radiokommunikasjonsutstyr for satellittkommunikasjon på tillatte frekvensbånd og bruke engelsk som kommunikasjonsspråk"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11144",
+        "uri": "http://psi.udir.no/kl06/K11144",
+        "url-data": "http://data.udir.no/kl06/K11144",
+        "tittel": "gjøre rede for prosjekter for studier av vektløshet"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11145",
+        "uri": "http://psi.udir.no/kl06/K11145",
+        "url-data": "http://data.udir.no/kl06/K11145",
+        "tittel": "utføre forsøk med solcellepaneler"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11146",
+        "uri": "http://psi.udir.no/kl06/K11146",
+        "url-data": "http://data.udir.no/kl06/K11146",
+        "tittel": "planlegge, konstruere, dokumentere og teste ut en satellittmodell"
+      },
+      {
+        "rekkefoelge": 18,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11147",
+        "uri": "http://psi.udir.no/kl06/K11147",
+        "url-data": "http://data.udir.no/kl06/K11147",
+        "tittel": "utføre kontrollerte romrelaterte forsøk med laserteknologi"
+      },
+      {
+        "rekkefoelge": 19,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11148",
+        "uri": "http://psi.udir.no/kl06/K11148",
+        "url-data": "http://data.udir.no/kl06/K11148",
+        "tittel": "utføre forsøk med treningssatellitt for kontakt med kontrollstasjon, antennestyring og kontroll av status for spenninger, strømmer og temperatur"
+      },
+      {
+        "rekkefoelge": 20,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11149",
+        "uri": "http://psi.udir.no/kl06/K11149",
+        "url-data": "http://data.udir.no/kl06/K11149",
+        "tittel": "utføre forsøk med varmesøkende og infrarødt kamera og redegjøre for den prinsipielle virkemåten"
+      },
+      {
+        "rekkefoelge": 21,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11150",
+        "uri": "http://psi.udir.no/kl06/K11150",
+        "url-data": "http://data.udir.no/kl06/K11150",
+        "tittel": "gjøre rede for norsk romforskning og industri, utvikling og deltakelse i internasjonale prosjekter"
+      },
+      {
+        "rekkefoelge": 22,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11151",
+        "uri": "http://psi.udir.no/kl06/K11151",
+        "url-data": "http://data.udir.no/kl06/K11151",
+        "tittel": "gjøre rede for spin-off-effekter av romteknologisk forskning og utvikling"
+      },
+      {
+        "rekkefoelge": 23,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11152",
+        "uri": "http://psi.udir.no/kl06/K11152",
+        "url-data": "http://data.udir.no/kl06/K11152",
+        "tittel": "utføre arbeid etter gjeldende regelverk for helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11153",
+        "uri": "http://psi.udir.no/kl06/K11153",
+        "url-data": "http://data.udir.no/kl06/K11153",
+        "tittel": "forklare på blokkskjemanivå sammensetningen av en totalt fungerende telemetristasjon"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11154",
+        "uri": "http://psi.udir.no/kl06/K11154",
+        "url-data": "http://data.udir.no/kl06/K11154",
+        "tittel": "beskrive oppbygningen av sendere og mottakere for generell telemetri"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11155",
+        "uri": "http://psi.udir.no/kl06/K11155",
+        "url-data": "http://data.udir.no/kl06/K11155",
+        "tittel": "forklare virkemåten til spesielle apparater for distribusjon av antennesignaler i en telemetristasjon "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11156",
+        "uri": "http://psi.udir.no/kl06/K11156",
+        "url-data": "http://data.udir.no/kl06/K11156",
+        "tittel": "gjøre rede for informasjonsbegrepet og Shannons teori "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11157",
+        "uri": "http://psi.udir.no/kl06/K11157",
+        "url-data": "http://data.udir.no/kl06/K11157",
+        "tittel": "forklare ulike effekter av flammedemping, spinnmodulasjon og dopplerskift i tilknytning til telemetri fra raketter"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11158",
+        "uri": "http://psi.udir.no/kl06/K11158",
+        "url-data": "http://data.udir.no/kl06/K11158",
+        "tittel": "gjøre rede for hvilke fenomener som påvirker signalkvaliteten i en datalink mellom bakke- og romsegment, og plassere disse i et linkbudsjett"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11159",
+        "uri": "http://psi.udir.no/kl06/K11159",
+        "url-data": "http://data.udir.no/kl06/K11159",
+        "tittel": "kople opp og sette i drift sendere og mottakere for et telemetrisystem"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11160",
+        "uri": "http://psi.udir.no/kl06/K11160",
+        "url-data": "http://data.udir.no/kl06/K11160",
+        "tittel": "kople sammen, programmere og bruke et fullt oppsatt dekodersystem på reelle måledata"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11161",
+        "uri": "http://psi.udir.no/kl06/K11161",
+        "url-data": "http://data.udir.no/kl06/K11161",
+        "tittel": "bruke sensorer i telemetrisammenheng"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11162",
+        "uri": "http://psi.udir.no/kl06/K11162",
+        "url-data": "http://data.udir.no/kl06/K11162",
+        "tittel": "beskrive, bygge og tilpasse ulike typer telemetrinyttelast for oppskyting og tester "
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11163",
+        "uri": "http://psi.udir.no/kl06/K11163",
+        "url-data": "http://data.udir.no/kl06/K11163",
+        "tittel": "forklare virkemåten til og oppbygging av ulike antennetyper i forbindelse med telemetrioverføring "
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11164",
+        "uri": "http://psi.udir.no/kl06/K11164",
+        "url-data": "http://data.udir.no/kl06/K11164",
+        "tittel": "gjøre rede for begrensninger og muligheter ved ulike antennetyper til bruk i romsegmentet"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11165",
+        "uri": "http://psi.udir.no/kl06/K11165",
+        "url-data": "http://data.udir.no/kl06/K11165",
+        "tittel": "beskrive ulike metoder for banebestemmelse av raketter"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11166",
+        "uri": "http://psi.udir.no/kl06/K11166",
+        "url-data": "http://data.udir.no/kl06/K11166",
+        "tittel": "kople opp et telemetrisystem og gjøre rede for datalogging og lagring"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11167",
+        "uri": "http://psi.udir.no/kl06/K11167",
+        "url-data": "http://data.udir.no/kl06/K11167",
+        "tittel": "gjøre rede for sikkerhetsrutiner under rakettoppskytinger og for arbeid på telemetri- og mikrobølgeinstallasjoner"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11168",
+        "uri": "http://psi.udir.no/kl06/K11168",
+        "url-data": "http://data.udir.no/kl06/K11168",
+        "tittel": "utføre arbeid etter gjeldende regelverk for helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11169",
+        "uri": "http://psi.udir.no/kl06/K11169",
+        "url-data": "http://data.udir.no/kl06/K11169",
+        "tittel": "bruke nettbaserte læringsressurser "
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11170",
+        "uri": "http://psi.udir.no/kl06/K11170",
+        "url-data": "http://data.udir.no/kl06/K11170",
+        "tittel": "utføre beregninger for rettlinjet bevegelse og for sirkelbevegelse"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11171",
+        "uri": "http://psi.udir.no/kl06/K11171",
+        "url-data": "http://data.udir.no/kl06/K11171",
+        "tittel": "forklare Newtons tre lover og Newtons gravitasjonslov og anvende dem i romrelaterte sammenhenger"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11172",
+        "uri": "http://psi.udir.no/kl06/K11172",
+        "url-data": "http://data.udir.no/kl06/K11172",
+        "tittel": "foreta beregninger og beskrive ulike former for energi og energioverganger"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11173",
+        "uri": "http://psi.udir.no/kl06/K11173",
+        "url-data": "http://data.udir.no/kl06/K11173",
+        "tittel": "beregne den mekaniske energien til satellitter "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11174",
+        "uri": "http://psi.udir.no/kl06/K11174",
+        "url-data": "http://data.udir.no/kl06/K11174",
+        "tittel": "utføre beregninger av unnslipningsfart og frigjøringsarbeid fra tyngdefelt"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11175",
+        "uri": "http://psi.udir.no/kl06/K11175",
+        "url-data": "http://data.udir.no/kl06/K11175",
+        "tittel": "anvende Keplers lover på planet- og satellittbevegelse"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11176",
+        "uri": "http://psi.udir.no/kl06/K11176",
+        "url-data": "http://data.udir.no/kl06/K11176",
+        "tittel": "forklare ulike måter for hvordan vektløshet kan skapes"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11177",
+        "uri": "http://psi.udir.no/kl06/K11177",
+        "url-data": "http://data.udir.no/kl06/K11177",
+        "tittel": "beskrive prinsippet for alternative energikilder"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11178",
+        "uri": "http://psi.udir.no/kl06/K11178",
+        "url-data": "http://data.udir.no/kl06/K11178",
+        "tittel": "anvende termofysikkens første og andre lov"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11179",
+        "uri": "http://psi.udir.no/kl06/K11179",
+        "url-data": "http://data.udir.no/kl06/K11179",
+        "tittel": "gjøre rede for det elektromagnetiske spekteret"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11180",
+        "uri": "http://psi.udir.no/kl06/K11180",
+        "url-data": "http://data.udir.no/kl06/K11180",
+        "tittel": "beskrive ulike atommodeller, forklare emisjons- og absorpsjonsspektre og beregne frekvenser og bølgelengder til spektrallinjer"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11181",
+        "uri": "http://psi.udir.no/kl06/K11181",
+        "url-data": "http://data.udir.no/kl06/K11181",
+        "tittel": "beskrive ulike typer ioniserende stråling, kildene til disse, farer og mulig beskyttelse mot strålingen, spesielt ved romvirksomhet"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11182",
+        "uri": "http://psi.udir.no/kl06/K11182",
+        "url-data": "http://data.udir.no/kl06/K11182",
+        "tittel": "utføre radioaktivitetsmålinger med ulike instrumenter "
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11183",
+        "uri": "http://psi.udir.no/kl06/K11183",
+        "url-data": "http://data.udir.no/kl06/K11183",
+        "tittel": "bruke bevaringslover til å beskrive fisjons- og fusjonsprosesser og beregne frigjort energi i slike prosesser"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11184",
+        "uri": "http://psi.udir.no/kl06/K11184",
+        "url-data": "http://data.udir.no/kl06/K11184",
+        "tittel": "utføre forsøk for brytning, bøying/interferens, refleksjon og spredning av lys og gjøre beregninger"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11185",
+        "uri": "http://psi.udir.no/kl06/K11185",
+        "url-data": "http://data.udir.no/kl06/K11185",
+        "tittel": "utføre forsøk med laser og forklare prinsippet for laserstråling og anvendelser"
+      },
+      {
+        "rekkefoelge": 18,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11186",
+        "uri": "http://psi.udir.no/kl06/K11186",
+        "url-data": "http://data.udir.no/kl06/K11186",
+        "tittel": "beskrive solas oppbygging, temperatur, strålingsspektrum, sykluser, magnetfelt, solflekker, rotasjon og hvordan sola innvirker på jorda og vårt solsystem"
+      },
+      {
+        "rekkefoelge": 19,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11187",
+        "uri": "http://psi.udir.no/kl06/K11187",
+        "url-data": "http://data.udir.no/kl06/K11187",
+        "tittel": "beskrive stjerners livssykluser og hvordan grunnstoffer blir dannet i stjerner"
+      },
+      {
+        "rekkefoelge": 20,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11188",
+        "uri": "http://psi.udir.no/kl06/K11188",
+        "url-data": "http://data.udir.no/kl06/K11188",
+        "tittel": "forklare hvordan informasjon om stjerner er systematisert i et Hertzsprung–Russel-diagram"
+      },
+      {
+        "rekkefoelge": 21,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11189",
+        "uri": "http://psi.udir.no/kl06/K11189",
+        "url-data": "http://data.udir.no/kl06/K11189",
+        "tittel": "beskrive og drøfte standardmodellen for universets utvikling"
+      },
+      {
+        "rekkefoelge": 22,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11190",
+        "uri": "http://psi.udir.no/kl06/K11190",
+        "url-data": "http://data.udir.no/kl06/K11190",
+        "tittel": "forklare hvordan sammensetning, temperatur, avstand og fart til himmellegemer kan bestemmes"
+      },
+      {
+        "rekkefoelge": 23,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11191",
+        "uri": "http://psi.udir.no/kl06/K11191",
+        "url-data": "http://data.udir.no/kl06/K11191",
+        "tittel": "utføre beregninger med Stefan-Boltzmanns lov og Wiens forskyvningslov"
+      },
+      {
+        "rekkefoelge": 24,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11192",
+        "uri": "http://psi.udir.no/kl06/K11192",
+        "url-data": "http://data.udir.no/kl06/K11192",
+        "tittel": "gjennomføre astronomiske observasjoner med teleskop og utføre analyser og beregninger ved hjelp av programvare"
+      },
+      {
+        "rekkefoelge": 25,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11193",
+        "uri": "http://psi.udir.no/kl06/K11193",
+        "url-data": "http://data.udir.no/kl06/K11193",
+        "tittel": "beskrive kosmisk stråling "
+      },
+      {
+        "rekkefoelge": 26,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11194",
+        "uri": "http://psi.udir.no/kl06/K11194",
+        "url-data": "http://data.udir.no/kl06/K11194",
+        "tittel": "beskrive elektriske og magnetiske felt"
+      },
+      {
+        "rekkefoelge": 27,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11195",
+        "uri": "http://psi.udir.no/kl06/K11195",
+        "url-data": "http://data.udir.no/kl06/K11195",
+        "tittel": "beskrive jordas magnetfelt og forklare variasjoner i magnetfeltet"
+      },
+      {
+        "rekkefoelge": 28,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11196",
+        "uri": "http://psi.udir.no/kl06/K11196",
+        "url-data": "http://data.udir.no/kl06/K11196",
+        "tittel": "beskrive hvordan det forskes på nordlys og redegjøre for nordlysforskningens resultater"
+      },
+      {
+        "rekkefoelge": 29,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11197",
+        "uri": "http://psi.udir.no/kl06/K11197",
+        "url-data": "http://data.udir.no/kl06/K11197",
+        "tittel": "beskrive strålingsmiljøet rundt jorda og forklare hvilken praktisk betydning varsling av romværet har"
+      },
+      {
+        "rekkefoelge": 30,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11198",
+        "uri": "http://psi.udir.no/kl06/K11198",
+        "url-data": "http://data.udir.no/kl06/K11198",
+        "tittel": "gjøre rede for bruk av LIDAR for observasjon og målinger i jordas atmosfære"
+      },
+      {
+        "rekkefoelge": 31,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11199",
+        "uri": "http://psi.udir.no/kl06/K11199",
+        "url-data": "http://data.udir.no/kl06/K11199",
+        "tittel": "beskrive sammensetning, lagdeling, trykk og temperatur i jordas atmosfære"
+      },
+      {
+        "rekkefoelge": 32,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11200",
+        "uri": "http://psi.udir.no/kl06/K11200",
+        "url-data": "http://data.udir.no/kl06/K11200",
+        "tittel": "beskrive dannelse og nedbrytning av ozon i atmosfæren, betydning av ozonlaget og hvordan utviklingen av ozonlaget overvåkes"
+      },
+      {
+        "rekkefoelge": 33,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11201",
+        "uri": "http://psi.udir.no/kl06/K11201",
+        "url-data": "http://data.udir.no/kl06/K11201",
+        "tittel": "drøfte årsaker til klimaendringer og mulige konsekvenser av klimaendringer og vurdere mulige mottiltak"
+      },
+      {
+        "rekkefoelge": 34,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11202",
+        "uri": "http://psi.udir.no/kl06/K11202",
+        "url-data": "http://data.udir.no/kl06/K11202",
+        "tittel": "gjøre rede for måling av klima både i nåtid og i geologisk tid"
+      },
+      {
+        "rekkefoelge": 35,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11203",
+        "uri": "http://psi.udir.no/kl06/K11203",
+        "url-data": "http://data.udir.no/kl06/K11203",
+        "tittel": "forklare strålingsbalanse og drivhuseffekt"
+      },
+      {
+        "rekkefoelge": 36,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11204",
+        "uri": "http://psi.udir.no/kl06/K11204",
+        "url-data": "http://data.udir.no/kl06/K11204",
+        "tittel": "beskrive fysiske og biologiske forhold for mennesker i rommet"
+      },
+      {
+        "rekkefoelge": 37,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11205",
+        "uri": "http://psi.udir.no/kl06/K11205",
+        "url-data": "http://data.udir.no/kl06/K11205",
+        "tittel": "utføre forsøk/simuleringer innenfor de ulike delene av faget og bearbeide, presentere og vurdere resultater og konklusjoner"
+      },
+      {
+        "rekkefoelge": 38,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11206",
+        "uri": "http://psi.udir.no/kl06/K11206",
+        "url-data": "http://data.udir.no/kl06/K11206",
+        "tittel": "presentere dagsaktuelle prosjekter og resultater fra forskningen"
+      },
+      {
+        "rekkefoelge": 39,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11207",
+        "uri": "http://psi.udir.no/kl06/K11207",
+        "url-data": "http://data.udir.no/kl06/K11207",
+        "tittel": "utføre arbeid etter gjeldende regelverk for helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11208",
+        "uri": "http://psi.udir.no/kl06/K11208",
+        "url-data": "http://data.udir.no/kl06/K11208",
+        "tittel": "bruke nettbaserte læringsressurser "
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11209",
+        "uri": "http://psi.udir.no/kl06/K11209",
+        "url-data": "http://data.udir.no/kl06/K11209",
+        "tittel": "gjøre rede for anvendelser av GIS og fjernanalyse i ulike fagområder"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11210",
+        "uri": "http://psi.udir.no/kl06/K11210",
+        "url-data": "http://data.udir.no/kl06/K11210",
+        "tittel": "forklare grunnleggende teknikker i GIS og anvende dem i praksis"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11211",
+        "uri": "http://psi.udir.no/kl06/K11211",
+        "url-data": "http://data.udir.no/kl06/K11211",
+        "tittel": "bruke standard programvare for GIS og bildebehandling"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11212",
+        "uri": "http://psi.udir.no/kl06/K11212",
+        "url-data": "http://data.udir.no/kl06/K11212",
+        "tittel": "arbeide selvstendig med ulike typer av geografiske data i et GIS"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11213",
+        "uri": "http://psi.udir.no/kl06/K11213",
+        "url-data": "http://data.udir.no/kl06/K11213",
+        "tittel": "beskrive ulike kartprojeksjoner og koordinatsystemer"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11214",
+        "uri": "http://psi.udir.no/kl06/K11214",
+        "url-data": "http://data.udir.no/kl06/K11214",
+        "tittel": "forklare ulike datafangstmetoder og vurdere anvendelsen"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11215",
+        "uri": "http://psi.udir.no/kl06/K11215",
+        "url-data": "http://data.udir.no/kl06/K11215",
+        "tittel": "bygge opp en database og gjøre rede for ulike databasesystemer og datakomprimering"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11216",
+        "uri": "http://psi.udir.no/kl06/K11216",
+        "url-data": "http://data.udir.no/kl06/K11216",
+        "tittel": "bruke ulike analysemetoder basert på raster- og vektordata"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11217",
+        "uri": "http://psi.udir.no/kl06/K11217",
+        "url-data": "http://data.udir.no/kl06/K11217",
+        "tittel": "gjøre rede for interferometri"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11218",
+        "uri": "http://psi.udir.no/kl06/K11218",
+        "url-data": "http://data.udir.no/kl06/K11218",
+        "tittel": "utføre tredimensjonale analyser"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11219",
+        "uri": "http://psi.udir.no/kl06/K11219",
+        "url-data": "http://data.udir.no/kl06/K11219",
+        "tittel": "visualisere analyseresultater"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11220",
+        "uri": "http://psi.udir.no/kl06/K11220",
+        "url-data": "http://data.udir.no/kl06/K11220",
+        "tittel": "gjøre rede for datakvalitet og metadata"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11221",
+        "uri": "http://psi.udir.no/kl06/K11221",
+        "url-data": "http://data.udir.no/kl06/K11221",
+        "tittel": "beskrive ulike navigasjons- og posisjoneringssystemer"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11222",
+        "uri": "http://psi.udir.no/kl06/K11222",
+        "url-data": "http://data.udir.no/kl06/K11222",
+        "tittel": "beskrive prinsippene for fjernanalyse"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11223",
+        "uri": "http://psi.udir.no/kl06/K11223",
+        "url-data": "http://data.udir.no/kl06/K11223",
+        "tittel": "forklare aktive og passive sensorer og deres bruksområder"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11224",
+        "uri": "http://psi.udir.no/kl06/K11224",
+        "url-data": "http://data.udir.no/kl06/K11224",
+        "tittel": "utføre ulike analyser av fly- og satellittbilder"
+      },
+      {
+        "rekkefoelge": 18,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11225",
+        "uri": "http://psi.udir.no/kl06/K11225",
+        "url-data": "http://data.udir.no/kl06/K11225",
+        "tittel": "korrigere satellittbilder, slik at de kan brukes sammen med kart"
+      },
+      {
+        "rekkefoelge": 19,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11226",
+        "uri": "http://psi.udir.no/kl06/K11226",
+        "url-data": "http://data.udir.no/kl06/K11226",
+        "tittel": "beskrive anvendelser av fjernanalyse av jorda og utenfor jorda"
+      },
+      {
+        "rekkefoelge": 20,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11227",
+        "uri": "http://psi.udir.no/kl06/K11227",
+        "url-data": "http://data.udir.no/kl06/K11227",
+        "tittel": "bruke GIS-kompetanse i inn- og utland"
+      },
+      {
+        "rekkefoelge": 21,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11228",
+        "uri": "http://psi.udir.no/kl06/K11228",
+        "url-data": "http://data.udir.no/kl06/K11228",
+        "tittel": "gjøre rede for hvordan GIS brukes for å vise global miljøstatus og kan bidra til bærekraftig utvikling"
+      },
+      {
+        "rekkefoelge": 22,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11229",
+        "uri": "http://psi.udir.no/kl06/K11229",
+        "url-data": "http://data.udir.no/kl06/K11229",
+        "tittel": "bruke internettsider og -portaler som er basert på GIS og fjernanalyse"
       }
     ]
   },

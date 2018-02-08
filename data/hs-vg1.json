@@ -68,6 +68,142 @@
         "uri": "http://psi.udir.no/kl06/K647",
         "url-data": "http://data.udir.no/kl06/K647",
         "tittel": "bruke rette arbeidsteknikkar og gode arbeidsstillingar, og gjere greie for samanhengen mellom ergonomi og helse"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K648",
+        "uri": "http://psi.udir.no/kl06/K648",
+        "url-data": "http://data.udir.no/kl06/K648",
+        "tittel": "gjere greie for og gi døme på kva haldningar, verdiar og menneskesyn er, med utgangspunkt i ulike psykologiske perspektiv"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K649",
+        "uri": "http://psi.udir.no/kl06/K649",
+        "url-data": "http://data.udir.no/kl06/K649",
+        "tittel": "grunngi og vurdere eigne haldningar og veremåtar når omsorg og utvikling hos brukaren er målet, uavhengig av kultur, religion, livsførsel og funksjonsnivå hos den andre"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K650",
+        "uri": "http://psi.udir.no/kl06/K650",
+        "url-data": "http://data.udir.no/kl06/K650",
+        "tittel": "gjere greie for kva som kjenneteiknar kommunikasjon som fremjar helse, trivsel og velvære, og sjølv medverke til det"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K651",
+        "uri": "http://psi.udir.no/kl06/K651",
+        "url-data": "http://data.udir.no/kl06/K651",
+        "tittel": "kommunisere med ulike brukarar ut frå deira behov og modningsnivå"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K652",
+        "uri": "http://psi.udir.no/kl06/K652",
+        "url-data": "http://data.udir.no/kl06/K652",
+        "tittel": "drøfte og prøve ut ulike modellar for konflikthandtering"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K653",
+        "uri": "http://psi.udir.no/kl06/K653",
+        "url-data": "http://data.udir.no/kl06/K653",
+        "tittel": "forklare kva sosial kompetanse vil seie, og gi døme på korleis ein sjølv kan bruke sosial kompetanse i møte med menneske som er avhengige av tilbod i oppvekst-, helse- og sosialsektoren"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K654",
+        "uri": "http://psi.udir.no/kl06/K654",
+        "url-data": "http://data.udir.no/kl06/K654",
+        "tittel": "gjere greie for kva empati tyder innanfor oppvekst-, helse- og sosialsektoren"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K655",
+        "uri": "http://psi.udir.no/kl06/K655",
+        "url-data": "http://data.udir.no/kl06/K655",
+        "tittel": "gi døme på korleis empati kjem til uttrykk i handlingar, og sjølv kunne vise empati i veremåten sin"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K656",
+        "uri": "http://psi.udir.no/kl06/K656",
+        "url-data": "http://data.udir.no/kl06/K656",
+        "tittel": "forklare kva eit etisk dilemma er, og gi døme på slike dilemma"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K657",
+        "uri": "http://psi.udir.no/kl06/K657",
+        "url-data": "http://data.udir.no/kl06/K657",
+        "tittel": "gjere greie for korleis ein har organisert oppvekst-, helse- og sosialtenestene i samfunnet i dag"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K658",
+        "uri": "http://psi.udir.no/kl06/K658",
+        "url-data": "http://data.udir.no/kl06/K658",
+        "tittel": "drøfte korleis endringar i samfunnet påverkar yrkesutøvinga i oppvekst-, helse- og sosialsektoren"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K659",
+        "uri": "http://psi.udir.no/kl06/K659",
+        "url-data": "http://data.udir.no/kl06/K659",
+        "tittel": "gjere greie for kjenneteikn på profesjonalitet i yrke innanfor oppvekst-, helse- og sosialsektoren"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K660",
+        "uri": "http://psi.udir.no/kl06/K660",
+        "url-data": "http://data.udir.no/kl06/K660",
+        "tittel": "diskutere og gi døme på service, etikk og omsorg i oppvekst-, helse- og sosialsektoren"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K14126",
+        "uri": "http://psi.udir.no/kl06/K14126",
+        "url-data": "http://data.udir.no/kl06/K14126",
+        "tittel": "gjere greie for sentralt regelverk som regulerer arbeidet i oppvekst-, helse- og sosialsektoren"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K662",
+        "uri": "http://psi.udir.no/kl06/K662",
+        "url-data": "http://data.udir.no/kl06/K662",
+        "tittel": "gjere greie for kvifor det er viktig med heilskapleg og tverrfagleg samarbeid, og gi døme på yrkesgrupper som er med i slikt samarbeid"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K663",
+        "uri": "http://psi.udir.no/kl06/K663",
+        "url-data": "http://data.udir.no/kl06/K663",
+        "tittel": "gjere greie for utfordringar og moglegheiter som vårt fleirkulturelle samfunn representerer for yrkesutøvinga i oppvekst, helse- og sosialsektoren"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K664",
+        "uri": "http://psi.udir.no/kl06/K664",
+        "url-data": "http://data.udir.no/kl06/K664",
+        "tittel": "gi døme på korleis brukaren kan stimulerast til læring og opplevingar, uavhengig av alder, kulturtilhøyring og funksjonsnivå"
       }
     ]
   }

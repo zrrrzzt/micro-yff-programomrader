@@ -116,6 +116,166 @@
         "uri": "http://psi.udir.no/kl06/K1957",
         "url-data": "http://data.udir.no/kl06/K1957",
         "tittel": "forklare gangen i en arbeidsoppgave fra idé til sluttprodukt"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1958",
+        "uri": "http://psi.udir.no/kl06/K1958",
+        "url-data": "http://data.udir.no/kl06/K1958",
+        "tittel": "tolke og forklare arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1959",
+        "uri": "http://psi.udir.no/kl06/K1959",
+        "url-data": "http://data.udir.no/kl06/K1959",
+        "tittel": "bruke verktøy og utstyr i henhold til lover og forskrifter"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1960",
+        "uri": "http://psi.udir.no/kl06/K1960",
+        "url-data": "http://data.udir.no/kl06/K1960",
+        "tittel": "foreta risikovurderinger i forhold til helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1961",
+        "uri": "http://psi.udir.no/kl06/K1961",
+        "url-data": "http://data.udir.no/kl06/K1961",
+        "tittel": "velge riktig håndverktøy og utstyr for service, vedlikehold og reparasjoner"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1962",
+        "uri": "http://psi.udir.no/kl06/K1962",
+        "url-data": "http://data.udir.no/kl06/K1962",
+        "tittel": "velge riktig måleverktøy i forhold til arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1963",
+        "uri": "http://psi.udir.no/kl06/K1963",
+        "url-data": "http://data.udir.no/kl06/K1963",
+        "tittel": "demontere og montere maskinelementer og utstyr som er relevant for arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1964",
+        "uri": "http://psi.udir.no/kl06/K1964",
+        "url-data": "http://data.udir.no/kl06/K1964",
+        "tittel": "måle trykk, temperatur og mengde i forhold til en arbeidsoppgave og vurdere måleresultatet"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1965",
+        "uri": "http://psi.udir.no/kl06/K1965",
+        "url-data": "http://data.udir.no/kl06/K1965",
+        "tittel": "kople opp og teste enkle styringssystemer basert på hydraulikk og pneumatikk"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1966",
+        "uri": "http://psi.udir.no/kl06/K1966",
+        "url-data": "http://data.udir.no/kl06/K1966",
+        "tittel": "måle grunnleggende elektriske størrelser som inngår i arbeidsoppgaver, og vurdere måleresultatet"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1967",
+        "uri": "http://psi.udir.no/kl06/K1967",
+        "url-data": "http://data.udir.no/kl06/K1967",
+        "tittel": "planlegge og gjennomføre forebyggende vedlikehold på maskiner og utstyr"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1968",
+        "uri": "http://psi.udir.no/kl06/K1968",
+        "url-data": "http://data.udir.no/kl06/K1968",
+        "tittel": "etterse og vedlikeholde verktøy og instrumenter"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1969",
+        "uri": "http://psi.udir.no/kl06/K1969",
+        "url-data": "http://data.udir.no/kl06/K1969",
+        "tittel": "forstå og følge tegninger og skjemaer som skal brukes i produksjon og vedlikehold"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1970",
+        "uri": "http://psi.udir.no/kl06/K1970",
+        "url-data": "http://data.udir.no/kl06/K1970",
+        "tittel": "bruke digitale verktøy til å utarbeide enkle to- og tredimensjonale tegninger og prosessflytskjemaer"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1971",
+        "uri": "http://psi.udir.no/kl06/K1971",
+        "url-data": "http://data.udir.no/kl06/K1971",
+        "tittel": "finne fram til og følge produktdatablad og HMS-datablad"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1972",
+        "uri": "http://psi.udir.no/kl06/K1972",
+        "url-data": "http://data.udir.no/kl06/K1972",
+        "tittel": "søke etter nødvendig informasjon for å kunne utføre arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1973",
+        "uri": "http://psi.udir.no/kl06/K1973",
+        "url-data": "http://data.udir.no/kl06/K1973",
+        "tittel": "vise til regelverk og standarder som er relevant for arbeidet"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1974",
+        "uri": "http://psi.udir.no/kl06/K1974",
+        "url-data": "http://data.udir.no/kl06/K1974",
+        "tittel": "fylle ut aktuelle rapporter og skjemaer i forhold til arbeidsoppgaver"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1975",
+        "uri": "http://psi.udir.no/kl06/K1975",
+        "url-data": "http://data.udir.no/kl06/K1975",
+        "tittel": "registrere avvik og utarbeide avviksrapporter"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1976",
+        "uri": "http://psi.udir.no/kl06/K1976",
+        "url-data": "http://data.udir.no/kl06/K1976",
+        "tittel": "vurdere eget arbeid i henhold til planer, tegninger, beskrivelser og standarder"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1977",
+        "uri": "http://psi.udir.no/kl06/K1977",
+        "url-data": "http://data.udir.no/kl06/K1977",
+        "tittel": "forklare sertifikatkrav som kan regulere arbeidsutførelse innen teknikk og industriell produksjon"
       }
     ]
   }

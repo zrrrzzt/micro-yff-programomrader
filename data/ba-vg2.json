@@ -116,6 +116,78 @@
         "uri": "http://psi.udir.no/kl06/K854",
         "url-data": "http://data.udir.no/kl06/K854",
         "tittel": "håndtere avfall og materialer i samsvar med krav til sikkerhet, miljø og ressursbruk"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K833",
+        "uri": "http://psi.udir.no/kl06/K833",
+        "url-data": "http://data.udir.no/kl06/K833",
+        "tittel": "gjøre rede for anleggsfagenes historiske utvikling og diskutere deres betydning i samfunnsperspektiv"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K845",
+        "uri": "http://psi.udir.no/kl06/K845",
+        "url-data": "http://data.udir.no/kl06/K845",
+        "tittel": "dokumentere gjennomført sikkerhetskurs for bruk av masseforflytningsmaskiner og arbeidsutstyr"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K846",
+        "uri": "http://psi.udir.no/kl06/K846",
+        "url-data": "http://data.udir.no/kl06/K846",
+        "tittel": "lese og bruke tegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K847",
+        "uri": "http://psi.udir.no/kl06/K847",
+        "url-data": "http://data.udir.no/kl06/K847",
+        "tittel": "bruke relevant måleutstyr til oppmåling og utsetting av høyder og vinkler"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K848",
+        "uri": "http://psi.udir.no/kl06/K848",
+        "url-data": "http://data.udir.no/kl06/K848",
+        "tittel": "gjøre rede for gjeldende krav til anlegg, drift og kontroll av grøfter og ledningsanlegg"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K849",
+        "uri": "http://psi.udir.no/kl06/K849",
+        "url-data": "http://data.udir.no/kl06/K849",
+        "tittel": "følge gjeldende krav til håndtering og bruk av eksplosiv vare for sprengningsarbeider under jord og i dagen"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K850",
+        "uri": "http://psi.udir.no/kl06/K850",
+        "url-data": "http://data.udir.no/kl06/K850",
+        "tittel": "utføre arbeidsvarsling for arbeider på og inntil offentlig veg"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K851",
+        "uri": "http://psi.udir.no/kl06/K851",
+        "url-data": "http://data.udir.no/kl06/K851",
+        "tittel": "anvende digitale verktøy i kommunikasjon, planlegging og dokumentasjon av anleggsarbeider"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K852",
+        "uri": "http://psi.udir.no/kl06/K852",
+        "url-data": "http://data.udir.no/kl06/K852",
+        "tittel": "gjøre rede for avtaleverket som regulerer forholdet mellom arbeidstaker og arbeidsgiver"
       }
     ]
   },
@@ -292,6 +364,62 @@
         "uri": "http://psi.udir.no/kl06/K704",
         "url-data": "http://data.udir.no/kl06/K704",
         "tittel": "håndtere avfall og materialer i samsvar med krav til sikkerhet, miljø og ressursbruk"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K705",
+        "uri": "http://psi.udir.no/kl06/K705",
+        "url-data": "http://data.udir.no/kl06/K705",
+        "tittel": "gjøre rede for fagenes historiske utvikling og diskutere deres betydning i et samfunnsperspektiv"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K706",
+        "uri": "http://psi.udir.no/kl06/K706",
+        "url-data": "http://data.udir.no/kl06/K706",
+        "tittel": "tegne skisser og konstruksjoner i målestokk"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K707",
+        "uri": "http://psi.udir.no/kl06/K707",
+        "url-data": "http://data.udir.no/kl06/K707",
+        "tittel": "bruke digitale verktøy til å lage tegninger og foreta beregninger"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K708",
+        "uri": "http://psi.udir.no/kl06/K708",
+        "url-data": "http://data.udir.no/kl06/K708",
+        "tittel": "gi eksempler på hvordan avtaleverket regulerer forholdet mellom arbeidstaker og arbeidsgiver"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K709",
+        "uri": "http://psi.udir.no/kl06/K709",
+        "url-data": "http://data.udir.no/kl06/K709",
+        "tittel": "gjøre rede for saksgang i en enkel byggesak"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K710",
+        "uri": "http://psi.udir.no/kl06/K710",
+        "url-data": "http://data.udir.no/kl06/K710",
+        "tittel": "gjøre rede for gjeldende regelverk for helse, miljø og sikkerhet som er relevant for byggteknikk"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K711",
+        "uri": "http://psi.udir.no/kl06/K711",
+        "url-data": "http://data.udir.no/kl06/K711",
+        "tittel": "gjøre rede for egenskapene til de vanligste materialene som brukes i byggteknikk"
       }
     ]
   },
@@ -452,6 +580,110 @@
         "uri": "http://psi.udir.no/kl06/K5931",
         "url-data": "http://data.udir.no/kl06/K5931",
         "tittel": "vurdere risiko og utføre arbeid etter regler for helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5932",
+        "uri": "http://psi.udir.no/kl06/K5932",
+        "url-data": "http://data.udir.no/kl06/K5932",
+        "tittel": "gjøre rede for fagenes historiske utvikling og diskutere deres betydning i et samfunnsperspektiv"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5933",
+        "uri": "http://psi.udir.no/kl06/K5933",
+        "url-data": "http://data.udir.no/kl06/K5933",
+        "tittel": "utføre kostnadsberegninger og andre relevante beregninger"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5934",
+        "uri": "http://psi.udir.no/kl06/K5934",
+        "url-data": "http://data.udir.no/kl06/K5934",
+        "tittel": "beregne og vurdere styrkeforhold i konstruksjoner og installasjoner"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5935",
+        "uri": "http://psi.udir.no/kl06/K5935",
+        "url-data": "http://data.udir.no/kl06/K5935",
+        "tittel": "lage fagtegninger med riktige dimensjoner og symboler, og i målestokk"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5936",
+        "uri": "http://psi.udir.no/kl06/K5936",
+        "url-data": "http://data.udir.no/kl06/K5936",
+        "tittel": "bruke digitale verktøy til å hente inn informasjon, lage tegninger og dokumentere arbeidet"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5937",
+        "uri": "http://psi.udir.no/kl06/K5937",
+        "url-data": "http://data.udir.no/kl06/K5937",
+        "tittel": "forebygge lekkasje og kondensproblemer"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5938",
+        "uri": "http://psi.udir.no/kl06/K5938",
+        "url-data": "http://data.udir.no/kl06/K5938",
+        "tittel": "utføre enkle arbeidsoppgaver i våtrom"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5939",
+        "uri": "http://psi.udir.no/kl06/K5939",
+        "url-data": "http://data.udir.no/kl06/K5939",
+        "tittel": "gjøre rede for ulike oppvarmings- og ventilasjonssystemer og diskutere energisparende tiltak og alternative energiløsninger"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5940",
+        "uri": "http://psi.udir.no/kl06/K5940",
+        "url-data": "http://data.udir.no/kl06/K5940",
+        "tittel": "håndtere avfall, helsefarlige kjemikalier og gasser i samsvar med krav til sikkerhet, miljø og ressursbruk"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5941",
+        "uri": "http://psi.udir.no/kl06/K5941",
+        "url-data": "http://data.udir.no/kl06/K5941",
+        "tittel": "lese monteringsanvisninger og kunne anvende disse"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5942",
+        "uri": "http://psi.udir.no/kl06/K5942",
+        "url-data": "http://data.udir.no/kl06/K5942",
+        "tittel": "gjøre rede for aktuelle lover og forskrifter og utføre arbeidet i henhold til disse"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5943",
+        "uri": "http://psi.udir.no/kl06/K5943",
+        "url-data": "http://data.udir.no/kl06/K5943",
+        "tittel": "utføre anhuking, stropping og signalvisning ved forflytting av materialer og utstyr"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K5944",
+        "uri": "http://psi.udir.no/kl06/K5944",
+        "url-data": "http://data.udir.no/kl06/K5944",
+        "tittel": "dokumentere gjennomført kurs i varmearbeid"
       }
     ]
   },
@@ -564,6 +796,54 @@
         "uri": "http://psi.udir.no/kl06/K8054",
         "url-data": "http://data.udir.no/kl06/K8054",
         "tittel": "bruke verne- og tryggleiksutstyr"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8055",
+        "uri": "http://psi.udir.no/kl06/K8055",
+        "url-data": "http://data.udir.no/kl06/K8055",
+        "tittel": "lese og bruke relevante teikningar og beskrivingar"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8056",
+        "uri": "http://psi.udir.no/kl06/K8056",
+        "url-data": "http://data.udir.no/kl06/K8056",
+        "tittel": "bruke digitale verktøy til å hente inn informasjon, kommunisere og kvalitetssikre eige arbeid"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8057",
+        "uri": "http://psi.udir.no/kl06/K8057",
+        "url-data": "http://data.udir.no/kl06/K8057",
+        "tittel": "diskutere etiske reglar og normer for bransjen og prinsipp for god kundebehandling"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8058",
+        "uri": "http://psi.udir.no/kl06/K8058",
+        "url-data": "http://data.udir.no/kl06/K8058",
+        "tittel": "bruke stigar, arbeidsplattformer og stillas"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8059",
+        "uri": "http://psi.udir.no/kl06/K8059",
+        "url-data": "http://data.udir.no/kl06/K8059",
+        "tittel": "handtere kjemikalium, avfall og materiale i samsvar med krav til tryggleik, miljø og ressursbruk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K8060",
+        "uri": "http://psi.udir.no/kl06/K8060",
+        "url-data": "http://data.udir.no/kl06/K8060",
+        "tittel": "gjere greie for avtaleverket som regulerer forholdet mellom arbeidstakar og arbeidsgjevar"
       }
     ]
   },
@@ -652,6 +932,118 @@
         "uri": "http://psi.udir.no/kl06/K969",
         "url-data": "http://data.udir.no/kl06/K969",
         "tittel": "gi eksempler på hvordan avtaleverket regulerer forholdet mellom arbeidstaker og arbeidsgiver"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K970",
+        "uri": "http://psi.udir.no/kl06/K970",
+        "url-data": "http://data.udir.no/kl06/K970",
+        "tittel": "utføre arbeidet i henhold til gjeldende regelverk og preaksepterte løsninger"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K971",
+        "uri": "http://psi.udir.no/kl06/K971",
+        "url-data": "http://data.udir.no/kl06/K971",
+        "tittel": "planlegge, utføre, dokumentere og vurdere eget arbeid"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K972",
+        "uri": "http://psi.udir.no/kl06/K972",
+        "url-data": "http://data.udir.no/kl06/K972",
+        "tittel": "lage ulike typer trevareprodukter til bygg etter tegninger og beskrivelser"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K973",
+        "uri": "http://psi.udir.no/kl06/K973",
+        "url-data": "http://data.udir.no/kl06/K973",
+        "tittel": "stille inn og bruke relevante verktøy og trearbeids- og sammensetningsutstyr for produksjon av ulike trevareprodukter"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K974",
+        "uri": "http://psi.udir.no/kl06/K974",
+        "url-data": "http://data.udir.no/kl06/K974",
+        "tittel": "vedlikeholde verktøy, utstyr og maskiner"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K975",
+        "uri": "http://psi.udir.no/kl06/K975",
+        "url-data": "http://data.udir.no/kl06/K975",
+        "tittel": "overflatebehandle trevareprodukter og gjøre rede for ulike trebeskyttelsesmetoder"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K976",
+        "uri": "http://psi.udir.no/kl06/K976",
+        "url-data": "http://data.udir.no/kl06/K976",
+        "tittel": "programmere og bruke en datastyrt maskin til å lage deler til trevareprodukter og enkle ferdigprodukter"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K977",
+        "uri": "http://psi.udir.no/kl06/K977",
+        "url-data": "http://data.udir.no/kl06/K977",
+        "tittel": "bruke riktige arbeidsteknikker og arbeidsstillinger"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K978",
+        "uri": "http://psi.udir.no/kl06/K978",
+        "url-data": "http://data.udir.no/kl06/K978",
+        "tittel": "bruke verne- og sikkerhetsutstyr"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K979",
+        "uri": "http://psi.udir.no/kl06/K979",
+        "url-data": "http://data.udir.no/kl06/K979",
+        "tittel": "planlegge og gjennomføre arbeid i samsvar med krav til helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K980",
+        "uri": "http://psi.udir.no/kl06/K980",
+        "url-data": "http://data.udir.no/kl06/K980",
+        "tittel": "kvalitetssikre eget arbeid"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K981",
+        "uri": "http://psi.udir.no/kl06/K981",
+        "url-data": "http://data.udir.no/kl06/K981",
+        "tittel": "håndtere materialer og avfall i samsvar med krav til sikkerhet, miljø og ressursbruk"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K982",
+        "uri": "http://psi.udir.no/kl06/K982",
+        "url-data": "http://data.udir.no/kl06/K982",
+        "tittel": "drøfte sentrale prinsipper for material- og produksjonsstyring og sette opp kapp- og materiallister for aktuelle produkter"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K983",
+        "uri": "http://psi.udir.no/kl06/K983",
+        "url-data": "http://data.udir.no/kl06/K983",
+        "tittel": "sette sammen deler til produkter ut fra tegninger og beskrivelser, og gjøre rede for metoder og prinsipper for sammensetting"
       }
     ]
   },

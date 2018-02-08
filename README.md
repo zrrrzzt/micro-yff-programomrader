@@ -22,7 +22,7 @@ $ npm run update-vg1
 
 ## API
 
-### ```GET /yff/utdanningsprogrammer```
+### ```GET /utdanningsprogrammer```
 
 Get a list of all utdanningsprogrammer for yff
 
@@ -30,7 +30,7 @@ Get a list of all utdanningsprogrammer for yff
 $ curl -v https://yff.service.minelev.no/utdanningsprogrammer
 ```
 
-### ```GET /yff/utdanningsprogrammer/:id```
+### ```GET /utdanningsprogrammer/:id```
 
 Get a spesific utdanningsprogram
 
