@@ -14,6 +14,14 @@ const selectors = {
   'vg2': '.programArea',
   'vg1': '.programTitle'
 }
+const specials = {
+  'vg3': {
+    selector: '.oneYear',
+    testCase: '3'
+  },
+  'vg2': false,
+  'vg1': false
+}
 
 async function getPage (url) {
   const { data } = await axios.get(url)
@@ -38,6 +46,7 @@ async function parsePage (options) {
   const data = await getPage(options.url)
   const $ = cheerio.load(data)
   const omrader = $(options.selector)
+  const special = options.special
   let omradeIds = []
   let omradeContent = []
 
@@ -50,6 +59,19 @@ async function parsePage (options) {
     }
   })
 
+  if (special) {
+    const boxes = $(special.selector)
+    boxes.each((i, element) => {
+      const programId = element.attribs['data-programid']
+      const programUrl = `${baseUrl}/${programId}`
+      const testCase = new RegExp(special.testCase)
+      if (testCase.test(programId) && !omradeIds.includes(programId)) {
+        omradeIds.push(programId)
+        omradeContent.push({programId: programId, programUrl: programUrl})
+      }
+    })
+  }
+
   const jobs = omradeContent.map(getData)
 
   const results = await Promise.all(jobs)
@@ -59,7 +81,8 @@ async function parsePage (options) {
 
 async function generateOmrade (options) {
   const selector = selectors[options.level]
-  const data = await parsePage({url: options.url, selector: selector})
+  const special = specials[options.level]
+  const data = await parsePage({url: options.url, selector: selector, special: special})
   const fileName = `${basePath}/${options.id.toLocaleLowerCase()}-${options.level}.json`
   fs.writeFileSync(fileName, data, 'utf-8')
   console.log(`written ${fileName}`)

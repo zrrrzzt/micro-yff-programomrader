@@ -6998,5 +6998,1381 @@
         "tittel": "dokumentere egen opplæring innen service og vedlikehold"
       }
     ]
+  },
+  {
+    "id": "ELAUT3----",
+    "name": "Automatiseringsfaget",
+    "programUrl": "https://www.udir.no/kl06/ELAUT3----",
+    "lareplanUrl": "https://data.udir.no/kl06/AUT3-02",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18007",
+        "uri": "http://psi.udir.no/kl06/K18007",
+        "url-data": "http://data.udir.no/kl06/K18007",
+        "tittel": "utføre arbeid på automatiserte anlegg fagmessig, nøyaktig og i overensstemmelse med krav til helse, miljø og sikkerhet og rutiner for kvalitetssikring og internkontroll"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18008",
+        "uri": "http://psi.udir.no/kl06/K18008",
+        "url-data": "http://data.udir.no/kl06/K18008",
+        "tittel": "utføre risikovurdering og vurdere tiltak for ivaretakelse av person– og maskinsikkerhet "
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18009",
+        "uri": "http://psi.udir.no/kl06/K18009",
+        "url-data": "http://data.udir.no/kl06/K18009",
+        "tittel": "vurdere hvilke regelverk og normer som gjelder for arbeidet som skal utføres og anvende dette"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18010",
+        "uri": "http://psi.udir.no/kl06/K18010",
+        "url-data": "http://data.udir.no/kl06/K18010",
+        "tittel": "planlegge, utføre, vurdere kvalitet, sluttkontrollere og dokumentere arbeidet"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18011",
+        "uri": "http://psi.udir.no/kl06/K18011",
+        "url-data": "http://data.udir.no/kl06/K18011",
+        "tittel": "planlegge, programmere, montere og idriftsette programmerbare styresystemer"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18012",
+        "uri": "http://psi.udir.no/kl06/K18012",
+        "url-data": "http://data.udir.no/kl06/K18012",
+        "tittel": "endre og tilpasse skjermbilder for grensesnitt mellom menneske og maskin"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18013",
+        "uri": "http://psi.udir.no/kl06/K18013",
+        "url-data": "http://data.udir.no/kl06/K18013",
+        "tittel": "anvende ulike elektroniske kommunikasjonssystemer i automatiserte anlegg "
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18014",
+        "uri": "http://psi.udir.no/kl06/K18014",
+        "url-data": "http://data.udir.no/kl06/K18014",
+        "tittel": "vurdere datasikkerhet i automatiserte anlegg "
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18015",
+        "uri": "http://psi.udir.no/kl06/K18015",
+        "url-data": "http://data.udir.no/kl06/K18015",
+        "tittel": "tegne, lese og forklare instrumenterte prosessflytskjemaer og bruke annen relevant dokumentasjon for automatiserte anlegg "
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18016",
+        "uri": "http://psi.udir.no/kl06/K18016",
+        "url-data": "http://data.udir.no/kl06/K18016",
+        "tittel": "montere, konfigurere, kalibrere og idriftsettelse digitale og analoge målesystemer"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18017",
+        "uri": "http://psi.udir.no/kl06/K18017",
+        "url-data": "http://data.udir.no/kl06/K18017",
+        "tittel": "idriftsette og optimalisere regulatorer basert på prosessbehov"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18018",
+        "uri": "http://psi.udir.no/kl06/K18018",
+        "url-data": "http://data.udir.no/kl06/K18018",
+        "tittel": "montere og idriftsette ulike typer pådragsorganer med tilhørende forstillingselementer og hjelpeutstyr"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18019",
+        "uri": "http://psi.udir.no/kl06/K18019",
+        "url-data": "http://data.udir.no/kl06/K18019",
+        "tittel": "programmere, idriftsette samt gjøre rede for roboters funksjon og anvendelse i produksjonsanlegg "
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18020",
+        "uri": "http://psi.udir.no/kl06/K18020",
+        "url-data": "http://data.udir.no/kl06/K18020",
+        "tittel": "måle fysiske størrelser i automatiserte anlegg "
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18021",
+        "uri": "http://psi.udir.no/kl06/K18021",
+        "url-data": "http://data.udir.no/kl06/K18021",
+        "tittel": "feilsøke og rette feil i automatiserte anlegg"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18022",
+        "uri": "http://psi.udir.no/kl06/K18022",
+        "url-data": "http://data.udir.no/kl06/K18022",
+        "tittel": "bruke gjeldende regelverk og normer for elektriske installasjoner på maskiner"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18023",
+        "uri": "http://psi.udir.no/kl06/K18023",
+        "url-data": "http://data.udir.no/kl06/K18023",
+        "tittel": "bruke gjeldende regelverk og normer for installasjon av elektroniske kommunikasjonssystemer"
+      },
+      {
+        "rekkefoelge": 18,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18024",
+        "uri": "http://psi.udir.no/kl06/K18024",
+        "url-data": "http://data.udir.no/kl06/K18024",
+        "tittel": "beskrive ulike vedlikeholdssystemer og -rutiner knyttet til automatiserte anlegg, og anvende et av disse"
+      },
+      {
+        "rekkefoelge": 19,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18025",
+        "uri": "http://psi.udir.no/kl06/K18025",
+        "url-data": "http://data.udir.no/kl06/K18025",
+        "tittel": "redegjøre for bedriftens organisasjonsoppbygging og bedriftens verdiskapning i et samfunnsperspektiv"
+      },
+      {
+        "rekkefoelge": 20,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12219",
+        "uri": "http://psi.udir.no/kl06/K12219",
+        "url-data": "http://data.udir.no/kl06/K12219",
+        "tittel": "dokumentere egen opplæring i automatiseringssystemer"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18032",
+        "uri": "http://psi.udir.no/kl06/K18032",
+        "url-data": "http://data.udir.no/kl06/K18032",
+        "tittel": "utføre mekanisk arbeid fagmessig, nøyaktig og i overensstemmelse med krav til helse, miljø og sikkerhet og rutiner for kvalitetssikring og internkontroll"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12220",
+        "uri": "http://psi.udir.no/kl06/K12220",
+        "url-data": "http://data.udir.no/kl06/K12220",
+        "tittel": "lage planer og tegninger for arbeidsoppgaver og materialbehov etter arbeidsbeskrivelser"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12221",
+        "uri": "http://psi.udir.no/kl06/K12221",
+        "url-data": "http://data.udir.no/kl06/K12221",
+        "tittel": "velge riktige materialer for bearbeiding og sammenføying ut fra arbeidstegninger og spesifikasjoner"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18033",
+        "uri": "http://psi.udir.no/kl06/K18033",
+        "url-data": "http://data.udir.no/kl06/K18033",
+        "tittel": "bruke verktøy for kutting, saging, skjæring og rørbøying"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18034",
+        "uri": "http://psi.udir.no/kl06/K18034",
+        "url-data": "http://data.udir.no/kl06/K18034",
+        "tittel": "gjøre rede for aktuelle bearbeidingsmaskiner for mekanisk tilvirkning"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12224",
+        "uri": "http://psi.udir.no/kl06/K12224",
+        "url-data": "http://data.udir.no/kl06/K12224",
+        "tittel": "bruke aktuelle sammenføyingsmetoder"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12225",
+        "uri": "http://psi.udir.no/kl06/K12225",
+        "url-data": "http://data.udir.no/kl06/K12225",
+        "tittel": "sette sammen, modifisere, idriftsette, vedlikeholde og funksjonsteste mekanisk utstyr"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18035",
+        "uri": "http://psi.udir.no/kl06/K18035",
+        "url-data": "http://data.udir.no/kl06/K18035",
+        "tittel": "planlegge, gjennomføre og dokumentere vedlikehold av reguleringsventiler og ventilutstyr etter leverandørens spesifikasjoner"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18036",
+        "uri": "http://psi.udir.no/kl06/K18036",
+        "url-data": "http://data.udir.no/kl06/K18036",
+        "tittel": "sette sammen, modifisere, idriftsette, vedlikeholde og funksjonsteste hydraulisk og pneumatisk utstyr og av anlegg med tilhørende rørsystem "
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18037",
+        "uri": "http://psi.udir.no/kl06/K18037",
+        "url-data": "http://data.udir.no/kl06/K18037",
+        "tittel": "planlegge, sluttkontrollere og dokumentere det mekaniske arbeidet som utføres, og vurdere kvaliteten på eget arbeid "
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12231",
+        "uri": "http://psi.udir.no/kl06/K12231",
+        "url-data": "http://data.udir.no/kl06/K12231",
+        "tittel": "dokumentere egen opplæring i mekanisk arbeid"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18042",
+        "uri": "http://psi.udir.no/kl06/K18042",
+        "url-data": "http://data.udir.no/kl06/K18042",
+        "tittel": "utføre arbeid på elenergisystemer fagmessig, nøyaktig og i overensstemmelse med krav til helse, miljø og sikkerhet og rutiner for kvalitetssikring og internkontroll"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12239",
+        "uri": "http://psi.udir.no/kl06/K12239",
+        "url-data": "http://data.udir.no/kl06/K12239",
+        "tittel": "sluttkontrollere det arbeidet som utføres, og vurdere kvaliteten på eget arbeid"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18043",
+        "uri": "http://psi.udir.no/kl06/K18043",
+        "url-data": "http://data.udir.no/kl06/K18043",
+        "tittel": "gjennomføre opplæring i sikkerhet ved arbeid og drift av automatiserte og industrielle elektriske anlegg etter gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18044",
+        "uri": "http://psi.udir.no/kl06/K18044",
+        "url-data": "http://data.udir.no/kl06/K18044",
+        "tittel": "bruke gjeldende regelverk og normer for automatiserte og industrielle elektriske anlegg"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18045",
+        "uri": "http://psi.udir.no/kl06/K18045",
+        "url-data": "http://data.udir.no/kl06/K18045",
+        "tittel": "gjøre rede for faremomenter ved arbeid på automatiserte og industrielle elektriske anlegg"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12238",
+        "uri": "http://psi.udir.no/kl06/K12238",
+        "url-data": "http://data.udir.no/kl06/K12238",
+        "tittel": "gi nødvendig førstehjelp ved ulykker som følge av strømgjennomgang"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12232",
+        "uri": "http://psi.udir.no/kl06/K12232",
+        "url-data": "http://data.udir.no/kl06/K12232",
+        "tittel": "planlegge, montere, sette i drift og dokumentere energitilførsel til motordrifter og automatiseringsutstyr for ulike spenningssystemer i automatiserte og industrielle elektriske anlegg"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12233",
+        "uri": "http://psi.udir.no/kl06/K12233",
+        "url-data": "http://data.udir.no/kl06/K12233",
+        "tittel": "planlegge, vurdere og velge riktig materiell knyttet til automatiserte og industrielle elektriske anlegg"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12234",
+        "uri": "http://psi.udir.no/kl06/K12234",
+        "url-data": "http://data.udir.no/kl06/K12234",
+        "tittel": "planlegge, montere, sette i drift og dokumentere ulike jordingssystemer i automatiserte og industrielle elektriske anlegg"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12235",
+        "uri": "http://psi.udir.no/kl06/K12235",
+        "url-data": "http://data.udir.no/kl06/K12235",
+        "tittel": "gjøre rede for arbeid på utstyr i eksplosjonsfarlige områder etter gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12236",
+        "uri": "http://psi.udir.no/kl06/K12236",
+        "url-data": "http://data.udir.no/kl06/K12236",
+        "tittel": "identifisere, vurdere og iverksette tiltak i forbindelse med elektriske støykilder i automatiserte og industrielle elektriske anlegg"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K12242",
+        "uri": "http://psi.udir.no/kl06/K12242",
+        "url-data": "http://data.udir.no/kl06/K12242",
+        "tittel": "dokumentere egen opplæring i elenergisystemer"
+      }
+    ]
+  },
+  {
+    "id": "ELDAT3----",
+    "name": "Dataelektronikerfaget",
+    "programUrl": "https://www.udir.no/kl06/ELDAT3----",
+    "lareplanUrl": "https://data.udir.no/kl06/DAT3-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1017",
+        "uri": "http://psi.udir.no/kl06/K1017",
+        "url-data": "http://data.udir.no/kl06/K1017",
+        "tittel": "gjere greie for forretningsområdet til data- og elektronikkbedrifter innan system og infrastruktur"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1018",
+        "uri": "http://psi.udir.no/kl06/K1018",
+        "url-data": "http://data.udir.no/kl06/K1018",
+        "tittel": "planleggje, montere, setje i drift, gjere funksjonstestar på, søkje etter feil i og dokumentere system som tilhøyrer forretningsområdet til data- og elektronikkbedrifter"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1019",
+        "uri": "http://psi.udir.no/kl06/K1019",
+        "url-data": "http://data.udir.no/kl06/K1019",
+        "tittel": "planleggje, montere, konfigurere, setje i drift, søkje etter feil på og dokumentere tenar- og klientbaserte datasystem og nettverk"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1020",
+        "uri": "http://psi.udir.no/kl06/K1020",
+        "url-data": "http://data.udir.no/kl06/K1020",
+        "tittel": "velje feilsøkingsstrategi, velje instrumentoppsett, gjere overslag over venta måleverdiar, måle elektriske storleikar og vurdere måleresultatet"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1021",
+        "uri": "http://psi.udir.no/kl06/K1021",
+        "url-data": "http://data.udir.no/kl06/K1021",
+        "tittel": "gjere risikovurderingar av det arbeidet som blir utført, kontrollere resultatet og vurdere kvaliteten på eige arbeid"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1022",
+        "uri": "http://psi.udir.no/kl06/K1022",
+        "url-data": "http://data.udir.no/kl06/K1022",
+        "tittel": "bruke eit fagleg presist språk i kommunikasjon med kundar, leverandørar, supportpersonell, kollegaer og representantar frå andre fagområde"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1023",
+        "uri": "http://psi.udir.no/kl06/K1023",
+        "url-data": "http://data.udir.no/kl06/K1023",
+        "tittel": "utføre arbeidet fagmessig og nøyaktig i samsvar med gjeldande regelverk, standardar, rettleiingar og teknisk dokumentasjon frå produsentar, for å oppfylle krav til elektronisk kommunikasjon, informasjonstryggleik, eltryggleik og persontryggleik"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1024",
+        "uri": "http://psi.udir.no/kl06/K1024",
+        "url-data": "http://data.udir.no/kl06/K1024",
+        "tittel": "utføre arbeidet i samsvar med rutinar for internkontroll og kvalitetssikring"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1025",
+        "uri": "http://psi.udir.no/kl06/K1025",
+        "url-data": "http://data.udir.no/kl06/K1025",
+        "tittel": "gjere greie for organiseringa og eigarstrukturen og gjere greie for kva for faktorar som påverkar lønnsemda i data- og elektronikkbedrifter"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1026",
+        "uri": "http://psi.udir.no/kl06/K1026",
+        "url-data": "http://data.udir.no/kl06/K1026",
+        "tittel": "gjere greie for arbeidstakarens rettar og plikter i data- og elektronikkbedrifter på bakgrunn av gjeldande regelverk og avtaleverket mellom partane i arbeidslivet"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1027",
+        "uri": "http://psi.udir.no/kl06/K1027",
+        "url-data": "http://data.udir.no/kl06/K1027",
+        "tittel": "gjere greie for korleis data- og elektronikkbedrifter påverkar samfunnet lokalt, nasjonalt og globalt"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1028",
+        "uri": "http://psi.udir.no/kl06/K1028",
+        "url-data": "http://data.udir.no/kl06/K1028",
+        "tittel": "gjere greie for systemet for autorisasjon og nummer- og frekvensforvaltning"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1029",
+        "uri": "http://psi.udir.no/kl06/K1029",
+        "url-data": "http://data.udir.no/kl06/K1029",
+        "tittel": "dokumentere eiga opplæring innan system og infrastruktur"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1030",
+        "uri": "http://psi.udir.no/kl06/K1030",
+        "url-data": "http://data.udir.no/kl06/K1030",
+        "tittel": "beskrive forretningsområdet til data- og elektronikkbedrifter innan apparat og utstyr"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1031",
+        "uri": "http://psi.udir.no/kl06/K1031",
+        "url-data": "http://data.udir.no/kl06/K1031",
+        "tittel": "utføre kontroll, vedlikehald og reparasjon av apparat og utstyr som tilhøyrer forretningsområdet til data- og elektronikkbedrifter"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1032",
+        "uri": "http://psi.udir.no/kl06/K1032",
+        "url-data": "http://data.udir.no/kl06/K1032",
+        "tittel": "velje feilsøkingsstrategi, velje instrumentoppsett, gjere overslag over venta måleverdiar, måle elektriske storleikar og vurdere måleresultatet"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1033",
+        "uri": "http://psi.udir.no/kl06/K1033",
+        "url-data": "http://data.udir.no/kl06/K1033",
+        "tittel": "gjere risikovurdering av det arbeidet som blir utført, kontrollere resultatet og vurdere kvaliteten på eige arbeid"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1034",
+        "uri": "http://psi.udir.no/kl06/K1034",
+        "url-data": "http://data.udir.no/kl06/K1034",
+        "tittel": "bruke eit fagleg presist språk i kommunikasjon med kundar, leverandørar, supportpersonell, kollegaer og representantar frå andre fagområde"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1035",
+        "uri": "http://psi.udir.no/kl06/K1035",
+        "url-data": "http://data.udir.no/kl06/K1035",
+        "tittel": "utføre arbeidet fagmessig og nøyaktig i samsvar med gjeldande regelverk, standardar, rettleiingar og teknisk dokumentasjon frå produsentar, for å sikre krav til eltryggleik, og persontryggleik"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1036",
+        "uri": "http://psi.udir.no/kl06/K1036",
+        "url-data": "http://data.udir.no/kl06/K1036",
+        "tittel": "utføre arbeidet i samsvar med rutinar for internkontroll og kvalitetssikring"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1037",
+        "uri": "http://psi.udir.no/kl06/K1037",
+        "url-data": "http://data.udir.no/kl06/K1037",
+        "tittel": "rettleie kundar og vurdere lønnsemda for kunde og bedrift i samband med reparasjons- og serviceoppdrag"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1038",
+        "uri": "http://psi.udir.no/kl06/K1038",
+        "url-data": "http://data.udir.no/kl06/K1038",
+        "tittel": "drøfte miljøutfordringar ved elektronisk avfall og produksjon av elektroniske apparat og utstyr"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1039",
+        "uri": "http://psi.udir.no/kl06/K1039",
+        "url-data": "http://data.udir.no/kl06/K1039",
+        "tittel": "vurdere og teste ut idear til produkt og tenester med tanke på utvikling, marknadsbehov og verdiskaping"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K1040",
+        "uri": "http://psi.udir.no/kl06/K1040",
+        "url-data": "http://data.udir.no/kl06/K1040",
+        "tittel": "dokumentere eiga opplæring i apparat og utstyr"
+      }
+    ]
+  },
+  {
+    "id": "ELMEL3----",
+    "name": "Maritim elektrikerfaget Vg3",
+    "programUrl": "https://www.udir.no/kl06/ELMEL3----",
+    "lareplanUrl": "https://data.udir.no/kl06/MEL3-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18513",
+        "uri": "http://psi.udir.no/kl06/K18513",
+        "url-data": "http://data.udir.no/kl06/K18513",
+        "tittel": "forklare farene og etterleve forholdsreglene som må tas ved drift av kraftanlegg med over 1 000 volt"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18514",
+        "uri": "http://psi.udir.no/kl06/K18514",
+        "url-data": "http://data.udir.no/kl06/K18514",
+        "tittel": "koble, lastfordele og omkoble generatorer"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18515",
+        "uri": "http://psi.udir.no/kl06/K18515",
+        "url-data": "http://data.udir.no/kl06/K18515",
+        "tittel": "gjøre rede for drift og vedlikehold av høyspenningsanlegg"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18516",
+        "uri": "http://psi.udir.no/kl06/K18516",
+        "url-data": "http://data.udir.no/kl06/K18516",
+        "tittel": "gjøre rede for sikkerhetstiltak og –rutiner  "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18517",
+        "uri": "http://psi.udir.no/kl06/K18517",
+        "url-data": "http://data.udir.no/kl06/K18517",
+        "tittel": "gjøre rede for elektrisk framdrift av skip, elektriske motorer og kontrollsystemer"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18518",
+        "uri": "http://psi.udir.no/kl06/K18518",
+        "url-data": "http://data.udir.no/kl06/K18518",
+        "tittel": "sette i drift og kunne vedlikeholde høyspenningsanlegg og forklare faren som følger av driftsspenning på mer enn 1 000 volt"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18519",
+        "uri": "http://psi.udir.no/kl06/K18519",
+        "url-data": "http://data.udir.no/kl06/K18519",
+        "tittel": "følge gjeldende sikkerhetskrav for arbeid på elektriske anlegg om bord"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18520",
+        "uri": "http://psi.udir.no/kl06/K18520",
+        "url-data": "http://data.udir.no/kl06/K18520",
+        "tittel": "gjøre rede for elektriske og elektroniske systemer som brukes på brannfarlige områder"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18521",
+        "uri": "http://psi.udir.no/kl06/K18521",
+        "url-data": "http://data.udir.no/kl06/K18521",
+        "tittel": "forklare mulige feilfunksjoner i maskineriet og foreslå tiltak for å hindre skade "
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18522",
+        "uri": "http://psi.udir.no/kl06/K18522",
+        "url-data": "http://data.udir.no/kl06/K18522",
+        "tittel": "redegjøre for og vurdere ulike elektriske fordelingssystemer med tilhørende målearrangement og jordingssystemer, og planlegge, montere, sette i drift og dokumentere minst to av fordelingssystemene fra inntak til belastning"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18523",
+        "uri": "http://psi.udir.no/kl06/K18523",
+        "url-data": "http://data.udir.no/kl06/K18523",
+        "tittel": "planlegge, montere, sette i drift og dokumentere installasjon basert på ulike installasjonsmetoder med ulike elektriske belastningstyper og effektuttak"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18524",
+        "uri": "http://psi.udir.no/kl06/K18524",
+        "url-data": "http://data.udir.no/kl06/K18524",
+        "tittel": "planlegge, montere, sette i drift og dokumentere ulike varme- og belysningssystemer"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18525",
+        "uri": "http://psi.udir.no/kl06/K18525",
+        "url-data": "http://data.udir.no/kl06/K18525",
+        "tittel": "redegjøre for og vurder energikostnader ved bruk av tekniske løsninger og alternative energibærere, planlegge, montere, sette i drift og dokumentere elektriske ENØK-tiltak og ivareta byggtekniske krav"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18526",
+        "uri": "http://psi.udir.no/kl06/K18526",
+        "url-data": "http://data.udir.no/kl06/K18526",
+        "tittel": "planlegge, montere, sette i drift og dokumentere batteri og akkumulatorsystemer"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18527",
+        "uri": "http://psi.udir.no/kl06/K18527",
+        "url-data": "http://data.udir.no/kl06/K18527",
+        "tittel": "redegjøre for, vurdere og velge riktig materiell knyttet til elektriske installasjonssystemer"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18528",
+        "uri": "http://psi.udir.no/kl06/K18528",
+        "url-data": "http://data.udir.no/kl06/K18528",
+        "tittel": "redegjøre for og vurdere de ulike beskyttelsesgradene for utstyr og komponenter mot inntrenging av væsker, damp, gass, støv og liknende, og planlegge, montere, sette i drift og dokumentere minst tre av beskyttelsesgradene"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18529",
+        "uri": "http://psi.udir.no/kl06/K18529",
+        "url-data": "http://data.udir.no/kl06/K18529",
+        "tittel": "redegjøre for, vurdere og identifisere elektriske støykilder i elenergisystemer og planlegge, montere, sette i drift og dokumentere tiltak for å redusere støypåvirkning"
+      },
+      {
+        "rekkefoelge": 18,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18530",
+        "uri": "http://psi.udir.no/kl06/K18530",
+        "url-data": "http://data.udir.no/kl06/K18530",
+        "tittel": "feilsøke på elenergisystemer og utstyr med hensyn til koblings- og driftsfeil og loggføre feilsøkingsarbeidet"
+      },
+      {
+        "rekkefoelge": 19,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18531",
+        "uri": "http://psi.udir.no/kl06/K18531",
+        "url-data": "http://data.udir.no/kl06/K18531",
+        "tittel": "måle elektriske størrelser i elenergisystemer og utstyr og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 20,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18532",
+        "uri": "http://psi.udir.no/kl06/K18532",
+        "url-data": "http://data.udir.no/kl06/K18532",
+        "tittel": "planlegge, gjennomføre og dokumentere eget arbeid knyttet til kontroll og vedlikeholdssystemer i samsvar med bedriftens internkontrollsystem og kundens spesifikasjon"
+      },
+      {
+        "rekkefoelge": 21,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18533",
+        "uri": "http://psi.udir.no/kl06/K18533",
+        "url-data": "http://data.udir.no/kl06/K18533",
+        "tittel": "risikovurdere, funksjonsteste, sluttkontrollere og dokumentere arbeidet som utføres på elenergisystemer og utstyr, og vurdere kvaliteten på eget arbeid"
+      },
+      {
+        "rekkefoelge": 22,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18534",
+        "uri": "http://psi.udir.no/kl06/K18534",
+        "url-data": "http://data.udir.no/kl06/K18534",
+        "tittel": "utføre arbeidene på elenergisystemer og utstyr fagmessig, nøyaktig og anvende gjeldende regelverk og produsentenes tekniske dokumentasjoner for å ivareta krav til elsikkerhet og anleggssikkerhet og krav i sikkerhetsforskriften"
+      },
+      {
+        "rekkefoelge": 23,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18535",
+        "uri": "http://psi.udir.no/kl06/K18535",
+        "url-data": "http://data.udir.no/kl06/K18535",
+        "tittel": "utføre arbeidet på elenergisystemer i samsvar med rutiner for kvalitetssikring og helse, miljø og sikkerhet og foreslå forbedringer på rutiner og prosedyrer"
+      },
+      {
+        "rekkefoelge": 24,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18536",
+        "uri": "http://psi.udir.no/kl06/K18536",
+        "url-data": "http://data.udir.no/kl06/K18536",
+        "tittel": "bruke håndverktøy og elektrisk drevne verktøy i samsvar med brukerveiledning og benytte påkrevd verneutstyr"
+      },
+      {
+        "rekkefoelge": 25,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18537",
+        "uri": "http://psi.udir.no/kl06/K18537",
+        "url-data": "http://data.udir.no/kl06/K18537",
+        "tittel": "følge bedriftens rutiner for avfallshåndtering basert på produsentens merking av utstyr og materiell og knytte dette til anleggenes planlagte levetid i et miljøperspektiv"
+      },
+      {
+        "rekkefoelge": 26,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18538",
+        "uri": "http://psi.udir.no/kl06/K18538",
+        "url-data": "http://data.udir.no/kl06/K18538",
+        "tittel": "bruke faglig presist språk om elenergisystemer og utstyr, tilpasset brukere, supportpersonell, kollegaer og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 27,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18539",
+        "uri": "http://psi.udir.no/kl06/K18539",
+        "url-data": "http://data.udir.no/kl06/K18539",
+        "tittel": "lese og forklare ulike tegninger, skjemaer og veiledninger knyttet til elenergisystemer og utstyr"
+      },
+      {
+        "rekkefoelge": 28,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18540",
+        "uri": "http://psi.udir.no/kl06/K18540",
+        "url-data": "http://data.udir.no/kl06/K18540",
+        "tittel": "redegjøre for bedriftens organisasjonsoppbygning og internkontrollsystem"
+      },
+      {
+        "rekkefoelge": 29,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18541",
+        "uri": "http://psi.udir.no/kl06/K18541",
+        "url-data": "http://data.udir.no/kl06/K18541",
+        "tittel": "gi brukerne veiledning om elenergisystemer og utstyr"
+      },
+      {
+        "rekkefoelge": 30,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18542",
+        "uri": "http://psi.udir.no/kl06/K18542",
+        "url-data": "http://data.udir.no/kl06/K18542",
+        "tittel": "dokumentere egen opplæring knyttet til elenergisystemer"
+      },
+      {
+        "rekkefoelge": 31,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18543",
+        "uri": "http://psi.udir.no/kl06/K18543",
+        "url-data": "http://data.udir.no/kl06/K18543",
+        "tittel": "produsere skjemaer og tegninger ved hjelp av digitale verktøy"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18560",
+        "uri": "http://psi.udir.no/kl06/K18560",
+        "url-data": "http://data.udir.no/kl06/K18560",
+        "tittel": "redegjøre for oppbygging og bruk av datanettverk på skip som bro-, maskinbaserte systemer"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18561",
+        "uri": "http://psi.udir.no/kl06/K18561",
+        "url-data": "http://data.udir.no/kl06/K18561",
+        "tittel": "redegjøre for og vurdere ulike systemer for brann og innbrudd med følere og detektorer, basert på bruksområder, og planlegge, montere, kontrollere, vedlikeholde og dokumentere minst ett system for brannalarm og ett system for innbruddsalarm"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18562",
+        "uri": "http://psi.udir.no/kl06/K18562",
+        "url-data": "http://data.udir.no/kl06/K18562",
+        "tittel": "planlegge, montere, sette i drift og dokumentere system for adgangskontroll"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18563",
+        "uri": "http://psi.udir.no/kl06/K18563",
+        "url-data": "http://data.udir.no/kl06/K18563",
+        "tittel": "redegjøre for og vurdere ulike interne nett basert på kommunikasjon og signaloverføring for kombinerte data- og telekommunikasjonsanlegg, og planlegge, montere og dokumentere minst ett av systemene"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18564",
+        "uri": "http://psi.udir.no/kl06/K18564",
+        "url-data": "http://data.udir.no/kl06/K18564",
+        "tittel": "redegjøre for og vurder ulike systemer for antenneanlegg for bakke- og satellittbasert kringkasting, og planlegge, montere og dokumentere minst ett av systemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18565",
+        "uri": "http://psi.udir.no/kl06/K18565",
+        "url-data": "http://data.udir.no/kl06/K18565",
+        "tittel": "redegjøre for, vurdere og velge riktig materiell knyttet til tele-, data- og sikkerhetssystemer"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18566",
+        "uri": "http://psi.udir.no/kl06/K18566",
+        "url-data": "http://data.udir.no/kl06/K18566",
+        "tittel": "redegjøre for, vurdere og identifisere elektriske støykilder i tele-, data- og sikkerhetssystemer, og planlegge, montere, sette i drift og dokumentere tiltak for å redusere støypåvirkning"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18567",
+        "uri": "http://psi.udir.no/kl06/K18567",
+        "url-data": "http://data.udir.no/kl06/K18567",
+        "tittel": "feilsøke på tele-, data- og sikkerhetssystemer og utstyr knyttet til koblingsfeil og loggføre feilsøkingsarbeidet "
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18568",
+        "uri": "http://psi.udir.no/kl06/K18568",
+        "url-data": "http://data.udir.no/kl06/K18568",
+        "tittel": "måle elektriske størrelser på tele-, data- og sikkerhetssystemer og utstyr og vurdere måleresultatene"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18569",
+        "uri": "http://psi.udir.no/kl06/K18569",
+        "url-data": "http://data.udir.no/kl06/K18569",
+        "tittel": "risikovurdere, funksjonsteste og sluttkontrollere og dokumentere alt arbeidet som utføres på tele-, data- og sikkerhetssystemer og utstyr, og vurdere kvaliteten på eget arbeid"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18570",
+        "uri": "http://psi.udir.no/kl06/K18570",
+        "url-data": "http://data.udir.no/kl06/K18570",
+        "tittel": "utføre arbeidene på tele-, data- og sikkerhetssystemer og utstyr fagmessig og nøyaktig og anvende gjeldende regelverk og produsentenes tekniske dokumentasjoner for å ivareta krav til informasjonssikkerhet, elsikkerhet og anleggssikkerhet og krav i sikkerhetsforskriften "
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18571",
+        "uri": "http://psi.udir.no/kl06/K18571",
+        "url-data": "http://data.udir.no/kl06/K18571",
+        "tittel": "utføre alt arbeidet på tele-, data- og sikkerhetssystemer i samsvar med rutiner for kvalitetssikring og helse, miljø og sikkerhet og foreslå forbedringer på rutiner og prosedyrer"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18572",
+        "uri": "http://psi.udir.no/kl06/K18572",
+        "url-data": "http://data.udir.no/kl06/K18572",
+        "tittel": "bruke et faglig presist språk om tele-, data- og sikkerhetssystemer og utstyr, tilpasset brukere, supportpersonell, kollegaer og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18573",
+        "uri": "http://psi.udir.no/kl06/K18573",
+        "url-data": "http://data.udir.no/kl06/K18573",
+        "tittel": "lese og forklare ulike tegninger, skjemaer og veiledninger knyttet til tele-, data- og sikkerhetssystemer og utstyr"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18574",
+        "uri": "http://psi.udir.no/kl06/K18574",
+        "url-data": "http://data.udir.no/kl06/K18574",
+        "tittel": "gi brukerveiledning på tele-, data- og sikkerhetssystemer og utstyr"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18575",
+        "uri": "http://psi.udir.no/kl06/K18575",
+        "url-data": "http://data.udir.no/kl06/K18575",
+        "tittel": "dokumentere egen opplæring knyttet til tele-, data- og sikkerhetssystemer"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18592",
+        "uri": "http://psi.udir.no/kl06/K18592",
+        "url-data": "http://data.udir.no/kl06/K18592",
+        "tittel": "forklare instrumentering, alarm- og overvåkingssystemer om bord i skip "
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18593",
+        "uri": "http://psi.udir.no/kl06/K18593",
+        "url-data": "http://data.udir.no/kl06/K18593",
+        "tittel": "forklare elektrohydrauliske og elektropneumatiske kontrollsystemer"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18594",
+        "uri": "http://psi.udir.no/kl06/K18594",
+        "url-data": "http://data.udir.no/kl06/K18594",
+        "tittel": "forklare overvåking på drift av elektriske og elektroniske anlegg og kontrollsystemer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18595",
+        "uri": "http://psi.udir.no/kl06/K18595",
+        "url-data": "http://data.udir.no/kl06/K18595",
+        "tittel": "forklare drift av maskintekniske anlegg "
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18596",
+        "uri": "http://psi.udir.no/kl06/K18596",
+        "url-data": "http://data.udir.no/kl06/K18596",
+        "tittel": "forklare varmestrømning, mekanikk og hydromekanikk"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18597",
+        "uri": "http://psi.udir.no/kl06/K18597",
+        "url-data": "http://data.udir.no/kl06/K18597",
+        "tittel": "planlegge, montere, sette i drift og dokumentere ulike start- og reguleringsmetoder for motordrifter"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18598",
+        "uri": "http://psi.udir.no/kl06/K18598",
+        "url-data": "http://data.udir.no/kl06/K18598",
+        "tittel": "planlegge, montere, sette i drift og dokumentere systemer for nød- og reservestrømsforsyning"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18599",
+        "uri": "http://psi.udir.no/kl06/K18599",
+        "url-data": "http://data.udir.no/kl06/K18599",
+        "tittel": "redegjøre for, vurdere og velge riktig materiell knyttet til automatiserte systemer"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18600",
+        "uri": "http://psi.udir.no/kl06/K18600",
+        "url-data": "http://data.udir.no/kl06/K18600",
+        "tittel": "redegjøre for, vurdere og identifisere elektriske støykilder i automatiserte systemer, og planlegge, montere, sette i drift og dokumentere tiltak for å redusere støypåvirkning"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18601",
+        "uri": "http://psi.udir.no/kl06/K18601",
+        "url-data": "http://data.udir.no/kl06/K18601",
+        "tittel": "risikovurdere, funksjonsteste, sluttkontrollere og dokumentere alt arbeidet som utføres på automatiserte systemer og utstyr, og vurdere kvaliteten på eget arbeid"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18602",
+        "uri": "http://psi.udir.no/kl06/K18602",
+        "url-data": "http://data.udir.no/kl06/K18602",
+        "tittel": "utføre arbeidene på automatiserte systemer og utstyr fagmessig og nøyaktig og anvende gjeldende regelverk og produsentenes tekniske dokumentasjoner for å ivareta krav til informasjonssikkerhet, elsikkerhet og anleggssikkerhet og til krav i sikkerhetsforskriften"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18603",
+        "uri": "http://psi.udir.no/kl06/K18603",
+        "url-data": "http://data.udir.no/kl06/K18603",
+        "tittel": "utføre alt arbeidet på automatiserte systemer i samsvar med rutiner for kvalitetssikring og helse, miljø og sikkerhet og foreslå forbedringer på rutiner og prosedyrer"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18604",
+        "uri": "http://psi.udir.no/kl06/K18604",
+        "url-data": "http://data.udir.no/kl06/K18604",
+        "tittel": "bruke et faglig presist språk om automatiserte systemer og utstyr, tilpasset brukere, supportpersonell, kollegaer og representanter fra andre fagområder"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18605",
+        "uri": "http://psi.udir.no/kl06/K18605",
+        "url-data": "http://data.udir.no/kl06/K18605",
+        "tittel": "lese og forklare ulike tegninger, skjemaer og veiledninger knyttet til automatiserte systemer"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18606",
+        "uri": "http://psi.udir.no/kl06/K18606",
+        "url-data": "http://data.udir.no/kl06/K18606",
+        "tittel": "gi brukerne veiledning om automatiserte systemer og utstyr"
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18607",
+        "uri": "http://psi.udir.no/kl06/K18607",
+        "url-data": "http://data.udir.no/kl06/K18607",
+        "tittel": "dokumentere egen opplæring knyttet til automatiserte systemer"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18615",
+        "uri": "http://psi.udir.no/kl06/K18615",
+        "url-data": "http://data.udir.no/kl06/K18615",
+        "tittel": "bruke engelsk skriftlig og muntlig som arbeidsspråk "
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18616",
+        "uri": "http://psi.udir.no/kl06/K18616",
+        "url-data": "http://data.udir.no/kl06/K18616",
+        "tittel": "dokumentere gjennomført opplæring i samsvar med Sjøfartsdirektoratets krav om grunnleggende og videregående sikkerhetsopplæring"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18617",
+        "uri": "http://psi.udir.no/kl06/K18617",
+        "url-data": "http://data.udir.no/kl06/K18617",
+        "tittel": "forebygge, iverksette tiltak og hindre forurensing av miljøet"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18618",
+        "uri": "http://psi.udir.no/kl06/K18618",
+        "url-data": "http://data.udir.no/kl06/K18618",
+        "tittel": "forklare prinsipper for ledelse, motivasjon og opplæring av personell om bord"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18619",
+        "uri": "http://psi.udir.no/kl06/K18619",
+        "url-data": "http://data.udir.no/kl06/K18619",
+        "tittel": "forklare prinsipper for styring av arbeidsoppgaver "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18620",
+        "uri": "http://psi.udir.no/kl06/K18620",
+        "url-data": "http://data.udir.no/kl06/K18620",
+        "tittel": "forklare prinsipper for situasjons- og risikovurdering"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K18621",
+        "uri": "http://psi.udir.no/kl06/K18621",
+        "url-data": "http://data.udir.no/kl06/K18621",
+        "tittel": "ivareta personlig sikkerhet og ta sosialt ansvar"
+      }
+    ]
+  },
+  {
+    "id": "ELAVI3----",
+    "name": "Avionikerfaget",
+    "programUrl": "https://www.udir.no/kl06/ELAVI3----",
+    "lareplanUrl": "https://data.udir.no/kl06/AVI3-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11293",
+        "uri": "http://psi.udir.no/kl06/K11293",
+        "url-data": "http://data.udir.no/kl06/K11293",
+        "tittel": "beskrive et luftfartøys aerodynamiske egenskaper"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11294",
+        "uri": "http://psi.udir.no/kl06/K11294",
+        "url-data": "http://data.udir.no/kl06/K11294",
+        "tittel": "beskrive et luftfartøys struktur og systemer"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11295",
+        "uri": "http://psi.udir.no/kl06/K11295",
+        "url-data": "http://data.udir.no/kl06/K11295",
+        "tittel": "redegjøre for et luftfartøys avionikksystem og komponenter"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11296",
+        "uri": "http://psi.udir.no/kl06/K11296",
+        "url-data": "http://data.udir.no/kl06/K11296",
+        "tittel": "beskrive ulike typer motorframdrift som benyttes på luftfartøy"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11297",
+        "uri": "http://psi.udir.no/kl06/K11297",
+        "url-data": "http://data.udir.no/kl06/K11297",
+        "tittel": "beskrive en bestemt luftfartøytypes egenskaper ut fra konstruksjon og systemer"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11298",
+        "uri": "http://psi.udir.no/kl06/K11298",
+        "url-data": "http://data.udir.no/kl06/K11298",
+        "tittel": "beherske bruken av ulike verktøy og måleinstrumenter knyttet til vedlikehold på luftfartøyets avionikksystemer"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11299",
+        "uri": "http://psi.udir.no/kl06/K11299",
+        "url-data": "http://data.udir.no/kl06/K11299",
+        "tittel": "anvende og bruke lover og bestemmelser som gjelder for luftfarten"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11300",
+        "uri": "http://psi.udir.no/kl06/K11300",
+        "url-data": "http://data.udir.no/kl06/K11300",
+        "tittel": "reflektere over ulike menneskelige faktorer som gjør seg gjeldende ved arbeid på luftfartøy"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11301",
+        "uri": "http://psi.udir.no/kl06/K11301",
+        "url-data": "http://data.udir.no/kl06/K11301",
+        "tittel": "anvende flyteknisk engelsk"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11302",
+        "uri": "http://psi.udir.no/kl06/K11302",
+        "url-data": "http://data.udir.no/kl06/K11302",
+        "tittel": "beherske ulike monterings-, demonterings-, inspeksjons-, feilsøkings- og reparasjonsteknikker, hovedsakelig på luftfartøyets avionikksystemer"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11303",
+        "uri": "http://psi.udir.no/kl06/K11303",
+        "url-data": "http://data.udir.no/kl06/K11303",
+        "tittel": "utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med gjeldende regelverk og produsentens tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11304",
+        "uri": "http://psi.udir.no/kl06/K11304",
+        "url-data": "http://data.udir.no/kl06/K11304",
+        "tittel": "vurdere eget og andres arbeid som utføres på systemene"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11305",
+        "uri": "http://psi.udir.no/kl06/K11305",
+        "url-data": "http://data.udir.no/kl06/K11305",
+        "tittel": "bruke faglig presist språk om vedlikehold på luftfartøysystemene"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11306",
+        "uri": "http://psi.udir.no/kl06/K11306",
+        "url-data": "http://data.udir.no/kl06/K11306",
+        "tittel": "utføre arbeidet i henhold til helse-, miljø- og sikkerhetskrav"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11307",
+        "uri": "http://psi.udir.no/kl06/K11307",
+        "url-data": "http://data.udir.no/kl06/K11307",
+        "tittel": "arbeide i overensstemmelse med rutiner for kvalitetssikring og internkontroll"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K11308",
+        "uri": "http://psi.udir.no/kl06/K11308",
+        "url-data": "http://data.udir.no/kl06/K11308",
+        "tittel": "utføre vedlikeholdsarbeid på en bestemt luftfartøytype ut fra dennes egenskaper og konstruksjon"
+      }
+    ]
+  },
+  {
+    "id": "ELFLY3----",
+    "name": "Flytekniske fag",
+    "programUrl": "https://www.udir.no/kl06/ELFLY3----",
+    "lareplanUrl": "https://data.udir.no/kl06/FLY3-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9316",
+        "uri": "http://psi.udir.no/kl06/K9316",
+        "url-data": "http://data.udir.no/kl06/K9316",
+        "tittel": "redegjøre for hensikten, konstruksjonen og funksjonen til ulike systemer i luftfartøyet"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9317",
+        "uri": "http://psi.udir.no/kl06/K9317",
+        "url-data": "http://data.udir.no/kl06/K9317",
+        "tittel": "redegjøre for ulike luftfartøys strukturkonstruksjon og sammenføyingsprinsipper"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9318",
+        "uri": "http://psi.udir.no/kl06/K9318",
+        "url-data": "http://data.udir.no/kl06/K9318",
+        "tittel": "redegjøre for ulike motor og fremdriftsanordninger med hensyn til hensikt, konstruksjon og funksjon"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9319",
+        "uri": "http://psi.udir.no/kl06/K9319",
+        "url-data": "http://data.udir.no/kl06/K9319",
+        "tittel": "beskrive en bestemt luftfartøytypes egenskaper ut fra konstruksjon og systemer"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9320",
+        "uri": "http://psi.udir.no/kl06/K9320",
+        "url-data": "http://data.udir.no/kl06/K9320",
+        "tittel": "planlegge, gjennomføre og dokumentere prosesser som omfatter bruk av vedlikeholdsutstyr"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9321",
+        "uri": "http://psi.udir.no/kl06/K9321",
+        "url-data": "http://data.udir.no/kl06/K9321",
+        "tittel": "planlegge, gjennomføre og dokumentere prosesser som innebærer å bruke monterings-, demonterings- og reparasjonsteknikker for arbeid på luftfartøy"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9322",
+        "uri": "http://psi.udir.no/kl06/K9322",
+        "url-data": "http://data.udir.no/kl06/K9322",
+        "tittel": "planlegge, gjennomføre og dokumentere prosesser som innebærer å inspisere og teste systemer og vurdere resultatene"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9323",
+        "uri": "http://psi.udir.no/kl06/K9323",
+        "url-data": "http://data.udir.no/kl06/K9323",
+        "tittel": "planlegge og utføre arbeidet på systemene fagmessig, nøyaktig og i overensstemmelse med kvalitetssikring, internkontroll og godkjent tekniske dokumentasjon"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9324",
+        "uri": "http://psi.udir.no/kl06/K9324",
+        "url-data": "http://data.udir.no/kl06/K9324",
+        "tittel": "vurdere og dokumentere arbeid som utføres på luftfartøysystemene"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9325",
+        "uri": "http://psi.udir.no/kl06/K9325",
+        "url-data": "http://data.udir.no/kl06/K9325",
+        "tittel": "utføre arbeidet i henhold til helse-, miljø- og sikkerhetskrav"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9326",
+        "uri": "http://psi.udir.no/kl06/K9326",
+        "url-data": "http://data.udir.no/kl06/K9326",
+        "tittel": "redegjøre for menneskelige faktorers betydning for vedlikeholdsarbeid på luftfartøy"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9327",
+        "uri": "http://psi.udir.no/kl06/K9327",
+        "url-data": "http://data.udir.no/kl06/K9327",
+        "tittel": "følge regelverk som gjelder for luftfarten"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9328",
+        "uri": "http://psi.udir.no/kl06/K9328",
+        "url-data": "http://data.udir.no/kl06/K9328",
+        "tittel": "utføre vedlikeholdsarbeid på en bestemt luftfartøytype ut fra dennes egenskaper og konstruksjon"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K9329",
+        "uri": "http://psi.udir.no/kl06/K9329",
+        "url-data": "http://data.udir.no/kl06/K9329",
+        "tittel": "anvende flyteknisk engelsk"
+      }
+    ]
   }
 ]

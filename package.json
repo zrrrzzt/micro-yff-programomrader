@@ -11,7 +11,7 @@
   },
   "main": "index.js",
   "engines": {
-    "node": ">=8.9.4"
+    "node": ">=8.10.0"
   },
   "scripts": {
     "test": "standard && nsp check && ava",
@@ -50,24 +50,24 @@
     "type": "npm",
     "dotenv": "production.env",
     "engines": {
-      "node": "8.9.4"
+      "node": "8.10.0"
     }
   },
   "devDependencies": {
     "ava": "0.25.0",
-    "axios": "0.17.1",
+    "axios": "0.18.0",
     "cheerio": "1.0.0-rc.2",
     "coveralls": "3.0.0",
     "micro-dev": "2.2.0",
     "nsp": "3.1.0",
     "nyc": "11.4.1",
-    "standard": "10.0.3",
+    "standard": "11.0.0",
     "test-listen": "1.1.0"
   },
   "dependencies": {
     "cors": "2.8.4",
-    "finalhandler": "1.1.0",
-    "markdown-it": "8.4.0",
+    "finalhandler": "1.1.1",
+    "markdown-it": "8.4.1",
     "micro": "9.1.0",
     "router": "1.3.2",
     "winston": "2.4.0",

@@ -18934,5 +18934,245 @@
         "tittel": "gjøre skipet sjøklart"
       }
     ]
+  },
+  {
+    "id": "TPAMM3----",
+    "name": "Anleggsmaskinmekanikerfaget",
+    "programUrl": "https://www.udir.no/kl06/TPAMM3----",
+    "lareplanUrl": "https://data.udir.no/kl06/AMM3-01",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K51",
+        "uri": "http://psi.udir.no/kl06/K51",
+        "url-data": "http://data.udir.no/kl06/K51",
+        "tittel": "feilsøke og diagnostisere på systemer og komponenter der det er registrert funksjonsavvik"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K52",
+        "uri": "http://psi.udir.no/kl06/K52",
+        "url-data": "http://data.udir.no/kl06/K52",
+        "tittel": "planlegge arbeidet og velge verktøy på bakgrunn av diagnose"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K53",
+        "uri": "http://psi.udir.no/kl06/K53",
+        "url-data": "http://data.udir.no/kl06/K53",
+        "tittel": "vurdere og beskrive reparasjonsbehov på komponenter med registrert funksjonsavvik"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K54",
+        "uri": "http://psi.udir.no/kl06/K54",
+        "url-data": "http://data.udir.no/kl06/K54",
+        "tittel": "vurdere reparasjonsoppdrag i forhold til kostnader og lønnsomhet og drøfte alternative løsninger"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K55",
+        "uri": "http://psi.udir.no/kl06/K55",
+        "url-data": "http://data.udir.no/kl06/K55",
+        "tittel": "bruke teknisk litteratur og digitale hjelpemidler i feilsøkingsarbeidet"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K56",
+        "uri": "http://psi.udir.no/kl06/K56",
+        "url-data": "http://data.udir.no/kl06/K56",
+        "tittel": "bruke reparasjonshåndbøker og teknisk litteratur i reparasjonsarbeidet"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K57",
+        "uri": "http://psi.udir.no/kl06/K57",
+        "url-data": "http://data.udir.no/kl06/K57",
+        "tittel": "bruke måleinstrumenter og vurdere måleresultater"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K58",
+        "uri": "http://psi.udir.no/kl06/K58",
+        "url-data": "http://data.udir.no/kl06/K58",
+        "tittel": "utføre reparasjon og vedlikehold på to- og firetakts forbrenningsmotorer"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K59",
+        "uri": "http://psi.udir.no/kl06/K59",
+        "url-data": "http://data.udir.no/kl06/K59",
+        "tittel": "utføre reparasjon og vedlikehold på transmisjoner og drivverk"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K60",
+        "uri": "http://psi.udir.no/kl06/K60",
+        "url-data": "http://data.udir.no/kl06/K60",
+        "tittel": "utføre reparasjon og vedlikehold på ramme-, grave- og lasteutstyr"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K61",
+        "uri": "http://psi.udir.no/kl06/K61",
+        "url-data": "http://data.udir.no/kl06/K61",
+        "tittel": "utføre reparasjon og vedlikehold på bremser, styring, belter og understell"
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K62",
+        "uri": "http://psi.udir.no/kl06/K62",
+        "url-data": "http://data.udir.no/kl06/K62",
+        "tittel": "vurdere og vedlikeholde dekk og hjulutrustning"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K63",
+        "uri": "http://psi.udir.no/kl06/K63",
+        "url-data": "http://data.udir.no/kl06/K63",
+        "tittel": "utføre reparasjon og vedlikehold på hydrauliske og pneumatiske systemer"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K64",
+        "uri": "http://psi.udir.no/kl06/K64",
+        "url-data": "http://data.udir.no/kl06/K64",
+        "tittel": "utføre reparasjon og vedlikehold på elektriske og elektroniske systemer "
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K65",
+        "uri": "http://psi.udir.no/kl06/K65",
+        "url-data": "http://data.udir.no/kl06/K65",
+        "tittel": "utføre reparasjon og vedlikehold på kontroll og varslingssystemer"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K66",
+        "uri": "http://psi.udir.no/kl06/K66",
+        "url-data": "http://data.udir.no/kl06/K66",
+        "tittel": "utføre reparasjon og vedlikehold på digitale styringer for motor og hydraulikk"
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K67",
+        "uri": "http://psi.udir.no/kl06/K67",
+        "url-data": "http://data.udir.no/kl06/K67",
+        "tittel": "utføre reparasjon og vedlikehold på arbeidsutstyr for bygg-, anlegg og veivedlikehold"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K68",
+        "uri": "http://psi.udir.no/kl06/K68",
+        "url-data": "http://data.udir.no/kl06/K68",
+        "tittel": "utføre reparasjon og vedlikehold på komfort- og klimaanlegg"
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K69",
+        "uri": "http://psi.udir.no/kl06/K69",
+        "url-data": "http://data.udir.no/kl06/K69",
+        "tittel": "utføre reparasjon og vedlikehold på digitale maskinstyringssystemer "
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K70",
+        "uri": "http://psi.udir.no/kl06/K70",
+        "url-data": "http://data.udir.no/kl06/K70",
+        "tittel": "utføre periodisk vedlikehold på anleggsmaskiner og tilhørende utstyr og redskaper i tråd med fabrikantens spesifikasjoner "
+      },
+      {
+        "rekkefoelge": 16,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K71",
+        "uri": "http://psi.udir.no/kl06/K71",
+        "url-data": "http://data.udir.no/kl06/K71",
+        "tittel": "veilede brukere i nødvendig vedlikehold på anleggsmaskiner, utstyr og redskaper"
+      },
+      {
+        "rekkefoelge": 17,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K72",
+        "uri": "http://psi.udir.no/kl06/K72",
+        "url-data": "http://data.udir.no/kl06/K72",
+        "tittel": "velge smøremidler og væsker i samsvar med produsentens spesifikasjoner"
+      },
+      {
+        "rekkefoelge": 18,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K73",
+        "uri": "http://psi.udir.no/kl06/K73",
+        "url-data": "http://data.udir.no/kl06/K73",
+        "tittel": "utføre arbeidet i tråd med gjeldende regelverk for helse, miljø og sikkerhet"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K74",
+        "uri": "http://psi.udir.no/kl06/K74",
+        "url-data": "http://data.udir.no/kl06/K74",
+        "tittel": "innhente og bruke data fra leverandører i reparasjonsarbeidet"
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K75",
+        "uri": "http://psi.udir.no/kl06/K75",
+        "url-data": "http://data.udir.no/kl06/K75",
+        "tittel": "kommunisere med kunder og kolleger om faglige løsninger og arbeidsoppdragets omfang"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K76",
+        "uri": "http://psi.udir.no/kl06/K76",
+        "url-data": "http://data.udir.no/kl06/K76",
+        "tittel": "skrive arbeidsrapporter og følge bedriftens internkontrollsystem for rapportering"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K77",
+        "uri": "http://psi.udir.no/kl06/K77",
+        "url-data": "http://data.udir.no/kl06/K77",
+        "tittel": "gjøre rede for forskrifter og regler for kontroll og sertifisering"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K78",
+        "uri": "http://psi.udir.no/kl06/K78",
+        "url-data": "http://data.udir.no/kl06/K78",
+        "tittel": "registrere og rapportere avvik"
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": null,
+        "kode": "K79",
+        "uri": "http://psi.udir.no/kl06/K79",
+        "url-data": "http://data.udir.no/kl06/K79",
+        "tittel": "håndtere og sortere avfall i tråd med gjeldende regelverk"
+      }
+    ]
   }
 ]

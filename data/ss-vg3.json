@@ -2606,5 +2606,301 @@
         "tittel": "beskrive næringens krav til ansatte og bedrifter og hvilke etiske normer næringen arbeider etter"
       }
     ]
+  },
+  {
+    "id": "SSYSL3----",
+    "name": "Yrkessjåførkurs for voksne",
+    "programUrl": "https://www.udir.no/kl06/SSYSL3----",
+    "lareplanUrl": "https://data.udir.no/kl06/YRK3-02",
+    "kompetansemaal": [
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1507",
+          "uri": "http://psi.udir.no/kl06/HO1507",
+          "url-data": "http://data.udir.no/kl06/HO1507"
+        },
+        "kode": "K16583",
+        "uri": "http://psi.udir.no/kl06/K16583",
+        "url-data": "http://data.udir.no/kl06/K16583",
+        "tittel": "planlegge transportoppdrag i samsvar med bestilling, bedriftens rutiner og krav til sikker, miljøvennlig, effektiv og lønnsom drift "
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1507",
+          "uri": "http://psi.udir.no/kl06/HO1507",
+          "url-data": "http://data.udir.no/kl06/HO1507"
+        },
+        "kode": "K8291",
+        "uri": "http://psi.udir.no/kl06/K8291",
+        "url-data": "http://data.udir.no/kl06/K8291",
+        "tittel": "planlegge transportoppdrag med tyngre kjøretøy i samsvar med gjeldende regelverk og bedriftens produksjon"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1507",
+          "uri": "http://psi.udir.no/kl06/HO1507",
+          "url-data": "http://data.udir.no/kl06/HO1507"
+        },
+        "kode": "K16584",
+        "uri": "http://psi.udir.no/kl06/K16584",
+        "url-data": "http://data.udir.no/kl06/K16584",
+        "tittel": "gjøre rede for oppbygging og organisering av en transportbedrift "
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1507",
+          "uri": "http://psi.udir.no/kl06/HO1507",
+          "url-data": "http://data.udir.no/kl06/HO1507"
+        },
+        "kode": "K16585",
+        "uri": "http://psi.udir.no/kl06/K16585",
+        "url-data": "http://data.udir.no/kl06/K16585",
+        "tittel": "gjøre rede for hvordan interne og eksterne rammebetingelser påvirker effektivitet, sikkerhet, miljø og lønnsomhet"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1507",
+          "uri": "http://psi.udir.no/kl06/HO1507",
+          "url-data": "http://data.udir.no/kl06/HO1507"
+        },
+        "kode": "K16586",
+        "uri": "http://psi.udir.no/kl06/K16586",
+        "url-data": "http://data.udir.no/kl06/K16586",
+        "tittel": "gjøre rede for yrkessjåførens rolle fra produksjon til gjenvinning "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1507",
+          "uri": "http://psi.udir.no/kl06/HO1507",
+          "url-data": "http://data.udir.no/kl06/HO1507"
+        },
+        "kode": "K16587",
+        "uri": "http://psi.udir.no/kl06/K16587",
+        "url-data": "http://data.udir.no/kl06/K16587",
+        "tittel": "planlegge, gjennomføre og dokumentere arbeidsoppgaver i samsvar med gjeldende regelverk for helse, miljø og sikkerhet og brukermanualer og bedriftens rutiner "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1507",
+          "uri": "http://psi.udir.no/kl06/HO1507",
+          "url-data": "http://data.udir.no/kl06/HO1507"
+        },
+        "kode": "K16588",
+        "uri": "http://psi.udir.no/kl06/K16588",
+        "url-data": "http://data.udir.no/kl06/K16588",
+        "tittel": "forstå aktuelle nasjonale og europeiske transportdokumenter "
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1507",
+          "uri": "http://psi.udir.no/kl06/HO1507",
+          "url-data": "http://data.udir.no/kl06/HO1507"
+        },
+        "kode": "K8297",
+        "uri": "http://psi.udir.no/kl06/K8297",
+        "url-data": "http://data.udir.no/kl06/K8297",
+        "tittel": "bruke bedriftens betalingssystemer "
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1507",
+          "uri": "http://psi.udir.no/kl06/HO1507",
+          "url-data": "http://data.udir.no/kl06/HO1507"
+        },
+        "kode": "K16589",
+        "uri": "http://psi.udir.no/kl06/K16589",
+        "url-data": "http://data.udir.no/kl06/K16589",
+        "tittel": "arbeide etter regelverk og avtaler som regulerer arbeidsforhold i yrkessjåførfaget"
+      },
+      {
+        "rekkefoelge": 1,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16590",
+        "uri": "http://psi.udir.no/kl06/K16590",
+        "url-data": "http://data.udir.no/kl06/K16590",
+        "tittel": "gjennomføre og dokumentere teoretisk opplæring for tyngre kjøretøy i samsvar med gjeldende regelverk og bedriftens produksjon "
+      },
+      {
+        "rekkefoelge": 2,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16591",
+        "uri": "http://psi.udir.no/kl06/K16591",
+        "url-data": "http://data.udir.no/kl06/K16591",
+        "tittel": "gjennomføre og dokumentere transportoppdrag med tyngre kjøretøy uten unødvendige miljøbelastninger i samsvar med gjeldende regelverk og bedriftens produksjon"
+      },
+      {
+        "rekkefoelge": 3,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16592",
+        "uri": "http://psi.udir.no/kl06/K16592",
+        "url-data": "http://data.udir.no/kl06/K16592",
+        "tittel": "opptre forsvarlig og hensynsfullt i trafikken under transportoppdrag med skiftende vei- og føreforhold"
+      },
+      {
+        "rekkefoelge": 4,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16593",
+        "uri": "http://psi.udir.no/kl06/K16593",
+        "url-data": "http://data.udir.no/kl06/K16593",
+        "tittel": "gjennomføre transportoppdrag i samsvar med de kravene som bransjen og bedriften stiller"
+      },
+      {
+        "rekkefoelge": 5,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16594",
+        "uri": "http://psi.udir.no/kl06/K16594",
+        "url-data": "http://data.udir.no/kl06/K16594",
+        "tittel": "utføre service og kundebehandling i samsvar med bedriftens krav "
+      },
+      {
+        "rekkefoelge": 6,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16595",
+        "uri": "http://psi.udir.no/kl06/K16595",
+        "url-data": "http://data.udir.no/kl06/K16595",
+        "tittel": "benytte digitale og elektroniske hjelpemidler i kommunikasjon med kunde og transportør "
+      },
+      {
+        "rekkefoelge": 7,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K8305",
+        "uri": "http://psi.udir.no/kl06/K8305",
+        "url-data": "http://data.udir.no/kl06/K8305",
+        "tittel": "utføre effektiv og sikker lasting og lossing av gods i samsvar med gjeldende regelverk og bedriftens kvalitetskrav"
+      },
+      {
+        "rekkefoelge": 8,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16596",
+        "uri": "http://psi.udir.no/kl06/K16596",
+        "url-data": "http://data.udir.no/kl06/K16596",
+        "tittel": "gjøre rede for regelverket som gjelder for transport av farlig gods"
+      },
+      {
+        "rekkefoelge": 9,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K8306",
+        "uri": "http://psi.udir.no/kl06/K8306",
+        "url-data": "http://data.udir.no/kl06/K8306",
+        "tittel": "velge utstyr og metode som skal sikre last og personer i kjøretøy i samsvar med gjeldende regelverk"
+      },
+      {
+        "rekkefoelge": 10,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16597",
+        "uri": "http://psi.udir.no/kl06/K16597",
+        "url-data": "http://data.udir.no/kl06/K16597",
+        "tittel": "bruke kjøretøyets tekniske utstyr og hjelpemidler i tråd med gjeldende regelverk for helse, miljø og sikkerhet og brukermanualer"
+      },
+      {
+        "rekkefoelge": 11,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K8308",
+        "uri": "http://psi.udir.no/kl06/K8308",
+        "url-data": "http://data.udir.no/kl06/K8308",
+        "tittel": "gjøre rede for kjøretøyets konstruksjon og virkemåte "
+      },
+      {
+        "rekkefoelge": 12,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K8309",
+        "uri": "http://psi.udir.no/kl06/K8309",
+        "url-data": "http://data.udir.no/kl06/K8309",
+        "tittel": "utføre enkelt vedlikehold og klargjøring av kjøretøy, utstyr og hjelpemidler knyttet til transportoppdrag"
+      },
+      {
+        "rekkefoelge": 13,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16598",
+        "uri": "http://psi.udir.no/kl06/K16598",
+        "url-data": "http://data.udir.no/kl06/K16598",
+        "tittel": "følge bedriftens rutiner ved driftsstans, sykdom, ulykker og andre uønskede hendelser "
+      },
+      {
+        "rekkefoelge": 14,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16599",
+        "uri": "http://psi.udir.no/kl06/K16599",
+        "url-data": "http://data.udir.no/kl06/K16599",
+        "tittel": "utføre arbeidsoppgaver på en helsemessig forsvarlig måte"
+      },
+      {
+        "rekkefoelge": 15,
+        "tilhoerer-hovedomraade": {
+          "kode": "HO1508",
+          "uri": "http://psi.udir.no/kl06/HO1508",
+          "url-data": "http://data.udir.no/kl06/HO1508"
+        },
+        "kode": "K16600",
+        "uri": "http://psi.udir.no/kl06/K16600",
+        "url-data": "http://data.udir.no/kl06/K16600",
+        "tittel": "beskrive næringens krav til ansatte og bedrifter og hvilke etiske normer næringen arbeider etter"
+      }
+    ]
   }
 ]
