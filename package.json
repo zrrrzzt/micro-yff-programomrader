@@ -58,7 +58,7 @@
     "axios": "0.18.0",
     "cheerio": "1.0.0-rc.2",
     "coveralls": "3.0.1",
-    "micro-dev": "2.2.0",
+    "micro-dev": "2.2.2",
     "nsp": "3.2.1",
     "nyc": "11.4.1",
     "standard": "11.0.1",
