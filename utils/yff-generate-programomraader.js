@@ -55,7 +55,7 @@ async function parsePage (options) {
     const programUrl = `${baseUrl}/${programId}`
     if (!omradeIds.includes(programId)) {
       omradeIds.push(programId)
-      omradeContent.push({programId: programId, programUrl: programUrl})
+      omradeContent.push({ programId: programId, programUrl: programUrl })
     }
   })
 
@@ -67,7 +67,7 @@ async function parsePage (options) {
       const testCase = new RegExp(special.testCase)
       if (testCase.test(programId) && !omradeIds.includes(programId)) {
         omradeIds.push(programId)
-        omradeContent.push({programId: programId, programUrl: programUrl})
+        omradeContent.push({ programId: programId, programUrl: programUrl })
       }
     })
   }
@@ -82,14 +82,14 @@ async function parsePage (options) {
 async function generateOmrade (options) {
   const selector = selectors[options.level]
   const special = specials[options.level]
-  const data = await parsePage({url: options.url, selector: selector, special: special})
+  const data = await parsePage({ url: options.url, selector: selector, special: special })
   const fileName = `${basePath}/${options.id.toLocaleLowerCase()}-${options.level}.json`
   fs.writeFileSync(fileName, data, 'utf-8')
   console.log(`written ${fileName}`)
 }
 
 async function generateOmrader (level) {
-  const omrader = programmer.map(line => Object.assign(line, {level: level}))
+  const omrader = programmer.map(line => Object.assign(line, { level: level }))
   const jobs = omrader.map(generateOmrade)
   await Promise.all(jobs)
   console.log('finished')

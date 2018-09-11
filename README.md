@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.org/telemark/micro-yff-programomrader.svg?branch=master)](https://travis-ci.org/telemark/micro-yff-programomrader)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/micro-yff-programomrader.svg)](https://greenkeeper.io/)
 
 # micro-yff-programomrader
 
@@ -54,4 +53,3 @@ $ npm run deploy
 
 [MIT](LICENSE)
 
-![Robohash image of micro-yff-programomrader](https://robots.kebabstudios.party/micro-yff-programomrader.png "Robohash image of micro-yff-programomrader")
