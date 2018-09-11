@@ -9,7 +9,7 @@
     "email": "geir.gasodden@pythonia.no",
     "url": "https://github.com/zrrrzzt"
   },
-  "main": "index.js",
+  "main": "src/index.js",
   "engines": {
     "node": ">=10.10.0"
   },
@@ -20,7 +20,7 @@
     "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
     "standard-fix": "standard --fix",
     "start": "micro",
-    "dev": "micro-dev",
+    "dev": "micro-dev -H localhost",
     "update-vg3": "node utils/yff-generate-programomraader.js vg3",
     "update-vg2": "node utils/yff-generate-programomraader.js vg2",
     "update-vg1": "node utils/yff-generate-programomraader.js vg1",
@@ -43,16 +43,6 @@
     "url": "https://github.com/telemark/micro-yff-programomrader/issues"
   },
   "homepage": "https://github.com/telemark/micro-yff-programomrader#readme",
-  "now": {
-    "alias": [
-      "yff.service.minelev.no"
-    ],
-    "type": "npm",
-    "dotenv": "production.env",
-    "engines": {
-      "node": "10.0.0"
-    }
-  },
   "devDependencies": {
     "ava": "0.25.0",
     "axios": "0.18.0",

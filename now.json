@@ -1,0 +1,11 @@
+{
+  "name": "micro-yff-programomrader",
+  "alias": [
+    "yff.service.minelev.no"
+  ],
+  "type": "docker",
+  "dotenv": "production.env",
+  "features": {
+    "cloud": "v2"
+  }
+}
