@@ -8,17 +8,17 @@ const basePath = 'src/data'
 const programmer = require('../src/data/utdanningsprogrammer.json')
 const query = process.argv[2]
 const selectors = {
-  'vg3': '.fromThirdYear',
-  'vg2': '.programArea',
-  'vg1': '.programTitle'
+  vg3: '.fromThirdYear',
+  vg2: '.programArea',
+  vg1: '.programTitle'
 }
 const specials = {
-  'vg3': {
+  vg3: {
     selector: '.oneYear',
     testCase: '3'
   },
-  'vg2': false,
-  'vg1': false
+  vg2: false,
+  vg1: false
 }
 
 async function getPage (url) {
@@ -45,8 +45,8 @@ async function parsePage (options) {
   const $ = cheerio.load(data)
   const omrader = $(options.selector)
   const special = options.special
-  let omradeIds = []
-  let omradeContent = []
+  const omradeIds = []
+  const omradeContent = []
 
   omrader.each((i, element) => {
     const programId = element.attribs['data-programid']
