@@ -37,6 +37,23 @@ Get a spesific utdanningsprogram
 $ curl -v https://yff.service.minelev.no/utdanningsprogrammer/ba-vg3
 ```
 
+## Development
+
+Add a local `.env` file
+
+```
+NODE_ENV=development
+PAPERTRAIL_HOSTNAME=yff
+PAPERTRAIL_HOST=papertrail-host
+PAPERTRAIL_PORT=papertrail-port
+```
+
+Start the development environment
+
+```
+$ now dev
+```
+
 ## Deployment - ZEIT/Now
 
 Change content of [production.env](production.env) to match your environment.

@@ -20,7 +20,6 @@
     "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
     "standard-fix": "standard --fix",
     "start": "micro",
-    "dev": "micro-dev -H localhost",
     "update-vg3": "node utils/yff-generate-programomraader.js vg3",
     "update-vg2": "node utils/yff-generate-programomraader.js vg2",
     "update-vg1": "node utils/yff-generate-programomraader.js vg1",
@@ -48,7 +47,6 @@
     "axios": "0.19.0",
     "cheerio": "1.0.0-rc.3",
     "coveralls": "3.0.5",
-    "micro-dev": "3.0.0",
     "nyc": "14.1.1",
     "standard": "13.1.0",
     "test-listen": "1.1.0"
