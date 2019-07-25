@@ -1,0 +1,6 @@
+.env
+.travis.yml
+node_modules
+renovate.json
+test
+utils

@@ -4,8 +4,8 @@ const fs = require('fs')
 const getLareplan = require('./yff-get-lareplan')
 const getKompetansemal = require('./yff-get-kompetansemal')
 const baseUrl = 'https://www.udir.no/kl06'
-const basePath = 'src/data'
-const programmer = require('../src/data/utdanningsprogrammer.json')
+const basePath = 'data'
+const programmer = require('../data/utdanningsprogrammer.json')
 const query = process.argv[2]
 const selectors = {
   vg3: '.fromThirdYear',
