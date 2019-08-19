@@ -48,7 +48,7 @@
     "cheerio": "1.0.0-rc.3",
     "coveralls": "3.0.6",
     "nyc": "14.1.1",
-    "standard": "13.1.0"
+    "standard": "14.0.0"
   },
   "dependencies": {
     "winston": "2.4.4",
