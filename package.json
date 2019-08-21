@@ -19,7 +19,6 @@
     "coverage": "nyc ava",
     "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
     "standard-fix": "standard --fix",
-    "start": "micro",
     "update-vg3": "node utils/yff-generate-programomraader.js vg3",
     "update-vg2": "node utils/yff-generate-programomraader.js vg2",
     "update-vg1": "node utils/yff-generate-programomraader.js vg1",
@@ -28,7 +27,6 @@
   },
   "keywords": [
     "microservice",
-    "micro",
     "yff",
     "minelev",
     "louie",

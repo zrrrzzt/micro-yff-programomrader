@@ -54,7 +54,7 @@ Start the development environment
 $ now dev
 ```
 
-## Deployment - ZEIT/Now
+## Deployment - ZEIT/Now - Manual
 
 Change content of [production.env](production.env) to match your environment.
 
@@ -65,6 +65,10 @@ Deploy service.
 ```bash
 $ npm run deploy
 ```
+
+## Deployment - ZEIT/Now - Automatic
+
+Do a tagged release
 
 ## License
 
